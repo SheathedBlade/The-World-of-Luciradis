@@ -1,12 +1,14 @@
 import path from "path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-
+import style from "../styles/listPage.scss"
+import { PageList, SortFn } from "../PageList"
 import { Root } from "hast"
 import { i18n } from "../../i18n"
+import { QuartzPluginData } from "../../plugins/vfile"
+import { ComponentChildren } from "preact"
+import { concatenateResources } from "../../util/resources"
+import { trieFromAllFiles } from "../../util/ctx"
 import { htmlToJsx } from "../../util/jsx"
-import { simplifySlug, stripSlashes } from "../../util/path"
-import { PageList } from "../PageList"
-import style from "../styles/listPage.scss"
 
 interface FolderContentOptions {
   /**
