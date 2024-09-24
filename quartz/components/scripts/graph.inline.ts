@@ -1,20 +1,4 @@
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
-import {
-  Simulation,
-  SimulationLinkDatum,
-  SimulationNodeDatum,
-  drag,
-  forceCenter,
-  forceCollide,
-  forceLink,
-  forceManyBody,
-  forceSimulation,
-  select,
-  zoom,
-  zoomIdentity,
-} from "d3"
-import { Application, Circle, Container, Graphics, Text } from "pixi.js"
-import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
 import { registerEscapeHandler, removeAllChildren } from "./util"

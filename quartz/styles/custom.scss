@@ -15,12 +15,14 @@ html {
 
   --quote-color: var(--green);
 
-  body::-webkit-scrollbar, ul.overflow::-webkit-scrollbar {
+  body::-webkit-scrollbar,
+  ul.overflow::-webkit-scrollbar {
     width: 10px;
-    background-color: #aaa; 
+    background-color: #aaa;
   }
 
-  body::-webkit-scrollbar-thumb, ul.overflow::-webkit-scrollbar-thumb {
+  body::-webkit-scrollbar-thumb,
+  ul.overflow::-webkit-scrollbar-thumb {
     background-color: #5c5c5c;
   }
 
@@ -28,12 +30,28 @@ html {
     pointer-events: none !important;
   }
 
-  .page>#quartz-body {
+  p {
+    hyphens: none !important;
+    -webkit-hyphens: none !important;
+  }
+
+  .page > #quartz-body {
+    & .page-header {
+      margin-top: 3rem !important;
+    }
     & .sidebar.left {
       left: calc(50vw - 765px);
     }
     & .sidebar.right {
       right: calc(50vw - 765px);
+    }
+    & .center {
+      & .page-listing ul.section-ul {
+        grid-template-columns: 7em 3fr 1fr !important;
+      }
+
+      margin-left: 0;
+      margin-right: 0;
     }
   }
 
@@ -57,7 +75,8 @@ html {
       }
     }
 
-    em, strong :not(table th>strong) {
+    em,
+    strong :not(table th > strong) {
       color: var(--blue) !important;
     }
   }
@@ -85,7 +104,8 @@ html {
       }
     }
 
-    em, strong {
+    em,
+    strong {
       color: var(--purple) !important;
     }
 
@@ -123,7 +143,7 @@ html {
       color: var(--warm-white) !important;
     }
 
-    table th>strong {
+    table th > strong {
       color: var(--pink) !important;
     }
 
