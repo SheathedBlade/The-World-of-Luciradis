@@ -15,6 +15,10 @@ html {
 
   --quote-color: var(--green);
 
+  // scrollbar-width: thin;
+  // scrollbar-color: #aaa #5c5c5c;
+  // scrollbar-gutter: both-edges;
+
   body::-webkit-scrollbar,
   ul.overflow::-webkit-scrollbar {
     width: 10px;
@@ -39,12 +43,21 @@ html {
     & .page-header {
       margin-top: 3rem !important;
     }
-    & .sidebar.left {
-      left: calc(50vw - 765px);
+    & .sidebar {
+      & div:has(> .overflow) {
+        flex-direction: column !important;
+      }
+      &.left {
+        left: calc(50vw - 765px);
+      }
+      &.right {
+        right: calc(50vw - 765px);
+        & .toc.desktop-only #toc-content {
+          max-height: 286px !important;
+        }
+      }
     }
-    & .sidebar.right {
-      right: calc(50vw - 765px);
-    }
+
     & .center {
       & .page-listing ul.section-ul {
         grid-template-columns: 7em 3fr 1fr !important;
