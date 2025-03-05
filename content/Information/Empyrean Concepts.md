@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-31T00:42:05.055-05:00
+last-modified: 2025-03-05T03:26:49.4949-05:00
 comments: false
 ---
 *Published by the Congregation of Academia, Luxor Citadel*
@@ -72,9 +72,9 @@ The Lifeline, as depicted by various ancient texts around the continent, was a m
 **Previous Ascendant:** Unknown  
 **Current Ascendant:** [[Erina Hayashi]]  
 
-The Reflection was noted to be a master of illusory arts, capable of distorting an individual's cognition beyond their recognition. The individual behind the title is not native to Cicatri Ciel, but an akumari native from the [[Locations/index#Nova Ciel|southern landmass]]. According to the akumari elders of [[Gensōkyo]], they came with a following of nomadic akumari, looking for a place to settle. Strife had followed the Reflection, and so their nomadic clan split into two; those that followed the Reflection were known as [[Factions of Luciradis#Illusionists (Gensōsenshi)|the Illusionists]].
+The Reflection was noted to be a master of illusory arts, capable of distorting an individual's cognition beyond their recognition. The individual behind the title is not native to Cicatri Ciel, but an akumari native from the [[Locations/index#Nova Ciel|southern landmass]]. According to the akumari elders of [[Gensōkyo]], they came with a following of nomadic akumari, looking for a place to settle. Strife had followed the Reflection, and so their nomadic clan split into two; those that followed the Reflection were known as [[Factions of Luciradis#Illusionists (Gensōsenshi)|the Illusionists]], while those who stayed behind dubbed themselves the [[Factions of Luciradis#Dreamweavers (Yumori-te)|Dreamweavers]].
 
-Scrolls from the annexes of Gensōkyo depict the Reflection as an individual that never liked to stay in one place. Thus, it was at a certain point in time that the famous akumari departed from the Illusionists' new abode in search of more adventure. They joined a party of adventurers and travelers, and was not seen again for decades until the advent of **the Scarring**.
+Scrolls from the temples of Gensōkyo depict the Reflection as an individual that never liked to stay in one place. Thus, it was at a certain point in time that the famous akumari departed from the Illusionists' new abode in search of more adventure. They joined a party of adventurers and travelers, and was not seen again for decades until the advent of **the Scarring**.
 
 ## The Navigator
 **Previous Ascendant:** [[Cyrus Orico]]  

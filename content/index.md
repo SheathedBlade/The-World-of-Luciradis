@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-09-24T01:57:45.4545-04:00
+last-modified: 2025-03-05T03:20:19.1919-05:00
 description: Homepage for the storage of knowledge surrounding the world of Luciradis. It includes general terminology and information, important individuals that made a mark (whether good or bad) on the world, most well-known locales and history-defining events.
 title: Luciradis Knowledge Database
 ---
@@ -16,7 +16,7 @@ It is the Database's goal to publicize newfound information as they are unearthe
 
 Incorporated into this repository is the concept of **links**. Most, if not all, completed entries in this database contain links to other relevant entries. This is to your benefit as the reader, as there will be terms in which you may not understand initially. **Hovering** over these links will generate a small window containing the relevant entry. **Clicking** on the link will bring you to the page of said entry. These links supplement the entry through contextualizing and explaining terms that may seem foreign.
 
-On the bottom-right, you can see the **backlinks** to an entry, which are links to entries that referenced the current entry. For example, the entry containing information on the [[Protean Concepts]] contains a link to the entry of [[Kallie Myrai|Head Archivist Myrai]]. On Miss Myrai's information page, the Protean Concepts entry is denoted as a backlink, since it referenced Miss Myrai's entry. From here, you can view other entries that have referenced Miss Myrai's page.
+On the bottom-right, you can see the **backlinks** to an entry, which are links to entries that referenced the current entry. For example, the entry containing information on the [[Empyrean Concepts]] contains a link to the entry of [[Kallie Myrai|Head Archivist Myrai]]. On Miss Myrai's information page, the Protean Concepts entry is denoted as a backlink, since it referenced Miss Myrai's entry. From here, you can view other entries that have referenced Miss Myrai's page.
 
 As a nice little addition, on the top-right, there is a **node graph**. This visualizes how much each entry in the database links with each other. You are able to use the graph and click on the nodes to bring you to the specified entry.
 
@@ -30,7 +30,7 @@ If this is your first time using the Database, or want suggestions to start your
 
 - **[[Information/index|Information about Luciradis]]**
 	- **[[Luciradis|What is Luciradis?]]**
-	- **[[Protean Concepts]]**
+	- **[[Empyrean Concepts]]**
 	- **[[The Inhabitants of Luciradis]]**
 - **[[Characters/index|Important Figures]]**
 - **[[Locations/index|Famous Locales]]**
