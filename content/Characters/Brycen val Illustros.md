@@ -1,6 +1,6 @@
 ---
 date: 2024-06-01T22:23:32.3232-04:00
-last-modified: 2024-12-01T17:36:14.1414-05:00
+last-modified: 2025-03-05T03:52:34.3434-05:00
 comments: false
 ---
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. Myrai*
@@ -21,7 +21,7 @@ comments: false
 
 ## Background
 
-Brycen val Illustros is the name of the individual who would eventually become the fated protean concept of [[Protean Concepts#The Illuminator|the Illuminator]]. 
+Brycen val Illustros is the name of the individual who would eventually become the fated Empyrean concept of [[Empyrean Concepts#The Illuminator|the Illuminator]]. 
 
 ## Appearance
 

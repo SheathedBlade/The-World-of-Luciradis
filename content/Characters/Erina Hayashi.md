@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:36:05.055-05:00
+last-modified: 2025-03-05T03:52:29.2929-05:00
 comments: false
 ---
 *Internal Census of Gensōkyo
@@ -20,9 +20,9 @@ comments: false
 	- [[Arzen Lynos]]
 	- [[Saria Pulse]]
 
-## Protean Essence
+## Empyrean Essence
 
-*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:36:08.088-05:00
+last-modified: 2025-03-05T03:52:30.3030-05:00
 comments: false
 ---
 *Internal Census of Terystal*
@@ -18,7 +18,7 @@ comments: false
 - Relationships:
 	- [[Iris Riedel]]: Student
 
-## Protean Essence
+## Empyrean Essence
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |

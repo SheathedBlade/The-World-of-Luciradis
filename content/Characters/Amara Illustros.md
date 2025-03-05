@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:36:17.1717-05:00
+last-modified: 2025-03-05T03:49:30.3030-05:00
 comments: false
 ---
 *Internal Census of the Luxor Citadel*  
@@ -25,9 +25,9 @@ comments: false
 _* -  Her previous allegiance was to the [[Luxor Citadel]]_  
 _** - Her previous occupation was as a Beacon of the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]]_
 
-## Protean Essence
+## Empyrean Essence
 
-*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                       |
 | ---------------: | :------------------------------------------ |
@@ -72,11 +72,11 @@ Overall, this modification makes her glaive a very dangerous weapon to use, as o
 ## Confidential Information
 *This is information newly discovered about Amara Illustros by the Cerelicia expedition team.*
 
-Amara is revealed to be the last known Avatar of the elusive [[Protean Concepts#The Stargazer|Stargazer]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Luciradis#Cicatri Ciel|Cicatri Ciel]] to survey the land that's long since abandoned. The Avatars of the expedition team dove down into the depths of the **Well of Dreams** in [[Lyntoa Village#Well of Dreams|Lyntoa Village]]. There, Amara reveals that she had used Ren to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
+Amara is revealed to be the last known Avatar of the elusive [[Empyrean Concepts#The Stargazer|Stargazer]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Luciradis#Cicatri Ciel|Cicatri Ciel]] to survey the land that's long since abandoned. The Avatars of the expedition team dove down into the depths of the **Well of Dreams** in [[Lyntoa Village#Well of Dreams|Lyntoa Village]]. There, Amara reveals that she had used Ren to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
 
 Additionally, Amara is also revealed as the identity of the [[The Remnant Slayer|Remnant Slayer]], the once infamous international criminal that roamed the world killing the Avatars in order to have all the Concept remnants in once place. Her goal is to reset [[Luciradis]] and rid the world of the power of the Concepts, as well as their influence, citing that she has seen the ugliness of the world she walked on and wished it to go away. Deciding it was enough, Amara awakened to her powers of the Stargazer, as both Amara and the Stargazer shared a common ideal: "Would the world be better off without the Concepts?".
 
-During their meeting, Ren claims that Amara had the remnants of the [[Protean Concepts#The Harvester|Harvester]], [[Protean Concepts#The Convergence|Convergence]], and [[Protean Concepts#The Illuminator|Illuminator]] before forcibly obtaining the powers of the rest of the Concepts (except the [[Protean Concepts#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Ren her Concept powers in order for Ren to win most of his most difficult battles.
+During their meeting, Ren claims that Amara had the remnants of the [[Empyrean Concepts#The Harvester|Harvester]], [[Empyrean Concepts#The Convergence|Convergence]], and [[Empyrean Concepts#The Illuminator|Illuminator]] before forcibly obtaining the powers of the rest of the Concepts (except the [[Empyrean Concepts#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Ren her Concept powers in order for Ren to win most of his most difficult battles.
 
 We can infer here that Amara, after having been traveling as a **beacon** for the Luxori Covenant for so long, has had enough of the death and despair, the conspiracies and lies, juxtaposed with the "peace" that was prevalent in the world.
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-06-01T22:54:23.2323-04:00
-last-modified: 2024-12-01T17:36:42.4242-05:00
+last-modified: 2025-03-05T03:52:18.1818-05:00
 comments: false
 ---
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. Myrai*
@@ -22,7 +22,7 @@ comments: false
 
 ## Background
 
-Nero Carnegoa is the name of the individual who would eventually become the fated protean concept of [[Protean Concepts#The Paragon|the Paragon]].
+Nero Carnegoa is the name of the individual who would eventually become the fated Empyrean concept of [[Empyrean Concepts#The Paragon|the Paragon]].
 ## Appearance
 
 ## Expertise

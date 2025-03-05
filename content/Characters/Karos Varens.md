@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:35:57.5757-05:00
+last-modified: 2025-03-05T03:52:25.2525-05:00
 description: Karos Varens was the son, and only child, to King Leoris Varens, and heir to the throne of the Stalwryn Kingdom. His father was strict in preparing Karos for the throne, but allowed him to pursue archery and other adventurous endeavors.
 comments: false
 ---
@@ -21,9 +21,9 @@ _Internal Census of the Stalwryn Kingdom_
 	- [[Leoris Varens]]: Father
 	- [[Arzen Lynos]]: Friend
 
-## Protean Essence
+## Empyrean Essence
 
-*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |

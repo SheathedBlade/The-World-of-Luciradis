@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22T18:10:32.3232-04:00
-last-modified: 2024-12-01T17:38:10.1010-05:00
+last-modified: 2025-03-05T03:52:27.2727-05:00
 comments: false
 ---
 *Published by the Congregation of Academia, Luxor Citadel*  
@@ -16,7 +16,7 @@ The Brood of Arodraenix refers to the ruling clan of dragons led by Broodmaster 
 ## Dreamweavers (Yumori-te)
 ### Background
 
-The dreamweavers are one of two factions of **akumaros** descended from the protean concept, [[Protean Concepts#The Reflection|the Reflection]]. They are native to the southern landmass of [[Luciradis#Nova Ciel|Nova Ciel]], make up the majority of the nomadic akumaros, and are the ones who stayed behind while **the Reflection** and **the Illusionists** journeyed north to the landmass of [[Luciradis#Cicatri Ciel|Cicatri Ciel]].
+The dreamweavers are one of two factions of **akumaros** descended from the Empyrean concept, [[Empyrean Concepts#The Reflection|the Reflection]]. They are native to the southern landmass of [[Luciradis#Nova Ciel|Nova Ciel]], make up the majority of the nomadic akumaros, and are the ones who stayed behind while **the Reflection** and **the Illusionists** journeyed north to the landmass of [[Luciradis#Cicatri Ciel|Cicatri Ciel]].
 
 ## Ferros Republic
 
@@ -44,7 +44,7 @@ Drifting elves are, for a lack of a better term, exiled from the Ferros Republic
 
 ### Background
 
-The illusionists are one of two factions of akumaros descended from the protean concept, [[Protean Concepts#The Reflection|the Reflection]].
+The illusionists are one of two factions of akumaros descended from the Empyrean concept, [[Empyrean Concepts#The Reflection|the Reflection]].
 
 ## Luxori Covenant
 

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-24T17:06:31.3131-04:00
-last-modified: 2024-12-01T17:36:12.1212-05:00
+last-modified: 2025-03-05T03:52:33.3333-05:00
 comments: false
 ---
 *Internal Census of Galaderyn*
@@ -18,7 +18,7 @@ comments: false
 - Relationships:
 	- [[Rietta Wrynia]]
 
-## Protean Essence
+## Empyrean Essence
 
 |      **Concept** | **Amount of Essence**                       |
 | ---------------: | :------------------------------------------ |

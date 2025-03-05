@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:36:10.1010-05:00
+last-modified: 2025-03-05T03:52:32.3232-05:00
 comments: false
 ---
 *Internal Census of the Luxor Citadel*  
@@ -22,9 +22,9 @@ comments: false
 	- [[Lucien Demeri]]: Co-member of the original party of heroes
 	- [[Nero Carnegoa]]
 
-## Protean Essence
+## Empyrean Essence
 
-*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                       |
 | ---------------: | :------------------------------------------ |
@@ -57,7 +57,7 @@ Driardos sports a slender longsword for close combat, while using his arcane sta
 ## Confidential Information
 *This is information newly discovered about Driardos Malairse by the Wareylt Labs incident response team.*
 
-Driardos Malairse is revealed to be the very manifestation of the Concept of the [[Protean Concepts#The Seer|Seer]], as well as his true name as a mortal in ancient times. Driardos was also the first and only Arcis Princeps of the Luxor Citadel, as his hatred for all the Concepts fueled his Avatar to become functionally immortal. In all his Avatars, Driardos was the prevailing personality, completely blocking out whoever the Avatar was before their awakening. This allowed Driardos to keep ruling the [[Luxor Citadel]] under a different guise.
+Driardos Malairse is revealed to be the very manifestation of the Concept of the [[Empyrean Concepts#The Seer|Seer]], as well as his true name as a mortal in ancient times. Driardos was also the first and only Arcis Princeps of the Luxor Citadel, as his hatred for all the Concepts fueled his Avatar to become functionally immortal. In all his Avatars, Driardos was the prevailing personality, completely blocking out whoever the Avatar was before their awakening. This allowed Driardos to keep ruling the [[Luxor Citadel]] under a different guise.
 
 Driardos' goal is the same as it was during **the Scarring**: to gain complete and total control across Luciradis.
 

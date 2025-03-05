@@ -33,9 +33,9 @@ _* -  Stalwryn's internal census was conducted when she was 19 years_
 _** - Her previous allegiances were to_ [[Factions of Luciradis#Brood of Arodraenix|the Brood of Arodraenix]] _and the_ [[Factions of Luciradis#Monarchy of Stalwryn|Stalwryn Monarchy]]  
 _*** - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_  
 
-## Protean Essence
+## Empyrean Essence
 
-*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                       |
 | ---------------: | :------------------------------------------ |
@@ -64,7 +64,7 @@ Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of 
 >
 >Saria is a special case; despite having a human-dominated appearance, she maintains a dragon's lifespan.
 
-Saria is also the current Avatar of the [[Protean Concepts#The Shimmering Wings|Shimmering Wings]], though she received them not by choice. This power was bestowed to her by her father (who was the previous Avatar) as part of a traditional ritual, which involves completing a trial in order to receive the powers of the Shimmering Wings. After the completion of the trial, and the ritual thereafter, the thought of carrying the burden of this immense power proved too much for her, as she ran away from her home at a very young age.
+Saria is also the current Avatar of the [[Empyrean Concepts#The Shimmering Wings|Shimmering Wings]], though she received them not by choice. This power was bestowed to her by her father (who was the previous Avatar) as part of a traditional ritual, which involves completing a trial in order to receive the powers of the Shimmering Wings. After the completion of the trial, and the ritual thereafter, the thought of carrying the burden of this immense power proved too much for her, as she ran away from her home at a very young age.
 
 She was found by [[Arzen Lynos]] near the outskirts of the [[Port of Anahymn]], where Ren had saved her from Arodraenix pursuers, hiding away within the human-populated port city. On Saria's account, the time they left the port city to the [[Stalwryn Kingdom]] was approximately 6 weeks, during of which the two had to gather their own food and amenities due to having no money.
 
@@ -134,7 +134,7 @@ Saria is also very dismissive of affairs concerning her departure of the Arodrae
 
 Saria uses a swordspear infused with her innate draconic energy. As part of her training as a Kingdom vanguard, Saria uses various lance techniques taught by the most veteran of soldiers, as well as incorporating a unique style taught by [[Arzen Lynos|Arzen]] throughout their travels. The swordspear is a weapon granted to higher-ranking soldiers once they have bested their masters. Saria's swordspear was then modified to house a portion of her draconic magicks, covering the blade in a violet flame hot enough to sear meat in only a few seconds.
 
-Saria also wields the primal instinct of [[Protean Concepts#The Shimmering Wings|the Shimmering Wings]]. By tapping into that power, she gains immense agility and strength. While half-breeds tend to struggle to transform into their more pure-primal counterparts, Saria uses the Concept's power to not only easily grant her human form flight via ethereal wings, but also allow her to transform into her fully-fledged draconic form for an extended period of time.
+Saria also wields the primal instinct of [[Empyrean Concepts#The Shimmering Wings|the Shimmering Wings]]. By tapping into that power, she gains immense agility and strength. While half-breeds tend to struggle to transform into their more pure-primal counterparts, Saria uses the Concept's power to not only easily grant her human form flight via ethereal wings, but also allow her to transform into her fully-fledged draconic form for an extended period of time.
 
 As a vanguard, Saria opted for speed and maneuverability, and thus have taken off the metallic pieces of her outfit and fought with the cloth uniform underneath. This works to her advantage, however, as the rallying power of the Shimmering Wings relies on the user standing out from a crowd. Her bright white uniform is a stark contrast to the gray metal plates of standard-issue armor, allowing more attention onto her.
 

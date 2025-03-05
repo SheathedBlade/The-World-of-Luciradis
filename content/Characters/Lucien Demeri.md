@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T17:26:54.5454-04:00
-last-modified: 2024-12-01T17:36:37.3737-05:00
+last-modified: 2025-03-05T03:52:19.1919-05:00
 comments: false
 ---
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. Myrai*
@@ -21,7 +21,7 @@ comments: false
 	- [[Driardos Malairse]]
 	- [[Nero Carnegoa]]
 
-## Protean Essence
+## Empyrean Essence
 
 ## Background
 

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:35:59.5959-05:00
+last-modified: 2025-03-05T03:52:24.2424-05:00
 comments: false
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -25,7 +25,7 @@ comments: false
 	- [[Altair Illustros]]
 
 _* - Stalwryn's internal census was conducted when she was 14 years_
-## Protean Essence
+## Empyrean Essence
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |
