@@ -22,6 +22,10 @@ import fa from "./locales/fa-IR"
 import pl from "./locales/pl-PL"
 import cs from "./locales/cs-CZ"
 import tr from "./locales/tr-TR"
+import th from "./locales/th-TH"
+import lt from "./locales/lt-LT"
+import fi from "./locales/fi-FI"
+import no from "./locales/nb-NO"
 
 export const TRANSLATIONS = {
   "en-US": enUs,
@@ -68,6 +72,10 @@ export const TRANSLATIONS = {
   "pl-PL": pl,
   "cs-CZ": cs,
   "tr-TR": tr,
+  "th-TH": th,
+  "lt-LT": lt,
+  "fi-FI": fi,
+  "nb-NO": no,
 } as const
 
 export const defaultTranslation = "en-US"
