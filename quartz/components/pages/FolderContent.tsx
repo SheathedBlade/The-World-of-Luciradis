@@ -26,48 +26,65 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
-    const folderSlug = stripSlashes(simplifySlug(fileData.slug!))
-    const folderParts = folderSlug.split(path.posix.sep)
 
-    const allPagesInFolder: QuartzPluginData[] = []
-    const allPagesInSubfolders: Map<FullSlug, QuartzPluginData[]> = new Map()
+    const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
+    const folder = trie.findNode(fileData.slug!.split("/"))
+    if (!folder) {
+      return null
+    }
 
-    allFiles.forEach((file) => {
-      const fileSlug = stripSlashes(simplifySlug(file.slug!))
-      const prefixed = fileSlug.startsWith(folderSlug) && fileSlug !== folderSlug
-      const fileParts = fileSlug.split(path.posix.sep)
-      const isDirectChild = fileParts.length === folderParts.length + 1
+    const allPagesInFolder: QuartzPluginData[] =
+      folder.children
+        .map((node) => {
+          // regular file, proceed
+          if (node.data) {
+            return node.data
+          }
 
-      if (!prefixed) {
-        return
-      }
+          if (node.isFolder && options.showSubfolders) {
+            // folders that dont have data need synthetic files
+            const getMostRecentDates = (): QuartzPluginData["dates"] => {
+              let maybeDates: QuartzPluginData["dates"] | undefined = undefined
+              for (const child of node.children) {
+                if (child.data?.dates) {
+                  // compare all dates and assign to maybeDates if its more recent or its not set
+                  if (!maybeDates) {
+                    maybeDates = { ...child.data.dates }
+                  } else {
+                    if (child.data.dates.created > maybeDates.created) {
+                      maybeDates.created = child.data.dates.created
+                    }
 
-      if (isDirectChild) {
-        allPagesInFolder.push(file)
-      } else if (options.showSubfolders) {
-        const subfolderSlug = joinSegments(
-          ...fileParts.slice(0, folderParts.length + 1),
-        ) as FullSlug
-        const pagesInFolder = allPagesInSubfolders.get(subfolderSlug) || []
-        allPagesInSubfolders.set(subfolderSlug, [...pagesInFolder, file])
-      }
-    })
+                    if (child.data.dates.modified > maybeDates.modified) {
+                      maybeDates.modified = child.data.dates.modified
+                    }
 
-    allPagesInSubfolders.forEach((files, subfolderSlug) => {
-      const hasIndex = allPagesInFolder.some(
-        (file) => subfolderSlug === stripSlashes(simplifySlug(file.slug!)),
-      )
-      if (!hasIndex) {
-        const subfolderDates = files.sort(byDateAndAlphabetical(cfg))[0].dates
-        const subfolderTitle = subfolderSlug.split(path.posix.sep).at(-1)!
-        allPagesInFolder.push({
-          slug: subfolderSlug,
-          dates: subfolderDates,
-          frontmatter: { title: subfolderTitle, tags: ["folder"] },
+                    if (child.data.dates.published > maybeDates.published) {
+                      maybeDates.published = child.data.dates.published
+                    }
+                  }
+                }
+              }
+              return (
+                maybeDates ?? {
+                  created: new Date(),
+                  modified: new Date(),
+                  published: new Date(),
+                }
+              )
+            }
+
+            return {
+              slug: node.slug,
+              dates: getMostRecentDates(),
+              frontmatter: {
+                title: node.displayName,
+                tags: [],
+              },
+            }
+          }
         })
-      }
-    })
-
+        .filter((page) => page !== undefined) ?? []
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = cssClasses.join(" ")
     const listProps = {
@@ -101,6 +118,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     )
   }
 
-  FolderContent.css = style + PageList.css
+  FolderContent.css = concatenateResources(style, PageList.css)
   return FolderContent
 }) satisfies QuartzComponentConstructor
