@@ -52,7 +52,6 @@ const config: QuartzConfig = {
         },
       },
     },
-    generateSocialImages: false,
   },
   plugins: {
     transformers: [
