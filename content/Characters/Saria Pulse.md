@@ -1,53 +1,51 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T18:07:49.4949-05:00
+last-modified: 2023-10-13T22:11:00.000-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
-socialImage: _Attachments_/wayward_saria.webp
-comments: false
 ---
 *Internal Census of the Stalwryn Kingdom*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*  
 
-![[saria_terystal.webp]]
-*Credit: @lucadark_art*
+![[vanguard.png]]
+*Credit: @ibaraki_shun*
 ## Basic Info
 - Age: 4,847 years*
 - Gender: Female
 - Race: [[The Inhabitants of Luciradis#Vyrian|Vyrian]]
 - Date of Birth: 24th Day of the Matrix, from the Year 5263 ASC *(24/11/5263)*
 - Date of Death: N/A
-- Place of Origin: [[Grandiose Peaks]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Place of Origin: [[Grandiose Peaks]], [[Cicatri Ciel]]
 - Allegiance: None**
 - Height: 5'10'' / 178cm, not including horns
 - Weight: 150 lbs / 68 kg (Human)
 - Occupation: None***
 - Relationships:
-	- [[Arzen Lynos]]: Significant other
-	- [[Kallie Myrai]]: Friend
-	- [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]]: Father
-	- [[Leoris Varens]]: Former employer of the Stalwryn Royal Guard
-	- [[Erina Hayashi]]: Friend
-	- [[Rietta Wrynia]]: Friend
+  - [[Arzen Lynos]]: Significant other
+  - [[Kallie Myrai]]: Friend
+  - [[The Brood of Arodraenix|Orsilus of Arodraenix]]: Father
+  - [[Leoris Varens]]: Former employer of the Stalwryn Royal Guard
+  - [[Erina Hayashi]]: Friend
+  - [[Rietta Wrynia]]: Friend
 
 _* -  Stalwryn's internal census was conducted when she was 19 years_  
-_** - Her previous allegiances were to_ [[Factions of Luciradis#Brood of Arodraenix|the Brood of Arodraenix]] _and the_ [[Factions of Luciradis#Monarchy of Stalwryn|Stalwryn Monarchy]]  
+_** - Her previous allegiances were to_ [[The Brood of Arodraenix|the Brood of Arodraenix]] _and the_ [[Stalwryn Kingdom]]  
 _*** - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_  
 
-## Empyrean Essence
+## Protean Essence
 
-*The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                       |
-| ---------------: | :------------------------------------------ |
+| ----------------:|:------------------------------------------- |
 | Shimmering Wings | <progress value="100" max="100"></progress> |
 |          Paragon | <progress value="40" max="100"></progress>  |
 |             Seer | <progress value="25" max="100"></progress>  |
 |        Stargazer | <progress value="0" max="100"></progress>   |
-|         Lifeline | <progress value="15" max="100"></progress>  |
-|       Reflection | <progress value="0" max="100"></progress>   |
+|        Arrowhead | <progress value="15" max="100"></progress>  |
+|         Deceiver | <progress value="0" max="100"></progress>   |
 |        Navigator | <progress value="30" max="100"></progress>  |
-|        Harvester | <progress value="0" max="100"></progress>   |
-|      Illuminator | <progress value="35" max="100"></progress>  |
+|            Ember | <progress value="55" max="100"></progress>  |
+|      Illuminator | <progress value="0" max="100"></progress>  |
 |           Matrix | <progress value="10" max="100"></progress>  |
 |      Convergence | <progress value="5" max="100"></progress>   |
 
@@ -55,7 +53,7 @@ _*** - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_
 
 *"'To taste freedom, spread your wings', is an ancient draconic proverb that I still believe applies to all life on Luciradis. To not be constrained by feelings of doubt and suffering. To not have your metaphorical wings be bound by those who seek to keep you grounded. To not let burdens hold you back from what you need to do. And should they need help, I'll pull them up, no matter how heavy their burdens are."*
 
-Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]], the current draconic ruler of the skies taking root in the [[Grandiose Peaks]], and an unknown female human. Saria's mother still eludes us, however recent investigations confirmed her allegiance to [[Gensōkyo]], as there were reports of a dragon descending onto the [[Amber Clifftops]] multiple times. Regardless, hers and Orsilus's eloping birthed the first draconic half-breed in known existence.
+Saria is the daughter of [[The Brood of Arodraenix|Orsilus of Arodraenix]], the current draconic ruler of the skies taking root in the [[Grandiose Peaks]], and an unknown female human. Saria's mother still eludes us, however recent investigations confirmed her allegiance to the [[Azamuku Domain]], as there were reports of a dragon descending onto the [[Amber Clifftops]] multiple times. Regardless, hers and Orsilus's eloping birthed the first draconic half-breed in known existence.
 
 >*// K.M. edit //*  
 >As one might know, the draconic race are long-lived beings; where we, as humans, live for 100 years, the dragons may live for up to multiple millennia. In addition, despite of how ingrained the dragons are in our world, the aforementioned race is not of Luciradis, but from beyond the skies.
@@ -64,11 +62,11 @@ Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of 
 >
 >Saria is a special case; despite having a human-dominated appearance, she maintains a dragon's lifespan.
 
-Saria is also the current Avatar of the [[Empyrean Concepts#The Shimmering Wings|Shimmering Wings]], though she received them not by choice. This power was bestowed to her by her father (who was the previous Avatar) as part of a traditional ritual, which involves completing a trial in order to receive the powers of the Shimmering Wings. After the completion of the trial, and the ritual thereafter, the thought of carrying the burden of this immense power proved too much for her, as she ran away from her home at a very young age.
+Saria is also the current Avatar of the [[Protean Concepts#The Shimmering Wings|Shimmering Wings]], though she received them not by choice. This power was bestowed to her by her father (who was the previous Avatar) as part of a traditional ritual, which involves completing a trial in order to receive the powers of the Shimmering Wings. After the completion of the trial, and the ritual thereafter, the thought of carrying the burden of this immense power proved too much for her, as she ran away from her home at a very young age.
 
 She was found by [[Arzen Lynos]] near the outskirts of the [[Port of Anahymn]], where Ren had saved her from Arodraenix pursuers, hiding away within the human-populated port city. On Saria's account, the time they left the port city to the [[Stalwryn Kingdom]] was approximately 6 weeks, during of which the two had to gather their own food and amenities due to having no money.
 
-Upon reaching the Stalwryn Kingdom and living in many different inns, her and Ren Lynos were involved in an altercation with some of the patrolling knights. The reports say the knights expressed extreme discomfort and prejudice towards Saria and her unknown origins, while Ren Lynos defended her and assaulted the knights. Normally, this would incur massive penalties, but through the good graces of King [[Leoris Varens]], not only were Saria and Ren spared, but they were also given financial support personally funded by the king. Using this support, they would buy a property within the walls of the Stalwryn Kingdom and build up a popular eatery called **[[Stalwryn Kingdom#The Campfire|"The Campfire"]]**.
+Upon reaching the Stalwryn Kingdom and living in many different inns, her and Ren Lynos were involved in an altercation with some of the patrolling knights. The reports say the knights expressed extreme discomfort and prejudice towards Saria and her unknown origins, while Ren Lynos defended her and assaulted the knights. Normally, this would incur massive penalties, but through the good graces of King [[Leoris Varens]], not only were Saria and Ren spared, but they were also given financial support personally funded by the king. Using this support, they would buy a property within the walls of the Stalwryn Kingdom and build up a popular eatery called **"The Campfire"**.
 
 Feeling that they owed King Varens for turning their lives around, Saria and Ren both applied to be knights. Through her precise and aggressive spear combat, Saria quickly rose through the ranks to become **the leader** of the vanguard unit.
 
@@ -82,12 +80,12 @@ Curiously, Saria chose not to input her family's name as her last name. When fil
 
 ## Appearance
 
-![[saria-refsheet.webp]]
+![[saria-refsheet.png]]
 *Credit: @8Ovjfg8YRwM7qXz*  
 
 Saria, as a daughter to the dragons, has very noticeable draconic features, including her pitch-black scales covering small portions of her pale skin. In addition, black horns protrude from the top of her head, with a tail reaching the length of her legs. Despite this, however, she takes on a human-dominated appearance. Saria has long, flowing platinum blonde hair with natural red highlights, along with teal eyes.
 
-Saria has an athletic build, no doubt due to her training as a vanguard. Her bust size is F/G (US/JP), so she does have a slightly voluptuous and curvy appearance. She bears a love crest near her abdominal area, which Saria tells us it's as proof of her and [[Arzen Lynos|Arzen's]] affection and love for each other.
+Saria has an athletic build, no doubt due to her training as a vanguard. Her bust size is F/G (US/JP), so she does have a slightly voluptuous and curvy appearance. She bears a love crest near her abdominal area, which Saria tells us it's as proof of her and [[Arzen Lynos|Ren's]] affection and love for each other.
 
 >*// K.M. edit //*  
 >Although multiple millennia have passed, Saria still retains her youthful, mid-to-late 20's human form. Whether this is a byproduct of being a hybrid or through careful maintenance is up in the air. This kind of thing is extremely personal to her, so I won't pry further.
@@ -115,11 +113,11 @@ Saria is also very dismissive of affairs concerning her departure of the Arodrae
 ### Likes
 
 - Gourmet food
-	- She loves making and eating these foods, as some of her cooking skills were passed on by Arzen during their stay in the Stalwryn Kingdom.
+	- She loves making and eating these foods, as some of her cooking skills were passed on by **Ren** during their stay in the Stalwryn Kingdom.
 - Trendy fashion
 	- She rarely gets extremely elegant outfits, but she will always keep up with fashion trends such as streetwear, casual wear, and techwear.
 - Exploring
-	- She loves to explore the obscure and the unknown, which is a trait shared with Arzen Lynos. Though, she enjoys the journey more than the destination.
+	- She loves to explore the obscure and the unknown, which is a trait shared with Ren Lynos. Though, she enjoys the journey more than the destination.
 
 ### Dislikes
 
@@ -132,9 +130,9 @@ Saria is also very dismissive of affairs concerning her departure of the Arodrae
 
 ### Physical Combat
 
-Saria uses a swordspear infused with her innate draconic energy. As part of her training as a Kingdom vanguard, Saria uses various lance techniques taught by the most veteran of soldiers, as well as incorporating a unique style taught by [[Arzen Lynos|Arzen]] throughout their travels. The swordspear is a weapon granted to higher-ranking soldiers once they have bested their masters. Saria's swordspear was then modified to house a portion of her draconic magicks, covering the blade in a violet flame hot enough to sear meat in only a few seconds.
+Saria uses a swordspear infused with her innate draconic energy. As part of her training as a Kingdom vanguard, Saria uses various lance techniques taught by the most veteran of soldiers, as well as incorporating a unique style taught by [[Arzen Lynos|Ren]] throughout their travels. The swordspear is a weapon granted to higher-ranking soldiers once they have bested their masters. Saria's swordspear was then modified to house a portion of her draconic magicks, covering the blade in a violet flame hot enough to sear meat in only a few seconds.
 
-Saria also wields the primal instinct of [[Empyrean Concepts#The Shimmering Wings|the Shimmering Wings]]. By tapping into that power, she gains immense agility and strength. While half-breeds tend to struggle to transform into their more pure-primal counterparts, Saria uses the Concept's power to not only easily grant her human form flight via ethereal wings, but also allow her to transform into her fully-fledged draconic form for an extended period of time.
+Saria also wields the primal instinct of [[Protean Concepts#The Shimmering Wings|the Shimmering Wings]]. By tapping into that power, she gains immense agility and strength. While half-breeds tend to struggle to transform into their more pure-primal counterparts, Saria uses the Concept's power to not only easily grant her human form flight via ethereal wings, but also allow her to transform into her fully-fledged draconic form for an extended period of time.
 
 As a vanguard, Saria opted for speed and maneuverability, and thus have taken off the metallic pieces of her outfit and fought with the cloth uniform underneath. This works to her advantage, however, as the rallying power of the Shimmering Wings relies on the user standing out from a crowd. Her bright white uniform is a stark contrast to the gray metal plates of standard-issue armor, allowing more attention onto her.
 
@@ -152,6 +150,4 @@ Shimmering Call is a spell reserved for the Avatar of the Shimmering Wings, as i
 
 #### Transformation - Draconic Ascension
 
-Saria's Transformation allows her to grow into a dragon of considerable size, towering over our castle walls with ease. In this state, Saria forgoes her lance in favor of her claws and flames. In this form, she commands the full might of the Shimmering Wings, enhancing the aforementioned invocations. Violet Flames serve to enhance her claws as well as her breath of fire. Shimmering Call noticeably increases in range, as her cry can be heard from several battalions.  
-
-![[shimmering_wings.webp]]*Credit: @Anderson_M0311*
+Saria's Transformation allows her to grow into a dragon of considerable size, towering over our castle walls with ease. In this state, Saria forgoes her lance in favor of her claws and flames. In this form, she commands the full might of the Shimmering Wings, enhancing the aforementioned invocations. Violet Flames serve to enhance her claws as well as her breath of fire. Shimmering Call noticeably increases in range, as her cry can be heard from several battalions.
