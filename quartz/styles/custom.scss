@@ -52,7 +52,7 @@ html {
       }
       &.right {
         right: calc(50vw - 765px);
-        & .toc.desktop-only #toc-content {
+        & .toc.desktop-only #toc-content ul.overflow {
           max-height: 286px !important;
         }
       }
@@ -73,13 +73,19 @@ html {
   }
 
   &[saved-theme="light"] {
-    div#search-icon > p {
-      color: #414141 !important;
+    div.search > #search-button {
+      & > p {
+        color: #414141 !important;
+      }
     }
 
     progress {
-      background-color: var(--sakura) !important;
+      background-color: #d8d8c3 !important;
+      border: none !important;
 
+      &::-moz-progress-bar {
+        background-color: #39b684 !important;
+      }
       &::-webkit-progress-bar {
         background-color: #d8d8c3 !important;
       }
@@ -142,8 +148,12 @@ html {
     }
 
     progress {
-      background-color: var(--sakura) !important;
+      background-color: #4b4d55 !important;
+      border: none !important;
 
+      &::-moz-progress-bar {
+        background-color: var(--yellow) !important;
+      }
       &::-webkit-progress-bar {
         background-color: #4b4d55 !important;
       }
@@ -160,12 +170,15 @@ html {
       color: var(--pink) !important;
     }
 
-    #explorer-content {
+    .explorer-content {
       & ul {
         & > li > a {
           color: var(--bright-yellow) !important;
           opacity: 1 !important;
 
+          &.active {
+            color: #ffe7f1 !important;
+          }
           &:hover {
             color: var(--warm-white) !important;
           }
@@ -173,16 +186,14 @@ html {
       }
     }
 
-    #toc-content {
-      & ul {
-        & > li > a {
-          color: var(--bright-yellow) !important;
-          &:hover {
-            color: var(--warm-white) !important;
-          }
-          &.in-view {
-            opacity: 1 !important;
-          }
+    ul.toc-content {
+      & > li > a {
+        color: var(--bright-yellow) !important;
+        &:hover {
+          color: var(--warm-white) !important;
+        }
+        &.in-view {
+          opacity: 1 !important;
         }
       }
     }

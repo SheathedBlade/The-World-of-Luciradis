@@ -1,14 +1,13 @@
-import path from "path"
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
 import { Root } from "hast"
+import { ComponentChildren } from "preact"
 import { i18n } from "../../i18n"
 import { QuartzPluginData } from "../../plugins/vfile"
-import { ComponentChildren } from "preact"
-import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
 import { htmlToJsx } from "../../util/jsx"
+import { concatenateResources } from "../../util/resources"
+import { PageList, SortFn } from "../PageList"
+import style from "../styles/listPage.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 interface FolderContentOptions {
   /**
@@ -21,6 +20,7 @@ interface FolderContentOptions {
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: false,
+  showSubfolders: true,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
