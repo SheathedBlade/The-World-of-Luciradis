@@ -32,18 +32,18 @@ _\*\* - Her previous occupation was as a Beacon of the [[Factions of Luciradis#L
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
 |      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
-|         Shimmering Wings | <progress value="0" max="100"></progress> |
-|        Paragon | <progress value="0" max="100"></progress>  |
-|           Seer | <progress value="5" max="100"></progress>  |
-|        Stargazer | <progress value="100" max="100"></progress>   |
-|          Arrowhead | <progress value="0" max="100"></progress>  |
-|        Deceiver | <progress value="25" max="100"></progress>  |
-| Navigator | <progress value="20" max="100"></progress> |
-|      Ember | <progress value="75" max="100"></progress>   |
+| ---------------: | :------------------------------------------ |
+| Shimmering Wings | <progress value="0" max="100"></progress>   |
+|          Paragon | <progress value="0" max="100"></progress>   |
+|             Seer | <progress value="5" max="100"></progress>   |
+|        Stargazer | <progress value="100" max="100"></progress> |
+|        Arrowhead | <progress value="0" max="100"></progress>   |
+|         Deceiver | <progress value="25" max="100"></progress>  |
+|        Navigator | <progress value="20" max="100"></progress>  |
+|            Ember | <progress value="75" max="100"></progress>  |
 |      Illuminator | <progress value="85" max="100"></progress>  |
-|             Matrix | <progress value="5" max="100"></progress>  |
-|            Convergence | <progress value="70" max="100"></progress>  |
+|           Matrix | <progress value="5" max="100"></progress>   |
+|      Convergence | <progress value="70" max="100"></progress>  |
 
 ## Background
 

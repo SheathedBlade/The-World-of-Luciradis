@@ -37,11 +37,13 @@ For elves that exist outside the Ferros Republic, these titles rarely matter to 
 The sovereign elves are a minority of elves enjoying the luxuries of being high-class individuals in other nations. They are often the ruling class of elves, dictating the path of the Republic as they see fit. They often take the role of advisors, academic mentors, and other privileged occupations.
 
 The title of sovereign elf is a bit flexible, as the ruling party of sovereign elves can congregate and promote an individual to the status of sovereign elf. These are rare occasions, however, for the circumstances must be right in order to gain this status.
+
 ### Industrious Elf
 
 An industrious elf is equivalent to a working class individual. They are not as well-read or educated as a sovereign elf, but they are needed for society to function at its core. Occupations such as smiths, farmers, and crafters are some of the many roles that industrious elves partake in.
 
 Although the elves are discouraged from leaving the Republic, the sovereign elves have deemed **merchants** as a necessary occupation in order to maintain the Republic's economy. Therefore, only a very small subset of industrious elves become merchants and they are allowed to come in and out of the Republic with official travel documentation.
+
 ### Drifting Elf
 
 Drifting elves are, for a lack of a better term, exiled from the Ferros Republic. Despite the seemingly serious nature of this title, it simply refers to any elf that leaves the Republic for any unofficial reason. Given that it is very difficult for anyone to enter or leave the Republic, the title is quite fitting, as drifting elves have no place or purpose in the Republic's society. The sovereign elves don't necessarily keep track of who is a drifting elf, but guards at the gate will turn away any elf that tries to re-enter the Republic without official authority of the sovereign elves.

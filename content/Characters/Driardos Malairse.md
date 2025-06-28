@@ -29,14 +29,14 @@ _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. My
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
 |      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
+| ---------------: | :------------------------------------------ |
 | Shimmering Wings | <progress value="0" max="100"></progress>   |
-|          Paragon | <progress value="0" max="100"></progress>  |
+|          Paragon | <progress value="0" max="100"></progress>   |
 |             Seer | <progress value="100" max="100"></progress> |
 |        Stargazer | <progress value="0" max="100"></progress>   |
 |        Arrowhead | <progress value="0" max="100"></progress>   |
 |         Deceiver | <progress value="30" max="100"></progress>  |
-|        Navigator | <progress value="40" max="100"></progress>   |
+|        Navigator | <progress value="40" max="100"></progress>  |
 |            Ember | <progress value="0" max="100"></progress>   |
 |      Illuminator | <progress value="85" max="100"></progress>  |
 |           Matrix | <progress value="5" max="100"></progress>   |

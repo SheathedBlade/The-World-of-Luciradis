@@ -22,19 +22,19 @@ _Internal Census of Terystal_
 
 ## Protean Essence
 
-|      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
-| Shimmering Wings | <progress value="0" max="100"></progress> |
+|      **Concept** | **Amount of Essence**                      |
+| ---------------: | :----------------------------------------- |
+| Shimmering Wings | <progress value="0" max="100"></progress>  |
 |          Paragon | <progress value="0" max="100"></progress>  |
 |             Seer | <progress value="5" max="100"></progress>  |
-|        Stargazer | <progress value="0" max="100"></progress>   |
-|        Arrowhead | <progress value="20" max="100"></progress>  |
-|         Deceiver | <progress value="0" max="100"></progress>   |
+|        Stargazer | <progress value="0" max="100"></progress>  |
+|        Arrowhead | <progress value="20" max="100"></progress> |
+|         Deceiver | <progress value="0" max="100"></progress>  |
 |        Navigator | <progress value="0" max="100"></progress>  |
-|            Ember | <progress value="15" max="100"></progress>  |
-|      Illuminator | <progress value="60" max="100"></progress>  |
+|            Ember | <progress value="15" max="100"></progress> |
+|      Illuminator | <progress value="60" max="100"></progress> |
 |           Matrix | <progress value="0" max="100"></progress>  |
-|      Convergence | <progress value="0" max="100"></progress>   |
+|      Convergence | <progress value="0" max="100"></progress>  |
 
 ## Background
 

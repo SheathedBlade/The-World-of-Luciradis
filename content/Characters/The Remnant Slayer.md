@@ -2,7 +2,8 @@
 date: 2023-09-22T11:51:47.4747-04:00
 last-modified: 2023-09-22T12:08:24.2424-04:00
 ---
-*Wanted Poster by the Congregation of Justice, Luxor Citadel*
+
+_Wanted Poster by the Congregation of Justice, Luxor Citadel_
 
 ## WARNING
 
@@ -12,7 +13,7 @@ Should anyone suspect that they came across the **Remnant Slayer**, do not be al
 
 ---
 
-*Report by the Congregation of Justice, Luxor Citadel*
+_Report by the Congregation of Justice, Luxor Citadel_
 
 The [[Stalwryn Kingdom]] is preparing to hold their annual **Scarring Festival**. As you might know, this festival aims to prepare each nation for combat, and its main event is the mock battle between nations. All the nations are thus encouraged to participate, in order to better prepare their armies for combat. There are rumors surrounding the sudden appearance of a new and upcoming warrior, and people are claiming that this new warrior would be an Avatar. We will continue to investigate this claim as the Scarring Festival draws closer.
 

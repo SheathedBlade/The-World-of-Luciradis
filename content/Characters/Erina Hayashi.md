@@ -14,7 +14,7 @@ last-modified: 2023-10-12T03:22:31.3131-04:00
 - Date of Birth: 7th Day of the Lifeline, from the Year 5244 ASC _(07/06/5244)_
 - Date of Death: N/A
 - Place of Origin: [[Azamuku Domain]], [[Cicatri Ciel]]
-- Height: 
+- Height:
 - Weight:
 - Occupation:
 - Relationships:

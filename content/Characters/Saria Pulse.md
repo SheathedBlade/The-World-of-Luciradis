@@ -39,7 +39,7 @@ _\*\*\* - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
 |      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
+| ---------------: | :------------------------------------------ |
 | Shimmering Wings | <progress value="100" max="100"></progress> |
 |          Paragon | <progress value="40" max="100"></progress>  |
 |             Seer | <progress value="25" max="100"></progress>  |
@@ -48,7 +48,7 @@ _The below information are results from testing the individual of their "Empyrea
 |         Deceiver | <progress value="0" max="100"></progress>   |
 |        Navigator | <progress value="30" max="100"></progress>  |
 |            Ember | <progress value="55" max="100"></progress>  |
-|      Illuminator | <progress value="0" max="100"></progress>  |
+|      Illuminator | <progress value="0" max="100"></progress>   |
 |           Matrix | <progress value="10" max="100"></progress>  |
 |      Convergence | <progress value="5" max="100"></progress>   |
 

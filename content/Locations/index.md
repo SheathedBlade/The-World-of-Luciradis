@@ -7,6 +7,7 @@ title: Famous Locales
 This section is dedicated to the repository of notable locales across Luciradis. Every path has an origin, every place a story. Coming to understand how certain areas of the world came to be is crucial if we want to observe the distant past and peek into the unknowable future.
 
 ---
+
 # [[Locations/Cicatri Ciel/index|Cicatri Ciel]]
 
 Cicatri Ciel describes the group of landmasses located in the northern hemisphere of Luciradis. Roughly translating to _"Scarred Sky"_ in ancient tongues, this name was conceived after the catastrophic event known as _The Scarring_, where a war between god-like beings have sundered the once-whole landmass apart.

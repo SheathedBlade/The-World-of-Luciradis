@@ -30,19 +30,19 @@ _\* - Stalwryn's internal census was conducted when she was 14 years_
 
 ## Empyrean Essence
 
-|      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
-| Shimmering Wings | <progress value="0" max="100"></progress> |
-|          Paragon | <progress value="10" max="100"></progress>  |
+|      **Concept** | **Amount of Essence**                      |
+| ---------------: | :----------------------------------------- |
+| Shimmering Wings | <progress value="0" max="100"></progress>  |
+|          Paragon | <progress value="10" max="100"></progress> |
 |             Seer | <progress value="5" max="100"></progress>  |
-|        Stargazer | <progress value="0" max="100"></progress>   |
+|        Stargazer | <progress value="0" max="100"></progress>  |
 |        Arrowhead | <progress value="5" max="100"></progress>  |
-|         Deceiver | <progress value="0" max="100"></progress>   |
-|        Navigator | <progress value="30" max="100"></progress>  |
+|         Deceiver | <progress value="0" max="100"></progress>  |
+|        Navigator | <progress value="30" max="100"></progress> |
 |            Ember | <progress value="0" max="100"></progress>  |
-|      Illuminator | <progress value="10" max="100"></progress>  |
-|           Matrix | <progress value="95" max="100"></progress>  |
-|      Convergence | <progress value="0" max="100"></progress>   |
+|      Illuminator | <progress value="10" max="100"></progress> |
+|           Matrix | <progress value="95" max="100"></progress> |
+|      Convergence | <progress value="0" max="100"></progress>  |
 
 ## Background
 

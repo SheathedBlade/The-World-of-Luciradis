@@ -39,20 +39,19 @@ _\*\*\* - His previous occupation was as Royal Guardian of the Stalwryn Kingdom_
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
-|      **Concept** | **Amount of Essence**                      |
-| ----------------:|:------------------------------------------ |
-| Shimmering Wings | <progress value="40" max="100"></progress> |
+|      **Concept** | **Amount of Essence**                       |
+| ---------------: | :------------------------------------------ |
+| Shimmering Wings | <progress value="40" max="100"></progress>  |
 |          Paragon | <progress value="100" max="100"></progress> |
-|             Seer | <progress value="5" max="100"></progress>  |
-|        Stargazer | <progress value="50" max="100"></progress> |
+|             Seer | <progress value="5" max="100"></progress>   |
+|        Stargazer | <progress value="50" max="100"></progress>  |
 |        Arrowhead | <progress value="45" max="100"></progress>  |
-|         Deceiver | <progress value="5" max="100"></progress> |
-|        Navigator | <progress value="20" max="100"></progress> |
-|            Ember | <progress value="10" max="100"></progress> |
-|      Illuminator | <progress value="20" max="100"></progress> |
+|         Deceiver | <progress value="5" max="100"></progress>   |
+|        Navigator | <progress value="20" max="100"></progress>  |
+|            Ember | <progress value="10" max="100"></progress>  |
+|      Illuminator | <progress value="20" max="100"></progress>  |
 |           Matrix | <progress value="10" max="100"></progress>  |
-|      Convergence | <progress value="25" max="100"></progress>   |
-
+|      Convergence | <progress value="25" max="100"></progress>  |
 
 ## Background
 

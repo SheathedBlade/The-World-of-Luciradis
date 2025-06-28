@@ -2,7 +2,8 @@
 date: 2023-09-22T11:51:47.4747-04:00
 last-modified: 2023-10-13T22:13:07.077-04:00
 ---
-*Published by the Congregation of Academia, Luxor Citadel*
+
+_Published by the Congregation of Academia, Luxor Citadel_
 
 **The Protean Concepts** are figures from legend, and their influence still grips the world to this day. They are aptly named for their ability to manifest their power within the beings of Luciradis. Each manifestation is different among vessels of power based on their perception of the general concept of its power.
 
@@ -19,13 +20,15 @@ Mankind, since the rise of Avatars, have carefully monitored and nurtured these 
 Below details all of the twelve known Concepts within this world, and the manifestations of their power.
 
 ## The Creator
-**Last Known Avatar:** None  
 
-Not much is known about the Creator, save for a few faded texts and legends. The Creator boasted power unlike any other, and as such triumphed over all other Concepts in **The Scarring**.  Its power was as its namesake, the power to create. The contents as to what it creates can only be inferred from the remaining ancient texts, which state that the Creator had wielded immense spiritual power, capable of manifesting objects of power through the conversion of the surrounding spiritual energy. As such, the deaths of many during the Scarring only served to empower the Creator, eventually surpassing the powers of all other Concepts.
+**Last Known Avatar:** None
+
+Not much is known about the Creator, save for a few faded texts and legends. The Creator boasted power unlike any other, and as such triumphed over all other Concepts in **The Scarring**. Its power was as its namesake, the power to create. The contents as to what it creates can only be inferred from the remaining ancient texts, which state that the Creator had wielded immense spiritual power, capable of manifesting objects of power through the conversion of the surrounding spiritual energy. As such, the deaths of many during the Scarring only served to empower the Creator, eventually surpassing the powers of all other Concepts.
 
 The last texts that our scholars have translated dealt with the aftermath of the Scarring and the subsequent disappearance of the Creator. While all the other Concepts were reduced to their very essence, the Creator was kept whole, and moved to becoming the Guardian Gatekeeper of the [[Stairs of Wanderlust]]. As the Guardian, however, its role was to only observe, and so newly-departed souls would never know of its existence.
 
 ## The Shimmering Wings
+
 **Previous Avatar:** [[The Brood of Arodraenix|Orsilus of Arodraenix]]  
 **Current Avatar:** [[Saria Pulse]]
 
@@ -34,6 +37,7 @@ The Shimmering Wings refer to the ancient dragon of legend, Arodraenix, during *
 Its descendants bear the power of the Shimmering Wings, giving priority to the [[The Brood of Arodraenix|new breed of dragons]] that emerged unscathed from the Scarring. Therefore, it is highly unlikely, if not impossible, that non-draconic being should be able to have any essence of the Shimmering Wings.
 
 ## The Paragon
+
 **Previous Avatar:** [[Leoris Varens]]  
 **Current Avatar:** [[Arzen Lynos]]
 
@@ -42,6 +46,7 @@ The Paragon is known for their stalwart protection against the Concepts during t
 When **the Scarring** first began, the Paragon was stationed in a certain strip of land that would later become territory of the Stalwryn Kingdom. Possessing the strength and resilience, alongside the most powerful invocations, the Paragon began their attack on the other Concepts once the Seer had attacked a small village in its vicinity. Much to the dismay of the villagers he was protecting, the Paragon kept moving forward, never looking back to see the destruction it had wrought.
 
 ## The Seer
+
 **Previous Avatar:** [[Driardos Malairse]]  
 **Current Avatar:** [[Iris Riedel]]
 
@@ -50,6 +55,7 @@ The Seer is known for their foresight and perception into the future. This abili
 The Seer holds immense hatred and contempt towards his fellows following the end of **the Scarring**, when the Creator had reduced the Concepts into their very essence. It was then that the Seer peered into the future, and only found itself within the world. Inferring that this meant that the world was to be theirs in the future, every action that the Seer has been taken since then was in service to that future.
 
 ## The Stargazer
+
 **Previous Avatar:** Unknown  
 **Current Avatar:** [[Amara Illustros|Unknown]]
 
@@ -58,11 +64,13 @@ The Stargazer, as was written in the ancient texts, was notably the most passive
 In certain folklores of eld, the Stargazer boasts both incredible and world-defying magic. Depictions of the Stargazer shows that it is capable of a much more primitive version of psychokinesis, which does include telepathy. However, from what we know now of telepathy, it requires a strong bond with the individual it is trying to influence. As such, it can be assumed that its would-be Avatar would be equally as strong, no matter the amount of remnant within the individual. However, even with its overwhelming power, the Stargazer rarely utilized it, according to ancient texts. Even less so, there are very few instances where an Avatar of this Concept has emerged publicly.
 
 ## The Arrowhead
-**Last Known Avatar:** [[Karos Varens]]  
+
+**Last Known Avatar:** [[Karos Varens]]
 
 ## The Deceiver
+
 **Previous Avatar:** Unknown  
-**Current Avatar:** [[Erina Hayashi]]  
+**Current Avatar:** [[Erina Hayashi]]
 
 Despite its name, the Deceiver of legends was not a malicious liar and backstabber that one may think it is, that is until we reach the section of the Scarring. It refers to its power of illusions, most notably its power to change its identity. All across ancient legends, the Deceiver's visage changes from story to story, appearing as a savage beast in one legend, to a high noble in another. In all cases, the one clue that connects these legends back to the Deceiver is the use of masks.
 
@@ -73,6 +81,7 @@ During the Scarring, the Deceiver would sabotage various factions of the Concept
 The first Avatar would appear in the land that would become the [[Azamuku Domain]], and would gain control of the power inside the masks. At this point in time, there were five mask relics, two of which were lost to time entering the modern age.
 
 ## The Navigator
+
 **Previous Avatar:** [[Cyrus Orico]]  
 **Current Avatar:** [[Rietta Wrynia]]
 
@@ -83,16 +92,20 @@ The Navigator is most known for their masterful control over elements of nature.
 The Navigator's powers all manifest as masteries of separate elements. For example, an Avatar could be capable of only water-bending, while another could be proficient at manipulating the winds. All records of the Navigator's Avatars show that each and every one of these Avatars are of Elven descent, as practiced invokers from the [[Ferros Republic]] share many similarities with the Navigator.
 
 ## The Ember
-**Last Known Avatar:** Unknown  
+
+**Last Known Avatar:** Unknown
 
 ## The Illuminator
+
 **Previous Avatar:** [[Runo Illustros]]  
 **Current Avatar:** [[Varant Illustros]] & [[Altair Illustros]]
 
 ## The Matrix
-**Current Avatar:** [[Kallie Myrai]]  
+
+**Current Avatar:** [[Kallie Myrai]]
 
 The Matrix is a Concept best known for their thirst, and subsequent storage, of knowledge. All that the Matrix interacts with is recorded within their very soul. To that end, all of our current knowledge is thanks to the power of the Matrix, essentially acting as one enormous library, a wellspring of knowledge, so to speak.
 
 ## The Convergence
+
 **Last Known Avatar:** Unknown
