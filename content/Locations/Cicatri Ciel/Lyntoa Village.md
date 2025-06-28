@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-05T03:27:46.4646-05:00
+last-modified: 2025-06-28T17:14:53.5353-04:00
 ---
 
 _"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."_  
@@ -33,4 +33,4 @@ The **Well of Dreams** is the ritualistic structure built by its first settlers,
 >
 > Though I had thought it a nice piece of history to observe, with events and revelations observed in the **Cerelicia expedition**, the Well had fostered something far sinister than anyone could've imagined. With the conflict resolved, however, the Well has now finally finished its purpose, and now lays in rest as a relic of the Era of Concepts.
 >
-> Related: **[[Cerelicia Expedition]]**
+> Related: Cerelicia Expedition

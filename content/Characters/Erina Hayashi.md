@@ -1,10 +1,10 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-12T03:22:31.3131-04:00
+last-modified: 2025-06-28T17:32:16.1616-04:00
 ---
 
-*Internal Census of Gensōkyo
-*Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai\*
+*Internal Census of Gensōkyo*  
+*Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
 
 ## Basic Info
 
@@ -13,8 +13,9 @@ last-modified: 2023-10-12T03:22:31.3131-04:00
 - Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]
 - Date of Birth: 7th Day of the Lifeline, from the Year 5244 ASC _(07/06/5244)_
 - Date of Death: N/A
-- Place of Origin: [[Azamuku Domain]], [[Cicatri Ciel]]
-- Height:
+- Place of Origin: [[Gensōkyo]], [[Cicatri Ciel]]
+- Allegiance: [[Factions of Luciradis#Illusionists (Gensōsenshi)|Illusionists]]
+- Height: 5’9” / 175cm
 - Weight:
 - Occupation:
 - Relationships:

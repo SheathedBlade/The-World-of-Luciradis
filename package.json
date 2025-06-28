@@ -38,7 +38,7 @@
     "@clack/prompts": "^0.11.0",
     "@floating-ui/dom": "^1.7.0",
     "@myriaddreamin/rehype-typst": "^0.6.0",
-    "@napi-rs/simple-git": "0.1.19",
+    "@napi-rs/simple-git": "^0.1.19",
     "@tweenjs/tween.js": "^25.0.0",
     "@webgpu/types": "^0.1.61",
     "ansi-truncate": "^1.2.0",

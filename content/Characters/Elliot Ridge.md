@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-09-22T12:08:24.2424-04:00
+last-modified: 2025-06-28T18:26:15.1515-04:00
 ---
 
 _Internal Census of Terystal_
@@ -16,11 +16,11 @@ _Internal Census of Terystal_
 - Allegiance: [[Terystal]], [[Nova Ciel]]
 - Height: 6'0'' / 183cm
 - Weight:
-- Occupation: Founder of the Ridge Family, Professor at [[Gryffes Institute]]
+- Occupation: Founder of the Ridge Family, Professor at [[Terystal#Gryffes Institute of War and Medicine|Gryffes Institute]]
 - Relationships:
   - [[Iris Riedel]]: Student
 
-## Protean Essence
+## Empyrean Essence
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |

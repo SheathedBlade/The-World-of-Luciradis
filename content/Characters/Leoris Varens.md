@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-09-22T12:08:24.2424-04:00
+last-modified: 2025-06-28T18:28:42.4242-04:00
 ---
 
 _Internal Census of the Stalwryn Kingdom_  
@@ -17,12 +17,12 @@ _Edited by the Independent Journal of Historians of Nova Ciel_
 - Allegiance: [[Factions of Luciradis#Monarchy of Stalwryn|Monarchy of Stalwryn]]
 - Height: 6'1''
 - Weight:
-- Occupation: Monarch of the Stalwryn Kingdom
+- Occupation: Monarch of Stalwryn
 
 ## Background
 
 Leoris Varens was the last monarch of the [[Stalwryn Kingdom]], before it fell to the unprompted invasion of the Luxori forces from the [[Luxor Citadel]]. In history, Leoris Varens was known as a tyrant who rose to power through an internal coup between their family. However, its people tolerated his rule due to sweeping changes throughout the land, benefiting the people of Stalwryn greatly, much to the dismay of the other ruling nations.
 
-Leoris Varens was once the Avatar of [[Protean Concepts#The Paragon|the Paragon]], and since his death, we are unable to ascertain the existence of another Avatar bearing the Paragon. It is rumored that he secretly passed his power to his most trusted guard, but until he comes forward, we will never know where the Paragon will appear next.
+Leoris Varens was once the Ascendant of the [[Empyrean Concepts#The Paragon|Paragon]], and since his death, we are unable to ascertain the existence of another Ascendant bearing the Paragon. It is rumored that he secretly passed his power to his most trusted guard, but until he comes forward, we will never know where the Paragon will appear next.
 
-Leoris Varens, along with the late **Queen Lissa Varens**, had only one child, [[Karos Varens]]. Karos was to be the next ruling king after Leoris. A traditional ritual was done to pass on
+Leoris Varens, along with the late **Queen Lissa Varens**, had only one child, [[Karos Varens]]. Karos was to be the next ruling king after Leoris.

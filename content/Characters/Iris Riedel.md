@@ -1,8 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:12:41.4141-04:00
+last-modified: 2025-06-28T17:41:26.2626-04:00
 ---
-
 _Internal Census of Terystal_
 
 ## Basic Info
@@ -13,10 +12,10 @@ _Internal Census of Terystal_
 - Date of Birth: Paragon's 8th, 10092 ASC _(08/03/10092)_
 - Date of Death: N/A
 - Place of Origin: [[Terystal]], [[Nova Ciel]]
-- Allegiance: [[Terystal]], [[Nova Ciel]]
+- Allegiance: [[Factions of Luciradis#Dreamweavers (Yumori-te)|Dreamweavers]]
 - Height: 5'6'' / 167cm
 - Weight:
-- Occupation: Sophomore at [[Gryffes Institute]]
+- Occupation: Sophomore at [[Terystal#Gryffes Institute of War and Medicine|Gryffes Institute]]
 - Relationships:
   - [[Arzen Lynos]]: Mentor
   - [[Elliot Ridge]]: Professor

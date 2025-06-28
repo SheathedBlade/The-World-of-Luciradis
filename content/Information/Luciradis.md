@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-09-22T12:08:24.2424-04:00
+last-modified: 2025-06-28T18:20:17.1717-04:00
 ---
 
 _Published by the Congregation of Academia, Luxor Citadel_
@@ -13,7 +13,7 @@ Luciradis roughly translates to _"shining root"_ in ancient tongues, which refer
 
 ## System of Time
 
-All beings of Luciradis currently follow a system of time concocted by the joint efforts of the respective first Avatars of the Empyrean Concepts: [[Empyrean Concepts#The Convergence|the Convergence]] and [[Empyrean Concepts#The Matrix|the Matrix]].
+All beings of Luciradis currently follow a system of time concocted by the joint efforts of the respective first Ascendants of the Empyrean Concepts: [[Empyrean Concepts#The Convergence|the Convergence]] and [[Empyrean Concepts#The Matrix|the Matrix]].
 
 Dates are written as such: N-th Day of the Concept, from the Year X (BSC/ASC), where _N_ represents the numbered day within the Concept's month, and _X_ represents the specified year. _BSC_ is the shorthand for _"Before Scarring"_, and _ASC_ is the shorthand for _"After Scarring"_.
 

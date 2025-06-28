@@ -1,8 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-09-22T12:08:24.2424-04:00
+last-modified: 2025-06-28T18:25:27.2727-04:00
 ---
-
 _Internal Census of Luxor Citadel_
 
 ## Basic Info
@@ -13,13 +12,16 @@ _Internal Census of Luxor Citadel_
 - Date of Birth: N/A
 - Date of Death: N/A
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance:
+- Allegiance: [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]]
 - Height:
 - Weight:
-- Occupation:
+- Occupation: Instrument of Wit of the Luxori Covenant
 - Relationships:
+	- [[Amara Illustros]]: Sister
+	- [[Varant Illustros]]: Brother
+	- [[Runo Illustros]]: Father *(deceased)*
 
-## Protean Essence
+## Empyrean Essence
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |

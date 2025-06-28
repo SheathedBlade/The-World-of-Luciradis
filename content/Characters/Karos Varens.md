@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:12:49.4949-04:00
+last-modified: 2025-06-28T17:42:38.3838-04:00
 description: Karos Varens was the son, and only child, to King Leoris Varens, and heir to the throne of the Stalwryn Kingdom. His father was strict in preparing Karos for the throne, but allowed him to pursue archery and other adventurous endeavors.
 ---
 
@@ -18,12 +18,12 @@ _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. My
 - Allegiance: [[Factions of Luciradis#Monarchy of Stalwryn|Monarchy of Stalwryn]]
 - Height: 4'11'' / 150cm
 - Weight: 125 lbs / 57 kg
-- Occupation: Prince of the [[Stalwryn Kingdom]]
+- Occupation: Prince of Stalwryn
 - Relationships:
   - [[Leoris Varens]]: Father
   - [[Arzen Lynos]]: Friend
 
-## Protean Essence
+## Empyrean Essence
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 

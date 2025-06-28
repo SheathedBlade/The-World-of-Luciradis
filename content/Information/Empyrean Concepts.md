@@ -1,24 +1,24 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-03-05T03:26:49.4949-05:00
+last-modified: 2025-06-28T18:32:49.4949-04:00
 comments: false
 ---
 
 _Published by the Congregation of Academia, Luxor Citadel_
 
-**The Empyrean Concepts** are figures from legend, and their influence still grips the world to this day. They are aptly named for their ability to manifest their power differently within the beings of Luciradis. Each manifestation is different among vessels of power based on their perception of the general concept of its power.
+**The Empyrean Concepts** are figures from legend, and their influence still grips the world to this day. They are aptly named for their origin of *Genesis*, said to be the creator of Luciradis. Each manifestation is different among vessels of power based on their perception of the general concept of its power.
 
 > As an example, the concept of a seer can mean various things. If the vessel is a warrior or predator, the concept manifests itself as imminent foresight, while in invokers, the concept manifests as the traditional far-seeing glimpse into the future.
 
 Once mortal, the Concepts vied for power and domination over the world, razing the land and dooming all living beings upon it. This era was only known as **The Scarring**. It was only through the Concept, the Creator, that this everlasting struggle would finally come to an end. In the aftermath, the Creator reduced all the Concepts to their very essence, and split it across the world, hoping that their powers would never be reunited. The Creator, in turn, disappeared from [[Luciradis]] altogether, their whereabouts unknown to this day.
 
-In modern times, the powers of the Concepts are much more subdued and controlled due to the remnants of the Concepts taking shelter within vessels. These vessels are dubbed the **Ascendants**, persons that wield powers equal to the Concept they are associated with. It is for this very reason that the Ascendants take the namesake of the Concept itself, due to their proficiency in wielding the corresponding Concept's powers.
+In modern times, the powers of the Concepts are much more subdued and controlled due to the essences of the Concepts taking shelter within vessels. These vessels are dubbed the **Ascendants**, persons that wield powers equal to the Concept they are associated with. It is for this very reason that the Ascendants take the namesake of the Concept itself, due to their proficiency in wielding the corresponding Concept's powers.
 
-> It should be noted that each Ascendant can have multiple Concept remnants, but their proficiency in wielding their powers are proportional to the amount of essence that is housed within the Ascendant. Therefore, if a being were to appear with greater Concept essence than that of an existing Ascendant, that being would be crowned as the new Ascendant, while the former Ascendant is demoted. The way this is determined is through a medical apparatus commonly found in clinics across Cicatri Ciel.
+> It should be noted that each Ascendant can have multiple Empyrean essences, but their proficiency in wielding their powers are proportional to the amount of essence that is housed within the Ascendant. Therefore, if a being were to appear with greater Empyrean essence than that of an existing Ascendant, that being would be crowned as the new Ascendant, while the former Ascendant is demoted. The way this is determined is through a medical apparatus commonly found in clinics across Cicatri Ciel.
 
 > (May rework the above)
 
-Mankind, since the rise of Ascendants, have carefully monitored and nurtured these would-be warriors, guiding the Concept remnants to very specific, powerful beings. Nowadays, the appearance of an Ascendant can be linked to positions of power within a nation, or a beast of legend. Only certain people truly know who some of these Ascendants are, as the rest of the world lives in ignorance of its influence, only hearing their deeds through legends. With more people being born into this world, the essence of the concept becomes more diluted, until there comes a new generation that will have no magical capabilities.
+Mankind, since the rise of Ascendants, have carefully monitored and nurtured these would-be warriors, guiding the Concept essences to very specific, powerful beings. Nowadays, the appearance of an Ascendant can be linked to positions of power within a nation, or a beast of legend. Only certain people truly know who some of these Ascendants are, as the rest of the world lives in ignorance of its influence, only hearing their deeds through legends. With more people being born into this world, the essence of the concept becomes more diluted, until there comes a new generation that will have no magical capabilities.
 
 Below details all of the twelve known Empyrean Concepts within this world, and the manifestations of their powers.
 
@@ -79,7 +79,7 @@ The Lifeline, as depicted by various ancient texts around the continent, was a m
 **Previous Ascendant:** Unknown  
 **Current Ascendant:** [[Erina Hayashi]]
 
-The Reflection was noted to be a master of illusory arts, capable of distorting an individual's cognition beyond their recognition. The individual behind the title is not native to Cicatri Ciel, but an akumari native from the [[Locations/index#Nova Ciel|southern landmass]]. According to the akumari elders of [[Gensōkyo]], they came with a following of nomadic akumari, looking for a place to settle. Strife had followed the Reflection, and so their nomadic clan split into two; those that followed the Reflection were known as [[Factions of Luciradis#Illusionists (Gensōsenshi)|the Illusionists]], while those who stayed behind dubbed themselves the [[Factions of Luciradis#Dreamweavers (Yumori-te)|Dreamweavers]].
+The Reflection was noted to be a master of illusory arts, capable of distorting an individual's cognition beyond their recognition. The individual behind the title is not native to Cicatri Ciel, but an akumari native from the [[Locations/index#Nova Ciel|southern landmass]]. According to the akumari elders of [[Gensōkyo]], they came with a following of nomadic akumari, looking for a place to settle. Strife had followed the Reflection, and so their nomadic clan split into two; those that followed the Reflection were known as the [[Factions of Luciradis#Illusionists (Gensōsenshi)|Illusionists]], while those who stayed behind dubbed themselves the [[Factions of Luciradis#Dreamweavers (Yumori-te)|Dreamweavers]].
 
 Scrolls from the temples of Gensōkyo depict the Reflection as an individual that never liked to stay in one place. Thus, it was at a certain point in time that the famous akumari departed from the Illusionists' new abode in search of more adventure. They joined a party of adventurers and travelers, and was not seen again for decades until the advent of **the Scarring**.
 
