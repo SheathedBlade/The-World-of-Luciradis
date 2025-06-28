@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T18:24:45.4545-04:00
+last-modified: 2025-06-28T18:48:15.1515-04:00
 ---
 
 _Published by the Congregation of Academia, Luxor Citadel_
@@ -46,7 +46,7 @@ The appearance of a Luxori bears a striking resemblance to that of a human's, bu
 > This section has been added to reflect the current state of Luciradis's inhabitants.
 > Related: [[#Dragon]]
 
-Vyrians are a humanoid hybrid race descended from the dragons, claiming and recycling the original nomenclature **"Hryvernus"** for their own identification. Most Vyrians have appeared on [[Nova Ciel]], having migrated from [[Cicatri Ciel]] around 8000 ASC alongside most of the population of Cicatri Ciel.
+Vyrians are a humanoid hybrid race descended from the dragons, claiming and recycling the original nomenclature **"Hryvernus"** for their own identification. Most Vyrians have appeared on [[Luciradis#Nova Ciel|Nova Ciel]], having migrated from [[Luciradis#Cicatri Ciel|Cicatri Ciel]] around 8000 ASC alongside most of the population of Cicatri Ciel.
 
 Vyrians take on a human appearance, with draconic aspects sprinkled in. Namely, a Vyrian has the horns and the tail inherited from their parents at random. The color of its scales are randomly inherited from either of the parents. The skin scales are a trait only seen on the [[Saria Pulse|very first Vyrian]]. The Vyrians that have been born after her, when the idea became popularized, have no such scales on the skin. As such, Vyrians are often confused with [[#Akumari|Akumaros]], another horned race. The difference, however, is that Akumaros do not possess tails.
 

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T17:32:16.1616-04:00
+last-modified: 2025-06-28T18:44:15.1515-04:00
 ---
 
 *Internal Census of Gensōkyo*  
@@ -13,7 +13,7 @@ last-modified: 2025-06-28T17:32:16.1616-04:00
 - Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]
 - Date of Birth: 7th Day of the Lifeline, from the Year 5244 ASC _(07/06/5244)_
 - Date of Death: N/A
-- Place of Origin: [[Gensōkyo]], [[Cicatri Ciel]]
+- Place of Origin: [[Gensōkyo]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: [[Factions of Luciradis#Illusionists (Gensōsenshi)|Illusionists]]
 - Height: 5’9” / 175cm
 - Weight:

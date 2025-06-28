@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T18:26:15.1515-04:00
+last-modified: 2025-06-28T18:43:57.5757-04:00
 ---
 
 _Internal Census of Terystal_
@@ -12,8 +12,8 @@ _Internal Census of Terystal_
 - Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]/[[The Inhabitants of Luciradis#Luxori|Luxori]]
 - Date of Birth: N/A
 - Date of Death: N/A
-- Place of Origin: [[Ifuri]], [[Nova Ciel]]
-- Allegiance: [[Terystal]], [[Nova Ciel]]
+- Place of Origin: [[Ifuri]], [[Luciradis#Nova Ciel|Nova Ciel]]
+- Allegiance: [[Terystal]], [[Luciradis#Nova Ciel|Nova Ciel]]
 - Height: 6'0'' / 183cm
 - Weight:
 - Occupation: Founder of the Ridge Family, Professor at [[Terystal#Gryffes Institute of War and Medicine|Gryffes Institute]]

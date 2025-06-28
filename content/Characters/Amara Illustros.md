@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T18:34:29.2929-04:00
+last-modified: 2025-06-28T18:47:02.022-04:00
 ---
 
 _Internal Census of the Luxor Citadel_  
@@ -73,7 +73,7 @@ Overall, this modification makes her glaive a very dangerous weapon to use, as o
 
 _This is information newly discovered about Amara Illustros by the Cerelicia expedition team._
 
-Amara is revealed to be the last known Ascendant of the elusive [[Empyrean Concepts#The Stargazer|Stargazer]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Cicatri Ciel]] to survey the land that's long since abandoned. The Ascendants of the expedition team dove down into the depths of the [[Lyntoa Village#Well of Dreams|Well of Dreams]] in [[Lyntoa Village]]. There, Amara reveals that she had used Arzen to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
+Amara is revealed to be the last known Ascendant of the elusive [[Empyrean Concepts#The Stargazer|Stargazer]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Luciradis#Cicatri Ciel|Cicatri Ciel]] to survey the land that's long since abandoned. The Ascendants of the expedition team dove down into the depths of the [[Lyntoa Village#Well of Dreams|Well of Dreams]] in [[Lyntoa Village]]. There, Amara reveals that she had used Arzen to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
 
 Additionally, Amara is also revealed as the identity of the [[The Ascendant Slayer|Ascendant Slayer]], the once infamous international criminal that roamed the world killing the Ascendants in order to have all the empyrean essence in one place. Her goal is to reset [[Luciradis]] and rid the world of the power of the Empyrean Concepts, as well as their influence, citing that she has seen the ugliness of the world she walked on and wished it to go away. Deciding it was enough, Amara awakened to her powers of the Stargazer, as both Amara and the Stargazer shared a common ideal: "Would the world be better off without the Concepts?".
 
