@@ -1,10 +1,12 @@
 ---
 date: 2023-09-24T17:06:31.3131-04:00
-last-modified: 2025-03-05T03:52:33.3333-05:00
-comments: false
+last-modified: 2023-10-12T03:26:22.2222-04:00
 ---
-*Internal Census of Galaderyn*
+
+_Internal Census of Galaderyn_
+
 ## Basic Info
+
 - Age: ???
 - Gender: Male
 - Race: Elf
@@ -16,7 +18,7 @@ comments: false
 - Weight:
 - Occupation: Manaward Iridescent
 - Relationships:
-	- [[Rietta Wrynia]]
+  - [[Rietta Wrynia]]
 
 ## Empyrean Essence
 

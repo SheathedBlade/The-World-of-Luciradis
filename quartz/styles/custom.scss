@@ -52,7 +52,7 @@ html {
       }
       &.right {
         right: calc(50vw - 765px);
-        & .toc.desktop-only #toc-content ul.overflow {
+        & .toc.desktop-only #toc-content {
           max-height: 286px !important;
         }
       }
@@ -73,19 +73,13 @@ html {
   }
 
   &[saved-theme="light"] {
-    div.search > #search-button {
-      & > p {
-        color: #414141 !important;
-      }
+    div#search-icon > p {
+      color: #414141 !important;
     }
 
     progress {
-      background-color: #d8d8c3 !important;
-      border: none !important;
+      background-color: var(--sakura) !important;
 
-      &::-moz-progress-bar {
-        background-color: #39b684 !important;
-      }
       &::-webkit-progress-bar {
         background-color: #d8d8c3 !important;
       }
@@ -148,12 +142,8 @@ html {
     }
 
     progress {
-      background-color: #4b4d55 !important;
-      border: none !important;
+      background-color: var(--sakura) !important;
 
-      &::-moz-progress-bar {
-        background-color: var(--yellow) !important;
-      }
       &::-webkit-progress-bar {
         background-color: #4b4d55 !important;
       }

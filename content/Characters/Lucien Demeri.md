@@ -1,25 +1,27 @@
 ---
 date: 2023-09-22T17:26:54.5454-04:00
-last-modified: 2025-03-05T03:52:19.1919-05:00
-comments: false
+last-modified: 2023-09-22T17:35:13.1313-04:00
 ---
-*Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. Myrai*
+
+_Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. Myrai_
+
 ## Basic Info
+
 - Age: ???
 - Gender: Male
 - Race: Human
-- Date of Birth: 26th Day of the Creator, from the Year 34 BSC *(26/01/34 BSC)*
+- Date of Birth: 26th Day of the Creator, from the Year 34 BSC _(26/01/34 BSC)_
 - Date of Death: N/A
 - Place of Origin: [[Amber Clifftops|Settlement of Cinderdrift]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: None
 - Height: 5'9" / 175cm
 - Weight:
-- Occupation: 
+- Occupation:
 - Relationships:
-	- [[Arzen Lynos]]
-	- [[Brycen val Illustros]]
-	- [[Driardos Malairse]]
-	- [[Nero Carnegoa]]
+  - [[Arzen Lynos]]
+  - [[Brycen val Illustros]]
+  - [[Driardos Malairse]]
+  - [[Nero Carnegoa]]
 
 ## Empyrean Essence
 

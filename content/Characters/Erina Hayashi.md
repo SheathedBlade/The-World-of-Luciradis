@@ -1,28 +1,29 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-03-05T03:52:29.2929-05:00
-comments: false
+last-modified: 2023-10-12T03:22:31.3131-04:00
 ---
+
 *Internal Census of Gensōkyo
-*Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
+*Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai\*
+
 ## Basic Info
-- Age: 4,866 years*
+
+- Age: 4,866 years\*
 - Gender: Female
 - Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]
-- Date of Birth: 7th Day of the Lifeline, from the Year 5244 ASC *(07/06/5244)*
+- Date of Birth: 7th Day of the Lifeline, from the Year 5244 ASC _(07/06/5244)_
 - Date of Death: N/A
-- Place of Origin: [[Gensōkyo]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: [[Factions of Luciradis#Illusionists (Gensōsenshi)|Illusionists]]
-- Height: 5'9'' / 175cm
+- Place of Origin: [[Azamuku Domain]], [[Cicatri Ciel]]
+- Height:
 - Weight:
-- Occupation: 
+- Occupation:
 - Relationships:
-	- [[Arzen Lynos]]
-	- [[Saria Pulse]]
+  - [[Arzen Lynos]]
+  - [[Saria Pulse]]
 
 ## Empyrean Essence
 
-*The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+_The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |
