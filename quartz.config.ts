@@ -52,6 +52,7 @@ const config: QuartzConfig = {
         },
       },
     },
+    generateSocialImages: false,
   },
   plugins: {
     transformers: [
@@ -90,7 +91,9 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Plugin.CustomOgImages({
+        colorScheme: "darkMode",
+      }),
     ],
   },
 }
