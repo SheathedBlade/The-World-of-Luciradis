@@ -4,7 +4,8 @@ last-modified: 2024-12-30T22:32:17.1717-05:00
 draft: true
 comments: false
 ---
-*Wanted Poster by the Congregation of Justice, Luxor Citadel*
+
+_Wanted Poster by the Congregation of Justice, Luxor Citadel_
 
 ## WARNING
 
@@ -14,7 +15,7 @@ Should anyone suspect that they came across the **Ascendant Slayer**, do not be 
 
 ---
 
-*Report by the Congregation of Justice, Luxor Citadel*
+_Report by the Congregation of Justice, Luxor Citadel_
 
 The [[Stalwryn Kingdom]] is preparing to hold their annual **Scarring Festival**. As you might know, this festival aims to prepare each nation for combat, and its main event is the mock battle between nations. All the nations are thus encouraged to participate, in order to better prepare their armies for combat. There are rumors surrounding the sudden appearance of a new and upcoming warrior, and people are claiming that this new warrior would be an Ascendant. We will continue to investigate this claim as the Scarring Festival draws closer.
 

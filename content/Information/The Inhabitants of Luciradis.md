@@ -2,17 +2,19 @@
 date: 2023-09-22T11:51:47.4747-04:00
 last-modified: 2023-10-12T03:25:57.5757-04:00
 ---
-*Published by the Congregation of Academia, Luxor Citadel*
+
+_Published by the Congregation of Academia, Luxor Citadel_
 
 # Humanoid Races
+
 ## Akumari
 
 > "Akumaros" is the plural version of this word.
 
 The akumaros are a rare race; not native to Cicatri Ciel, but from the southern lands beyond the horizon. They first immigrated to Cicatri Ciel, and set their roots down on what is now known today as the [[Azamuku Domain]]. While the vast majority of its population is not of Akumari descent, pure Akumari individuals garner immense respect within their communities.
 
->*// K.M. edit //*  
->The ancestral homeplace of the akumaros is in the frigid mountains of **Gokan**, where the developed city of **[[Ifuri]]** takes root. Before the **Cicatri Emigration**, Ifuri was just one of many nomadic Akumari settlements. One could say an Ifurian akumari is much more traditional than those one would find at the Azamuku Domain.
+> _// K.M. edit //_  
+> The ancestral homeplace of the akumaros is in the frigid mountains of **Gokan**, where the developed city of **[[Ifuri]]** takes root. Before the **Cicatri Emigration**, Ifuri was just one of many nomadic Akumari settlements. One could say an Ifurian akumari is much more traditional than those one would find at Gensōkasu.
 
 The most defining physical characteristic of an Akumari is their pair of horns protruding from their head. While the style of horn can vary, this will always be the first thing anyone can use to identify an Akumari. Generally, the color of their horns stay consistent to darker tones, such as black, brown, and deep red.
 
@@ -20,7 +22,7 @@ The akumaros have a natural affinity to cold weather, their skin having been evo
 
 ## Elf
 
-The elves are respecters of the natural order of Luciradis. Overly concerned with the maintenance of nature, the elves are inherently born with the ability to *"hear"* nature, and are only second to the [[The Inhabitants of Luciradis#Terrakin|Terrakin]] when it comes to utilizing invocations that draw power directly from the **Root of Earth**.
+The elves are respecters of the natural order of Luciradis. Overly concerned with the maintenance of nature, the elves are inherently born with the ability to _"hear"_ nature, and are only second to the [[The Inhabitants of Luciradis#Terrakin|Terrakin]] when it comes to utilizing invocations that draw power directly from the **Root of Earth**.
 
 The elves are an introverted race, tending to keep to themselves in most public affairs. The majority of the elven population lies in the [[Ferros Republic]], a haven for elves situated in a dense forest between two large rivers. Only a few groups of elves venture outside the Republic, though it is made difficult to do so due to the intervention of the ruling sovereigns.
 
@@ -58,7 +60,7 @@ The appearance of a Luxori bears a striking resemblance to that of a human's, bu
 
 ## Vyrian
 
-> *// K.M. edit //*  
+> _// K.M. edit //_  
 > This section has been added to reflect the current state of Luciradis's inhabitants.
 > Related: [[#Dragon]]
 
@@ -68,8 +70,8 @@ Vyrians take on a human appearance, with draconic aspects sprinkled in. Namely, 
 
 While the conception of a Vyrian from a pure dragon and human couple is still being researched, the conception of a Vyrian from Vyrian parents operates as how a humanoid race would conceive a child.
 
-
 ---
+
 # Bestial Races
 
 ## Dragon
@@ -78,4 +80,4 @@ The dragons are an extraterrestrial, intelligent race of winged, scaled beasts. 
 
 > The original nomenclature, as one of our researchers found out, is "Hryvernus", or "Hryverni" as plural.
 
-Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Protean Concepts#The Shimmering Wings|Shimmering Wings]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Azamuku Domain]]).
+Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Empyrean Concepts#The Shimmering Wings|Shimmering Wings]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).

@@ -2,8 +2,11 @@
 date: 2023-09-22T11:51:47.4747-04:00
 last-modified: 2023-09-22T12:08:24.2424-04:00
 ---
-*Internal Census of Terystal*
+
+_Internal Census of Terystal_
+
 ## Basic Info
+
 - Age: 54 years
 - Gender: Male
 - Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]/[[The Inhabitants of Luciradis#Luxori|Luxori]]
@@ -15,7 +18,7 @@ last-modified: 2023-09-22T12:08:24.2424-04:00
 - Weight:
 - Occupation: Founder of the Ridge Family, Professor at [[Gryffes Institute]]
 - Relationships:
-	- [[Iris Riedel]]: Student
+  - [[Iris Riedel]]: Student
 
 ## Protean Essence
 

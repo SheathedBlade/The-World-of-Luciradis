@@ -2,12 +2,15 @@
 date: 2023-09-22T11:51:47.4747-04:00
 last-modified: 2023-10-13T22:12:41.4141-04:00
 ---
-*Internal Census of Terystal*
+
+_Internal Census of Terystal_
+
 ## Basic Info
+
 - Age: 19 years
 - Gender: Female
 - Race: Akumari
-- Date of Birth: Paragon's 8th, 10092 ASC *(08/03/10092)*
+- Date of Birth: Paragon's 8th, 10092 ASC _(08/03/10092)_
 - Date of Death: N/A
 - Place of Origin: [[Terystal]], [[Nova Ciel]]
 - Allegiance: [[Terystal]], [[Nova Ciel]]
@@ -15,9 +18,10 @@ last-modified: 2023-10-13T22:12:41.4141-04:00
 - Weight:
 - Occupation: Sophomore at [[Gryffes Institute]]
 - Relationships:
-	- [[Arzen Lynos]]: Mentor
-	- [[Elliot Ridge]]: Professor
-## Protean Essence
+  - [[Arzen Lynos]]: Mentor
+  - [[Elliot Ridge]]: Professor
+
+## Empyrean Essence
 
 |      **Concept** | **Amount of Essence**                       |
 | ----------------:|:------------------------------------------- |
@@ -40,4 +44,3 @@ last-modified: 2023-10-13T22:12:41.4141-04:00
 ## Personality
 
 ## Expertise
-

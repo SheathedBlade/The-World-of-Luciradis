@@ -2,31 +2,34 @@
 date: 2023-09-22T11:51:47.4747-04:00
 last-modified: 2023-10-13T22:11:11.1111-04:00
 ---
-*Internal Census of the Luxor Citadel*  
-*Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
+
+_Internal Census of the Luxor Citadel_  
+_Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai_
+
 ## Basic Info
+
 - Age: 32 years
 - Gender: Female
 - Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
-- Date of Birth: 6th Day of the Seer, from the Year 5245 ASC *(06/04/5245)*
-- Date of Death: 19th Day of the Stargazer, from the Year 5277 ASC *(19/05/5277)*
-- Place of Origin: [[Luxor Citadel]], [[Cicatri Ciel]]
-- Allegiance: None*
+- Date of Birth: 6th Day of the Seer, from the Year 5245 ASC _(06/04/5245)_
+- Date of Death: 19th Day of the Stargazer, from the Year 5277 ASC _(19/05/5277)_
+- Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Allegiance: None\*
 - Height: 5'8'' / 172cm
 - Weight:
-- Occupation: Mercenary, Caretaker in [[Lyntoa Village]]**
+- Occupation: Mercenary, Caretaker in [[Lyntoa Village]]\*\*
 - Relationships:
-	- [[Arzen Lynos]]: Surrogate brother
-	- [[Runo Illustros]]: Father *(deceased)*
-	- [[Varant Illustros]]: Brother
-	- [[Altair Illustros]]: Brother
+  - [[Arzen Lynos]]: Surrogate brother
+  - [[Runo Illustros]]: Father _(deceased)_
+  - [[Varant Illustros]]: Brother
+  - [[Altair Illustros]]: Brother
 
-_* -  Her previous allegiance was to the [[Luxor Citadel]]_  
-_** - Her previous occupation was as a Beacon of the [[The Luxori Covenant|Luxori Covenant]]_
+_\* - Her previous allegiance was to the [[Luxor Citadel]]_  
+_\*\* - Her previous occupation was as a Beacon of the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]]_
 
 ## Protean Essence
 
-*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+_The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
 |      **Concept** | **Amount of Essence**                       |
 | ----------------:|:------------------------------------------- |
@@ -44,7 +47,11 @@ _** - Her previous occupation was as a Beacon of the [[The Luxori Covenant|Luxor
 
 ## Background
 
-Amara Illustros, previously Sister Amara Illustros, is an exiled traveling **beacon** of the [[The Luxori Covenant|Luxori Covenant]], the prominent religious group of the [[Luxor Citadel]]. The nature of how she was exiled, however, is unbeknownst to us, as the Covenant refused to comment further on this topic. Thus, out of respect, only those of us in the know are aware of her existence and subsequent status of the Covenant.
+_"Isn't it the case that we want future generations to have better lives than those of their predecessors? Then, what I have done is simple, really. I strive for a future wherein those who come after us would put surviving as an afterthought. The path I have chosen to take would always be paved in ruin and tragedy._
+
+_My only regret is that you have chosen to shoulder my legacy as your burden. But, if you would consider all that I have done, for you or otherwise, sins, then I'll gladly be a sinner."_
+
+Amara Illustros, previously Sister Amara Illustros, is an exiled traveling **beacon** of the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]], the prominent religious group of the [[Luxor Citadel]]. The nature of how she was exiled, however, is unbeknownst to us, as the Covenant refused to comment further on this topic. Thus, out of respect, only those of us in the know are aware of her existence and subsequent status of the Covenant.
 
 The **Illustros** are a distinguished family within the Luxor Citadel, holding a high position within the ruling government, **particularly with affairs concerning Luxor's military strength**. It was to her father's disappointment when Amara cut all ties with her family after being exiled from the Luxori Covenant.
 
@@ -52,9 +59,7 @@ Amara, since being excommunicated, left Luxor Citadel and traveled the vast land
 
 ## Appearance
 
-
 ## Personality
-
 
 ## Expertise
 
@@ -65,7 +70,8 @@ Amara wields a **double-ended glaive**, a unique weapon bestowed onto her as a h
 Overall, this modification makes her glaive a very dangerous weapon to use, as one would need to have the skill required to use a glaive and a whipsword at the same time. However, at the same time, if used correctly, it is a deadly weapon to use against her foes. Amara herself rarely ever uses the modification, only deploying it when it is absolutely necessary.
 
 ## Confidential Information
-*This is information newly discovered about Amara Illustros by the Cerelicia expedition team.*
+
+_This is information newly discovered about Amara Illustros by the Cerelicia expedition team._
 
 Amara is revealed to be the last known Avatar of the elusive [[Protean Concepts#The Stargazer|Stargazer]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Cicatri Ciel]] to survey the land that's long since abandoned. The Avatars of the expedition team dove down into the depths of the [[Well of Dreams]] in [[Lyntoa Village]]. There, Amara reveals that she had used Ren to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
 
@@ -80,4 +86,3 @@ For the longest time, we had thought Amara had died after a failed ritual in [[L
 Thus, Amara was responsible for the curse of immortality placed on Ren. The reasoning for this was previously unknown, but after the **Second Scarring** came to pass, Amara revealed that she grew very close with the family that she was taking care of in [[Lyntoa Village]]. During that time, the family would eventually have a son that would turn out to be a miscarriage. Borrowing the power of the Stargazer, she willed Ren into existence, with the caveat being that he would be **immortal in all aspects so long as Amara exists in some form**. Since then, she had a sibling-like relationship with Ren, with Amara wanting to only show the beautiful side of the world, while hiding all its dark aspects.
 
 Though her ambitions of resetting the world was ultimately stopped by the Neo Luxor expedition team, Amara's wish to rid the world of the influence of the Concepts was made reality by Ren. Thus, the power of the Concepts stop at the last remaining Avatars, and are never to be reawakened within another being. Now, fate and destiny belongs to the lowest denominator.
-
