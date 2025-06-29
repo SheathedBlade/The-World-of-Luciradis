@@ -1,6 +1,16 @@
 @use "./base.scss";
 
+@font-face {
+  font-family: "Satoshi Variable";
+  src: local("Satoshi Variable"), url("static/Satoshi-Variable.ttf");
+}
+
 // put your custom CSS here!
+
+:root {
+  --bodyFont: "Satoshi Variable" !important;
+}
+
 html {
   --sakura: #cc2364;
   --pink: #f19bbc;
