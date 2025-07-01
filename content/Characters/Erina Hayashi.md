@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T18:44:15.1515-04:00
+last-modified: 2025-07-01T18:10:45.4545-04:00
+comments: false
 ---
 
 *Internal Census of Gensōkyo*  

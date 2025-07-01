@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T18:28:33.3333-04:00
+last-modified: 2025-07-01T18:09:54.5454-04:00
+comments: false
 ---
 
 _Internal Census of the Luxor Citadel_  
@@ -34,10 +35,10 @@ _The below information are results from testing the individual of their "Empyrea
 |          Paragon | <progress value="0" max="100"></progress>   |
 |             Seer | <progress value="100" max="100"></progress> |
 |        Stargazer | <progress value="0" max="100"></progress>   |
-|        Arrowhead | <progress value="0" max="100"></progress>   |
-|         Deceiver | <progress value="30" max="100"></progress>  |
+|         Lifeline | <progress value="0" max="100"></progress>   |
+|       Reflection | <progress value="30" max="100"></progress>  |
 |        Navigator | <progress value="40" max="100"></progress>  |
-|            Ember | <progress value="0" max="100"></progress>   |
+|        Harvester | <progress value="0" max="100"></progress>   |
 |      Illuminator | <progress value="85" max="100"></progress>  |
 |           Matrix | <progress value="5" max="100"></progress>   |
 |      Convergence | <progress value="10" max="100"></progress>  |

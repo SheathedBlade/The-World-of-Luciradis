@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T18:27:57.5757-04:00
+last-modified: 2025-07-01T18:06:22.2222-04:00
+comments: false
 ---
 
 _Internal Census of the Stalwryn Kingdom_  
@@ -45,10 +46,10 @@ _The below information are results from testing the individual of their "Empyrea
 |          Paragon | <progress value="100" max="100"></progress> |
 |             Seer | <progress value="5" max="100"></progress>   |
 |        Stargazer | <progress value="50" max="100"></progress>  |
-|        Arrowhead | <progress value="45" max="100"></progress>  |
-|         Deceiver | <progress value="5" max="100"></progress>   |
+|         Lifeline | <progress value="45" max="100"></progress>  |
+|       Reflection | <progress value="5" max="100"></progress>   |
 |        Navigator | <progress value="20" max="100"></progress>  |
-|            Ember | <progress value="10" max="100"></progress>  |
+|        Harvester | <progress value="10" max="100"></progress>  |
 |      Illuminator | <progress value="20" max="100"></progress>  |
 |           Matrix | <progress value="10" max="100"></progress>  |
 |      Convergence | <progress value="25" max="100"></progress>  |

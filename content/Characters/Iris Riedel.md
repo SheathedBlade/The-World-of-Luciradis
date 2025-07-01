@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T187:541511515:26.2626-04:00
+last-modified: 2025-07-01T18:11:02.022-04:00
+comments: false
 ---
 _Internal Census of Terystal_
 
@@ -28,10 +29,10 @@ _Internal Census of Terystal_
 |          Paragon | <progress value="25" max="100"></progress> |
 |             Seer | <progress value="80" max="100"></progress> |
 |        Stargazer | <progress value="0" max="100"></progress>  |
-|        Arrowhead | <progress value="15" max="100"></progress> |
-|         Deceiver | <progress value="0" max="100"></progress>  |
+|         Lifeline | <progress value="15" max="100"></progress> |
+|       Reflection | <progress value="0" max="100"></progress>  |
 |        Navigator | <progress value="0" max="100"></progress>  |
-|            Ember | <progress value="0" max="100"></progress>  |
+|        Harvester | <progress value="0" max="100"></progress>  |
 |      Illuminator | <progress value="40" max="100"></progress> |
 |           Matrix | <progress value="5" max="100"></progress>  |
 |      Convergence | <progress value="0" max="100"></progress>  |
