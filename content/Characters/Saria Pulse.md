@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-07-01T18:12:45.4545-04:00
+last-modified: 2025-07-01T18:15:02.022-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
@@ -45,10 +45,10 @@ _The below information are results from testing the individual of their "Empyrea
 |          Paragon | <progress value="40" max="100"></progress>  |
 |             Seer | <progress value="25" max="100"></progress>  |
 |        Stargazer | <progress value="0" max="100"></progress>   |
-|        Arrowhead | <progress value="15" max="100"></progress>  |
-|         Deceiver | <progress value="0" max="100"></progress>   |
+|         Lifeline | <progress value="15" max="100"></progress>  |
+|       Reflection | <progress value="0" max="100"></progress>   |
 |        Navigator | <progress value="30" max="100"></progress>  |
-|            Ember | <progress value="55" max="100"></progress>  |
+|        Harvester | <progress value="55" max="100"></progress>  |
 |      Illuminator | <progress value="0" max="100"></progress>   |
 |           Matrix | <progress value="10" max="100"></progress>  |
 |      Convergence | <progress value="5" max="100"></progress>   |
