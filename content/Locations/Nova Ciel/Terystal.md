@@ -1,6 +1,6 @@
 ---
-date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T17:20:58.5858-04:00
+created: 2023-09-22T11:51:47.4747-04:00
+modified: 2025-06-28T17:20:58.5858-04:00
 description: "Terystal: a fusion of modernity and tradition. Though the old, ancient structures were eventually replaced by towering high-rises, the customs and traditions of the Akumari thrive still, as its people, both Akumari and otherwise, strive to make the land, now known as Terystal, into the foremost technological capital of Nova Ciel."
 comments: false
 ---

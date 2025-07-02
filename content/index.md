@@ -1,6 +1,6 @@
 ---
-date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-06-28T18:26:24.2424-04:00
+created: 2023-09-22T11:51:47.4747-04:00
+modified: 2025-06-28T18:26:24.2424-04:00
 description: Homepage for the storage of knowledge surrounding the world of Luciradis. It includes general terminology and information, important individuals that made a mark (whether good or bad) on the world, most well-known locales and history-defining events.
 title: Luciradis Knowledge Database
 ---

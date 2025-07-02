@@ -1,6 +1,6 @@
 ---
-date: 2023-10-13T20:27:21.2121-04:00
-last-modified: 2025-06-28T18:27:11.1111-04:00
+created: 2023-10-13T20:27:21.2121-04:00
+modified: 2025-06-28T18:27:11.1111-04:00
 description: Souls are wont to drift towards the luminescent gates that stands between them and their fate. However, on this day, the secretary chanced to glance at a new, weary soul. A soul whose presence defied the nature of life and death, looking in horror at the others in line.
 ---
 

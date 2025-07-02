@@ -1,6 +1,6 @@
 ---
-date: 2023-09-23T21:42:53.5353-04:00
-last-modified: 2025-07-01T18:13:21.2121-04:00
+created: 2023-09-23T21:42:53.5353-04:00
+modified: 2025-07-01T18:13:21.2121-04:00
 title: Important Characters
 comments: false
 ---

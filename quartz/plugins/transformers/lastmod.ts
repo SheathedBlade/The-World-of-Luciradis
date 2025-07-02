@@ -1,8 +1,8 @@
-import fs from "fs"
 import { Repository } from "@napi-rs/simple-git"
-import { QuartzTransformerPlugin } from "../types"
+import fs from "fs"
 import path from "path"
 import { styleText } from "util"
+import { QuartzTransformerPlugin } from "../types"
 
 export interface Options {
   priority: ("frontmatter" | "git" | "filesystem")[]

@@ -1,6 +1,6 @@
 ---
-date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-07-01T18:11:32.3232-04:00
+created: 2023-09-22T11:51:47.4747-04:00
+modified: 2025-07-01T18:11:32.3232-04:00
 description: Karos Varens was the son, and only child, to King Leoris Varens, and heir to the throne of the Stalwryn Kingdom. His father was strict in preparing Karos for the throne, but allowed him to pursue archery and other adventurous endeavors.
 comments: false
 ---

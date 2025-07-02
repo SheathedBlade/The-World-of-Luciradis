@@ -1,6 +1,6 @@
 ---
-date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2025-07-01T18:00:53.5353-04:00
+created: 2023-09-22T11:51:47.4747-04:00
+modified: 2025-07-01T18:00:53.5353-04:00
 comments: false
 ---
 _Internal Census of Luxor Citadel_
@@ -18,9 +18,9 @@ _Internal Census of Luxor Citadel_
 - Weight:
 - Occupation: Instrument of Wit of the Luxori Covenant
 - Relationships:
-	- [[Amara Illustros]]: Sister
-	- [[Varant Illustros]]: Brother
-	- [[Runo Illustros]]: Father *(deceased)*
+ 	- [[Amara Illustros]]: Sister
+ 	- [[Varant Illustros]]: Brother
+ 	- [[Runo Illustros]]: Father _(deceased)_
 
 ## Empyrean Essence
 
