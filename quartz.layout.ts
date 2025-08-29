@@ -41,6 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.ReaderMode(),
     Component.DesktopOnly(
       Component.Explorer({
         folderClickBehavior: "collapse",
