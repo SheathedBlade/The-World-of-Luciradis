@@ -19,9 +19,11 @@ html {
   --orange: #e87d3e;
   --blue: #496d9e;
   --purple: #b986c8;
+  --emerald: var(--emerald);
 
   --bright-yellow: #f5d69c;
   --warm-white: #fffbf5;
+  --cool-gray: #7d7d7d;
 
   --quote-color: var(--green);
 
@@ -94,19 +96,31 @@ html {
       border: none !important;
 
       &::-moz-progress-bar {
-        background-color: #39b684 !important;
+        background-color: var(--emerald) !important;
       }
       &::-webkit-progress-bar {
         background-color: #d8d8c3 !important;
       }
       &::-webkit-progress-value {
-        background-color: #39b684 !important;
+        background-color: var(--emerald) !important;
       }
     }
 
     em,
     strong :not(table th > strong) {
       color: var(--blue) !important;
+    }
+
+    .page-header p.content-meta {
+      color: var(--cool-gray) !important;
+    }
+
+    .callout {
+      &[data-callout="info"] {
+        border-color: var(--green) !important;
+        border-style: solid !important;
+        background-color: #00b8d420 !important;
+      }
     }
   }
 
