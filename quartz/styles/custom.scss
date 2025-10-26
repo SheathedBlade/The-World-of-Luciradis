@@ -5,9 +5,15 @@
   src: local("Satoshi Variable"), url("static/Satoshi-Variable.ttf");
 }
 
+@font-face {
+  font-family: "Plus Jakarta Sans Variable";
+  src: local("Plus Jakarta Sans Variable"), url("static/PlusJakartaSans-VariableFont_wght.ttf");
+}
+
 // put your custom CSS here!
 
 :root {
+  --titleFont: "Plus Jakarta Sans Variable" !important;
   --bodyFont: "Satoshi Variable" !important;
 }
 
@@ -49,6 +55,24 @@ html {
   p {
     hyphens: none !important;
     -webkit-hyphens: none !important;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 600;
+  }
+
+  article h2,
+  .article-title {
+    font-weight: 500;
+  }
+
+  .page-title > a {
+    font-weight: 800;
   }
 
   .page > #quartz-body {
