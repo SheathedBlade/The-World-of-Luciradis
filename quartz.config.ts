@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         title: {
           name: "Plus Jakarta Sans Variable",
-          weights: [800],
+          weights: [700],
           includeItalic: false,
         },
         header: {

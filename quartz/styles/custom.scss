@@ -71,6 +71,10 @@ html {
     font-weight: 500;
   }
 
+  h1.page-title > a {
+    font-weight: 700;
+  }
+
   .page > #quartz-body {
     & .page-header {
       margin-top: 3rem !important;
