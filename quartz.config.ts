@@ -23,8 +23,16 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        title: "Plus Jakarta Sans Variable",
-        header: "Lexend",
+        title: {
+          name: "Plus Jakarta Sans Variable",
+          weights: [800],
+          includeItalic: false,
+        },
+        header: {
+          name: "Lexend",
+          weights: [500, 600],
+          includeItalic: true,
+        },
         body: "Satoshi Variable",
         code: "Azeret Mono",
       },
