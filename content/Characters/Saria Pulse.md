@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-07-01T20:49:07.077-04:00
+modified: 2025-10-25T21:32:36.3636-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
@@ -13,6 +13,7 @@ _Credit: @lucadark_art_
 
 ## Basic Info
 
+- Full Name: Saria Pulse
 - Age: 4,847 years\*
 - Gender: Female
 - Race: [[The Inhabitants of Luciradis#Vyrian|Vyrian]]
@@ -29,7 +30,7 @@ _Credit: @lucadark_art_
   - [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]]: Father
   - [[Leoris Varens]]: Former employer of the Stalwryn Royal Guard
   - [[Erina Hayashi]]: Friend
-  - [[Rietta Wrynia]]: Friend
+  - [[Rietta Aschlera]]: Friend
 
 _\* - Stalwryn's internal census was conducted when she was 19 years_  
 _\*\* - Her previous allegiances were to the_ [[Factions of Luciradis#Brood of Arodraenix|Brood of Arodraenix]] _and the_ [[Factions of Luciradis#Monarchy of Stalwryn|Stalwryn Monarchy]]  
@@ -39,19 +40,19 @@ _\*\*\* - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
-|      **Concept** | **Amount of Essence**                       |
-| ---------------: | :------------------------------------------ |
-| Shimmering Wings | <progress value="100" max="100"></progress> |
-|          Paragon | <progress value="40" max="100"></progress>  |
-|             Seer | <progress value="25" max="100"></progress>  |
-|        Stargazer | <progress value="0" max="100"></progress>   |
-|         Lifeline | <progress value="15" max="100"></progress>  |
-|       Reflection | <progress value="0" max="100"></progress>   |
-|        Navigator | <progress value="30" max="100"></progress>  |
-|        Harvester | <progress value="55" max="100"></progress>  |
-|      Illuminator | <progress value="0" max="100"></progress>   |
-|           Matrix | <progress value="10" max="100"></progress>  |
-|      Convergence | <progress value="5" max="100"></progress>   |
+| **Concept** | **Amount of Essence**                       |
+| ----------: | :------------------------------------------ |
+|     Expanse | <progress value="100" max="100"></progress> |
+|     Paragon | <progress value="40" max="100"></progress>  |
+|        Seer | <progress value="25" max="100"></progress>  |
+|   Stargazer | <progress value="0" max="100"></progress>   |
+|    Lifeline | <progress value="15" max="100"></progress>  |
+|  Reflection | <progress value="0" max="100"></progress>   |
+|   Navigator | <progress value="30" max="100"></progress>  |
+|   Harvester | <progress value="55" max="100"></progress>  |
+| Illuminator | <progress value="0" max="100"></progress>   |
+|      Matrix | <progress value="10" max="100"></progress>  |
+| Convergence | <progress value="5" max="100"></progress>   |
 
 ## Background
 
@@ -66,7 +67,7 @@ Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of 
 >
 > Saria is a special case; despite having a human-dominated appearance, she maintains a dragon's lifespan.
 
-Saria is also the current Ascendant of the [[Empyrean Concepts#The Shimmering Wings|Shimmering Wings]], though she received them not by choice. This power was bestowed to her by her father (who was the previous Ascendant) as part of a traditional ritual, which involves completing a trial in order to receive the powers of the Shimmering Wings. After the completion of the trial, and the ritual thereafter, the thought of carrying the burden of this immense power proved too much for her, as she ran away from her home at a very young age.
+Saria is also the current Ascendant of the [[Empyrean Concepts#The Expanse|Expanse]], though she received them not by choice. This power was bestowed to her by her father (who was the previous Ascendant) as part of a traditional ritual, which involves completing a trial in order to receive the powers of the Expanse. After the completion of the trial, and the ritual thereafter, the thought of carrying the burden of this immense power proved too much for her, as she ran away from her home at a very young age.
 
 She was found by [[Arzen Lynos]] near the outskirts of the [[Port of Anahymn]], where Arzen had saved her from Arodraenix pursuers, hiding away within the human-populated port city. On Saria's account, the time they left the port city to the [[Stalwryn Kingdom]] was approximately 6 weeks, during of which the two had to gather their own food and amenities due to having no money.
 
@@ -77,7 +78,7 @@ Feeling that they owed King Varens for turning their lives around, Saria and Ren
 > _// K.M. edit //_  
 > Since the fall of the Stalwryn Kingdom, Saria dropped her title of Lead Vanguard. King Varens expressed interest in relieving both Saria's and Ren's duties as knights out of respect for their yearning to explore the world.
 
-Curiously, Saria chose not to input her family's name as her last name. When filling out paperwork for her application to the royal knights, she was conflicted as to whether or not to include the name she loathed so much. Ultimately, Saria decides not to associate herself with her previous family, and tells us she wanted a name to symbolize the companionship between her and Ren in their journey together. In addition, her chosen name would fit quite well with her enhanced hearing of heartbeats through the Concept of the Shimmering Wings. Thus, she put "Pulse" as her last name.
+Curiously, Saria chose not to input her family's name as her last name. When filling out paperwork for her application to the royal knights, she was conflicted as to whether or not to include the name she loathed so much. Ultimately, Saria decides not to associate herself with her previous family, and tells us she wanted a name to symbolize the companionship between her and Ren in their journey together. In addition, her chosen name would fit quite well with her enhanced hearing of heartbeats through the Concept of the Expanse. Thus, she put "Pulse" as her last name.
 
 > _// K.M. edit //_  
 > Keen on reigniting her love of exploring the unknown (a dream that was shared with Arzen), she took to the cosmos at some indefinite point in time, exploring different worlds and meeting new people. Shortly after the start of the conflict with the Stargazer, she would return to aid in the battle.
@@ -96,7 +97,7 @@ Saria has an athletic build, no doubt due to her training as a vanguard. Her bus
 
 Through her Transformation, Saria becomes a dragon of formidable size, with a wingspan of **60 meters (or approximately 197 feet)**. The black scales present on her human form are also present on the underside of the dragon, however its sleek appearance pales in comparison to the blindingly white scales on the rest of her body, which cover everything but the underside.
 
-As an Ascendant of the Shimmering Wings, Saria's wings are appropriately violet in color, just as the legends of the Concept were depicted. When she invokes the Shimmering Call, the wings turn from violet to golden, and Saria assumes a position such that the wings can be easily seen.
+As an Ascendant of the Expanse, Saria's wings developed a vibrant violet hue, just as the legends of the Concept were depicted. When she invokes the Shimmering Call, the wings turn from violet to golden, and Saria assumes a position such that the wings can be easily seen.
 
 > _// K.M. edit //_  
 > In the current era, Saria sports her vanguard outfit as it's considered fashionably acceptable in Nova Ciel, and it's the most comfortable fit for her. This outfit could also easily double as a formal outfit in certain events. Although she likes to change things up in terms of her appearance, she falls back onto this specific outfit if she feels indecisive.
@@ -136,9 +137,9 @@ Saria is also very dismissive of affairs concerning her departure of the Arodrae
 
 Saria uses a swordspear infused with her innate draconic energy. As part of her training as a Kingdom vanguard, Saria uses various lance techniques taught by the most veteran of soldiers, as well as incorporating a unique style taught by [[Arzen Lynos|Arzen]] throughout their travels. The swordspear is a weapon granted to higher-ranking soldiers once they have bested their masters. Saria's swordspear was then modified to house a portion of her draconic magicks, covering the blade in a violet flame hot enough to sear meat in only a few seconds.
 
-Saria also wields the primal instinct of [[Empyrean Concepts#The Shimmering Wings|the Shimmering Wings]]. By tapping into that power, she gains immense agility and strength. While half-breeds tend to struggle to transform into their more pure-primal counterparts, Saria uses the Concept's power to not only easily grant her human form flight via ethereal wings, but also allow her to transform into her fully-fledged draconic form for an extended period of time.
+Saria also wields the primal instinct of [[Empyrean Concepts#The Expanse|the Expanse]]. By tapping into that power, she gains immense agility and strength. While half-breeds tend to struggle to transform into their more pure-primal counterparts, Saria uses the Concept's power to not only easily grant her human form flight via ethereal wings, but also allow her to transform into her fully-fledged draconic form for an extended period of time.
 
-As a vanguard, Saria opted for speed and maneuverability, and thus have taken off the metallic pieces of her outfit and fought with the cloth uniform underneath. This works to her advantage, however, as the rallying power of the Shimmering Wings relies on the user standing out from a crowd. Her bright white uniform is a stark contrast to the gray metal plates of standard-issue armor, allowing more attention onto her.
+As a vanguard, Saria opted for speed and maneuverability, and thus have taken off the metallic pieces of her outfit and fought with the cloth uniform underneath. This works to her advantage, however, as the rallying power of the Expanse relies on the user standing out from a crowd. Her bright white uniform is a stark contrast to the gray metal plates of standard-issue armor, allowing more attention onto her.
 
 ### Magical Combat
 
@@ -150,10 +151,10 @@ This spell is an enhanced version of the basic "Create: Fire" invocation, the di
 
 #### Shimmering Call
 
-Shimmering Call is a spell reserved for the Ascendant of the Shimmering Wings, as it allows Saria to give a rallying call to her allies, boosting morale and giving them strength and endurance. The range of Saria's call in her human form reaches up to a small township sector, with the area of the [[Port of Anahymn]] as an example of the extent of her range.
+Shimmering Call is a spell reserved for the Ascendant of the Expanse, as it allows Saria to give a rallying call to her allies, boosting morale and giving them strength and endurance. The range of Saria's call in her human form reaches up to a small township sector, with the area of the [[Port of Anahymn]] as an example of the extent of her range.
 
 #### Transformation - Draconic Ascension
 
-Saria's Transformation allows her to grow into a dragon of considerable size, towering over our castle walls with ease. In this state, Saria forgoes her lance in favor of her claws and flames. In this form, she commands the full might of the Shimmering Wings, enhancing the aforementioned invocations. Violet Flames serve to enhance her claws as well as her breath of fire. Shimmering Call noticeably increases in range, as her cry can be heard from several battalions.
+Saria's Transformation allows her to grow into a dragon of considerable size, towering over our castle walls with ease. In this state, Saria forgoes her lance in favor of her claws and flames. In this form, she commands the full might of the Expanse, enhancing the aforementioned invocations. Violet Flames serve to enhance her claws as well as her breath of fire. Shimmering Call noticeably increases in range, as her cry can be heard from several battalions.
 
 ![[shimmering_wings.webp]]_Credit: @Anderson_M0311_

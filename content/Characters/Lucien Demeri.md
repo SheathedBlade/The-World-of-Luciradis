@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T17:26:54.5454-04:00
-modified: 2025-07-01T18:12:12.1212-04:00
+modified: 2025-10-25T21:01:58.5858-04:00
 comments: false
 ---
 
@@ -8,6 +8,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 
 ## Basic Info
 
+- Full Name: Lucien Demeri
 - Age: ???
 - Gender: Male
 - Race: Human

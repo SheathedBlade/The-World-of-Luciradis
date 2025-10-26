@@ -1,6 +1,6 @@
 ---
 created: 2024-06-01T22:23:32.3232-04:00
-modified: 2025-06-28T17:38:27.2727-04:00
+modified: 2025-10-25T20:57:56.5656-04:00
 comments: false
 ---
 
@@ -8,6 +8,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 
 ## Basic Info
 
+- Full Name: Brycen val Illustros
 - Age: 44 years
 - Gender: Male
 - Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]

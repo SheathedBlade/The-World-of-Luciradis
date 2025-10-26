@@ -1,6 +1,6 @@
 ---
 created: 2024-06-01T22:54:23.2323-04:00
-modified: 2025-06-28T17:11:58.5858-04:00
+modified: 2025-10-25T20:58:59.5959-04:00
 comments: false
 ---
 
@@ -8,6 +8,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 
 ## Basic Info
 
+- Full Name: Nero Carnegoa
 - Age: ???
 - Gender: Male
 - Race: Human

@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-06-28T17:14:53.5353-04:00
+modified: 2025-10-25T21:26:55.5555-04:00
 ---
 
 _"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."_  

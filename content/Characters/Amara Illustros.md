@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-07-01T18:03:33.3333-04:00
+modified: 2025-10-25T20:57:26.2626-04:00
 comments: false
 ---
 
@@ -9,6 +9,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. 
 
 ## Basic Info
 
+- Full Name: Amara Illustros
 - Age: 32 years
 - Gender: Female
 - Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
@@ -32,19 +33,19 @@ _\*\* - Her previous occupation was as a Beacon of the [[Factions of Luciradis#L
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
-|      **Concept** | **Amount of Essence**                       |
-| ---------------: | :------------------------------------------ |
-| Shimmering Wings | <progress value="0" max="100"></progress>   |
-|          Paragon | <progress value="0" max="100"></progress>   |
-|             Seer | <progress value="5" max="100"></progress>   |
-|        Stargazer | <progress value="100" max="100"></progress> |
-|         Lifeline | <progress value="0" max="100"></progress>   |
-|       Reflection | <progress value="25" max="100"></progress>  |
-|        Navigator | <progress value="20" max="100"></progress>  |
-|        Harvester | <progress value="75" max="100"></progress>  |
-|      Illuminator | <progress value="85" max="100"></progress>  |
-|           Matrix | <progress value="5" max="100"></progress>   |
-|      Convergence | <progress value="70" max="100"></progress>  |
+| **Concept** | **Amount of Essence**                       |
+| ----------: | :------------------------------------------ |
+|     Expanse | <progress value="0" max="100"></progress>   |
+|     Paragon | <progress value="0" max="100"></progress>   |
+|        Seer | <progress value="5" max="100"></progress>   |
+|   Stargazer | <progress value="100" max="100"></progress> |
+|    Lifeline | <progress value="0" max="100"></progress>   |
+|  Reflection | <progress value="25" max="100"></progress>  |
+|   Navigator | <progress value="20" max="100"></progress>  |
+|   Harvester | <progress value="75" max="100"></progress>  |
+| Illuminator | <progress value="85" max="100"></progress>  |
+|      Matrix | <progress value="5" max="100"></progress>   |
+| Convergence | <progress value="70" max="100"></progress>  |
 
 ## Background
 

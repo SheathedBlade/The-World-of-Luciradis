@@ -1,12 +1,13 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-07-01T18:11:02.022-04:00
+modified: 2025-10-25T20:50:58.5858-04:00
 comments: false
 ---
 _Internal Census of Terystal_
 
 ## Basic Info
 
+- Full Name: Iris Riedel
 - Age: 19 years
 - Gender: Female
 - Race: Akumari
@@ -23,19 +24,19 @@ _Internal Census of Terystal_
 
 ## Empyrean Essence
 
-|      **Concept** | **Amount of Essence**                      |
-| ---------------: | :----------------------------------------- |
-| Shimmering Wings | <progress value="0" max="100"></progress>  |
-|          Paragon | <progress value="25" max="100"></progress> |
-|             Seer | <progress value="80" max="100"></progress> |
-|        Stargazer | <progress value="0" max="100"></progress>  |
-|         Lifeline | <progress value="15" max="100"></progress> |
-|       Reflection | <progress value="0" max="100"></progress>  |
-|        Navigator | <progress value="0" max="100"></progress>  |
-|        Harvester | <progress value="0" max="100"></progress>  |
-|      Illuminator | <progress value="40" max="100"></progress> |
-|           Matrix | <progress value="5" max="100"></progress>  |
-|      Convergence | <progress value="0" max="100"></progress>  |
+| **Concept** | **Amount of Essence**                      |
+| ----------: | :----------------------------------------- |
+|     Expanse | <progress value="0" max="100"></progress>  |
+|     Paragon | <progress value="25" max="100"></progress> |
+|        Seer | <progress value="80" max="100"></progress> |
+|   Stargazer | <progress value="0" max="100"></progress>  |
+|    Lifeline | <progress value="15" max="100"></progress> |
+|  Reflection | <progress value="0" max="100"></progress>  |
+|   Navigator | <progress value="0" max="100"></progress>  |
+|   Harvester | <progress value="0" max="100"></progress>  |
+| Illuminator | <progress value="40" max="100"></progress> |
+|      Matrix | <progress value="5" max="100"></progress>  |
+| Convergence | <progress value="0" max="100"></progress>  |
 
 ## Background
 

@@ -1,13 +1,13 @@
 ---
 created: 2024-02-09T02:03:00.000-05:00
-modified: 2025-06-28T18:10:25.2525-04:00
+modified: 2025-10-25T20:49:25.2525-04:00
 comments: false
 ---
 
 _The below details the most up-to-date listing of materials in Luciradis, both artificial and natural._
 
 _Published by the Congregation of Academia, Luxor Citadel_  
-_Amended by the Wareylt Labs R&D Department Director, Rietta Wrynia_
+_Amended by the Wareylt Labs R&D Department Director, Rietta Aschlera_
 
 ---
 

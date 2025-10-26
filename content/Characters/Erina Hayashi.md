@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-07-01T18:10:45.4545-04:00
+modified: 2025-10-25T21:00:25.2525-04:00
 comments: false
 ---
 
@@ -9,6 +9,7 @@ comments: false
 
 ## Basic Info
 
+- Full Name: Erina Hayashi
 - Age: 4,866 years\*
 - Gender: Female
 - Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]
@@ -27,19 +28,19 @@ comments: false
 
 *The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
-|      **Concept** | **Amount of Essence**                      |
-| ---------------: | :----------------------------------------- |
-| Shimmering Wings | <progress value="0" max="100"></progress>  |
-|          Paragon | <progress value="10" max="100"></progress> |
-|             Seer | <progress value="15" max="100"></progress> |
-|        Stargazer | <progress value="0" max="100"></progress>  |
-|         Lifeline | <progress value="0" max="100"></progress>  |
-|       Reflection | <progress value="90" max="100"></progress> |
-|        Navigator | <progress value="0" max="100"></progress>  |
-|        Harvester | <progress value="20" max="100"></progress> |
-|      Illuminator | <progress value="15" max="100"></progress> |
-|           Matrix | <progress value="25" max="100"></progress> |
-|      Convergence | <progress value="10" max="100"></progress> |
+| **Concept** | **Amount of Essence**                      |
+| ----------: | :----------------------------------------- |
+|     Expanse | <progress value="0" max="100"></progress>  |
+|     Paragon | <progress value="10" max="100"></progress> |
+|        Seer | <progress value="15" max="100"></progress> |
+|   Stargazer | <progress value="0" max="100"></progress>  |
+|    Lifeline | <progress value="0" max="100"></progress>  |
+|  Reflection | <progress value="90" max="100"></progress> |
+|   Navigator | <progress value="0" max="100"></progress>  |
+|   Harvester | <progress value="20" max="100"></progress> |
+| Illuminator | <progress value="15" max="100"></progress> |
+|      Matrix | <progress value="25" max="100"></progress> |
+| Convergence | <progress value="10" max="100"></progress> |
 
 ## Background
 

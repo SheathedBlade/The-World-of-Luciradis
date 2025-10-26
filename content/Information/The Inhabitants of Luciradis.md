@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-06-28T18:48:15.1515-04:00
+modified: 2025-10-25T21:29:08.088-04:00
 ---
 
 _Published by the Congregation of Academia, Luxor Citadel_
@@ -62,4 +62,4 @@ The dragons are an extraterrestrial, intelligent race of winged, scaled beasts. 
 
 > The original nomenclature, as one of our researchers found out, is "Hryvernus", or "Hryverni" as plural.
 
-Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Empyrean Concepts#The Shimmering Wings|Shimmering Wings]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).
+Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Empyrean Concepts#The Expanse|Expanse]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).

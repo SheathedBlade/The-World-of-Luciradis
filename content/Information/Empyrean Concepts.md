@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-07-01T20:49:34.3434-04:00
+modified: 2025-10-25T21:28:48.4848-04:00
 comments: false
 ---
 
@@ -30,14 +30,14 @@ The last texts that our scholars have translated dealt with the aftermath of the
 
 Although traces of the Creator end there, there is reason to believe that there is a connection between it and the prevailing religion of Cicatri Ciel: the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]]. The original texts that founded this religion date not too far back from when the Creator's whereabouts mysteriously vanished. Given that their religion worships the Creator and its "teachings", it may not be a coincidence, but attempts at further research into this line of thinking only led to more fictitious accounts, and we have thus ceased this avenue of inquiry.
 
-## The Shimmering Wings
+## The Expanse
 
 **Previous Ascendant:** [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]]  
 **Current Ascendant:** [[Saria Pulse]]
 
-The Shimmering Wings is a title referring to the ancient dragon of legend, Arodraenix, during **the Scarring**, and is known for its heightened primal senses. The most notable aspect of this is the ability to keenly hear the beats of the heart. In addition to this, the Shimmering Wings is known to effortlessly rally all the beasts of the land and sea to their side. During the Scarring, this power proved very useful in not only the defense of its territory, but also the conquest of lands beyond its own. It's aptly named as such from the vivid drawings from ancient texts, giving the wings a vibrant amethyst color alongside the blindingly white scales of the dragon.
+The Expanse is a title referring to the ancient dragon of legend, Arodraenix, during **the Scarring**, and is known for its heightened primal senses. The most notable aspect of this is the ability to keenly hear the beats of the heart. In addition to this, the Expanse is known to effortlessly rally all the beasts of the land, sea, and sky to their side. During the Scarring, this power proved very useful in not only the defense of its territory, but also the conquest of lands beyond its own. It's aptly named as such from the vivid drawings from ancient texts, giving the wings a vibrant amethyst color alongside the blindingly white scales of the dragon.
 
-The descendants of Arodraenix bear the power of the Shimmering Wings, giving priority to the [[Factions of Luciradis#Brood of Arodraenix|new breed of dragons]] that emerged unscathed from the Scarring. Therefore, it is highly unlikely, if not impossible, that non-draconic beings would be able to have any essence of the Shimmering Wings.
+The descendants of Arodraenix bear the power of the Expanse, giving priority to the [[Factions of Luciradis#Brood of Arodraenix|new breed of dragons]] that emerged unscathed from the Scarring. Therefore, it is highly unlikely, if not impossible, that non-draconic beings would be able to have any essence of the Expanse.
 
 ## The Paragon
 
@@ -86,7 +86,7 @@ Scrolls from the temples of Gensōkyo depict the Reflection as an individual tha
 ## The Navigator
 
 **Previous Ascendant:** [[Cyrus Orico]]  
-**Current Ascendant:** [[Rietta Wrynia]]
+**Current Ascendant:** [[Rietta Aschlera]]
 
 The first records of the Navigator were discovered through the ramblings of sailors, speaking of a person that could only be described as a natural compass. It was able to guide ships to their destinations without fail, and without duels with the unpleasant seas. Thus, this person was given the title of the Navigator.
 

@@ -1,12 +1,13 @@
 ---
 created: 2023-09-24T17:06:31.3131-04:00
-modified: 2025-06-28T17:44:26.2626-04:00
+modified: 2025-10-25T20:49:36.3636-04:00
 ---
 
 _Internal Census of Galaderyn_
 
 ## Basic Info
 
+- Full Name: Cyrus Orico
 - Age: ???
 - Gender: Male
 - Race: Elf
@@ -18,23 +19,23 @@ _Internal Census of Galaderyn_
 - Weight:
 - Occupation: Manaward Iridescent
 - Relationships:
-  - [[Rietta Wrynia]]
+  - [[Rietta Aschlera]]
 
 ## Empyrean Essence
 
-|      **Concept** | **Amount of Essence**                       |
-| ---------------: | :------------------------------------------ |
-| Shimmering Wings | <progress value="0" max="100"></progress>   |
-|          Paragon | <progress value="0" max="100"></progress>   |
-|             Seer | <progress value="5" max="100"></progress>   |
-|        Stargazer | <progress value="0" max="100"></progress>   |
-|         Lifeline | <progress value="20" max="100"></progress>  |
-|       Reflection | <progress value="0" max="100"></progress>   |
-|        Navigator | <progress value="100" max="100"></progress> |
-|        Harvester | <progress value="60" max="100"></progress>  |
-|      Illuminator | <progress value="0" max="100"></progress>   |
-|           Matrix | <progress value="40" max="100"></progress>  |
-|      Convergence | <progress value="10" max="100"></progress>  |
+| **Concept** | **Amount of Essence**                       |
+| ----------: | :------------------------------------------ |
+|     Expanse | <progress value="0" max="100"></progress>   |
+|     Paragon | <progress value="0" max="100"></progress>   |
+|        Seer | <progress value="5" max="100"></progress>   |
+|   Stargazer | <progress value="0" max="100"></progress>   |
+|    Lifeline | <progress value="20" max="100"></progress>  |
+|  Reflection | <progress value="0" max="100"></progress>   |
+|   Navigator | <progress value="100" max="100"></progress> |
+|   Harvester | <progress value="60" max="100"></progress>  |
+| Illuminator | <progress value="0" max="100"></progress>   |
+|      Matrix | <progress value="40" max="100"></progress>  |
+| Convergence | <progress value="10" max="100"></progress>  |
 
 ## Background
 

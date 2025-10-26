@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-07-01T18:11:47.4747-04:00
+modified: 2025-10-25T21:01:35.3535-04:00
 comments: false
 ---
 
@@ -9,6 +9,7 @@ _Edited by the Independent Journal of Historians of Nova Ciel_
 
 ## Basic Info
 
+- Full Name: Leoris Charden Varens
 - Age: 74 years
 - Gender: Male
 - Race: Human
