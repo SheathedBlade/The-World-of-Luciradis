@@ -110,6 +110,10 @@ html {
     border-bottom: 2px solid #404040 !important;
   }
 
+  .graph .graph-outer {
+    border: 2px solid var(--lightgray) !important;
+  }
+
   &[saved-theme="light"] {
     div.search > .search-button {
       background-color: var(--lightbone);
