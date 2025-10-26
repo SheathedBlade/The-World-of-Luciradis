@@ -30,6 +30,8 @@ html {
   --bright-yellow: #f5d69c;
   --warm-white: #fffbf5;
   --cool-gray: #7d7d7d;
+  --lightbone: #e6e0cb;
+  --bone: #d8d8c3;
 
   --quote-color: var(--green);
 
@@ -49,7 +51,7 @@ html {
   }
 
   img {
-    pointer-events: none !important;
+    pointer-events: none;
   }
 
   p {
@@ -109,24 +111,29 @@ html {
   }
 
   &[saved-theme="light"] {
-    div.search > #search-button {
+    div.search > .search-button {
+      background-color: var(--lightbone);
       & > p {
-        color: #414141 !important;
+        color: #414141;
       }
     }
 
+    .graph .graph-container {
+      background-color: var(--lightbone);
+    }
+
     progress {
-      background-color: #d8d8c3 !important;
-      border: none !important;
+      background-color: var(--bone);
+      border: none;
 
       &::-moz-progress-bar {
-        background-color: var(--emerald) !important;
+        background-color: var(--emerald);
       }
       &::-webkit-progress-bar {
-        background-color: #d8d8c3 !important;
+        background-color: var(--bone);
       }
       &::-webkit-progress-value {
-        background-color: var(--emerald) !important;
+        background-color: var(--emerald);
       }
     }
 
@@ -150,14 +157,14 @@ html {
 
   &[saved-theme="dark"] {
     .article-title {
-      color: #e9d0a8 !important;
+      color: #e9d0a8;
     }
 
     .page-title {
       & > a {
-        color: #e9d0a8 !important;
+        color: #e9d0a8;
         &:hover {
-          color: var(--warm-white) !important;
+          color: var(--warm-white);
         }
       }
     }
@@ -196,22 +203,34 @@ html {
     }
 
     progress {
-      background-color: #4b4d55 !important;
-      border: none !important;
+      background-color: #4b4d55;
+      border: none;
 
       &::-moz-progress-bar {
-        background-color: var(--yellow) !important;
+        background-color: var(--yellow);
       }
       &::-webkit-progress-bar {
-        background-color: #4b4d55 !important;
+        background-color: #4b4d55;
       }
       &::-webkit-progress-value {
-        background-color: var(--yellow) !important;
+        background-color: var(--yellow);
       }
     }
 
-    .search > #search-container > #search-space > input {
-      color: var(--warm-white) !important;
+    .search > .search-container > .search-space {
+      & > input {
+        color: var(--warm-white) !important;
+      }
+      & .results-container > a > h3 {
+        color: var(--bright-yellow) !important;
+      }
+    }
+
+    .search > .search-button {
+      background-color: #404040;
+      & > p {
+        color: #7d7d7d;
+      }
     }
 
     table th > strong {
