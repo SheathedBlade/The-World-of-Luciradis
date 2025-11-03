@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T20:43:57.5757-04:00
+modified: 2025-11-03T18:13:26.2626-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -69,11 +69,14 @@ It is also at this time where our physicians have confirmed the **Empyrean essen
 
 ## Appearance
 
-Rietta is a young girl with pointed ears and fair skin. She also has a slender frame, which is not unexpected of someone whose job is to foray and gather materials in the wild. Her bust size is measured to be D/E (US/JP). One can expect her youthful appearance to stay consistent, as elves tend to retain their young adult look up until they reach the last quarter of their lifespans. Generally, an elf's total lifespan is an average of 8000 years.
+![[Rietta.png]]
+*Credit: @shouz140*
 
-Rietta has long, **caramel-colored hair**, with side bangs reaching to her shoulders. She usually ties her hair in a ponytail, but without it, the ends of her hair reaches all the way down her back. Rietta also has amber eyes, a trait inherited from her mother. Rietta has matching headpieces that she attaches near both of her ears, which give her a more whimsical look.
+Rietta is a young girl with pointed ears and fair skin. She also has a slender frame, which is not unexpected of someone whose job is to foray and gather materials in the wild. Her bust size is measured to be E/F (US/JP). One can expect her youthful appearance to stay consistent, as elves tend to retain their young adult look up until they reach the last quarter of their lifespans. Generally, an elf's total lifespan is an average of 8000 years.
 
-Rietta mainly dons her comfortable alchemist outfit, which consists of {torso clothing I know there's a lab coat-esque aesthetic with a vest}, **black, tight-fitting shorts** with **sheer tights** underneath, and {I'll have to think about boots}. For her work, she does carry around her **owl horn-rimmed glasses**, with a black frame with golden metal engravings. Rietta only uses her glasses for precise alchemical work.
+Rietta has long, **caramel-colored hair**, with side bangs reaching to her shoulders. She usually ties her hair in a ponytail, but without it, the ends of her hair reaches all the way down her back. Rietta also has amber eyes, a trait inherited from her mother. Rietta has a floral headpiece that she attaches on her bangs, which give her a more whimsical look. This motif is found on other parts of her outfit, as well as her weaponry.
+
+Rietta mainly dons her comfortable alchemist outfit, which consists of a sleeveless turtleneck (which exposes her midriff), a lab coat/trench coat, tight-fitting shorts with sheer leggings underneath, and leather long boots. For her work, she does carry around her **owl horn-rimmed glasses**, with a black frame with golden metal engravings. Rietta only uses her glasses for precise alchemical work.
 
 She is often seen with alchemical gadgets and concoctions, though a fairly recent addition to her arsenal is a very unique firearm that utilizes her alchemical compounds. The firearm dismantles into three parts for portability, and it can easily be put back together for a combat situation. She commonly stores the weapon into a inconspicuous bag, along with reserves of ammunition, in the form of [[Catalog of Materials#Caladonic Steel|caladonic steel]] bullets, and dangerous alchemical solutions that coat the bullet to give it special effects.
 
