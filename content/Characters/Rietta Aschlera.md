@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-11-03T18:13:26.2626-05:00
+modified: 2025-11-03T21:56:37.3737-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
