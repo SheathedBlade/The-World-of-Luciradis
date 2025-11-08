@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-11-03T21:56:37.3737-05:00
+modified: 2025-11-07T20:14:55.5555-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -69,7 +69,7 @@ It is also at this time where our physicians have confirmed the **Empyrean essen
 
 ## Appearance
 
-![[Rietta.png]]
+![[rietta-refsheet.webp]]
 *Credit: @shouz140*
 
 Rietta is a young girl with pointed ears and fair skin. She also has a slender frame, which is not unexpected of someone whose job is to foray and gather materials in the wild. Her bust size is measured to be E/F (US/JP). One can expect her youthful appearance to stay consistent, as elves tend to retain their young adult look up until they reach the last quarter of their lifespans. Generally, an elf's total lifespan is an average of 8000 years.

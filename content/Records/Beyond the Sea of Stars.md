@@ -1,11 +1,11 @@
 ---
 created: 2024-06-27T20:46:44.4444-04:00
-modified: 2025-06-28T17:11:59.5959-04:00
+modified: 2025-11-07T20:13:30.3030-05:00
 draft: false
 description: Once, a wayward family found shelter and solace upon the world's nest of leaves, only to be pulled into unending conflict and strife. The girl seeks freedom from traditions forced upon her by her father, and finds a boy who wished the same. They stayed together, exploring every leaf that grew upon the nest, but the cruel passage of time soon tested the boy's will to live, and became disillusioned with his life. So, until he finds purpose in himself, she will explore, in his stead, past the small nest of leaves, daring to travel beyond the blanket of stars dotting the night sky - to worlds beyond the grasp of the roots of Luciradis.
 comments: true
 ---
-
+![[wayward_saria.webp]]
 **_Appearances:_** [[Saria Pulse]], Orsilus of Arodraenix
 
 _Once, a wayward family found shelter and solace upon the world's nest of leaves, only to be pulled into unending conflict and strife. The girl seeks freedom from traditions forced upon her by her father, and finds a boy who wished for the same. They stayed together, exploring every leaf that grew upon the nest, but the cruel passage of time soon tested the boy's will to live, and became disillusioned with his life._

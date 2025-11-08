@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T21:32:36.3636-04:00
+modified: 2025-11-07T20:15:09.099-05:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
@@ -88,7 +88,7 @@ Curiously, Saria chose not to input her family's name as her last name. When fil
 ![[saria-refsheet.webp]]
 _Credit: @8Ovjfg8YRwM7qXz_
 
-Saria, as a daughter to the dragons, has very noticeable draconic features, including her pitch-black scales covering small portions of her pale skin. In addition, black horns protrude from the top of her head, with a tail reaching the length of her legs. Despite this, however, she takes on a human-dominated appearance. Saria has long, flowing platinum blonde hair with natural red highlights, along with teal eyes.
+Saria, as a daughter to the dragons, has very noticeable draconic features, including her pitch-black scales covering small portions of her pale skin. In addition, black horns protrude from the top of her head, with a tail reaching the length of her legs. The tail has vibrant fins near the base. Despite this, however, she takes on a human-dominated appearance. Saria has long, flowing platinum blonde hair with natural red highlights, along with teal eyes.
 
 Saria has an athletic build, no doubt due to her training as a vanguard. Her bust size is F/G (US/JP), so she does have a slightly voluptuous and curvy appearance. She bears a love crest near her abdominal area, which Saria tells us it's as proof of her and [[Arzen Lynos|Arzen's]] affection and love for each other.
 
