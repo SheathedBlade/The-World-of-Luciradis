@@ -23,7 +23,7 @@ _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. My
 - Relationships:
   - [[Arzen Lynos]]: Arch-enemy
   - [[Brycen val Illustros]]: Co-member of the original party of heroes
-  - [[Lucien Demeri]]: Co-member of the original party of heroes
+  - [[Lucian Demeri]]: Co-member of the original party of heroes
   - [[Nero Carnegoa]]
 
 ## Empyrean Essence

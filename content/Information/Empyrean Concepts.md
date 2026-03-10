@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T21:28:48.4848-04:00
+modified: 2025-12-06T01:58:42.4242-05:00
 comments: false
 ---
 
@@ -59,7 +59,7 @@ In addition to incredible perception, another trait of the original Seer was the
 
 Deciphered texts preceding **the Scarring** described the Seer holding immense hatred and contempt towards the other Empyrean Concepts before the events of **the Scarring**, though previous texts would suggest otherwise. It is said that it was then that the Seer peered into the future and witnessed a revelation: the future beheld the end of the Empyrean Concepts.
 
-## The Stargazer
+## The Stargazer (Horizon)
 
 **Previous Ascendant:** Unknown  
 **Current Ascendant:** [[Amara Illustros|Unknown]]
@@ -114,9 +114,9 @@ In deciphered illustrations and scrolls, the original Matrix, despite its name d
 
 ## The Convergence
 
-**Last Known Ascendant:** Unknown
+**Last Known Ascendant:** [[Astos Yerazel|Ả̷̢̱͒̀s̶̎ͅt̵̻̣́͠ͅo̸̧͐̓͘s̵̥̺͊̀͛ ̴̘̘͑́̎ͅY̷̧̲̪̔̓͠e̵͖̤̯̿r̸̻͝ä̷̧̗́͐z̷̯̅ė̶͎̖̈͜͠l̶͇̼̔͊͜]] 
 
-The Convergence was said to be the original creator of the popularized sundial device of eld, giving the people of Luciradis the ability to accurately tell time without having to tediously observe the positions of sun and moon, but rather through the shadows of the sun. The individual behind the title is said to be a master artisan and lauded as the first timekeeper. Due to the popularity of the sundial, the master artisan's services became high in demand, which led the artisan to hire apprentices throughout the land to aid in his work. Soon after, the master artisan left his workshop to travel the lands with a party of adventurers, leaving behind various blueprints and notes to his apprentices.
+The Convergence was said to be the original creator of the popularized sundial, giving the people of Luciradis the ability to accurately tell time without having to tediously observe the positions of sun and moon, but rather through the shadows of the sun. The individual behind the title is said to be a master artisan and lauded as the first timekeeper. Due to the popularity of the sundial, the master artisan's services became high in demand, which led the artisan to hire apprentices throughout the land to aid in his work. Soon after, the master artisan left his workshop to travel the lands with a party of adventurers, leaving behind various blueprints and notes to his apprentices.
 
 It is said that during **the Scarring**, the Convergence produced tools of war, including firearms, spears, swords, and accessories of legendary status. These legendary relics are safely stored in various exhibits; though their time has passed, it serves as inspiration for future craftsmen and artisans. The knowledge behind the creation of these tools have been lost to time, but the methods in which to extract the properties of various materials have been passed down to the Ascendants of the Convergence.
 

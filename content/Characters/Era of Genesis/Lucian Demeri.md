@@ -8,7 +8,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 
 ## Basic Info
 
-- Full Name: Lucien Demeri
+- Full Name: Lucian Demeri
 - Age: ???
 - Gender: Male
 - Race: Human

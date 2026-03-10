@@ -21,7 +21,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 - Occupation:
 - Relationships:
   - [[Driardos Malairse]]
-  - [[Lucien Demeri]]
+  - [[Lucian Demeri]]
 
 ## Background
 

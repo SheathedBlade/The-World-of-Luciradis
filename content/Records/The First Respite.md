@@ -4,7 +4,7 @@ modified: 2025-06-28T18:27:11.1111-04:00
 description: Souls are wont to drift towards the luminescent gates that stands between them and their fate. However, on this day, the secretary chanced to glance at a new, weary soul. A soul whose presence defied the nature of life and death, looking in horror at the others in line.
 ---
 
-**_Appearances:_** [[Arzen Lynos]], [[Lucien Demeri]]
+**_Appearances:_** [[Arzen Lynos]], [[Lucian Demeri]]
 
 _Souls are wont to drift towards the luminescent gates that stands between them and their fate. However, on this day, the secretary chanced to glance at a new, weary soul. A soul whose presence defied the nature of life and death, looking in horror at the others waiting in line._
 
@@ -59,7 +59,7 @@ Inside the building was a small office, with papers and books sprawled out along
 
 _Are...these names of people?_ I turned my attention towards the middle of the room. There, a grand wooden desk stood, with a stack of books on one side, and a small ink bottle and pen on the other side. The man sat down, turning to face me on his leather chair.
 
-"You may call me [[Lucien Demeri]], friend," the man said with a smile. "I hope you don't mind the mess I've made in here, I've not had a guest in quite a while."
+"You may call me [[Lucian Demeri]], friend," the man said with a smile. "I hope you don't mind the mess I've made in here, I've not had a guest in quite a while."
 
 "That's nice and all, but it doesn't explain why you invited me in the first place," I responded, crossing my arms. "Doesn't make sense to me why you would single me out from the many groups of people in line."
 

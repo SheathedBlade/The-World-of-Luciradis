@@ -13,7 +13,7 @@ Luciradis roughly translates to _"shining root"_ in ancient tongues, which refer
 
 ## System of Time
 
-All beings of Luciradis currently follow a system of time concocted by the joint efforts of the respective first Ascendants of the Empyrean Concepts: [[Empyrean Concepts#The Convergence|the Convergence]] and [[Empyrean Concepts#The Matrix|the Matrix]].
+All beings of Luciradis currently follow a system of time concocted by the joint efforts of the respective first Ascendants of the Empyrean Concepts: [[Empyrean Concepts#The Convergence|the Convergence]] and [[Empyrean Concepts#The Matrix|the Matrix]]. Time, as a concept, was first realized by the maker of the sundial, a legendary artisan of the Era of Genesis. Thus, the calendar is aptly named after him: the Astos Calendar.
 
 Dates are written as such: N-th Day of the Concept, from the Year X (BSC/ASC), where _N_ represents the numbered day within the Concept's month, and _X_ represents the specified year. _BSC_ is the shorthand for _"Before Scarring"_, and _ASC_ is the shorthand for _"After Scarring"_.
 

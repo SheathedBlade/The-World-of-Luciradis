@@ -24,7 +24,7 @@ Each soul embarks on a journey that reflects the way they had lived in life, and
 
 ### Gates of the Creator
 
-A set of golden gates situated in front of the monumental **Tree of Creation**. Here, the souls of the departed wait patiently for the [[Lucien Demeri|Gatekeeper]] to let them through. The Gatekeeper resides in an office building beside the gates, taking note of each soul's life, regrets, and wishes, before sending them on their way. After that, it is up to fate whether these souls are to be reused for reincarnation, combined with others to form new life, or become the lifeforce of the Tree of Creation, keeping the world alive and healthy for the next generation of life to exist upon.
+A set of golden gates situated in front of the monumental **Tree of Creation**. Here, the souls of the departed wait patiently for the [[Lucian Demeri|Gatekeeper]] to let them through. The Gatekeeper resides in an office building beside the gates, taking note of each soul's life, regrets, and wishes, before sending them on their way. After that, it is up to fate whether these souls are to be reused for reincarnation, combined with others to form new life, or become the lifeforce of the Tree of Creation, keeping the world alive and healthy for the next generation of life to exist upon.
 
 ### Tree of Creation
 

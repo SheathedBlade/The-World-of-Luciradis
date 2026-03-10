@@ -5,6 +5,6 @@ draft: true
 comments: true
 ---
 
-**_Appearances:_** [[Arzen Lynos]], [[Saria Pulse]], [[Rietta Aschlera]], [[Erina Hayashi]], [[Lucien Demeri]], [[Iris Riedel]], [[Altair Illustros]], [[Varant Illustros]]
+**_Appearances:_** [[Arzen Lynos]], [[Saria Pulse]], [[Rietta Aschlera]], [[Erina Hayashi]], [[Lucian Demeri]], [[Iris Riedel]], [[Altair Illustros]], [[Varant Illustros]]
 
 ---
