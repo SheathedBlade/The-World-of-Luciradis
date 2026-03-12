@@ -115,6 +115,13 @@ html {
     border: 2px solid var(--lightgray) !important;
   }
 
+  .callout {
+    &[data-callout="dialogue-right"] {
+      text-align: right;
+      padding-left: 0;
+    }
+  }
+
   &[saved-theme="light"] {
     div.search > .search-button {
       background-color: var(--lightbone);
