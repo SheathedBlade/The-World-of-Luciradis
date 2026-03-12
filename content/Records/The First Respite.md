@@ -133,7 +133,37 @@ _Right. I was killed._ I stood up to take off the broken armor. I tested my powe
 
 I can scarce remember what happened in that vision. _That can't be a dream, can it?_ Before me were just ruins of a grand kingdom. It could no longer be called Stalwryn. Atop the balcony, I gazed at the destroyed houses, the razed markets, the mangled bodies, and I felt a strange sense of heaviness. _I couldn't protect them._ Then, voices started piling one after another.
 
-_You failed. You couldn't save us. Kill them! Those Luxori bastards should just fucking die! They don't deserve to live! Kill them! Kill them all!_
+_You failed._ 
+
+*You couldn't save us.* 
+
+*Kill them!* 
+
+*Those Luxori bastards should just fucking die!* 
+
+*They don't deserve to live!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+*Kill them!* 
+
+_Kill them all!_
 
 "Shut up. Shut up. SHUT UP! SHUT THE FUCK UP!" I screamed. But still, the voices would not die down. For those feelings were the same as mine. The dead wanted their retribution, as did I.
 
