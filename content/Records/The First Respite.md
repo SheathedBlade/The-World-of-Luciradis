@@ -1,6 +1,6 @@
 ---
 created: 2023-10-13T20:27:21.2121-04:00
-modified: 2025-06-28T18:27:11.1111-04:00
+modified: 2026-03-12T00:23:59.5959-04:00
 description: Souls are wont to drift towards the luminescent gates that stands between them and their fate. However, on this day, the secretary chanced to glance at a new, weary soul. A soul whose presence defied the nature of life and death, looking in horror at the others in line.
 ---
 
@@ -24,14 +24,23 @@ These thoughts were fleeting, second only to the thought of reaching the top of 
 
 The tree was only barely closer from where I originally started, but I arrived at what looked to be a checkpoint of sorts. The shadowy figures were lined up behind a set of closed golden gates, with a lone building on the side. The gates seemed to have been closed for quite a while, as evidenced by the amount of figures waiting behind it. _Are these shadows...people?_ I surveyed the area, going up to various shadows to peer any information from them. Though it was faint, I could hear voices emanating from the shadowy figures.
 
-_"Mama, where's Papa?"_  
-_"D-don't worry dear, we'll meet Papa soon. You have to be patient."_
+>[!dialogue-left]
+>_"Mama, where's Papa?"_  
 
-_"How could this be? That Luxori knight just wiped out our knights at the market square!"_  
-_"How could this happen?! Is there someone truly so powerful?"_  
-_"Surely he is no match for the King!"_
+>[!dialogue-right]
+>_"D-don't worry dear, we'll meet Papa soon. You have to be patient."_
 
-_"Where's my son?! He's so young, he still hasn't seen the world! Where is he?! I just want to see him again..."_
+>[!dialogue-left]
+>_"How could this be? That Luxori knight just wiped out our knights at the market square!"_  
+
+>[!dialogue-right]
+>_"Such power?! That the skies should spawn such a monster in our midst!"_  
+
+>[!dialogue-left]
+>_"Surely they are no match for the King!"_  
+
+>[!dialogue-right]
+>_"Where's my son?! He's so young, he still hasn't seen the world! Where is he?! I just want to see him again..."_
 
 And, slowly, the realization finally hit me.
 
@@ -133,37 +142,53 @@ _Right. I was killed._ I stood up to take off the broken armor. I tested my powe
 
 I can scarce remember what happened in that vision. _That can't be a dream, can it?_ Before me were just ruins of a grand kingdom. It could no longer be called Stalwryn. Atop the balcony, I gazed at the destroyed houses, the razed markets, the mangled bodies, and I felt a strange sense of heaviness. _I couldn't protect them._ Then, voices started piling one after another.
 
-_You failed._ 
+>[!dialogue-center]
+>_You failed._ 
 
-*You couldn't save us.* 
+>[!dialogue-center]
+>*You couldn't save us.* 
 
-*Kill them!* 
+>[!dialogue-rage-left]
+>*Traitors, the whole lot of them!*  
 
-*Those Luxori bastards should just fucking die!* 
+>[!dialogue-rage-right]
+>*Those Luxori bastards should just fucking die!* 
 
-*They don't deserve to live!* 
+>[!dialogue-center]
+>*They don't deserve to live!* 
 
-*Kill them!* 
+>[!dialogue-rage-left]
+>*Raze their citadel to the ground!*   
 
-*Kill them!* 
+>[!dialogue-rage-right]
+>*What a pathetic excuse of our army.* 
 
-*Kill them!* 
+>[!dialogue-center]
+>*Kill them!* 
 
-*Kill them!* 
+>[!dialogue-rage-left]
+>*Don't leave anyone alive!* 
 
-*Kill them!* 
+>[!dialogue-rage-right]
+>*Prove yourself with blood!*  
 
-*Kill them!* 
+>[!dialogue-center]
+>*Kill them!* 
 
-*Kill them!* 
+>[!dialogue-rage-left]
+>*Paragon of what? Unbelievable...* 
 
-*Kill them!* 
+>[!dialogue-center]
+>*Take responsibility! Enact your revenge! PARAGON!* 
 
-*Kill them!* 
+>[!dialogue-center]
+>*Kill them!* 
 
-*Kill them!* 
+>[!dialogue-center]
+>*Kill them!* 
 
-_Kill them all!_
+>[!dialogue-center]
+>_Kill them all!_
 
 "Shut up. Shut up. SHUT UP! SHUT THE FUCK UP!" I screamed. But still, the voices would not die down. For those feelings were the same as mine. The dead wanted their retribution, as did I.
 
