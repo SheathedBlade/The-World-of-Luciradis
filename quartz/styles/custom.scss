@@ -25,6 +25,7 @@ html {
   --orange: #e87d3e;
   --blue: #496d9e;
   --purple: #b986c8;
+  --deepred: #e67e80;
   --emerald: #39b684;
 
   --bright-yellow: #f5d69c;
@@ -144,6 +145,7 @@ html {
     em,
     strong :not(table th > strong) {
       color: var(--blue) !important;
+      font-weight: 500 !important;
     }
 
     .page-header p.content-meta {
@@ -184,7 +186,8 @@ html {
 
     em,
     strong {
-      color: var(--purple) !important;
+      color: var(--deepred) !important;
+      font-weight: 500 !important;
     }
 
     blockquote {
