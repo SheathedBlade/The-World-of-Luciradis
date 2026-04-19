@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         title: {
-          name: "Plus Jakarta Sans Variable",
-          weights: [700],
+          name: "Hanken Grotesk",
+          weights: [700, 800, 900],
           includeItalic: false,
         },
         header: {
@@ -43,8 +43,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#3d5a6e",
+          tertiary: "#6b8f8f",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
