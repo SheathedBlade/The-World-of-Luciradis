@@ -1,8 +1,10 @@
+import { Root } from "hast"
+import rehypeAutolinkHeadings from "rehype-autolink-headings"
+import rehypeSlug from "rehype-slug"
 import remarkGfm from "remark-gfm"
 import smartypants from "remark-smartypants"
+import { visit } from "unist-util-visit"
 import { QuartzTransformerPlugin } from "../types"
-import rehypeSlug from "rehype-slug"
-import rehypeAutolinkHeadings from "rehype-autolink-headings"
 
 export interface Options {
   enableSmartyPants: boolean
@@ -12,6 +14,50 @@ export interface Options {
 const defaultOptions: Options = {
   enableSmartyPants: true,
   linkHeadings: true,
+}
+
+function hasCalloutClass(className: any): boolean {
+  if (typeof className === "string") {
+    return className.split(/\s+/).includes("callout")
+  }
+  if (Array.isArray(className)) {
+    return className.some((value) => typeof value === "string" && value === "callout")
+  }
+  return false
+}
+
+function isCalloutBlockquote(node: any): boolean {
+  if (node?.type !== "element" || node.tagName !== "blockquote") return false
+  const props = node.data?.hProperties ?? {}
+  return (
+    props["data-callout"] !== null || props.dataCallout !== null || hasCalloutClass(props.className)
+  )
+}
+
+function removeCalloutHeadingAnchors() {
+  return (tree: Root) => {
+    const calloutHeadings = new Set<any>()
+    visit(tree, "element", (node: any) => {
+      if (!isCalloutBlockquote(node)) return
+      visit(node, "element", (child: any) => {
+        if (/^h[1-6]$/.test(child.tagName)) {
+          calloutHeadings.add(child)
+        }
+      })
+    })
+    visit(tree, "element", (node: any) => {
+      if (!calloutHeadings.has(node)) return
+      if (node.properties) {
+        delete node.properties.id
+      }
+      if (Array.isArray(node.children)) {
+        node.children = node.children.filter((child: any) => {
+          if (child?.type !== "element" || child.tagName !== "a") return true
+          return child.properties?.role !== "anchor"
+        })
+      }
+    })
+  }
 }
 
 export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
@@ -69,6 +115,7 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
               },
             },
           ],
+          () => removeCalloutHeadingAnchors(),
         ]
       } else {
         return []
