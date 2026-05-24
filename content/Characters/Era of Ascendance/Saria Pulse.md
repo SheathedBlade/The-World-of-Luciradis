@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-11-07T20:15:09.099-05:00
+modified: 2026-05-24T18:36:11.1111-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
@@ -8,51 +8,42 @@ comments: false
 _Internal Census of the Stalwryn Kingdom_  
 _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
 
-![[saria_terystal.webp]]
-_Credit: @lucadark_art_
+> [!infobox]
+> # Saria Pulse
+> ![[saria_terystal_portrait.png]]
+> _Credit: @lucadark_art_
+> 
+> | | |
+> | ---: | :--- |
+> | Full Name | Saria Pulse |
+> | Age | 4,847 years |
+> | Gender | Female | 
+> | Race | [[The Inhabitants of Luciradis#Vyrian\|Vyrian]] |
+> | Date of Birth | Matrix's 24th, 5263 ASC _(24/11/5263)_ |  
+> | Birthplace | [[Grandiose Peaks]] |
+> | Allegiance | None |
+> | Height | 5'10'' / 178cm |
+> | Weight | 150 lbs / 68 kg |
+> | Occupation | Freelance Adventurer |
+> | Relationships | [[Arzen Lynos]]: Significant other<br>[[Kallie Myrai]]: Friend<br>[[Factions of Luciradis#Brood of Arodraenix\|Orsilus of Arodraenix]]: Father<br>[[Leoris Varens]]: Former employer of the Stalwryn Royal Guard<br>[[Erina Hayashi]]: Friend<br>[[Rietta Aschlera]]: Friend |     
+> 
+> ## Empyrean Essence
+>  
+> | **Concept** | **Essence Density**                       |
+> | ----------: | :------------------------------------------ |
+> |     Expanse | <progress value="100" max="100"></progress> |
+> |     Paragon | <progress value="40" max="100"></progress>  |
+> |        Seer | <progress value="25" max="100"></progress>  |
+> |   Stargazer | <progress value="0" max="100"></progress>   |
+> |    Lifeline | <progress value="15" max="100"></progress>  |
+> |  Reflection | <progress value="0" max="100"></progress>   |
+> |   Navigator | <progress value="30" max="100"></progress>  |
+> |   Harvester | <progress value="55" max="100"></progress>  |
+> | Illuminator | <progress value="0" max="100"></progress>   |
+> |      Matrix | <progress value="10" max="100"></progress>  |
+> | Convergence | <progress value="5" max="100"></progress>   |
 
-## Basic Info
 
-- Full Name: Saria Pulse
-- Age: 4,847 years\*
-- Gender: Female
-- Race: [[The Inhabitants of Luciradis#Vyrian|Vyrian]]
-- Date of Birth: 24th Day of the Matrix, from the Year 5263 ASC _(24/11/5263)_
-- Date of Death: N/A
-- Place of Origin: [[Grandiose Peaks]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: None\*\*
-- Height: 5'10'' / 178cm, not including horns
-- Weight: 150 lbs / 68 kg (Human)
-- Occupation: None\*\*\*
-- Relationships:
-  - [[Arzen Lynos]]: Significant other
-  - [[Kallie Myrai]]: Friend
-  - [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]]: Father
-  - [[Leoris Varens]]: Former employer of the Stalwryn Royal Guard
-  - [[Erina Hayashi]]: Friend
-  - [[Rietta Aschlera]]: Friend
-
-_\* - Stalwryn's internal census was conducted when she was 19 years_  
-_\*\* - Her previous allegiances were to the_ [[Factions of Luciradis#Brood of Arodraenix|Brood of Arodraenix]] _and the_ [[Factions of Luciradis#Monarchy of Stalwryn|Stalwryn Monarchy]]  
-_\*\*\* - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_
-
-## Empyrean Essence
-
-_The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
-
-| **Concept** | **Amount of Essence**                       |
-| ----------: | :------------------------------------------ |
-|     Expanse | <progress value="100" max="100"></progress> |
-|     Paragon | <progress value="40" max="100"></progress>  |
-|        Seer | <progress value="25" max="100"></progress>  |
-|   Stargazer | <progress value="0" max="100"></progress>   |
-|    Lifeline | <progress value="15" max="100"></progress>  |
-|  Reflection | <progress value="0" max="100"></progress>   |
-|   Navigator | <progress value="30" max="100"></progress>  |
-|   Harvester | <progress value="55" max="100"></progress>  |
-| Illuminator | <progress value="0" max="100"></progress>   |
-|      Matrix | <progress value="10" max="100"></progress>  |
-| Convergence | <progress value="5" max="100"></progress>   |
 
 ## Background
 

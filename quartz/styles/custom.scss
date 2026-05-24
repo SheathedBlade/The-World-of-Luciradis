@@ -74,8 +74,19 @@ html {
     font-weight: 700 !important;
   }
 
-  div.center h2 {
-    border-bottom: 2px solid #404040 !important;
+  div.center {
+    h2 {
+      overflow: hidden;
+      position: relative;
+      border-bottom: 2px solid #404040 !important;
+    }
+
+    h2::after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
   }
 
   .graph .graph-outer {
@@ -176,6 +187,42 @@ html {
   .callout {
     p {
       margin: 1rem 0;
+    }
+
+    &[data-callout="infobox"] {
+      float: right;
+      width: 400px;
+      margin-left: 3rem;
+      margin-top: 0;
+
+      h1 {
+        text-align: center;
+        margin-top: 1rem !important;
+        margin-bottom: 0;
+      }
+      h2 {
+        margin-bottom: 0;
+      }
+
+      .callout-title,
+      .callout-icon {
+        display: none;
+      }
+
+      .table-container > table {
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .table-container:first-of-type {
+        thead {
+          display: none;
+        }
+        tr > td:nth-child(odd) {
+          vertical-align: top;
+          text-align: left !important;
+        }
+      }
     }
 
     &[data-callout="dialogue-right"] {
@@ -307,7 +354,12 @@ html {
       &[data-callout="info"] {
         border-color: var(--green) !important;
         border-style: solid !important;
-        background-color: #00b8d420 !important;
+        --bg: #00b8d420;
+      }
+
+      &[data-callout="infobox"] {
+        --bg: #e6dfc3;
+        --border: #24392c;
       }
     }
   }
@@ -340,6 +392,11 @@ html {
     strong {
       color: var(--deepred) !important;
       font-weight: 500 !important;
+    }
+
+    [data-callout="infobox"] {
+      --bg: #1d222c;
+      --border: #473969;
     }
 
     blockquote {
