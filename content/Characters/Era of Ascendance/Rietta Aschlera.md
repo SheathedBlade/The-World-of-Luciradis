@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-11-07T20:14:55.5555-05:00
+modified: 2026-05-26T16:43:44.4444-04:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -8,47 +8,41 @@ comments: false
 _Internal Census of the Stalwryn Kingdom_  
 _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
 
-## Basic Info
-
-- Full Name: Rietta Celexa Aschlera
-- Age: 4,846 years\*
-- Gender: Female
-- Race: [[The Inhabitants of Luciradis#Elf|Elf]]\*\*
-- Date of Birth: 14th Day of the Creator, from the Year 5264 ASC _(14/1/5264)_
-- Date of Death: N/A
-- Place of Origin: [[Lyntoa Village]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: [[Terystal]], [[Luciradis#Nova Ciel|Nova Ciel]]\*\*\*
-- Height: 5'7'' / 170cm
-- Weight: 145 lbs / 66 kg
-- Occupation: Director of Research & Development at [[Terystal#Wareylt Labs|Wareylt Labs]], Alchemist
-- Relationships:
-  - [[Arzen Lynos]]: Childhood Friend
-  - [[Saria Pulse]]: Friend
-  - [[Kallie Myrai]]: Friend
-  - [[Lily Wareylt]]: Employer at [[Terystal#Wareylt Labs|Wareylt Labs]]
-  - [[Iris Riedel]]: Friend
-
-_\* - Stalwryn's internal census was conducted when she was 18 years_  
-_\*\* - Rietta was born as an industrious elf, but was raised to the status of a sovereign elf_  
-_\*\*\* - Her previous allegiance was to the_ [[Stalwryn Kingdom]]
-
-## Empyrean Essence
-
-_The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
-
-| **Concept** | **Amount of Essence**                      |
-| ----------: | :----------------------------------------- |
-|     Expanse | <progress value="0" max="100"></progress>  |
-|     Paragon | <progress value="10" max="100"></progress> |
-|        Seer | <progress value="5" max="100"></progress>  |
-|   Stargazer | <progress value="0" max="100"></progress>  |
-|    Lifeline | <progress value="40" max="100"></progress> |
-|  Reflection | <progress value="40" max="100"></progress> |
-|   Navigator | <progress value="90" max="100"></progress> |
-|   Harvester | <progress value="0" max="100"></progress>  |
-| Illuminator | <progress value="15" max="100"></progress> |
-|      Matrix | <progress value="25" max="100"></progress> |
-| Convergence | <progress value="80" max="100"></progress> |
+> [!infobox]
+>
+> # Rietta Aschlera
+>
+> %% ![[saria_terystal_portrait.png]]_Credit: @lucadark_art_ %%
+>
+> | | |
+> | ---: | :--- |
+> | Full Name | Rietta Celexa Aschlera |
+> | Age | 4,846 years |
+> | Gender | Female |
+> | Race | [[The Inhabitants of Luciradis#Elf\|Elf]] |
+> | Date of Birth | Creator's 14th, 5264 ASC _(14/1/5264)_ |  
+> | Birthplace | [[Lyntoa Village]] |
+> | Allegiance | None |
+> | Height | 5'7'' / 170cm |
+> | Weight | 145 lbs / 66 kg |
+> | Occupation | Director of Research & Development at [[Terystal#Wareylt Labs\|Wareylt Labs]]<br>Alchemist |
+> | Relationships | [[Arzen Lynos]]: Childhood friend<br>[[Saria Pulse]]: Friend<br>[[Kallie Myrai]]: Friend<br>[[Lily Wareylt]]: Employer at [[Terystal#Wareylt Labs\|Wareylt Labs]]<br>[[Iris Riedel]]: Friend |
+>
+> ## Empyrean Essence
+>
+> | **Concept** | **Essence Density**                       |
+> | ----------: | :------------------------------------------ |
+> |     Expanse | <progress value="0" max="100"></progress> |
+> |     Paragon | <progress value="10" max="100"></progress>  |
+> |        Seer | <progress value="5" max="100"></progress>  |
+> |   Stargazer | <progress value="0" max="100"></progress>   |
+> |    Lifeline | <progress value="40" max="100"></progress>  |
+> |  Reflection | <progress value="40" max="100"></progress>   |
+> |   Navigator | <progress value="90" max="100"></progress>  |
+> |   Harvester | <progress value="0" max="100"></progress>  |
+> | Illuminator | <progress value="15" max="100"></progress>   |
+> |      Matrix | <progress value="25" max="100"></progress>  |
+> | Convergence | <progress value="80" max="100"></progress>   |
 
 ## Background
 
@@ -69,8 +63,7 @@ It is also at this time where our physicians have confirmed the **Empyrean essen
 
 ## Appearance
 
-![[rietta-refsheet.webp]]
-*Credit: @shouz140*
+![[rietta-refsheet.webp]]*Credit: @shouz140*
 
 Rietta is a young girl with pointed ears and fair skin. She also has a slender frame, which is not unexpected of someone whose job is to foray and gather materials in the wild. Her bust size is measured to be E/F (US/JP). One can expect her youthful appearance to stay consistent, as elves tend to retain their young adult look up until they reach the last quarter of their lifespans. Generally, an elf's total lifespan is an average of 8000 years.
 
