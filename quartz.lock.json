@@ -62,10 +62,10 @@
       "installedAt": "2026-05-24T15:36:16.460Z"
     },
     "content-meta": {
-      "source": "github:quartz-community/content-meta",
-      "resolved": "https://github.com/quartz-community/content-meta.git",
-      "commit": "a148b4104e9fb6323a6459b2f13c46f9a92da487",
-      "installedAt": "2026-05-24T15:36:16.441Z"
+      "source": "github:SheathedBlade/content-meta",
+      "resolved": "https://github.com/SheathedBlade/content-meta.git",
+      "commit": "979998941a16f5e8ed5dc4b11315a569bcb320b1",
+      "installedAt": "2026-05-26T00:49:59.731Z"
     },
     "content-page": {
       "source": "github:quartz-community/content-page",
@@ -166,20 +166,14 @@
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
-      "commit": "ecff614ae6dd5158970b52026ba5db5500096c60",
-      "installedAt": "2026-05-24T15:36:16.996Z"
+      "commit": "186d6bd990a1b88ab35c4f66ea4f257f1e7b4a51",
+      "installedAt": "2026-05-26T00:35:33.610Z"
     },
     "obsidian-plugin-excalidraw": {
       "source": "github:quartz-community/obsidian-plugin-excalidraw",
       "resolved": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
       "commit": "9c5ff6bd6d2ee27814aeaf98ac4ddfd025a985fa",
       "installedAt": "2026-05-25T17:40:01.376Z"
-    },
-    "obsidian-plugin-ttrpg-tools-maps": {
-      "source": "github:quartz-community/obsidian-plugin-ttrpg-tools-maps",
-      "resolved": "https://github.com/quartz-community/obsidian-plugin-ttrpg-tools-maps.git",
-      "commit": "c43314724a7606dd18b90972c457f593ccded5f5",
-      "installedAt": "2026-05-24T15:36:16.983Z"
     },
     "og-image": {
       "source": "github:quartz-community/og-image",
