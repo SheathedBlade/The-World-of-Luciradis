@@ -1,7 +1,7 @@
 import fs from "fs"
 import path from "path"
 import os from "os"
-import { exec as execCb } from "child_process"
+import { exec as execCb, execSync } from "child_process"
 import { styleText, promisify } from "util"
 import {
   readPluginsJson,
@@ -20,6 +20,7 @@ import {
   resolveLockfileName,
   getNameOverrides,
 } from "./plugin-data.js"
+import { symlinkOrCopySync } from "./helpers.js"
 
 const INTERNAL_EXPORTS = new Set(["manifest", "default"])
 
@@ -128,12 +129,7 @@ function needsBuild(pluginDir) {
  *     share a single copy of packages like unified, vfile, rehype-raw, etc.
  */
 function trySymlink(target, linkPath) {
-  try {
-    fs.symlinkSync(target, linkPath, "dir")
-  } catch (err) {
-    if (err.code === "EEXIST") return
-    throw err
-  }
+  symlinkOrCopySync(target, linkPath)
 }
 
 function linkPeerPlugins(pluginDir) {
@@ -621,7 +617,7 @@ export async function handlePluginInstallUnified({
           }
           console.log(styleText("cyan", `→ Linking ${name} from ${resolvedPath}...`))
           fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-          fs.symlinkSync(resolvedPath, pluginDir, "dir")
+          symlinkOrCopySync(resolvedPath, pluginDir)
           lockfile.plugins[name] = {
             source: entry.source,
             resolved: resolvedPath,
@@ -810,7 +806,7 @@ export async function handlePluginInstallUnified({
             continue
           }
           fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-          fs.symlinkSync(entry.resolved, pluginDir, "dir")
+          symlinkOrCopySync(entry.resolved, pluginDir)
           console.log(styleText("green", `✓ ${name} restored (local symlink)`))
           restoredPlugins.push({ name, pluginDir })
           installed++
@@ -1045,7 +1041,7 @@ export async function handlePluginInstallUnified({
           continue
         }
         fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-        fs.symlinkSync(entry.resolved, pluginDir, "dir")
+        symlinkOrCopySync(entry.resolved, pluginDir)
         console.log(styleText("green", `  ✓ ${name} (local) linked`))
         pluginsToBuild.push({ name, pluginDir })
         installed++
@@ -1194,6 +1190,15 @@ export async function handlePluginAdd(
   for (const source of sources) {
     try {
       const parsed = parseGitSource(source)
+      if (parsed.npmPackage) {
+        const name = nameOverride ?? parsed.name
+        console.log(styleText("cyan", `→ Installing ${name} from npm...`))
+        execSync(`npm install ${parsed.name}`, { cwd: process.cwd(), stdio: "inherit" })
+        const configSource = nameOverride ? { repo: parsed.name, name: nameOverride } : parsed.name
+        const pluginDir = path.join(process.cwd(), "node_modules", ...parsed.name.split("/"))
+        addedPlugins.push({ name, pluginDir, source: parsed.name, configSource })
+        continue
+      }
       const name = nameOverride ?? parsed.name
       const url = parsed.url
       const ref = parsed.ref
@@ -1222,7 +1227,7 @@ export async function handlePluginAdd(
         }
         console.log(styleText("cyan", `→ Adding ${name} from local path ${resolvedPath}...`))
         fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-        fs.symlinkSync(resolvedPath, pluginDir, "dir")
+        symlinkOrCopySync(resolvedPath, pluginDir)
         lockfile.plugins[name] = {
           source,
           resolved: resolvedPath,
@@ -1315,13 +1320,13 @@ export async function handlePluginAdd(
       }
 
       if (manifest?.components) {
+        const layoutPositions = new Set(["left", "right", "beforeBody", "afterBody"])
         const firstComponentKey = Object.keys(manifest.components)[0]
         const comp = manifest.components[firstComponentKey]
-        if (comp?.defaultPosition) {
+        if (comp?.defaultPosition && layoutPositions.has(comp.defaultPosition)) {
           newEntry.layout = {
             position: comp.defaultPosition,
             priority: comp.defaultPriority ?? 50,
-            display: "all",
           }
         }
       }

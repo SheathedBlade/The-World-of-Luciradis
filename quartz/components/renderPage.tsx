@@ -25,7 +25,7 @@ interface RenderComponents {
   afterBody: QuartzComponent[]
   left: QuartzComponent[]
   right: QuartzComponent[]
-  footer: QuartzComponent
+  footer: QuartzComponent[]
   frame?: string
 }
 
@@ -329,7 +329,7 @@ export function renderPage(
     afterBody,
     left,
     right,
-    footer: Footer,
+    footer,
     frame: frameName,
   } = components
   const Body = BodyConstructor()
@@ -337,7 +337,12 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
-  const basePath = cfg.baseUrl ? new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "") : ""
+  // During local dev (--serve), the dev server serves from root without the
+  // baseUrl subpath, so basePath must be empty to avoid broken links.
+  const basePath =
+    componentData.ctx.argv.serve || !cfg.baseUrl
+      ? ""
+      : new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "")
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
@@ -355,7 +360,7 @@ export function renderPage(
                 afterBody,
                 left,
                 right,
-                footer: Footer,
+                footer,
               }),
             ]}
           </Body>

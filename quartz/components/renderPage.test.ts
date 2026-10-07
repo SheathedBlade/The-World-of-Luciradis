@@ -1,10 +1,11 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { renderTranscludes } from "./renderPage"
+import { renderTranscludes, pageResources } from "./renderPage"
 import { Root, Element } from "hast"
 import { FullSlug } from "../util/path"
 import { GlobalConfiguration } from "../cfg"
 import { QuartzComponentProps } from "./types"
+import { StaticResources } from "../util/resources"
 
 function makeTranscludeBlockquote(targetSlug: string, block?: string): Element {
   return {
@@ -264,5 +265,63 @@ describe("renderTranscludes", () => {
     const bq = root.children[0] as Element
     const text = JSON.stringify(bq.children)
     assert.ok(text.includes("Circular transclusion"), "self-reference should be blocked")
+  })
+})
+
+describe("pageResources", () => {
+  const emptyResources: StaticResources = {
+    css: [],
+    js: [],
+    additionalHead: [],
+  }
+
+  test("uses baseDir prefix for resource paths in production mode", () => {
+    const result = pageResources("/quartz" as FullSlug, emptyResources)
+    assert.ok(
+      result.css[0].content.startsWith("/quartz/"),
+      `expected css path to start with /quartz/, got: ${result.css[0].content}`,
+    )
+    const externalJs = result.js.find((j) => j.contentType === "external" && "src" in j)
+    assert.ok(externalJs && "src" in externalJs)
+    assert.ok(
+      externalJs.src.startsWith("/quartz/"),
+      `expected js src to start with /quartz/, got: ${externalJs.src}`,
+    )
+  })
+
+  test("omits subpath prefix when baseDir is empty (serve mode)", () => {
+    const result = pageResources("." as FullSlug, emptyResources)
+    for (const css of result.css) {
+      assert.ok(
+        !css.content.includes("/quartz/"),
+        `css path should not contain /quartz/, got: ${css.content}`,
+      )
+    }
+    for (const js of result.js) {
+      if (js.contentType === "external" && "src" in js) {
+        assert.ok(
+          !js.src.includes("/quartz/"),
+          `js src should not contain /quartz/, got: ${js.src}`,
+        )
+      }
+    }
+  })
+
+  test("contentIndex path reflects baseDir", () => {
+    const withPrefix = pageResources("/quartz" as FullSlug, emptyResources)
+    const inlineJs = withPrefix.js.find((j) => j.contentType === "inline" && "script" in j)
+    assert.ok(inlineJs && "script" in inlineJs)
+    assert.ok(
+      inlineJs.script.includes("/quartz/static/contentIndex.json"),
+      `expected contentIndex fetch to include /quartz/ prefix, got: ${inlineJs.script}`,
+    )
+
+    const withoutPrefix = pageResources("." as FullSlug, emptyResources)
+    const inlineJsServe = withoutPrefix.js.find((j) => j.contentType === "inline" && "script" in j)
+    assert.ok(inlineJsServe && "script" in inlineJsServe)
+    assert.ok(
+      !inlineJsServe.script.includes("/quartz/static/contentIndex.json"),
+      `expected contentIndex fetch without /quartz/ prefix in serve mode, got: ${inlineJsServe.script}`,
+    )
   })
 })
