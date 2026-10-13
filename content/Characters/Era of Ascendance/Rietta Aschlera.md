@@ -1,11 +1,11 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-13T17:38:31.3131-04:00
+modified: 2026-10-13T19:53:18.1818-04:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
 > [!archive] Historical Record
-> **Internal Census of the Stalwryn Kindgom**
+> **Internal Census of the Stalwryn Kingdom**
 > 
 > Horizon's 16th, 10110 ASC (16/05/10110)
 > 

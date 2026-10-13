@@ -1,11 +1,11 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-13T19:25:27.2727-04:00
+modified: 2026-10-13T19:55:02.022-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
 > [!archive] Historical Record
-> **Internal Census of the Stalwryn Kindgom**
+> **Internal Census of the Stalwryn Kingdom**
 > 
 > Horizon's 16th, 10110 ASC (16/05/10110)
 > 
@@ -53,7 +53,7 @@ comments: false
 > 
 > — Saria Pulse
 
-Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]], the reigning draconic sovereign of the skies above the [[Grandiose Peaks]], and a human woman whose identity remains unknown. Their union gave rise to Saria, the first dragon-human hybrid in the history of Luciradis, and the progenitor of the people who would eventually become known as Vyrians.
+Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]], the reigning draconic sovereign of the skies above the [[Grandiose Peaks]], and a human woman whose identity remains unknown.Their union gave rise to Saria, the first dragon-human hybrid in the history of Luciradis, whose unprecedented birth marked the beginning of the people who would eventually become known as Vyrians.
 
 Although the identity of Saria's mother has eluded investigators, recent findings suggest an affiliation with [[Gensōkyo]]. These findings are supported by historical accounts of a dragon repeatedly descending upon the [[Amber Clifftops]], though the precise circumstances of these visits remain uncertain.
 
