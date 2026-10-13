@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Hanken Grotesk
-      header: Lexend
+      title: Newsreader
+      header: Newsreader
       body: Satoshi Variable
       code: Azeret Mono
     colors:
@@ -80,6 +80,8 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+    options:
+      maxDepth: 2
     order: 50
     layout:
       position: right
@@ -153,6 +155,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: Explorer
+      folderDefaultState: collapsed
+      folderClickBehavior: collapse
+      useSavedState: true
     layout:
       position: left
       priority: 50
@@ -222,6 +229,13 @@ plugins:
         GitHub: https://github.com/SheathedBlade/The-World-of-Luciradis
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      title: Recent Records
+      limit: 3
+      showTags: false
+      hideFolderPages: true
+      hideTagPages: true
+      linkToMore: "records/"
     layout:
       position: left
       priority: 60

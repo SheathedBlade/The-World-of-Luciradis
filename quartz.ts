@@ -1,34 +1,28 @@
-import * as ExternalPlugin from "./.quartz/plugins"
+import { RecentNotes } from "@quartz-community/recent-notes"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
-import { SimpleSlug } from "./quartz/util/path"
 
-ExternalPlugin.RecentNotes({
-  title: "Recent Records",
-  limit: 3,
-  filter: (f: any) =>
-    f.slug!.startsWith("records/") && f.slug! !== "records/index" && !f.frontmatter?.noindex,
-  linkToMore: "records/" as SimpleSlug,
-})
-
-ExternalPlugin.TableOfContentsTransformer({ maxDepth: 2 })
-
-ExternalPlugin.Explorer({
-  title: "Explorer",
-  folderDefaultState: "collapsed",
-  folderClickBehavior: "collapse",
-  useSavedState: true,
+RecentNotes({
+  filter: (f) => {
+    const slug = f.slug ?? ""
+    return (
+      slug.startsWith("records/") &&
+      slug !== "records/index" &&
+      slug !== "records" &&
+      !f.frontmatter?.noindex
+    )
+  },
 })
 
 const config = await loadQuartzConfig({
   theme: {
     typography: {
       title: {
-        name: "Hanken Grotesk",
+        name: "Newsreader",
         weights: [700, 800, 900],
         includeItalic: false,
       },
       header: {
-        name: "Lexend",
+        name: "Newsreader",
         weights: [500, 600],
         includeItalic: true,
       },
