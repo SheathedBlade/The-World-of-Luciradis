@@ -1,23 +1,14 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2024-03-24T17:43:37.3737-04:00
+modified: 2026-10-13T02:50:44.4444-04:00
 title: Famous Locales
 ---
+This collection documents notable geographical regions, settlements, and landmarks throughout Luciradis. Beyond their geographical significance, many of these locations bear the lasting influence of historical events, cultural developments, and the peoples who have inhabited them.
 
-This section is dedicated to the repository of notable locales across Luciradis. Every path has an origin, every place a story. Coming to understand how certain areas of the world came to be is crucial if we want to observe the distant past and peek into the unknowable future.
+Understanding the origins and histories of these places provides valuable insight into the circumstances that shaped Luciradis and the civilizations that continue to inhabit it.
 
----
+## Principal Regions
 
-# [[Locations/Cicatri Ciel/index|Cicatri Ciel]]
+**Cicatri Ciel.** Situated in the northern hemisphere, Cicatri Ciel encompasses the landmasses fractured during [[The Scarring|the Scarring]]. Its name, roughly translated as _"Scarred Sky,"_ reflects the enduring geographical and historical consequences of that conflict.
 
-Cicatri Ciel describes the group of landmasses located in the northern hemisphere of Luciradis. Roughly translating to _"Scarred Sky"_ in ancient tongues, this name was conceived after the catastrophic event known as _The Scarring_, where a war between god-like beings have sundered the once-whole landmass apart.
-
-# [[Locations/Nova Ciel/index|Nova Ciel]]
-
-## Nova Ciel
-
-Nova Ciel is the name of the group of landmasses in the southern hemisphere. Roughly translating to _"New Sky"_, its people opted to follow the naming convention that the ancestors of _Cicatri Ciel_ used, in which it describes the skies above the land following the sentiments of its peoples. The early pioneers of _Cicatri Ciel_ fled from the war-torn lands, and arrived on _Nova Ciel_ with the intent of starting anew.
-
-[[Locations/Nova Ciel/index|List of Locales in Nova Ciel]]
-
----
+**Nova Ciel.** Situated in the southern hemisphere, Nova Ciel encompasses the lands associated with the migrations that followed the Scarring. Its name, roughly translated as _"New Sky,"_ reflects the aspirations of those who sought to establish new lives beyond the devastated northern lands.

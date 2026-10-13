@@ -1,44 +1,49 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-06-28T18:26:24.2424-04:00
-description: Homepage for the storage of knowledge surrounding the world of Luciradis. It includes general terminology and information, important individuals that made a mark (whether good or bad) on the world, most well-known locales and history-defining events.
+modified: 2026-10-13T02:59:20.2020-04:00
+description: The public knowledge database of Oracle's Vision, documenting the history, civilizations, peoples, arcana, and historical records of Luciradis.
 title: Luciradis Knowledge Database
 ---
+The Luciradis Knowledge Database is a publicly accessible repository dedicated to the preservation and study of the world's histories, civilizations, peoples, and fundamental principles. Maintained by [[Cerelicia#Oracle's Vision|Oracle's Vision]], it brings together historical accounts, accumulated scholarship, and contemporary research for educational and academic use.
 
-As part of the ongoing efforts to maintain the integrity of ancient historical records and the additions of new records for the foreseeable future, the [[Cerelicia]] government has approved Miss [[Kallie Myrai|Kallie Myrai's]] proposal of the publication of all knowledge regarding the world we live in, [[Luciradis]]. We, at [[Cerelicia#Oracle's Vision|Oracle's Vision]], hope that everyone across the world can use the Luciradis Knowledge Database for **educational and academic purposes**.
+Originally established through a proposal by Head Archivist [[Kallie Myrai]] and authorized by the government of [[Cerelicia]], the Database seeks to make knowledge accessible beyond the institutions in which it was first recorded. Its collections continue to be expanded and revised as new information emerges and established interpretations are reassessed.
 
-The **Luciradis Knowledge Database** is a repository of information gathered and maintained over the course of thousands of years, courtesy of Miss Myrai. You can view information on various **influential figures**, **famous locales**, **events that shaped the course of history**, and **firsthand accounts** of individuals who have lived to see these events unfold. In addition to this, the Database holds general, but detailed, information regarding the nature and history of Luciradis. Much of this information is carried over by scholars in the past, but their insights still hold true today, even if its relevance to the modern world diminishes with each generation.
+Where historical evidence remains incomplete or subject to speculation, the Database seeks to provide further context through firsthand accounts, preserved narratives, and other surviving materials. Such records are presented alongside contemporary scholarship to support a more comprehensive understanding of the events they document.
 
-It is the Database's goal to publicize newfound information as they are unearthed. As such, some events that are left to speculation will be contextualized via first-hand accounts, stories, and other pieces of ancient media.
+## Explore Luciradis
 
-> [!info]
-> Areas of text that have been denoted via blockquotes are clarifications for concepts that may be confusing to the reader, or updated information to historical records deemed as necessary to include. This information could come from Head Archivist Myrai herself, in which case she will denote her sections with "_// K.M. edit //_".
+> [!directory] Explore Luciradis
+> - [[Information/index|General Information]]
+>   Foundational knowledge of Luciradis, its inhabitants, and the principles governing the world.
+> - [[Characters/index|Important Characters]]
+>   Individuals whose actions and legacies have shaped history.
+> - [[Locations/index|Locations]]
+>   Nations, settlements, and notable places throughout Luciradis.
+> - [[Events/index|Historical Events]]
+>   Conflicts, discoveries, and events that have shaped the course of history.
+> - [[Records/index|Records & Accounts]]
+>   Firsthand accounts and narratives documenting experiences across the eras.
 
-## Using the Database
+## About the Records
 
-Incorporated into this repository is the concept of **links**. Most, if not all, completed entries in this database contain links to other relevant entries. This is to your benefit as the reader, as there will be terms in which you may not understand initially. **Hovering** over these links will generate a small window containing the relevant entry. **Clicking** on the link will bring you to the page of said entry. These links supplement the entry through contextualizing and explaining terms that may seem foreign.
+The Database comprises materials originating from numerous periods and sources, including historical chronicles, scholarly publications, personal accounts, and other surviving records. Although considerable efforts have been made to preserve their original content and historical context, the reliability and completeness of these materials vary.
 
-On the bottom-right, you can see the **backlinks** to an entry, which are links to entries that referenced the current entry. For example, the entry containing information on the [[Empyrean Concepts]] contains a link to the entry of [[Kallie Myrai|Head Archivist Myrai]]. On Miss Myrai's information page, the Empyrean Concepts entry is denoted as a backlink, since it referenced Miss Myrai's entry. From here, you can view other entries that have referenced Miss Myrai's page.
+Where clarification or further examination is warranted, Oracle's Vision may supplement an entry with editorial annotations. These observations may provide additional historical context, address discrepancies between sources, or identify interpretations that remain subjects of scholarly inquiry.
 
-As a nice little addition, on the top-right, there is a **node graph**. This visualizes how much each entry in the database links with each other. You are able to use the graph and click on the nodes to bring you to the specified entry.
-
-Our most recent first-hand accounts, stories, and media that we publicize will appear on the left-hand side, underneath the **Explorer**.
+Such annotations are distinguished from the original material and attributed to their respective contributors, allowing readers to recognize the distinction between historical testimony and subsequent scholarly interpretation.
 
 ## Getting Started
 
-Don't know where to start in the Database? If you are looking for something specific, you can utilize the **search bar** on the top-left and enter in search terms to find your desired entry. If you don't know what to search for, you can use the **Explorer** on the left-hand side to drilldown and find the piece of content you are looking for.
+Readers unfamiliar with Luciradis may wish to begin with an overview of the world, its inhabitants, the historical forces, and fundamental principles that have shaped its civilizations.
 
-If this is your first time using the Database, or want suggestions to start your search, the topics below can be used as a starting point to your pursuit of knowledge.
+The following entries provide a useful introduction:
 
-- **[[Information/index|Information about Luciradis]]**
-  - **[[Luciradis|What is Luciradis?]]**
-  - **[[Empyrean Concepts]]**
-  - **[[The Inhabitants of Luciradis]]**
-- **[[Characters/index|Important Figures]]**
-- **[[Locations/index|Famous Locales]]**
-- **[[Events/index|List of Historical Events]]**
-- **[[Records/index|First-hand Records and Accounts]]**
+- **[[Luciradis]]** - An overview of the world and its geography.
+- **[[The Inhabitants of Luciradis]]** - An introduction to its peoples and civilizations.
+- **[[Empyrean Concepts]]** - An examination of the fundamental principles underlying much of the world's recorded history.
 
-### Feedback
+Readers seeking information on a particular subject may also consult the Database's search function or browse its subject directories. Further guidance on navigation, references, and other features is available in [[Using the Database]].
 
-The Luciradis Knowledge Database is open to any and all feedback. If you have any suggestions or concerns, from the presentation of the database to bugs, feel free to **submit an issue** on the source code repository on **[GitHub](https://github.com/SheathedBlade/The-World-of-Luciradis)**. The Head Archivist will review your issue and act accordingly if necessary.
+## Feedback
+
+If you have any suggestions or concerns, from the presentation of the database to bugs, feel free to **submit an issue** on the source code repository on **[GitHub](https://github.com/SheathedBlade/The-World-of-Luciradis)**.

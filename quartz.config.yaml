@@ -16,31 +16,32 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Newsreader
-      header: Newsreader
-      body: Satoshi Variable
+      title: Hanken Grotesk
+      header: Hanken Grotesk
+      body: DM Sans
       code: Azeret Mono
     colors:
       lightMode:
         light: "#eee9d6"
-        lightgray: "#817e76"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#3d5a6e"
-        tertiary: "#6b8f8f"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        lightgray: "#C8C0AD"
+        gray: "#817E75"
+        darkgray: "#514F48"
+        dark: "#302F2B"
+        secondary: "#486F7B"
+        tertiary: "#365B67"
+        highlight: rgba(73, 111, 123, 0.12)
+        textHighlight: "#D8C69B"
       darkMode:
-        light: "#1c2127"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#e83479"
-        secondary: "#d699b6"
-        tertiary: "#ffcfe1"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1C2127"
+        lightgray: "#37414B"
+        gray: "#77838E"
+        darkgray: "#C0C5C9"
+        dark: "#E6E2DA"
+        secondary: "#8FBBD2"
+        tertiary: "#B0D3E3"
+        highlight: "rgba(143, 187, 210, 0.12)"
+        textHighlight: "#405765"
+
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -239,6 +240,7 @@ plugins:
     layout:
       position: left
       priority: 60
+      display: desktop-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -289,6 +291,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+      condition: not-index
 layout:
   groups:
     toolbar:

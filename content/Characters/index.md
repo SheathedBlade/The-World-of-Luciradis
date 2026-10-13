@@ -1,18 +1,16 @@
 ---
 created: 2023-09-23T21:42:53.5353-04:00
-modified: 2025-11-26T00:19:10.1010-05:00
+modified: 2026-10-13T02:42:18.1818-04:00
 title: Important Characters
 comments: false
 ---
 
-This section is dedicated to the repository of influential figures in history; those of whom have shaped or changed the world into what it is now.
+This collection documents individuals whose actions and legacies have shaped the course of Luciradis's history. Its entries are organized according to the three principal historical eras, reflecting the circumstances in which these figures lived and the influence they exerted upon subsequent generations.
 
-These are sections split into eras of time, of which these figures played a major role in shaping:
+**Era of Genesis.** The Era of Genesis is remembered for the individuals who challenged the Creator and brought an end to the order that had governed their world. Though their actions would determine the course of history for generations to come, their victory came at a considerable cost. Much of their legacy has since been lost, leaving only fragmented accounts of those who first sought to free the world from its creator.
 
-The forgotten, disenfranchised saviors of the Era of Genesis, the individuals who would be the first to put the arrogant Creator to the sword (and those who would vie for its power afterwards) saved yet ruined their world, with their deeds all but forgotten with only a lingering memory of a world before.
+**Era of Ascendance.** Following the Sundering, the distributed essences of the Empyrean Concepts gave rise to the Ascendants, individuals distinguished by extraordinary aptitude and capabilities that placed them at the pinnacle of their respective disciplines. Their emergence would profoundly influence the balance of power throughout Luciradis, as they inherited the consequences of a conflict whose true history had largely faded from public knowledge.
 
-The Era of Ascendance gave rise to individuals embodying the powers of the Empyrean Concepts, a byproduct of the split of power from Genesis. Inheriting the burdens of their forebearers, these individuals contend with the buried histories of a bygone era.
-
-In the Era of Freedom, the people rose and toppled the system of Empyrean Concepts, and finally drove the stake into the heart of Genesis. Luciradis was finally free of the powers beyond and inexplicable. 
+**Era of Freedom.** The Era of Freedom marked the overthrow of the order sustained by the Empyrean Concepts, bringing an end to an age in which Ascendants had exercised extraordinary influence over the course of civilization. The individuals associated with this period confronted the enduring legacies of Genesis, challenging institutions and traditions that had shaped Luciradis for generations and establishing a new chapter in its history.
 
 ---
