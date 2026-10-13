@@ -18,9 +18,9 @@ _Internal Census of Luxor Citadel_
 - Weight:
 - Occupation: Instrument of Wit of the Luxori Covenant
 - Relationships:
- 	- [[Amara Illustros]]: Sister
- 	- [[Varant Illustros]]: Brother
- 	- [[Runo Illustros]]: Father _(deceased)_
+  - [[Amara Illustros]]: Sister
+  - [[Varant Illustros]]: Brother
+  - [[Runo Illustros]]: Father _(deceased)_
 
 ## Empyrean Essence
 
@@ -29,13 +29,13 @@ _Internal Census of Luxor Citadel_
 |     Expanse | <progress value="0" max="100"></progress>  |
 |     Paragon | <progress value="0" max="100"></progress>  |
 |        Seer | <progress value="5" max="100"></progress>  |
-|   Stargazer | <progress value="0" max="100"></progress>  |
+|   Horizon | <progress value="0" max="100"></progress>  |
 |    Lifeline | <progress value="20" max="100"></progress> |
 |  Reflection | <progress value="0" max="100"></progress>  |
 |   Navigator | <progress value="0" max="100"></progress>  |
-|   Harvester | <progress value="15" max="100"></progress> |
-| Illuminator | <progress value="60" max="100"></progress> |
-|      Matrix | <progress value="0" max="100"></progress>  |
+|   Resonance | <progress value="15" max="100"></progress> |
+| Radiant | <progress value="60" max="100"></progress> |
+|      Axiom | <progress value="0" max="100"></progress>  |
 | Convergence | <progress value="0" max="100"></progress>  |
 
 ## Background

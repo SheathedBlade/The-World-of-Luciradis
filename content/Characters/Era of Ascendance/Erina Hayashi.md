@@ -33,13 +33,13 @@ comments: false
 |     Expanse | <progress value="0" max="100"></progress>  |
 |     Paragon | <progress value="10" max="100"></progress> |
 |        Seer | <progress value="15" max="100"></progress> |
-|   Stargazer | <progress value="0" max="100"></progress>  |
+|   Horizon | <progress value="0" max="100"></progress>  |
 |    Lifeline | <progress value="0" max="100"></progress>  |
 |  Reflection | <progress value="90" max="100"></progress> |
 |   Navigator | <progress value="0" max="100"></progress>  |
-|   Harvester | <progress value="20" max="100"></progress> |
-| Illuminator | <progress value="15" max="100"></progress> |
-|      Matrix | <progress value="25" max="100"></progress> |
+|   Resonance | <progress value="20" max="100"></progress> |
+| Radiant | <progress value="15" max="100"></progress> |
+|      Axiom | <progress value="25" max="100"></progress> |
 | Convergence | <progress value="10" max="100"></progress> |
 
 ## Background

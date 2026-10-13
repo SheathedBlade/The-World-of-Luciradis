@@ -6,7 +6,7 @@ comments: false
 ---
 
 _Internal Census of the Stalwryn Kingdom_  
-_Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
+_Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
 
 ## Basic Info
 
@@ -15,7 +15,7 @@ _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. My
 - Gender: Male
 - Race: Human
 - Date of Birth: 14th Day of the Expanse, from the Year 5263 ASC _(14/02/5263)_
-- Date of Death: 19th Day of the Stargazer, from the Year 5277 ASC _(19/05/5277)_
+- Date of Death: 19th Day of the Horizon, from the Year 5277 ASC _(19/05/5277)_
 - Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: [[Factions of Luciradis#Monarchy of Stalwryn|Monarchy of Stalwryn]]
 - Height: 4'11'' / 150cm
@@ -34,13 +34,13 @@ _The below information are results from testing the individual of their "Empyrea
 |     Expanse | <progress value="0" max="100"></progress>  |
 |     Paragon | <progress value="20" max="100"></progress> |
 |        Seer | <progress value="25" max="100"></progress> |
-|   Stargazer | <progress value="0" max="100"></progress>  |
+|   Horizon | <progress value="0" max="100"></progress>  |
 |    Lifeline | <progress value="85" max="100"></progress> |
 |  Reflection | <progress value="0" max="100"></progress>  |
 |   Navigator | <progress value="30" max="100"></progress> |
-|   Harvester | <progress value="15" max="100"></progress> |
-| Illuminator | <progress value="0" max="100"></progress>  |
-|      Matrix | <progress value="0" max="100"></progress>  |
+|   Resonance | <progress value="15" max="100"></progress> |
+| Radiant | <progress value="0" max="100"></progress>  |
+|      Axiom | <progress value="0" max="100"></progress>  |
 | Convergence | <progress value="0" max="100"></progress>  |
 
 ## Background

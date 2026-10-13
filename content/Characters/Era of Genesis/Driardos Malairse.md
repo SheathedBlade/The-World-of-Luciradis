@@ -5,7 +5,7 @@ comments: false
 ---
 
 _Internal Census of the Luxor Citadel_  
-_Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
+_Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
 
 ## Basic Info
 
@@ -14,7 +14,7 @@ _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. My
 - Gender: Male
 - Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
 - Date of Birth: 14th Day of the Seer, from the Year 63 BSC _(14/04/63 BSC)_
-- Date of Death: Stargazer's 10th, 10110 ASC _(16/05/10110)_
+- Date of Death: Horizon's 10th, 10110 ASC _(16/05/10110)_
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance:
 - Height: 6'4'' / 193cm
@@ -35,13 +35,13 @@ _The below information are results from testing the individual of their "Empyrea
 |     Expanse | <progress value="0" max="100"></progress>   |
 |     Paragon | <progress value="0" max="100"></progress>   |
 |        Seer | <progress value="100" max="100"></progress> |
-|   Stargazer | <progress value="0" max="100"></progress>   |
+|     Horizon | <progress value="0" max="100"></progress>   |
 |    Lifeline | <progress value="0" max="100"></progress>   |
 |  Reflection | <progress value="30" max="100"></progress>  |
 |   Navigator | <progress value="40" max="100"></progress>  |
-|   Harvester | <progress value="0" max="100"></progress>   |
-| Illuminator | <progress value="85" max="100"></progress>  |
-|      Matrix | <progress value="5" max="100"></progress>   |
+|   Resonance | <progress value="0" max="100"></progress>   |
+|     Radiant | <progress value="85" max="100"></progress>  |
+|       Axiom | <progress value="5" max="100"></progress>   |
 | Convergence | <progress value="10" max="100"></progress>  |
 
 ## Background

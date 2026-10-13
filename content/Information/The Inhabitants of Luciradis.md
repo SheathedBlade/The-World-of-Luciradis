@@ -34,9 +34,9 @@ The ruling faction that the majority of elves associate with is the [[Factions o
 
 > Luxori is both a singular and plural noun.
 
-The Luxori are a race with powers descended from the Concept of the [[Empyrean Concepts#The Illuminator|Illuminator]]. Originally, these individuals were humans from the time before **the Scarring**, but with the Illuminator's magic, the humans that followed the Illuminator during the Scarring obtained a natural talent for light-based magic. This large community of humans would become the Luxori, beginning its roots on a landmass named after them: [[Luxor Citadel|Luxor]].
+The Luxori are a race with powers descended from the Concept of the [[Empyrean Concepts#The Radiant|Radiant]]. Originally, these individuals were humans from the time before **the Scarring**, but with the Radiant's magic, the humans that followed the Radiant during the Scarring obtained a natural talent for light-based magic. This large community of humans would become the Luxori, beginning its roots on a landmass named after them: [[Luxor Citadel|Luxor]].
 
-The appearance of a Luxori bears a striking resemblance to that of a human's, but the Luxori have **symmetrical dark markings** all over their torso and limbs, with some individuals being born with some markings on the face. This is a unique trait of the Luxori, an evolutionary development borne from subsequent generations of Luxori. These dark markings on the body enhances the powers of the Illuminator, **illuminating these dark markings up to a vibrant, golden color** whenever the Luxori individual would use light-based invocations. The intensity of the brightness of the color would depend on the strength of the invocation being cast.
+The appearance of a Luxori bears a striking resemblance to that of a human's, but the Luxori have **symmetrical dark markings** all over their torso and limbs, with some individuals being born with some markings on the face. This is a unique trait of the Luxori, an evolutionary development borne from subsequent generations of Luxori. These dark markings on the body enhances the powers of the Radiant, **illuminating these dark markings up to a vibrant, golden color** whenever the Luxori individual would use light-based invocations. The intensity of the brightness of the color would depend on the strength of the invocation being cast.
 
 ## Terrakin
 

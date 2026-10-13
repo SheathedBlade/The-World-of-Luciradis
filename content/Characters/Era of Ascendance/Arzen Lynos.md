@@ -13,7 +13,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. 
 - Age: 4,847 years\*
 - Gender: Male
 - Race: Human
-- Date of Birth: 17th Day of the Illuminator, from the Year 5263 ASC _(17/10/5263)_
+- Date of Birth: 17th Day of the Radiant, from the Year 5263 ASC _(17/10/5263)_
 - Date of Death: N/A
 - Place of Origin: [[Lyntoa Village]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: None\*\*
@@ -46,13 +46,13 @@ _The below information are results from testing the individual of their "Empyrea
 |     Expanse | <progress value="40" max="100"></progress>  |
 |     Paragon | <progress value="100" max="100"></progress> |
 |        Seer | <progress value="5" max="100"></progress>   |
-|   Stargazer | <progress value="50" max="100"></progress>  |
+|   Horizon | <progress value="50" max="100"></progress>  |
 |    Lifeline | <progress value="45" max="100"></progress>  |
 |  Reflection | <progress value="5" max="100"></progress>   |
 |   Navigator | <progress value="20" max="100"></progress>  |
-|   Harvester | <progress value="10" max="100"></progress>  |
-| Illuminator | <progress value="20" max="100"></progress>  |
-|      Matrix | <progress value="10" max="100"></progress>  |
+|   Resonance | <progress value="10" max="100"></progress>  |
+| Radiant | <progress value="20" max="100"></progress>  |
+|      Axiom | <progress value="10" max="100"></progress>  |
 | Convergence | <progress value="25" max="100"></progress>  |
 
 ## Background
@@ -73,7 +73,7 @@ Despite this, however, Arzen refused to use the new glaive, instead opting to le
 
 Arzen was passed down the remaining remnants of the [[Empyrean Concepts#The Paragon|Paragon]] through King Varens, and thus was made its Ascendant. Its power had manifested such that it bestowed Arzen complete mastery over his body, allowing it to use even the most taxing of magicks. Naturally, this power also gives Arzen access to the most powerful defensive magicks. Our scholars still do not know why Arzen had developed such blessings from being the Paragon's Ascendant, though we can only guess that something from his past triggered this extreme change.
 
-During his time with the knights, Arzen wears a stripped-down version of the elite knight's armor, opting for more maneuverability and flexibility in combat. The elite knight's armor, for reference, is constructed using [[Catalog of Materials#Caladonic Steel|caladonic steel]] with varying layers of metal plates. Despite this, the armor molds to the shape of the wearer. Arzen also uses a caladonic steel longsword and a caladonic steel shield laced with magicks that bear striking similarity with that of the [[Empyrean Concepts#The Stargazer|Stargazer]]. He mostly uses the magic within to materialize the sword and shield out of nowhere, as if wishing it into existence. With both the Paragon's power and our rigorous knight training, Arzen proves a formidable warrior with his offensive and defensive capabilities.
+During his time with the knights, Arzen wears a stripped-down version of the elite knight's armor, opting for more maneuverability and flexibility in combat. The elite knight's armor, for reference, is constructed using [[Catalog of Materials#Caladonic Steel|caladonic steel]] with varying layers of metal plates. Despite this, the armor molds to the shape of the wearer. Arzen also uses a caladonic steel longsword and a caladonic steel shield laced with magicks that bear striking similarity with that of the [[Empyrean Concepts#The Horizon|Horizon]]. He mostly uses the magic within to materialize the sword and shield out of nowhere, as if wishing it into existence. With both the Paragon's power and our rigorous knight training, Arzen proves a formidable warrior with his offensive and defensive capabilities.
 
 ### Magical Combat
 
@@ -103,8 +103,8 @@ We believe that this is his supposed _Gift of the Realm_ that was supposed to be
 #### Sea of Flames
 
 > _// K.M. edit //_  
-> A terrifying invocation that has been discovered sifting through ancient texts, especially ones concerning **the Stargazer**. In it shows a very vague illustration of the Stargazer and a scenery full of flames, along with rocks falling from the heavens. That Arzen is able to use it shows extreme mastery over magic, but is also worrying.
+> A terrifying invocation that has been discovered sifting through ancient texts, especially ones concerning **the Horizon**. In it shows a very vague illustration of the Horizon and a scenery full of flames, along with rocks falling from the heavens. That Arzen is able to use it shows extreme mastery over magic, but is also worrying.
 >
 > When invoked, the sky darkens as flaming meteors pierce the clouds, and crashes onto the earth. Even with the destructive nature of this spell, Arzen consciously contains the spell to a certain, specified area. This invocation leaves the caster drained and exhausted, and Arzen is no exception. This one fact means that the spell duration would be very short, though that time linearly goes up as the reserves of the caster's mana increases.
 >
-> How did the Stalwryn Kingdom, with all their extensive testing, miss this? It clearly shows Arzen having an unusual amount of essence stemming from the Stargazer! But how? Is Arzen also an Ascendant of the Stargazer? He doesn't even seem to be aware of this fact...
+> How did the Stalwryn Kingdom, with all their extensive testing, miss this? It clearly shows Arzen having an unusual amount of essence stemming from the Horizon! But how? Is Arzen also an Ascendant of the Horizon? He doesn't even seem to be aware of this fact...

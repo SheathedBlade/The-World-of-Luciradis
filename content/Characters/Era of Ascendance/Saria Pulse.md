@@ -1,12 +1,12 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-05-25T21:02:48.4848-04:00
+modified: 2026-10-11T02:21:04.044-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
 
 _Internal Census of the Stalwryn Kingdom_  
-_Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
+_Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
 
 > [!infobox]
 >
@@ -20,7 +20,7 @@ _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. My
 > | Age | 4,847 years |
 > | Gender | Female |
 > | Race | [[The Inhabitants of Luciradis#Vyrian\|Vyrian]] |
-> | Date of Birth | Matrix's 24th, 5263 ASC _(24/11/5263)_ |  
+> | Date of Birth | Axiom's 24th, 5263 ASC _(24/11/5263)_ |  
 > | Birthplace | [[Grandiose Peaks]] |
 > | Allegiance | None |
 > | Height | 5'10'' / 178cm |
@@ -35,13 +35,13 @@ _Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. My
 > |     Expanse | <progress value="100" max="100"></progress> |
 > |     Paragon | <progress value="40" max="100"></progress>  |
 > |        Seer | <progress value="25" max="100"></progress>  |
-> |   Stargazer | <progress value="0" max="100"></progress>   |
+> |   Horizon | <progress value="0" max="100"></progress>   |
 > |    Lifeline | <progress value="15" max="100"></progress>  |
 > |  Reflection | <progress value="0" max="100"></progress>   |
 > |   Navigator | <progress value="30" max="100"></progress>  |
-> |   Harvester | <progress value="55" max="100"></progress>  |
-> | Illuminator | <progress value="0" max="100"></progress>   |
-> |      Matrix | <progress value="10" max="100"></progress>  |
+> |   Resonance | <progress value="55" max="100"></progress>  |
+> | Radiant | <progress value="0" max="100"></progress>   |
+> |      Axiom | <progress value="10" max="100"></progress>  |
 > | Convergence | <progress value="5" max="100"></progress>   |
 
 ## Background
@@ -71,7 +71,7 @@ Feeling that they owed King Varens for turning their lives around, Saria and Ren
 Curiously, Saria chose not to input her family's name as her last name. When filling out paperwork for her application to the royal knights, she was conflicted as to whether or not to include the name she loathed so much. Ultimately, Saria decides not to associate herself with her previous family, and tells us she wanted a name to symbolize the companionship between her and Ren in their journey together. In addition, her chosen name would fit quite well with her enhanced hearing of heartbeats through the Concept of the Expanse. Thus, she put "Pulse" as her last name.
 
 > _// K.M. edit //_  
-> Keen on reigniting her love of exploring the unknown (a dream that was shared with Arzen), she took to the cosmos at some indefinite point in time, exploring different worlds and meeting new people. Shortly after the start of the conflict with the Stargazer, she would return to aid in the battle.
+> Keen on reigniting her love of exploring the unknown (a dream that was shared with Arzen), she took to the cosmos at some indefinite point in time, exploring different worlds and meeting new people. Shortly after the start of the conflict with the Horizon, she would return to aid in the battle.
 
 ## Appearance
 
@@ -103,7 +103,7 @@ Saria is also very dismissive of affairs concerning her departure of the Arodrae
 > _// K.M. edit //_  
 > Saria used to be an upbeat and carefree person during the years before the fall of the Stalwryn Kingdom. However, throughout the thousands of years she has lived, she lost her carefree personality, and in its place, gained a more serious and jaded one. After seeing every calamity, and the tragedies that were wrought in its wake, she tries to uphold a positive outlook as she keeps moving forward in spite of them.
 >
-> Since the conflict with the Stargazer, she seems to have regained a little bit of her carefree personality back, as she tries to partake in the small, daily-life activities that a person born in Nova Ciel would also partake, such as going out to restaurants and cafés, meeting up with friends, and indulging in her hobbies (of which cooking is the most prominent).
+> Since the conflict with the Horizon, she seems to have regained a little bit of her carefree personality back, as she tries to partake in the small, daily-life activities that a person born in Nova Ciel would also partake, such as going out to restaurants and cafés, meeting up with friends, and indulging in her hobbies (of which cooking is the most prominent).
 
 ### Likes
 

@@ -12,7 +12,7 @@ _Once, a wayward family found shelter and solace upon the world's nest of leaves
 
 _So, until he finds purpose in himself, she will explore in his stead. Past the small nest of leaves, she dares to travel beyond the blanket of stars dotting the night sky - to worlds beyond the grasp of the roots of Luciradis._
 
-_Matrix's 24th, 8567 ASC (24/11/8567)_
+_Axiom's 24th, 8567 ASC (24/11/8567)_
 
 ---
 

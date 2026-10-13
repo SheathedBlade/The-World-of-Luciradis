@@ -14,7 +14,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. 
 - Gender: Female
 - Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
 - Date of Birth: 6th Day of the Seer, from the Year 5245 ASC _(06/04/5245)_
-- Date of Death: 19th Day of the Stargazer, from the Year 5277 ASC _(19/05/5277)_
+- Date of Death: 19th Day of the Horizon, from the Year 5277 ASC _(19/05/5277)_
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: None\*
 - Height: 5'8'' / 172cm
@@ -38,13 +38,13 @@ _The below information are results from testing the individual of their "Empyrea
 |     Expanse | <progress value="0" max="100"></progress>   |
 |     Paragon | <progress value="0" max="100"></progress>   |
 |        Seer | <progress value="5" max="100"></progress>   |
-|   Stargazer | <progress value="100" max="100"></progress> |
+|   Horizon | <progress value="100" max="100"></progress> |
 |    Lifeline | <progress value="0" max="100"></progress>   |
 |  Reflection | <progress value="25" max="100"></progress>  |
 |   Navigator | <progress value="20" max="100"></progress>  |
-|   Harvester | <progress value="75" max="100"></progress>  |
-| Illuminator | <progress value="85" max="100"></progress>  |
-|      Matrix | <progress value="5" max="100"></progress>   |
+|   Resonance | <progress value="75" max="100"></progress>  |
+| Radiant | <progress value="85" max="100"></progress>  |
+|      Axiom | <progress value="5" max="100"></progress>   |
 | Convergence | <progress value="70" max="100"></progress>  |
 
 ## Background
@@ -75,16 +75,16 @@ Overall, this modification makes her glaive a very dangerous weapon to use, as o
 
 _This is information newly discovered about Amara Illustros by the Cerelicia expedition team._
 
-Amara is revealed to be the last known Ascendant of the elusive [[Empyrean Concepts#The Stargazer|Stargazer]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Luciradis#Cicatri Ciel|Cicatri Ciel]] to survey the land that's long since abandoned. The Ascendants of the expedition team dove down into the depths of the [[Lyntoa Village#Well of Dreams|Well of Dreams]] in [[Lyntoa Village]]. There, Amara reveals that she had used Arzen to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
+Amara is revealed to be the last known Ascendant of the elusive [[Empyrean Concepts#The Horizon|Horizon]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Luciradis#Cicatri Ciel|Cicatri Ciel]] to survey the land that's long since abandoned. The Ascendants of the expedition team dove down into the depths of the [[Lyntoa Village#Well of Dreams|Well of Dreams]] in [[Lyntoa Village]]. There, Amara reveals that she had used Arzen to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
 
-Additionally, Amara is also revealed as the identity of the [[The Ascendant Slayer|Ascendant Slayer]], the once infamous international criminal that roamed the world killing the Ascendants in order to have all the empyrean essence in one place. Her goal is to reset [[Luciradis]] and rid the world of the power of the Empyrean Concepts, as well as their influence, citing that she has seen the ugliness of the world she walked on and wished it to go away. Deciding it was enough, Amara awakened to her powers of the Stargazer, as both Amara and the Stargazer shared a common ideal: "Would the world be better off without the Concepts?".
+Additionally, Amara is also revealed as the identity of the [[The Ascendant Slayer|Ascendant Slayer]], the once infamous international criminal that roamed the world killing the Ascendants in order to have all the empyrean essence in one place. Her goal is to reset [[Luciradis]] and rid the world of the power of the Empyrean Concepts, as well as their influence, citing that she has seen the ugliness of the world she walked on and wished it to go away. Deciding it was enough, Amara awakened to her powers of the Horizon, as both Amara and the Horizon shared a common ideal: "Would the world be better off without the Concepts?".
 
-During their meeting, Arzen claims that Amara had the essences of the [[Empyrean Concepts#The Harvester|Harvester]], [[Empyrean Concepts#The Convergence|Convergence]], and [[Empyrean Concepts#The Illuminator|Illuminator]] before forcibly obtaining the powers of the rest of the Concepts (except the [[Empyrean Concepts#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Arzen her Concept powers in order for Arzen to win most of his most difficult battles.
+During their meeting, Arzen claims that Amara had the essences of the [[Empyrean Concepts#The Resonance|Resonance]], [[Empyrean Concepts#The Convergence|Convergence]], and [[Empyrean Concepts#The Radiant|Radiant]] before forcibly obtaining the powers of the rest of the Concepts (except the [[Empyrean Concepts#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Arzen her Concept powers in order for Arzen to win most of his most difficult battles.
 
 We can infer here that Amara, after having been traveling as a **beacon** for the Luxori Covenant for so long, has had enough of the death and despair, the conspiracies and lies, juxtaposed with the "peace" that was prevalent in the world.
 
-For the longest time, we had thought Amara had died after a failed ritual in [[Lyntoa Village]], sacrificing herself instead of **Arzen**. Instead, her soul, backed by the essence of the Stargazer, obstructed the [[Lyntoa Village#Well of Dreams|Well of Dreams]], which made it functionally useless. Amara's soul was split, with her warm and caring personality being infused with [[Leoris Varens]], which explains his sudden change in behavior. The obsessive part of her soul, which holds her desires of a world free of the influence of the Concepts, stayed within the **Well of Dreams**, eventually fusing with the Stargazer. Both parts of her soul, however, holds an unnatural sibling-like affection to her surrogate brother, with the desire for Arzen to see the world beyond the village.
+For the longest time, we had thought Amara had died after a failed ritual in [[Lyntoa Village]], sacrificing herself instead of **Arzen**. Instead, her soul, backed by the essence of the Horizon, obstructed the [[Lyntoa Village#Well of Dreams|Well of Dreams]], which made it functionally useless. Amara's soul was split, with her warm and caring personality being infused with [[Leoris Varens]], which explains his sudden change in behavior. The obsessive part of her soul, which holds her desires of a world free of the influence of the Concepts, stayed within the **Well of Dreams**, eventually fusing with the Horizon. Both parts of her soul, however, holds an unnatural sibling-like affection to her surrogate brother, with the desire for Arzen to see the world beyond the village.
 
-Thus, Amara was responsible for the curse of immortality placed on Arzen. The reasoning for this was previously unknown, but after the **Second Scarring** came to pass, Amara revealed that she grew very close with the family that she was taking care of in [[Lyntoa Village]]. During that time, the family would eventually have a son that would turn out to be a miscarriage. Borrowing the power of the Stargazer, she willed Arzen into existence, with the caveat being that he would be **immortal in all aspects so long as Amara exists in some form**. Since then, she developed into an older sibling, a role model that Arzen would look up to, with Amara wanting to only show the beautiful side of the world, while hiding all its dark aspects.
+Thus, Amara was responsible for the curse of immortality placed on Arzen. The reasoning for this was previously unknown, but after the **Second Scarring** came to pass, Amara revealed that she grew very close with the family that she was taking care of in [[Lyntoa Village]]. During that time, the family would eventually have a son that would turn out to be a miscarriage. Borrowing the power of the Horizon, she willed Arzen into existence, with the caveat being that he would be **immortal in all aspects so long as Amara exists in some form**. Since then, she developed into an older sibling, a role model that Arzen would look up to, with Amara wanting to only show the beautiful side of the world, while hiding all its dark aspects.
 
 Though her ambitions of resetting the world was ultimately stopped by the Cerelicia expedition team, Amara's wish to rid the world of the influence of the Concepts was made reality by Arzen. Thus, the power of the Concepts stop at the last remaining Ascendants, and are never to be reawakened within another being. Now, fate and destiny finally belong to the lowest denominator.
