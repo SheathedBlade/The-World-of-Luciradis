@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-14T02:16:22.2222-04:00
+modified: 2026-10-14T03:55:37.3737-04:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -171,3 +171,18 @@ Rietta employs Aith Merillé in both long-range and mid-range engagements, adapt
 ![[Aith_Merille_2.webp]]_Credit: @MonsterOfSukeP_
 
 ![[Aith_Merille_3.webp]]_Credit: @MonsterOfSukeP_
+
+#### Alchemical Preparations
+
+Rietta has developed numerous specialized formulations throughout her career, many of which belong to four principal families of alchemical preparations. Each family encompasses a variety of compounds with differing concentrations, properties, and applications, allowing her to adapt their effects to the circumstances at hand. While frequently employed through Aith Merillé's specialized ammunition, certain preparations can also be administered or deployed independently of the firearm.
+
+| Preparation    | Application                                                                                                                                                     |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Verdigris**  | Corrosive preparations capable of degrading armor, machinery, and other resistant materials.                                                                    |
+| **Rimeglass**  | Cryogenic compounds employed to induce rapid freezing, restrict movement, and alter the surrounding terrain.                                                    |
+| **Cinderwake** | Incendiary preparations designed to produce sustained burning effects and deny access to particular areas.                                                      |
+| **Stillthorn** | Disabling compounds that temporarily interfere with muscular coordination, allowing opponents to be incapacitated without relying on more destructive measures. |
+
+Among Rietta's more elaborate inventions is **Crystalline Bloom**, a specialized formulation derived from the Rimeglass family. Upon activation, the preparation generates branching crystalline formations that spread across nearby surfaces, obstructing passageways and restraining those caught within their growth. Its distinctive floral patterns reflect Rietta's personal aesthetic, transforming an otherwise practical means of battlefield control into an unusually intricate display of alchemical craftsmanship.
+
+Crystalline Bloom can be deployed through concentrated alchemical ammunition or throwable capsules, with the latter capable of affecting a broader area. When used in conjunction with **Tidal Weave**, Rietta can freeze portions of her established water currents into temporary barriers and restraints, allowing her to manipulate the battlefield with considerable flexibility.
