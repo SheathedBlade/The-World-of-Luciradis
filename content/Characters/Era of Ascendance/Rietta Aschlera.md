@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-13T19:53:18.1818-04:00
+modified: 2026-10-13T20:08:49.4949-04:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -49,20 +49,38 @@ comments: false
 
 ## Background
 
-_"Listen, I may look positively brimming with joy, but I do worry about a lot of stuff in the back of my head. It's mostly about the future. I personally think it's crazy that Ferros elves never have to need to worry about this, because they're just conditioned to not care. It's the plight that the short-lived have to face every day. Well, as someone who interacts with the short-lived every day, it's hard not to empathize, or even identify, with them._
+> *“You know, I might seem like I'm always in high spirits, but I worry about quite a few things. Mostly the future, I suppose.*
+> 
+> *I sometimes wonder how the elves back in Ferros can go about their lives without giving it much thought. Perhaps that's just what happens when you're accustomed to living for thousands of years. But when you spend enough time among people whose lives are so much shorter than your own, it's difficult not to share their concerns.*
+> 
+> *Whenever I set out on a journey, I find myself wondering what awaits me at the destination. Metaphorically speaking, of course. As much as I'd like to enjoy the journey itself, I can't help worrying about what might be waiting at the end.”*
+> 
+> — Rietta Aschlera
 
-_Every time I take to the road, I think about what's waiting for me when I arrive at my destination. Metaphorically, of course. Because as much as I'd like to enjoy the journey, not knowing what awaits me at the end scares me."_
+Rietta Celexa Aschlera was born into a family of elven merchants originating from [[Galaderyn]], whose relative isolation made commerce with neighboring nations an uncommon but necessary occupation. At the time of her birth, her parents had settled in [[Lyntoa Village]], a small settlement within the territory of the [[Stalwryn Kingdom]], where they facilitated trade between their homeland and the surrounding regions.
 
-Rietta was born into a family of merchants, a rare occupation for elves, but necessary nonetheless to facilitate trade inside and out of the isolated [[Galaderyn]]. At the time of her birth, her parents were settled in the territory of the [[Stalwryn Kingdom]], specifically in the small village of [[Lyntoa Village|Lyntoa]]. She grew up as a mischievous child, always getting involved with antics with the other children in the village, much to the dismay of the elders.
+Growing up in Lyntoa, Rietta was exposed to cultures and peoples considerably different from those of her ancestral homeland. She was known throughout the village for her mischievous disposition and boundless curiosity, frequently involving herself in the antics of the local children, much to the exasperation of its elders. Despite her playful nature, she demonstrated a keen intellect from an early age, along with a growing familiarity with the commercial practices of her family.
 
-At the age of 14, Rietta and her parents temporarily relocated from Lyntoa Village to the Stalwryn Kingdom proper. It is during her stay inside the walls of the Stalwryn Kingdom that she developed a passion for not only business, but also alchemy. In her free time, Rietta likes to stay at the local apothecary, where individuals blessed with the powers of the [[Empyrean Concepts#The Convergence|Convergence]] do their best work. Here, she became an apprentice to an alchemist, seeking to indulge in her passion. Because of the nature of the craftsmanship of standard-issue Stalwryn weaponry and armor, the apothecary and the forge often worked together, which meant Rietta often had access to both facilities.
+At the age of fourteen, Rietta accompanied her parents on a temporary relocation from Lyntoa Village to the capital of the [[Stalwryn Kingdom]]. During her stay, she developed a growing interest in both commerce and alchemy, the latter of which would eventually become one of her lifelong pursuits.
 
-At the end of her apprenticeship, as a token to herself, Rietta commissioned the head blacksmith, {blacksmith name here}, for a firearm in which she can use her alchemical solutions to infuse the projectiles with special properties. The smith graciously accepted her request, and crafted a potent, long-range firearm that gives room for Rietta's alchemical compounds to infuse the bullets before leaving the barrel. This, though, was given as a gift, free of charge, to Rietta upon her graduation from being an apprentice.
+Rietta frequently visited a local apothecary, where she became fascinated by the preparation of medicinal compounds and the practical applications of alchemy. Although the discipline could be studied and practiced by individuals regardless of their Empyrean affinities, those with a greater aptitude for the [[Empyrean Concepts#The Convergence|Convergence]] often demonstrated an advantage in the manipulation and refinement of materials. Eager to further her understanding, Rietta eventually sought and obtained an apprenticeship under one of the establishment's practicing alchemists.
 
-> _// K.M. edit //_  
-> What Rietta had received is a weapon that is now known as a **semi-automatic rifle** in Nova Ciel. There are compartments in which she can insert containers filled with alchemical solutions, which allows her to fire bullets infused with the solutions to inflict various effects on her target.
+The apothecary maintained a close working relationship with the kingdom's blacksmiths and armorers, whose craftsmanship frequently required specialized alchemical preparations. Through this arrangement, Rietta gained access to both the apothecary and the neighboring forge, exposing her to the processes involved in the manufacture of conventional weaponry and armor.
 
-It is also at this time where our physicians have confirmed the **Empyrean essence** of Rietta, confirming her status as an Ascendant of the [[Empyrean Concepts#The Navigator|Navigator]]. For personal reasons, Rietta's parents requested this information be private until they, as a family, arrive back to Galaderyn. It is understandable, however, given the structure of society within the Republic. The class structure allows for those who are officially identified as Ascendants of the Navigator to be instantly given the status of **sovereign elves**. It would be a boon for this family, as they started out as **industrious elves**. As such, the quality of life afforded to sovereign elves would immensely help the family in terms of financial status and influence as merchants.
+Toward the conclusion of her apprenticeship, Rietta approached the forge's head blacksmith, **{blacksmith name here}**, with an unusual commission: a firearm designed to incorporate her alchemical preparations directly into its ammunition. Rather than relying solely on conventional projectiles, she envisioned a weapon capable of imparting different properties to its ammunition through the application of specialized compounds.
+
+Intrigued by the proposal, the blacksmith accepted the commission and began developing a long-range firearm equipped with a mechanism through which Rietta's alchemical solutions could be introduced into its projectiles prior to discharge. Although initially intended as a paid commission, the completed weapon was ultimately presented to Rietta as a gift upon the successful completion of her apprenticeship, in recognition of her dedication and accomplishments.
+
+> [!commentary] Kallie Myrai, Head Archivist  
+> The firearm described in the original census would be classified as a **semi-automatic rifle** under contemporary Nova Ciel terminology, although its mechanisms differ from those employed in conventional modern firearms.
+> 
+> Of particular interest is its integrated system of compartments, which accommodate interchangeable vessels containing Rietta's alchemical preparations. These compounds can be introduced into the ammunition before discharge, allowing the weapon to produce a variety of effects depending on the preparations employed.
+
+During this period, an examination conducted by the kingdom's physicians confirmed that Rietta possessed an exceptionally high concentration of the [[Empyrean Concepts#The Navigator|Navigator]]'s essence, establishing her status as an Ascendant of the Concept.
+
+At the request of her parents, the results of the examination were kept confidential until the family's eventual return to [[Galaderyn]]. Their decision was largely motivated by the social hierarchy of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]], where individuals officially recognized as Ascendants of the Navigator were automatically elevated to the status of **sovereign elves**, irrespective of their previous standing.
+
+For the Aschlera family, whose standing had previously been that of **industrious elves**, Rietta's recognition represented a considerable advancement in social status and economic opportunity. The privileges afforded to sovereign elves would provide the family with greater influence within elven society, particularly in the pursuit of their commercial interests.
 
 ## Appearance
 
