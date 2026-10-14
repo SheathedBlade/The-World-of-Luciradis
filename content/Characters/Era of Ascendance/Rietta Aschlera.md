@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-13T20:08:49.4949-04:00
+modified: 2026-10-14T02:16:22.2222-04:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -86,80 +86,88 @@ For the Aschlera family, whose standing had previously been that of **industriou
 
 ![[rietta-refsheet.webp]]_Credit: @shouz140_
 
-Rietta is a young girl with pointed ears and fair skin. She also has a slender frame, which is not unexpected of someone whose job is to foray and gather materials in the wild. Her bust size is measured to be E/F (US/JP). One can expect her youthful appearance to stay consistent, as elves tend to retain their young adult look up until they reach the last quarter of their lifespans. Generally, an elf's total lifespan is an average of 8000 years.
+Rietta possesses the characteristic pointed ears and slender physique of the elven peoples of [[Galaderyn]], standing at approximately 170 centimeters in height. Her complexion is fair, and she retains a youthful appearance characteristic of the gradual aging of her race.
 
-Rietta has long, **caramel-colored hair**, with side bangs reaching to her shoulders. She usually ties her hair in a ponytail, but without it, the ends of her hair reaches all the way down her back. Rietta also has amber eyes, a trait inherited from her mother. Rietta has a floral headpiece that she attaches on her bangs, which give her a more whimsical look. This motif is found on other parts of her outfit, as well as her weaponry.
+Her most distinctive features include her long, **caramel-colored hair** and warm amber eyes, the latter inherited from her mother. She ordinarily styles her hair into a ponytail, with loose strands framing her face and extending toward her shoulders. When left unbound, her hair falls well down her back. A floral ornament is frequently worn among her bangs, lending her appearance a whimsical quality that is further reflected in the decorative motifs found throughout her attire and personal equipment.
 
-Rietta mainly dons her comfortable alchemist outfit, which consists of a sleeveless turtleneck (which exposes her midriff), a lab coat/trench coat, tight-fitting shorts with sheer leggings underneath, and leather long boots. For her work, she does carry around her **owl horn-rimmed glasses**, with a black frame with golden metal engravings. Rietta only uses her glasses for precise alchemical work.
+Rietta's customary attire reflects both her personal tastes and the practical requirements of her profession. She typically wears a sleeveless, cropped turtleneck beneath a long, open-front coat resembling those traditionally worn by practicing alchemists. Her ensemble is completed by fitted shorts worn over sheer leggings and a pair of tall leather boots suitable for prolonged travel and excursions into the wilderness.
 
-She is often seen with alchemical gadgets and concoctions, though a fairly recent addition to her arsenal is a very unique firearm that utilizes her alchemical compounds. The firearm dismantles into three parts for portability, and it can easily be put back together for a combat situation. She commonly stores the weapon into a inconspicuous bag, along with reserves of ammunition, in the form of [[Catalog of Materials#Caladonic Steel|caladonic steel]] bullets, and dangerous alchemical solutions that coat the bullet to give it special effects.
+For more intricate alchemical work, Rietta employs a pair of distinctive **owl horn-rimmed spectacles**, featuring dark frames adorned with delicate golden engravings. Although she has little need for them in everyday activities, she frequently wears them when performing procedures requiring considerable precision.
 
-![[Aith_Merille_1.webp]]
-_Credit: @MonsterOfSukeP_
+Rietta is rarely seen without an assortment of alchemical instruments, prepared compounds, and other specialized equipment essential to her work. Among her possessions is a custom-made firearm designed to accommodate her alchemical preparations, which can be disassembled into three principal components for ease of transportation and quickly reassembled when necessary. She typically stores the weapon in an inconspicuous travel bag, alongside spare ammunition fashioned from [[Catalog of Materials#Caladonic Steel|caladonic steel]] and sealed vessels containing the various compounds employed in her work.
 
-> _// K.M. edit //_  
-> While her alchemist outfit is her most commonly used one, Rietta often changes outfits in accordance to popular trends in Terystal, particularly dressing in fashion styles such as casual wear, formal wear, and cutesy clothing.
+![[Aith_Merille_1.webp]]_Credit: @MonsterOfSukeP_
+
+> [!commentary] Kallie Myrai, Head Archivist  
+> Although Rietta continues to favor her customary alchemist attire, she has developed a considerable interest in the contemporary fashion trends of [[Terystal]]. Her wardrobe has since expanded to include a variety of casual and formal garments, as well as more playful styles reflecting her personal tastes. She appears to take particular enjoyment in experimenting with new outfits, frequently adopting styles that have only recently entered popular fashion.
 
 ## Personality
 
-Rietta is a cheerful and playful person, always looking to lighten the mood out of any situation. She would often play with her schoolmates when she was younger, and makes herself very friendly and approachable to everyone. She is, however, very smart compared to others her age, which often makes Rietta a target of adoration and jealousy.
+Rietta is characterized by her cheerful disposition, playful demeanor, and approachable nature. From an early age, she demonstrated a penchant for mischief and an eagerness to involve herself in the activities of those around her, frequently seeking to lighten the mood through humor and good-natured teasing. Beneath her carefree exterior, however, lies an inquisitive and remarkably perceptive individual, whose intelligence and aptitude for problem-solving have earned her both admiration and occasional envy among her peers.
 
-When it comes down to business, however, Rietta is very crafty and cunning, honed through her experience as a traveling merchant. While she is fair and negotiable to individual clients, for much bigger entities, she will try to squeeze as much value and money from her business partners as possible, while also maintaining goodwill with them. All the while, Rietta maintains a friendly façade as she is negotiating.
+Despite her seemingly carefree attitude, Rietta is considerably more cautious than her outward behavior might suggest. She has a tendency to anticipate unfavorable outcomes and prepare for circumstances that may never arise, often concerning herself with matters well beyond her immediate control. Although these habits occasionally betray an underlying anxiety about the future, they also contribute to her resourcefulness and meticulous approach to both alchemy and travel.
 
-> _// K.M. edit //_  
-> Since the fall of Stalwryn to the Cicatri Emigration, Rietta still appeared as a friendly, naïve person that everyone recognized. But it's clear to anyone looking hard enough that she's using this as a front to hide her loneliness and depression of having lost those close to her in war. She rarely confided with anyone, not even those of whom she knew from centuries ago.
->
-> Since [[Arzen Lynos|Arzen's]] arrival to Terystal, and the subsequent [[Overgrowth Incident]], Rietta no longer hides her sadness with a mask of happiness, and lets her feelings come through to the forefront. It's almost as if life had refilled her body with renewed vigor. Rietta became more relaxed, opting to hang out with [[Iris Riedel]] and enjoying her life to the fullest.
+In commercial affairs, Rietta demonstrates a markedly different side of her personality. Drawing upon her upbringing in a merchant family and her extensive experience in trade, she approaches negotiations with considerable cunning and a keen understanding of her counterparts' interests. While generally accommodating toward individual clients, she is notably more assertive when dealing with larger commercial enterprises, seeking to secure the most advantageous terms possible without unnecessarily jeopardizing future relationships. Throughout such dealings, she maintains her characteristic friendliness, often concealing the full extent of her calculations behind an amiable smile.
+
+> [!commentary] Kallie Myrai, Head Archivist  
+> Following the fall of [[Stalwryn Kingdom|Stalwryn]] during the [[Cicatri Emigration]], Rietta continued to display the cheerful and approachable demeanor for which she had long been known. To most, she appeared remarkably unchanged, greeting acquaintances with her familiar enthusiasm and maintaining an almost unwavering sense of optimism. Those who knew her more closely, myself included, gradually came to recognize how much of that cheerfulness concealed the grief of losing so many people dear to her.
+> 
+> In the centuries that followed, Rietta rarely spoke of her personal struggles, even among those she considered close friends. There were occasions when I suspected she wished to confide in someone, only to dismiss the matter with a smile or steer the conversation elsewhere. I cannot claim to know everything she endured during those years, nor would I presume that her outward happiness was entirely insincere. It was simply difficult to watch someone so accustomed to comforting others become so reluctant to accept that same kindness herself.
+> 
+> Since [[Arzen Lynos|Arzen's]] arrival in [[Terystal]] and the subsequent [[Overgrowth Incident]], I have observed a gradual but welcome change in her disposition. She has grown more comfortable expressing her feelings, including those she once took considerable pains to conceal. Her grief has not disappeared, but it no longer seems to govern how she allows herself to live. She now spends more time enjoying the company of her friends, particularly [[Iris Riedel]], and appears genuinely content with the life she has established here. I am glad to see her rediscover that happiness, this time without feeling the need to maintain it for everyone else's sake.
 
 ### Likes
-
-- Overpreparation
-  - She is, to no surprise to many who know her, a worrywart, despite her carefree and reckless nature. As such, she likes to stock multiple reserves of ammunition and alchemical compounds just for the one rare moment that she'll need to use it. This does extend to some of her other activities, to some extent.
-- Helping her local community with alchemy
-  - When Rietta started traveling by herself, she often comes into contact with people who are in need of her alchemical services. While Rietta could charge money for her services, she ultimately decided for it to be free of charge, as her main source of income came from her occupation as a merchant. As alchemy allows for more custom-made solutions, Rietta naturally grew an audience that only comes to her for very specialized products and/or requests.
-- Pop Culture _// K.M. edit //_
-  - A relatively new passion from when Rietta settled into Terystal. The emergence of pop culture, such as more daring types of music, clothing, and entertainment, has her enamored. During her work, she would be seen constantly on gaming websites, video platforms, and clothing shops.
+- **Preparedness** — Rietta finds comfort in preparing for unlikely circumstances, often maintaining excessive reserves of ammunition, alchemical compounds, and other supplies.
+- **Helping Others Through Alchemy** — Rietta takes considerable satisfaction in offering her alchemical expertise to those in need, frequently providing specialized preparations and services without demanding compensation.
+- **Popular Culture** — Since settling in [[Terystal]], Rietta has developed an enthusiastic interest in contemporary music, fashion, video games, and online entertainment, occasionally indulging in these interests during working hours.
 
 ### Dislikes
-
-- Pointless violence/fighting
-  - Rietta is very pacifist, but will fight when no other option is available to her. She often tries to diffuse the situation first, at any cost.
-- Recreational drinking
-  - Rietta would rather be the responsible, sober person in the room.
-- Being challenged on her intelligence
-  - This doesn't happen often with those she is close to, but with business entities that she is negotiating with. As an experienced merchant, Rietta knows when she is being used or scammed, and will call them out on it, either directly or indirectly through veiled financial ultimatums.
+- **Senseless Violence** — Rietta strongly opposes unnecessary conflict and prefers to resolve confrontations through diplomacy or negotiation. While capable of defending herself and others, she considers violence a last resort, particularly when a peaceful resolution remains possible.
+- **Recreational Drinking** — Rietta has little interest in alcohol, preferring to remain sober and attentive to her surroundings, especially when accompanying friends who are more inclined to indulge.
+- **Having Her Intelligence Underestimated** — Rietta takes particular offense when others mistake her cheerful disposition for naivety or incompetence. This is especially apparent in commercial negotiations, where she is quick to recognize attempts at deception and rarely hesitates to turn an opponent's assumptions against them.
 
 ## Expertise
 
-### Magical Combat
+### Arcana
+Rietta is an exceptionally accomplished practitioner of arcana, specializing in the manipulation of water and its various physical states. As an Ascendant of the [[Empyrean Concepts#The Navigator|Navigator]], she possesses a remarkable affinity for the manifestation and coordination of elemental forces, allowing her to perform complex techniques with a degree of precision and efficiency seldom achieved by conventional practitioners. Her mastery extends beyond the manipulation of individual elements, encompassing the intricate interactions between them and the sustained control of multiple manifestations simultaneously.
 
-Rietta is very proficient at the manipulation of water, a trait an Ascendant of the Navigator would surely possess. To further enhance her concentration of her invocations, she wields a custom-made staff, gifted from the senior manawards of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]]. The below are some of her most notable invocations:
+To further refine her control over particularly demanding techniques, Rietta wields a custom-made staff presented to her by the senior manawards of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]]. The instrument serves as a focus for her Arcana, assisting with the concentration and regulation required for more elaborate invocations.
 
-#### Scalding Flood
+#### Tidal Weave
 
-This spell combines the effects of the basic "Create: Fire" and "Create: Water" invocations and improves upon it, shooting out a flood of scalding brine water, burning the target in the process. Using this spell in particular is decently draining on the average user, but comes as naturally as breathing for Ascendants of the Navigator.
+Rietta manifests a network of independently controlled water currents, manipulating their direction, velocity, and intensity to influence the surrounding battlefield. These currents can be employed to restrain opponents, disrupt their movements, or intercept incoming attacks. By weaving multiple currents together, she can concentrate their collective force upon a single target or distribute their effects across a wider area.
+
+The technique is particularly effective when employed alongside **Fluid Decoy**, as Rietta can extend her control through her aqueous constructs to maintain additional currents from multiple positions. While individual decoys can reproduce weaker manifestations of Tidal Weave, their combined efforts allow Rietta to establish intricate patterns of movement and restraint, creating opportunities for precisely timed attacks with her firearm.
 
 #### Aquatic Veil
 
-Rietta generates a barrier, made of water and shards of ice, that reflects any projectiles that come into contact with it. Objects that are already inside this barrier can be moved out of it, but the opposite doesn't occur, as objects trying to enter the barrier from the outside will be rejected. Constant attention to this invocation is key for an impenetrable barrier, but projectiles that hit the barrier will take a toll on the user's stamina.
+Rietta conjures a defensive barrier composed of rapidly circulating water and suspended fragments of ice, forming a protective enclosure around herself and nearby allies. Through precise regulation of its currents, the barrier intercepts incoming projectiles, dispersing their momentum or redirecting them away from those within.
+
+The technique's distinctive characteristic is its **directional permeability**, allowing attacks and objects to pass outward while resisting those attempting to enter. Maintaining this selective flow requires continuous concentration, with repeated impacts placing progressively greater strain on the practitioner. Particularly powerful or sustained attacks can overwhelm the barrier's circulation, creating temporary openings in its defenses.
 
 #### Fluid Decoy
 
-Rietta generates crude, watery decoys to distract the target, which can take on the appearance of anything from beasts to humanoids. In addition, Rietta can put a little more effort into making her decoys and generate copies of either people she knows well, or of herself. These decoys are particularly more dangerous, as they can use invocations (albeit at a lower intensity) and copy the mannerisms of the original very accurately.
+Among Rietta's more sophisticated techniques is **Fluid Decoy**, through which she manifests aqueous constructs capable of assuming the forms of various living creatures. Simpler constructs typically resemble crude representations of beasts or humanoids, serving as distractions or performing rudimentary tasks. With greater concentration, Rietta can produce highly detailed replicas of herself or individuals with whom she is intimately familiar, reproducing their appearances, movements, and mannerisms with remarkable accuracy.
+
+Rather than possessing independent consciousness, these constructs function as extensions of Rietta's own perception and control. They are capable of carrying out simple instructions autonomously, while more complex actions require her direct attention. Through her affinity with the [[Empyrean Concepts#The Navigator|Navigator]], Rietta can maintain and coordinate multiple constructs simultaneously, directing their movements and sustaining their elemental forms with exceptional precision.
+
+More elaborate decoys can reproduce selected arcana techniques at reduced intensity, allowing them to assist Rietta in combat through coordinated attacks, defensive maneuvers, and battlefield manipulation. Their effectiveness is limited by the complexity of the actions performed and the concentration required to sustain them. Managing numerous decoys simultaneously can place considerable strain on Rietta, particularly when directing their individual actions during prolonged engagements.
 
 ### Alchemy
 
-Despite being very talented as an invoker, Rietta opts for a more niche career: **alchemy**. As a curious and experimental individual, she likes the complexity that alchemy introduces. And there are benefits to pursuing this craft in general, one being that products made from alchemy are made in advance. This means that, in combat, there is no cost to her stamina for using these items, as she will have already spent the stamina needed to create the items in question.
+Despite her exceptional proficiency in arcana, Rietta has devoted much of her life to the study and practice of **alchemy**, a discipline that combines theoretical knowledge, experimentation, and the precise manipulation of materials to produce specialized compounds and other practical creations. Her inquisitive nature and willingness to pursue unconventional methods have allowed her to develop a considerable repertoire of preparations, many of which remain unique to her personal research.
 
-Together with the abundant essence from the [[Empyrean Concepts#The Convergence|Convergence]] and the skills from being the Navigator's Ascendant, she is able to concoct magical compounds through the precise handling of fluids, using very unique recipes unknown to the common alchemist. These compounds can vary from flammable fluids to corrosive compounds. Only Rietta knows the effects of each of her potions.
+Rietta's aptitude for the [[Empyrean Concepts#The Convergence|Convergence]] facilitates certain aspects of alchemical synthesis, while her affinity with the [[Empyrean Concepts#The Navigator|Navigator]] affords her extraordinary precision in controlling the movement and interaction of elemental substances. These advantages complement her extensive technical knowledge, allowing her to undertake complex procedures with a degree of efficiency and consistency seldom achieved by conventional practitioners.
 
-> _// K.M. edit //_  
-> To supplement her knowledge of alchemy on the battlefield, Rietta uses her rifle in tandem with her alchemical compounds to produce bullets infused with various destructive properties, enabling her to be very versatile in any situation.
->
-> This does mean Rietta needs to carry not only ammunition, but also refills of the compounds she creates. Fortunately for her, the compounds are easy to make through her powers of the Convergence.
+A distinguishing feature of Rietta's approach is her emphasis on **preparation and versatility**. Unlike arcana performed directly in the field, alchemical preparations can be manufactured and stored in advance, allowing their effects to be employed without repeatedly performing the processes required for their creation. This has proven particularly advantageous in combat, where Rietta frequently relies on an assortment of specialized compounds to respond to changing circumstances.
+#### Aith Merillé
 
-![[Aith_Merille_2.webp]]
-_Credit: @MonsterOfSukeP_
+Among Rietta's most recognizable possessions is **Aith Merillé**, a custom-built, long-range firearm designed to incorporate her alchemical preparations into its ammunition. Originally commissioned during her apprenticeship in the [[Stalwryn Kingdom]], the weapon has remained an integral part of her equipment, combining conventional marksmanship with the versatility of her alchemical expertise.
 
-![[Aith_Merille_3.webp]]
-_Credit: @MonsterOfSukeP_
+The rifle features a specialized mechanism that accommodates interchangeable vessels containing prepared compounds, allowing Rietta to impart different properties to its [[Catalog of Materials#Caladonic Steel|caladonic steel]] ammunition prior to discharge. These preparations enable a variety of effects, ranging from corrosive and incendiary reactions to localized freezing and temporary incapacitation. The weapon can also be disassembled into three principal components for transportation, allowing Rietta to carry it alongside her other alchemical equipment.
+
+Rietta employs Aith Merillé in both long-range and mid-range engagements, adapting her approach to the circumstances at hand. Her proficiency in marksmanship is complemented by her mastery of arcana, particularly **Tidal Weave** and **Fluid Decoy**, which allow her to disrupt enemy movements, establish advantageous firing positions, and coordinate attacks from multiple directions. Rather than relying exclusively on the rifle's destructive capabilities, she frequently uses its specialized ammunition to restrict opponents' options or bring confrontations to an end with minimal unnecessary violence.
+
+![[Aith_Merille_2.webp]]_Credit: @MonsterOfSukeP_
+
+![[Aith_Merille_3.webp]]_Credit: @MonsterOfSukeP_
