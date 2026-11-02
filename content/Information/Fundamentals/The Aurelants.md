@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-02T05:12:48.4848-05:00
+modified: 2026-11-02T05:24:50.5050-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -223,7 +223,7 @@ The Resonance's Authority encompasses **harmonic correspondence**, governing the
 
 Although the Resonance is recognized among the twelve Aurelants, relatively little is known about its original bearer. Surviving historical accounts provide few reliable descriptions of their actions during the Scarring, and the circumstances surrounding their involvement in the conflict remain largely undocumented.
 
-The Resonance's essence is understood to permit applications extending beyond the manipulation of sound alone. Through the understanding and regulation of compatible frequencies or patterns, practitioners may influence the behavior of physical materials, transmit disturbances across a medium, or alter the intensity of existing phenomena. The precise limits of these interactions remain an active subject of scholarly investigation. Although its influence upon vibrations and harmonic interactions is well understood, the extent to which these principles may be applied to more complex phenomena has yet to be conclusively established.
+The Resonance's essence is understood to permit applications extending beyond the manipulation of sound alone. Through the understanding and regulation of compatible frequencies or patterns, practitioners may influence the behavior of physical materials, transmit disturbances across a medium, or alter the intensity of existing phenomena. Although its influence upon vibrations and harmonic interactions is well understood, the extent to which these principles may be applied to more complex phenomena remains an active subject of scholarly investigation.
 
 ### The Radiant
 
@@ -264,7 +264,7 @@ Despite the success of these endeavors, the artisan eventually departed to trave
 
 During the Scarring, the Convergence became renowned for the creation of extraordinary weapons and artifacts, including firearms, blades, and other implements whose properties exceeded those attainable through conventional methods. Several of these relics survive in historical collections, although the techniques employed in their construction have largely been lost. The ability to extract, combine, and refine the properties of existing materials nevertheless remains among the most recognizable manifestations of the Convergence's essence.
 
-In the generations that followed the artisan's departure, their former apprentices continued to develop and disseminate their craft throughout Cicatri Ciel. Over successive generations, their workshops became established centers of production and technical knowledge, preserving aspects of the original bearer's teachings while developing methods of their own.
+In the generations that followed the artisan's departure, their former apprentices carried these teachings throughout Cicatri Ciel. Their descendants and successors gradually established new centers of craftsmanship, adapting the original methods to emerging technologies while preserving portions of the knowledge entrusted to them.
 
 Although the Convergence is primarily associated with material transformation, the full extent of its Authority remains incompletely understood. Its applications demonstrate that synthesis need not be limited to the combination of physical substances, and that the properties of a resulting creation may differ considerably from those of its constituent materials.
 
