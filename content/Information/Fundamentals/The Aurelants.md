@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-02T04:46:43.4343-05:00
+modified: 2026-11-02T05:12:48.4848-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -9,7 +9,7 @@ comments: false
 
 **The Aurelants** are twelve legendary figures whose actions have profoundly shaped the history of Luciradis. Each is associated with a distinct Authority, granting powers far beyond those ordinarily attainable through arcana. Although the precise circumstances surrounding their rise to power remain a subject of historical inquiry, the influence of the Aurelants persists through the essences dispersed during **the Sundering**.
 
-These essences reside within living beings and influence an individual's natural affinity for particular disciplines of arcana. Their concentrations vary considerably, with those possessing the greatest concentration of a particular essence recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
+These essences reside within living beings and influence an individual's natural affinity for arcana associated with their corresponding Authorities. Their concentrations vary considerably, with those possessing the greatest concentration of a particular essence recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
 
 The relationship between the Aurelants, their Authorities, and the broader practice of arcana remains a principal subject of scholarly research. Over successive generations, scholars have sought to understand the distribution of these essences, the abilities they confer, and the circumstances through which their influence has endured.
 
@@ -19,11 +19,11 @@ Despite considerable advances in this field, much about the Aurelants remains un
 
 The origins of the Aurelants can be traced to the Era of Genesis, when twelve mortals embarked upon a journey that would ultimately culminate in the death of Genesis, the being traditionally regarded as the creator of existence. Though their individual backgrounds and motivations differed, they were united in their opposition to the reverence afforded to Genesis and the authority it held over the world.
 
-Following Genesis's defeat, the twelve inherited extraordinary powers that would come to be known as Authorities. Each Authority granted its bearer influence over a distinct aspect of existence, elevating the former mortals to a position of power unprecedented in recorded history. Their subsequent actions would shape the course of civilization and establish the foundations of their enduring legacy.
+Following Genesis's defeat, the twelve came into possession of extraordinary powers that would become known as Authorities. Each Authority granted its bearer influence over a distinct aspect of existence, elevating the former mortals to a position of power unprecedented in recorded history. Their subsequent actions would shape the course of civilization and establish the foundations of their enduring legacy.
 
 Their unity, however, did not endure. Disagreements among the Aurelants eventually escalated into a prolonged conflict remembered as **[[The Scarring|the Scarring]]**, during which their extraordinary powers brought devastation across the world. The conflict was ultimately brought to an end through the intervention of **[[The Aurelants#The Creator|the Creator]]**, one of the twelve Aurelants, who enacted **the Sundering**.
 
-Through the Sundering, the Authorities of the other eleven Aurelants were divided into countless essences and dispersed throughout the world. The Creator alone remain unaffected, retaining their Authority. These dispersed essences would become the foundation of the relationship between the original Aurelants and the Ascendants who emerged in subsequent generations.
+Through the Sundering, the Authorities of the other eleven Aurelants were divided into countless essences and dispersed throughout the world. The Creator alone remained unaffected, retaining their Authority. These dispersed essences would become the foundation of the relationship between the original Aurelants and the Ascendants who emerged in subsequent generations.
 
 Although the broad sequence of these events is well established, surviving accounts differ in their interpretations of the Aurelants' intentions, the causes of the Scarring, and the circumstances surrounding its conclusion. Consequently, the events of this period remain subjects of continued historical examination.
 
@@ -143,7 +143,7 @@ This commitment to protection, however, eventually gave way to retaliation. Foll
 
 In subsequent generations, the Paragon became particularly associated with defensive arcana, owing in part to the prominence of its Ascendants within the military traditions of Stalwryn. While these manifestations frequently emphasize exceptional durability, protective techniques, and the capacity to withstand otherwise overwhelming forces, they represent only a portion of the Authority's broader capabilities.
 
-The precise expression of the Paragon varies between individuals. Some Ascendants have demonstrated exceptional defensive proficiency, while others have exhibited remarkable bodily control and the capacity to perform increasingly demanding applications of arcana. Such differences illustrate the versatility of physical mastery and the influence of an individual's training, experience, and personal approach upon the manifestation of their essence.
+The precise expression of the Paragon varies between individuals. Some Ascendants have demonstrated exceptional defensive proficiency, while others have exhibited extraordinary physical performance and resilience. Such differences illustrate the versatility of physical mastery and the influence of an individual's training, experience, and personal approach upon the manifestation of their essence.
 
 ### The Seer
 
@@ -223,9 +223,7 @@ The Resonance's Authority encompasses **harmonic correspondence**, governing the
 
 Although the Resonance is recognized among the twelve Aurelants, relatively little is known about its original bearer. Surviving historical accounts provide few reliable descriptions of their actions during the Scarring, and the circumstances surrounding their involvement in the conflict remain largely undocumented.
 
-The Resonance's essence is understood to permit applications extending beyond the manipulation of sound alone. Through the understanding and regulation of compatible frequencies or patterns, practitioners may influence the behavior of physical materials, transmit disturbances across a medium, or alter the intensity of existing phenomena. The precise limits of these interactions remain an active subject of scholarly investigation.
-
-The broader applications of the Resonance remain an active subject of scholarly investigation. Although its influence upon vibrations and harmonic interactions is well understood, the extent to which these principles may be applied to more complex phenomena has yet to be conclusively established.
+The Resonance's essence is understood to permit applications extending beyond the manipulation of sound alone. Through the understanding and regulation of compatible frequencies or patterns, practitioners may influence the behavior of physical materials, transmit disturbances across a medium, or alter the intensity of existing phenomena. The precise limits of these interactions remain an active subject of scholarly investigation. Although its influence upon vibrations and harmonic interactions is well understood, the extent to which these principles may be applied to more complex phenomena has yet to be conclusively established.
 
 ### The Radiant
 
@@ -266,7 +264,7 @@ Despite the success of these endeavors, the artisan eventually departed to trave
 
 During the Scarring, the Convergence became renowned for the creation of extraordinary weapons and artifacts, including firearms, blades, and other implements whose properties exceeded those attainable through conventional methods. Several of these relics survive in historical collections, although the techniques employed in their construction have largely been lost. The ability to extract, combine, and refine the properties of existing materials nevertheless remains among the most recognizable manifestations of the Convergence's essence.
 
-In the generations that followed the artisan's departure, the artisan's former apprentices continued to develop and disseminate their craft throughout Cicatri Ciel. Over successive generations, their workshops became established centers of production and technical knowledge, preserving aspects of the original bearer's teachings while developing methods of their own.
+In the generations that followed the artisan's departure, their former apprentices continued to develop and disseminate their craft throughout Cicatri Ciel. Over successive generations, their workshops became established centers of production and technical knowledge, preserving aspects of the original bearer's teachings while developing methods of their own.
 
 Although the Convergence is primarily associated with material transformation, the full extent of its Authority remains incompletely understood. Its applications demonstrate that synthesis need not be limited to the combination of physical substances, and that the properties of a resulting creation may differ considerably from those of its constituent materials.
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-05-22T18:10:32.3232-04:00
-modified: 2026-11-02T04:08:46.4646-05:00
+modified: 2026-11-02T05:11:33.3333-05:00
 comments: false
 ---
 
@@ -19,7 +19,7 @@ The Brood of Azharel refers to the ruling clan of dragons led by Broodmaster Ors
 
 ### Background
 
-The dreamweavers are one of two factions of **akumaros** descended from the Empyrean concept, [[The Aurelants#The Reflection|the Reflection]]. They are native to the southern landmass of [[Luciradis#Nova Ciel|Nova Ciel]], make up the majority of the nomadic akumaros, and are the ones who stayed behind while **the Reflection** and **the Illusionists** journeyed north to the landmass of [[Luciradis#Cicatri Ciel|Cicatri Ciel]].
+The dreamweavers are one of two **akumari** factions historically associated with the Aurelant, [[The Aurelants#The Reflection|the Reflection]]. They are native to the southern landmass of [[Luciradis#Nova Ciel|Nova Ciel]], make up the majority of the nomadic akumaros, and are the ones who stayed behind while **the Reflection** and **the Illusionists** journeyed north to the landmass of [[Luciradis#Cicatri Ciel|Cicatri Ciel]].
 
 ## Ferros Republic
 
@@ -49,7 +49,7 @@ Drifting elves are, for a lack of a better term, exiled from the Ferros Republic
 
 ### Background
 
-The illusionists are one of two factions of akumaros descended from the Empyrean concept, [[The Aurelants#The Reflection|the Reflection]].
+The illusionists are one of two akumari factions historically associated with the Aurelant, [[The Aurelants#The Reflection|the Reflection]].
 
 ## Luxori Covenant
 
