@@ -12,7 +12,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
 - Full Name: Kallie Myrai
 - Age: 4,817 years\*
 - Gender: Female
-- Race: Feline [[The Inhabitants of Luciradis#Terrakin|Terrakin]]
+- Race: Feline [[Inhabitants of Luciradis#Terrakin|Terrakin]]
 - Date of Birth: 24th Day of the Axiom, from the Year 5268 ASC _(24/11/5268)_
 - Date of Death: N/A
 - Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
@@ -30,7 +30,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
 
 _\* - Stalwryn's internal census was conducted when she was 14 years_
 
-## Empyrean Essence
+## Essence Profile
 
 | **Concept** | **Amount of Essence**                      |
 | ----------: | :----------------------------------------- |

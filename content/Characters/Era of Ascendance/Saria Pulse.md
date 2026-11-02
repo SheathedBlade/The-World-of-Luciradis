@@ -1,7 +1,7 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-13T19:55:02.022-04:00
-description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
+modified: 2026-11-02T04:54:28.2828-05:00
+description: Saria is the daughter of Orsilus of Azharel, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
 > [!archive] Historical Record
@@ -22,18 +22,18 @@ comments: false
 > | Full Name | Saria Pulse |
 > | Age | 4,847 years |
 > | Gender | Female |
-> | Race | [[The Inhabitants of Luciradis#Vyrian\|Vyrian]] |
+> | Race | [[Inhabitants of Luciradis#Vyrian\|Vyrian]] |
 > | Date of Birth | Axiom's 24th, 5263 ASC _(24/11/5263)_ |  
 > | Birthplace | [[Grandiose Peaks]] |
 > | Allegiance | None |
 > | Height | 5'10'' / 178cm |
 > | Weight | 150 lbs / 68 kg |
 > | Occupation | Freelance Adventurer |
-> | Relationships | [[Arzen Lynos]]: Significant other<br>[[Kallie Myrai]]: Friend<br>[[Factions of Luciradis#Brood of Arodraenix\|Orsilus of Arodraenix]]: Father<br>[[Leoris Varens]]: Former employer of the Stalwryn Royal Guard<br>[[Erina Hayashi]]: Friend<br>[[Rietta Aschlera]]: Friend |
+> | Relationships | [[Arzen Lynos]]: Significant other<br>[[Kallie Myrai]]: Friend<br>[[Factions of Luciradis#Brood of Azharel\|Orsilus of Azharel]]: Father<br>[[Leoris Varens]]: Former employer of the Stalwryn Royal Guard<br>[[Erina Hayashi]]: Friend<br>[[Rietta Aschlera]]: Friend |
 >
-> **Empyrean Essence**
+> **Essence Profile**
 >
-> | **Concept** | **Essence Density**                       |
+> | **Aurelant** | **Essence Concentration**                       |
 > | ----------: | :------------------------------------------ |
 > |     Expanse | <progress value="100" max="100"></progress> |
 > |     Paragon | <progress value="40" max="100"></progress>  |
@@ -53,7 +53,7 @@ comments: false
 > 
 > — Saria Pulse
 
-Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]], the reigning draconic sovereign of the skies above the [[Grandiose Peaks]], and a human woman whose identity remains unknown.Their union gave rise to Saria, the first dragon-human hybrid in the history of Luciradis, whose unprecedented birth marked the beginning of the people who would eventually become known as Vyrians.
+Saria is the daughter of [[Factions of Luciradis#Brood of Azharel|Orsilus of Azharel]], the reigning draconic sovereign of the skies above the [[Grandiose Peaks]], and a human woman whose identity remains unknown. Their union gave rise to Saria, the first dragon-human hybrid in the history of Luciradis, whose unprecedented birth marked the beginning of the people who would eventually become known as Vyrians.
 
 Although the identity of Saria's mother has eluded investigators, recent findings suggest an affiliation with [[Gensōkyo]]. These findings are supported by historical accounts of a dragon repeatedly descending upon the [[Amber Clifftops]], though the precise circumstances of these visits remain uncertain.
 
@@ -64,11 +64,11 @@ Although the identity of Saria's mother has eluded investigators, recent finding
 > 
 > Saria represents a notable exception. Despite her predominantly human appearance, she appears to have inherited the longevity of a full-blooded dragon, a characteristic that remains poorly understood.
 
-Saria is the current Ascendant of the [[Empyrean Concepts#The Expanse|Expanse]], having succeeded her father, Orsilus, as its bearer. Among the dragons of Arodraenix, succession is governed by an ancient tradition intended to preserve the power of the Expanse within their lineage. A prospective successor must first complete a trial before undergoing the ritual through which the power is passed from one Ascendant to the next.
+Saria is the current Ascendant of the [[The Aurelants#The Expanse|Expanse]], having succeeded her father, Orsilus, as its bearer. Among the dragons of Azharel, succession is governed by an ancient tradition intended to preserve the power of the Expanse within their lineage. A prospective successor must first complete a trial before undergoing the ritual through which the power is passed from one Ascendant to the next.
 
 Although Saria successfully completed both the trial and the succession ritual, she struggled to reconcile her newfound power with the responsibilities expected of its bearer. Overwhelmed by these expectations, she eventually fled the [[Grandiose Peaks]] at a young age, leaving behind her family and the life that had been prepared for her.
 
-Following her departure from the Grandiose Peaks, Saria eventually found herself near the outskirts of the [[Port of Anahymn]], where she first encountered [[Arzen Lynos]]. Pursued by individuals from Arodraenix seeking her return, she was rescued by Arzen, who helped conceal her presence within the predominantly human port city.
+Following her departure from the Grandiose Peaks, Saria eventually found herself near the outskirts of the [[Port of Anahymn]], where she first encountered [[Arzen Lynos]]. Pursued by individuals from Azharel seeking her return, she was rescued by Arzen, who helped conceal her presence within the predominantly human port city.
 
 The two subsequently departed for the [[Stalwryn Kingdom]], undertaking a journey that, according to Saria's own account, lasted approximately six weeks. With little money between them, they were forced to provide for themselves along the way, gathering food and securing whatever provisions they could. These shared hardships marked the beginning of a companionship that would come to define much of their lives.
 
@@ -78,7 +78,7 @@ Under ordinary circumstances, such an offense would have carried severe penaltie
 
 Following the establishment of the Campfire, Saria and Arzen sought to repay King Varens for his generosity by applying to serve in the Stalwryn Royal Guard. It was during this process that Saria formally adopted the surname **Pulse**, choosing to distance herself from the familial name she had long since rejected.
 
-According to Saria's own account, the name was intended to commemorate the companionship she had forged with Arzen throughout their travels. It also held a more personal significance, alluding to her heightened perception of heartbeats through the power of the [[Empyrean Concepts#The Expanse|Expanse]]. In choosing the name Pulse, Saria sought to establish an identity defined not by her ancestry, but by the life and relationships she had chosen for herself.
+According to Saria's own account, the name was intended to commemorate the companionship she had forged with Arzen throughout their travels. It also held a more personal significance, alluding to her heightened perception of heartbeats through the power of the [[The Aurelants#The Expanse|Expanse]]. In choosing the name Pulse, Saria sought to establish an identity defined not by her ancestry, but by the life and relationships she had chosen for herself.
 
 Following her induction into the Stalwryn Royal Guard, Saria quickly distinguished herself through her exceptional proficiency with the spear and her aggressive, highly mobile approach to combat. Her abilities earned her rapid advancement through the military ranks, culminating in her appointment as commander of the kingdom's vanguard unit.
 
@@ -116,7 +116,7 @@ Unlike many documented recipients of these enchantments, Saria acquired her cres
 
 Saria possesses the ability to assume a fully draconic form of formidable proportions, with a wingspan reaching approximately **60 meters (197 feet)**. In this state, much of her body is covered in brilliant white scales, sharply contrasting with the pitch-black scales lining her underside. The latter retain the same coloration as those visible upon her humanoid form.
 
-As the Ascendant of the [[Empyrean Concepts#The Expanse|Expanse]], Saria's draconic wings exhibit a distinctive violet coloration, a characteristic consistent with ancient depictions of the Concept's power. When invoking **Shimmering Call** in this form, the violet coloration shifts to a brilliant gold. Saria then extends her wings to their full breadth, producing a striking display associated with the rallying power of the Expanse.
+As the Ascendant of the [[The Aurelants#The Expanse|Expanse]], Saria's draconic wings exhibit a distinctive violet coloration, a characteristic consistent with ancient depictions of the Concept's power. When invoking **Shimmering Call** in this form, the violet coloration shifts to a brilliant gold. Saria then extends her wings to their full breadth, producing a striking display associated with the rallying power of the Expanse.
 
 ![[shimmering_wings.webp]]_Credit: @Anderson_M0311_
 
@@ -126,7 +126,7 @@ During her years in the Stalwryn Kingdom, Saria was widely regarded as a compass
 
 Her demeanor changed considerably when circumstances demanded seriousness, particularly during her service in the Stalwryn Royal Guard. As commander of the kingdom's vanguard, Saria demonstrated a disciplined and commanding presence, holding both herself and her subordinates to exacting standards. Though generally easygoing outside her duties, she was uncompromising in matters of military preparedness and the welfare of those under her command.
 
-Saria was notably less forthcoming when questioned about her departure from Arodraenix. She generally dismissed inquiries concerning her family and upbringing, maintaining that such matters belonged to a past she had little desire to revisit.
+Saria was notably less forthcoming when questioned about her departure from Azharel. She generally dismissed inquiries concerning her family and upbringing, maintaining that such matters belonged to a past she had little desire to revisit.
 
 > [!commentary] Kallie Myrai, Head Archivist  
 > The Saria described in the original Stalwryn records differs considerably from the individual I came to know in subsequent eras. Over the course of several millennia, repeated exposure to conflict, loss, and the calamities that befell Luciradis gradually tempered her once-carefree disposition. In its place emerged a more reserved and occasionally jaded outlook, though her compassion for others remained largely unchanged.
@@ -156,7 +156,7 @@ Her primary weapon is a swordspear traditionally awarded to distinguished member
 
 During her tenure as a vanguard commander, Saria frequently favored mobility over conventional protection, removing portions of her standard-issue armor in favor of the lighter uniform beneath. This allowed her to capitalize on her exceptional agility while maintaining the freedom of movement demanded by her aggressive fighting style.
 
-The distinctive white coloration of her uniform also served a secondary purpose. In contrast to the muted metal armor worn by ordinary soldiers, Saria's appearance made her readily distinguishable on the battlefield, complementing the rallying capabilities associated with the [[Empyrean Concepts#The Expanse|Expanse]]. By drawing attention to herself, she could more effectively serve as a focal point for the soldiers fighting alongside her.
+The distinctive white coloration of her uniform also served a secondary purpose. In contrast to the muted metal armor worn by ordinary soldiers, Saria's appearance made her readily distinguishable on the battlefield, complementing the rallying capabilities associated with the [[The Aurelants#The Expanse|Expanse]]. By drawing attention to herself, she could more effectively serve as a focal point for the soldiers fighting alongside her.
 
 ### Arcana
 
@@ -172,7 +172,7 @@ Although Violet Flames retains the versatility of conventional fire arcana, its 
 
 ### Ascendant Abilities
 
-As the Ascendant of the [[Empyrean Concepts#The Expanse|Expanse]], Saria possesses extraordinary physical capabilities that extend beyond those afforded by her draconic heritage. By drawing upon the Concept's power, she can greatly enhance her strength, agility, and endurance, complementing the aggressive and highly mobile fighting style she developed during her service in the Stalwryn Royal Guard.
+As the Ascendant of the [[The Aurelants#The Expanse|Expanse]], Saria possesses extraordinary physical capabilities that extend beyond those afforded by her draconic heritage. By drawing upon the Concept's power, she can greatly enhance her strength, agility, and endurance, complementing the aggressive and highly mobile fighting style she developed during her service in the Stalwryn Royal Guard.
 
 The Expanse also allows Saria to overcome certain limitations inherent to her mixed ancestry. While Vyrians generally experience considerable difficulty assuming the full draconic forms of their ancestors, Saria is capable of sustaining such a transformation for extended periods. In her humanoid form, she can additionally manifest ethereal wings, granting her flight without requiring a complete transformation.
 

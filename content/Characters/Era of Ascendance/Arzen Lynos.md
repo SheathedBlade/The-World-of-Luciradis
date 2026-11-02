@@ -37,7 +37,7 @@ _\* - Stalwryn's internal census was conducted when he was 19 years_
 _\*\* - His previous allegiance was to the_ [[Factions of Luciradis#Monarchy of Stalwryn|Stalwryn Monarchy]]  
 _\*\*\* - His previous occupation was as Royal Guardian of the Stalwryn Kingdom_
 
-## Empyrean Essence
+## Essence Profile
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
@@ -71,9 +71,9 @@ Before Arzen came to the [[Stalwryn Kingdom]], he used to sport a **double-ended
 
 Despite this, however, Arzen refused to use the new glaive, instead opting to learn the **way of the sword and shield**. While we had no comment from the boy himself, [[Saria Pulse|Saria]] tells us it's because Arzen wanted repay the debt he owes to the King for saving him. Coincidentally, it is for the very same reason that Saria pursues the path of a lancer vanguard. She notes, however, that there may be a time where Arzen's time as a knight would come to an end, and the debt to the King be fulfilled. When that time comes, Arzen may return to using the glaive and continue his journey outside the Kingdom.
 
-Arzen was passed down the remaining remnants of the [[Empyrean Concepts#The Paragon|Paragon]] through King Varens, and thus was made its Ascendant. Its power had manifested such that it bestowed Arzen complete mastery over his body, allowing it to use even the most taxing of magicks. Naturally, this power also gives Arzen access to the most powerful defensive magicks. Our scholars still do not know why Arzen had developed such blessings from being the Paragon's Ascendant, though we can only guess that something from his past triggered this extreme change.
+Arzen was passed down the remaining remnants of the [[The Aurelants#The Paragon|Paragon]] through King Varens, and thus was made its Ascendant. Its power had manifested such that it bestowed Arzen complete mastery over his body, allowing it to use even the most taxing of magicks. Naturally, this power also gives Arzen access to the most powerful defensive magicks. Our scholars still do not know why Arzen had developed such blessings from being the Paragon's Ascendant, though we can only guess that something from his past triggered this extreme change.
 
-During his time with the knights, Arzen wears a stripped-down version of the elite knight's armor, opting for more maneuverability and flexibility in combat. The elite knight's armor, for reference, is constructed using [[Catalog of Materials#Caladonic Steel|caladonic steel]] with varying layers of metal plates. Despite this, the armor molds to the shape of the wearer. Arzen also uses a caladonic steel longsword and a caladonic steel shield laced with magicks that bear striking similarity with that of the [[Empyrean Concepts#The Horizon|Horizon]]. He mostly uses the magic within to materialize the sword and shield out of nowhere, as if wishing it into existence. With both the Paragon's power and our rigorous knight training, Arzen proves a formidable warrior with his offensive and defensive capabilities.
+During his time with the knights, Arzen wears a stripped-down version of the elite knight's armor, opting for more maneuverability and flexibility in combat. The elite knight's armor, for reference, is constructed using [[Catalog of Materials#Caladonic Steel|caladonic steel]] with varying layers of metal plates. Despite this, the armor molds to the shape of the wearer. Arzen also uses a caladonic steel longsword and a caladonic steel shield laced with magicks that bear striking similarity with that of the [[The Aurelants#The Horizon|Horizon]]. He mostly uses the magic within to materialize the sword and shield out of nowhere, as if wishing it into existence. With both the Paragon's power and our rigorous knight training, Arzen proves a formidable warrior with his offensive and defensive capabilities.
 
 ### Magical Combat
 

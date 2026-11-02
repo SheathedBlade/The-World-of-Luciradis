@@ -1,6 +1,6 @@
 ---
 created: 2026-10-13T02:05:55.5555-04:00
-modified: 2026-10-13T03:03:45.4545-04:00
+modified: 2026-11-02T04:48:46.4646-05:00
 ---
 The Luciradis Knowledge Database provides several methods of accessing and exploring its collections. This guide outlines the principal navigation features available to readers and explains how individual entries are organized and connected.
 
@@ -24,7 +24,7 @@ These references allow readers to examine unfamiliar subjects in greater detail 
 
 The Database provides several features for examining relationships between entries.
 
-**Backlinks** identify other entries that reference the page currently being viewed. For example, if an article concerning the Empyrean Concepts references an individual, the individual's entry may list that article among its backlinks.
+**Backlinks** identify other entries that reference the page currently being viewed. For example, if an article concerning the Aurelants references an individual, the individual's entry may list that article among its backlinks.
 
 The **Graph View** offers a visual representation of connections between entries. Each node represents a page, while the lines between nodes indicate links. Readers may interact with the graph to examine these relationships and navigate to connected entries.
 

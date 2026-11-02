@@ -21,7 +21,7 @@ _Internal Census of Galaderyn_
 - Relationships:
   - [[Rietta Aschlera]]
 
-## Empyrean Essence
+## Essence Profile
 
 | **Concept** | **Amount of Essence**                       |
 | ----------: | :------------------------------------------ |

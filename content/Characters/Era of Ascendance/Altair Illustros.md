@@ -22,20 +22,20 @@ _Internal Census of Luxor Citadel_
   - [[Varant Illustros]]: Brother
   - [[Runo Illustros]]: Father _(deceased)_
 
-## Empyrean Essence
+## Essence Profile
 
 | **Concept** | **Amount of Essence**                      |
 | ----------: | :----------------------------------------- |
 |     Expanse | <progress value="0" max="100"></progress>  |
 |     Paragon | <progress value="0" max="100"></progress>  |
 |        Seer | <progress value="5" max="100"></progress>  |
-|   Horizon | <progress value="0" max="100"></progress>  |
+|     Horizon | <progress value="0" max="100"></progress>  |
 |    Lifeline | <progress value="20" max="100"></progress> |
 |  Reflection | <progress value="0" max="100"></progress>  |
 |   Navigator | <progress value="0" max="100"></progress>  |
 |   Resonance | <progress value="15" max="100"></progress> |
-| Radiant | <progress value="60" max="100"></progress> |
-|      Axiom | <progress value="0" max="100"></progress>  |
+|     Radiant | <progress value="60" max="100"></progress> |
+|       Axiom | <progress value="0" max="100"></progress>  |
 | Convergence | <progress value="0" max="100"></progress>  |
 
 ## Background

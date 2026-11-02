@@ -12,7 +12,7 @@ comments: false
 - Full Name: Erina Hayashi
 - Age: 4,866 years\*
 - Gender: Female
-- Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]
+- Race: [[Inhabitants of Luciradis#Akumari|Akumari]]
 - Date of Birth: 7th Day of the Lifeline, from the Year 5244 ASC *(07/06/5244)*
 - Date of Death: N/A
 - Place of Origin: [[Gensōkyo]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
@@ -24,7 +24,7 @@ comments: false
   - [[Arzen Lynos]]
   - [[Saria Pulse]]
 
-## Empyrean Essence
+## Essence Profile
 
 *The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 

@@ -102,7 +102,7 @@ _I suppose it is nice reassurance to know that some part of me retains itself ev
 
 "However..." Lucien's expression turned grim. "Even if the natural cycle was unimpeded, you would not be able to enter into the Root of Life to even be reincarnated." He glanced at the large clock near the entrance of the room. "It took one cursory examination of you to know that there is something pulling you back into the realm of the living. Something beyond my control that is pulling your soul from the jaws of death."
 
-I stared at him, wide-eyed in shock. "W-what? Doesn't that mean I'm immortal?" I slammed my hands on his desk. "But aren't you the [[Empyrean Concepts#The Creator|Creator]]? Can you not do something about that?"
+I stared at him, wide-eyed in shock. "W-what? Doesn't that mean I'm immortal?" I slammed my hands on his desk. "But aren't you the [[The Aurelants#The Creator|Creator]]? Can you not do something about that?"
 
 Lucien's gaze turned towards me, and he smirked. "I am but the secretary. What ever gave you the idea that I was the Creator?" He stood up and took off his glasses, walking towards the entrance of the room. _So he's just an assistant to the Creator?_
 
@@ -194,4 +194,4 @@ I can scarce remember what happened in that vision. _That can't be a dream, can 
 
 "So you won't stop following me, huh?" I started saying, hoping the dead could hear. The voices went silent, as if it were waiting for my next sentence.
 
-"Then witness the [[Empyrean Concepts#The Paragon|Paragon's]] anger and rage, for retribution will be doled out to those whom have taken everything from me. My friends. My home. My freedom. I will take it all back."
+"Then witness the [[The Aurelants#The Paragon|Paragon's]] anger and rage, for retribution will be doled out to those whom have taken everything from me. My friends. My home. My freedom. I will take it all back."

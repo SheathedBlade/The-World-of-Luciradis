@@ -26,7 +26,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 
 ## Background
 
-Nero Carnegoa is the name of the individual who would eventually become the fated Empyrean concept of [[Empyrean Concepts#The Paragon|the Paragon]].
+Nero Carnegoa is the name of the individual who would eventually become the fated Empyrean concept of [[The Aurelants#The Paragon|the Paragon]].
 
 ## Appearance
 

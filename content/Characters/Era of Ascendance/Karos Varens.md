@@ -25,7 +25,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
   - [[Leoris Varens]]: Father
   - [[Arzen Lynos]]: Friend
 
-## Empyrean Essence
+## Essence Profile
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 

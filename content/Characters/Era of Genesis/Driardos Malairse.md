@@ -12,7 +12,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
 - Full Name: Driardos Malairse
 - Age: ???
 - Gender: Male
-- Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
+- Race: [[Inhabitants of Luciradis#Luxori|Luxori]]
 - Date of Birth: 14th Day of the Seer, from the Year 63 BSC _(14/04/63 BSC)_
 - Date of Death: Horizon's 10th, 10110 ASC _(16/05/10110)_
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
@@ -26,7 +26,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
   - [[Lucian Demeri]]: Co-member of the original party of heroes
   - [[Nero Carnegoa]]
 
-## Empyrean Essence
+## Essence Profile
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
@@ -60,7 +60,7 @@ Driardos sports a slender longsword for close combat, while using his arcane sta
 
 _This is information newly discovered about Driardos Malairse by the Wareylt Labs incident response team._
 
-Driardos Malairse is revealed to be the very manifestation of the Concept of the [[Empyrean Concepts#The Seer|Seer]], as well as his true name as a mortal in ancient times. Driardos was also the first and only Arcis Princeps of the Luxor Citadel, as his hatred for all the Concepts fueled his Ascendant to become functionally immortal. In all his Ascendants, Driardos was the prevailing personality, completely blocking out whoever the Ascendant was before their awakening. This allowed Driardos to keep ruling the [[Luxor Citadel]] under a different guise.
+Driardos Malairse is revealed to be the very manifestation of the Concept of the [[The Aurelants#The Seer|Seer]], as well as his true name as a mortal in ancient times. Driardos was also the first and only Arcis Princeps of the Luxor Citadel, as his hatred for all the Concepts fueled his Ascendant to become functionally immortal. In all his Ascendants, Driardos was the prevailing personality, completely blocking out whoever the Ascendant was before their awakening. This allowed Driardos to keep ruling the [[Luxor Citadel]] under a different guise.
 
 Driardos' goal is the same as it was during **the Scarring**: to gain complete and total control across Luciradis.
 

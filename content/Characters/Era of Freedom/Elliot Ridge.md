@@ -11,7 +11,7 @@ _Internal Census of Terystal_
 - Full Name: Elliot Hestos Ridge
 - Age: 54 years
 - Gender: Male
-- Race: [[The Inhabitants of Luciradis#Akumari|Akumari]]/[[The Inhabitants of Luciradis#Luxori|Luxori]]
+- Race: [[Inhabitants of Luciradis#Akumari|Akumari]]/[[Inhabitants of Luciradis#Luxori|Luxori]]
 - Date of Birth: N/A
 - Date of Death: N/A
 - Place of Origin: [[Ifuri]], [[Luciradis#Nova Ciel|Nova Ciel]]
@@ -22,7 +22,7 @@ _Internal Census of Terystal_
 - Relationships:
   - [[Iris Riedel]]: Student
 
-## Empyrean Essence
+## Essence Profile
 
 | **Concept** | **Amount of Essence**                      |
 | ----------: | :----------------------------------------- |

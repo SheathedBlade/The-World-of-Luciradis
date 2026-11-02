@@ -24,7 +24,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 
 ## Background
 
-Astos Yerazel is the name of the individual who would eventually become the fated Empyrean concept of [[Empyrean Concepts#The Convergence|the Convergence]].
+Astos Yerazel is the name of the individual who would eventually become the fated Empyrean concept of [[The Aurelants#The Convergence|the Convergence]].
 
 His name is a simplified, exotic name, which roughly translates to "dreams of the past".
 

@@ -22,7 +22,7 @@ _Internal Census of Terystal_
   - [[Arzen Lynos]]: Mentor
   - [[Elliot Ridge]]: Professor
 
-## Empyrean Essence
+## Essence Profile
 
 | **Concept** | **Amount of Essence**                      |
 | ----------: | :----------------------------------------- |

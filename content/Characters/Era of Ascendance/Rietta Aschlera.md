@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-14T03:55:37.3737-04:00
+modified: 2026-11-02T04:57:33.3333-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -22,7 +22,7 @@ comments: false
 > | Full Name | Rietta Celexa Aschlera |
 > | Age | 4,846 years |
 > | Gender | Female |
-> | Race | [[The Inhabitants of Luciradis#Elf\|Elf]] |
+> | Race | [[Inhabitants of Luciradis#Elf\|Elf]] |
 > | Date of Birth | Creator's 14th, 5264 ASC _(14/1/5264)_ |  
 > | Birthplace | [[Lyntoa Village]] |
 > | Allegiance | None |
@@ -31,9 +31,9 @@ comments: false
 > | Occupation | Director of Research & Development at [[Terystal#Wareylt Labs\|Wareylt Labs]]<br>Alchemist |
 > | Relationships | [[Arzen Lynos]]: Childhood friend<br>[[Saria Pulse]]: Friend<br>[[Kallie Myrai]]: Friend<br>[[Lily Wareylt]]: Employer at [[Terystal#Wareylt Labs\|Wareylt Labs]]<br>[[Iris Riedel]]: Friend |
 >
-> **Empyrean Essence**
+> **Essence Profile**
 >
-> | **Concept** | **Essence Density**                       |
+> | **Aurelant** | **Essence Concentration**                       |
 > | ----------: | :------------------------------------------ |
 > |     Expanse | <progress value="0" max="100"></progress> |
 > |     Paragon | <progress value="10" max="100"></progress>  |
@@ -63,7 +63,7 @@ Growing up in Lyntoa, Rietta was exposed to cultures and peoples considerably di
 
 At the age of fourteen, Rietta accompanied her parents on a temporary relocation from Lyntoa Village to the capital of the [[Stalwryn Kingdom]]. During her stay, she developed a growing interest in both commerce and alchemy, the latter of which would eventually become one of her lifelong pursuits.
 
-Rietta frequently visited a local apothecary, where she became fascinated by the preparation of medicinal compounds and the practical applications of alchemy. Although the discipline could be studied and practiced by individuals regardless of their Empyrean affinities, those with a greater aptitude for the [[Empyrean Concepts#The Convergence|Convergence]] often demonstrated an advantage in the manipulation and refinement of materials. Eager to further her understanding, Rietta eventually sought and obtained an apprenticeship under one of the establishment's practicing alchemists.
+Rietta frequently visited a local apothecary, where she became fascinated by the preparation of medicinal compounds and the practical applications of alchemy. Although the discipline could be studied and practiced regardless of an individual's essence affinities, those possessing a greater affinity for the [[The Aurelants#The Convergence|Convergence]] often demonstrated an advantage in the manipulation and refinement of materials. Eager to further her understanding, Rietta eventually sought and obtained an apprenticeship under one of the establishment's practicing alchemists.
 
 The apothecary maintained a close working relationship with the kingdom's blacksmiths and armorers, whose craftsmanship frequently required specialized alchemical preparations. Through this arrangement, Rietta gained access to both the apothecary and the neighboring forge, exposing her to the processes involved in the manufacture of conventional weaponry and armor.
 
@@ -76,7 +76,7 @@ Intrigued by the proposal, the blacksmith accepted the commission and began deve
 > 
 > Of particular interest is its integrated system of compartments, which accommodate interchangeable vessels containing Rietta's alchemical preparations. These compounds can be introduced into the ammunition before discharge, allowing the weapon to produce a variety of effects depending on the preparations employed.
 
-During this period, an examination conducted by the kingdom's physicians confirmed that Rietta possessed an exceptionally high concentration of the [[Empyrean Concepts#The Navigator|Navigator]]'s essence, establishing her status as an Ascendant of the Concept.
+During this period, an examination conducted by the kingdom's physicians confirmed that Rietta possessed an exceptionally high concentration of the [[The Aurelants#The Navigator|Navigator's]] essence, leading to her recognition as an Ascendant associated with the Navigator.
 
 At the request of her parents, the results of the examination were kept confidential until the family's eventual return to [[Galaderyn]]. Their decision was largely motivated by the social hierarchy of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]], where individuals officially recognized as Ascendants of the Navigator were automatically elevated to the status of **sovereign elves**, irrespective of their previous standing.
 
@@ -129,7 +129,7 @@ In commercial affairs, Rietta demonstrates a markedly different side of her pers
 ## Expertise
 
 ### Arcana
-Rietta is an exceptionally accomplished practitioner of arcana, specializing in the manipulation of water and its various physical states. As an Ascendant of the [[Empyrean Concepts#The Navigator|Navigator]], she possesses a remarkable affinity for the manifestation and coordination of elemental forces, allowing her to perform complex techniques with a degree of precision and efficiency seldom achieved by conventional practitioners. Her mastery extends beyond the manipulation of individual elements, encompassing the intricate interactions between them and the sustained control of multiple manifestations simultaneously.
+Rietta is an exceptionally accomplished practitioner of arcana, specializing in the manipulation of water and its various physical states. As an Ascendant of the [[The Aurelants#The Navigator|Navigator]], she possesses a remarkable affinity for the manifestation and coordination of elemental forces, allowing her to perform complex techniques with a degree of precision and efficiency seldom achieved by conventional practitioners. Her mastery extends beyond the manipulation of individual elements, encompassing the intricate interactions between them and the sustained control of multiple manifestations simultaneously.
 
 To further refine her control over particularly demanding techniques, Rietta wields a custom-made staff presented to her by the senior manawards of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]]. The instrument serves as a focus for her Arcana, assisting with the concentration and regulation required for more elaborate invocations.
 
@@ -149,7 +149,7 @@ The technique's distinctive characteristic is its **directional permeability**, 
 
 Among Rietta's more sophisticated techniques is **Fluid Decoy**, through which she manifests aqueous constructs capable of assuming the forms of various living creatures. Simpler constructs typically resemble crude representations of beasts or humanoids, serving as distractions or performing rudimentary tasks. With greater concentration, Rietta can produce highly detailed replicas of herself or individuals with whom she is intimately familiar, reproducing their appearances, movements, and mannerisms with remarkable accuracy.
 
-Rather than possessing independent consciousness, these constructs function as extensions of Rietta's own perception and control. They are capable of carrying out simple instructions autonomously, while more complex actions require her direct attention. Through her affinity with the [[Empyrean Concepts#The Navigator|Navigator]], Rietta can maintain and coordinate multiple constructs simultaneously, directing their movements and sustaining their elemental forms with exceptional precision.
+Rather than possessing independent consciousness, these constructs function as extensions of Rietta's own perception and control. They are capable of carrying out simple instructions autonomously, while more complex actions require her direct attention. Through her affinity with the [[The Aurelants#The Navigator|Navigator]], Rietta can maintain and coordinate multiple constructs simultaneously, directing their movements and sustaining their elemental forms with exceptional precision.
 
 More elaborate decoys can reproduce selected arcana techniques at reduced intensity, allowing them to assist Rietta in combat through coordinated attacks, defensive maneuvers, and battlefield manipulation. Their effectiveness is limited by the complexity of the actions performed and the concentration required to sustain them. Managing numerous decoys simultaneously can place considerable strain on Rietta, particularly when directing their individual actions during prolonged engagements.
 
@@ -157,7 +157,7 @@ More elaborate decoys can reproduce selected arcana techniques at reduced intens
 
 Despite her exceptional proficiency in arcana, Rietta has devoted much of her life to the study and practice of **alchemy**, a discipline that combines theoretical knowledge, experimentation, and the precise manipulation of materials to produce specialized compounds and other practical creations. Her inquisitive nature and willingness to pursue unconventional methods have allowed her to develop a considerable repertoire of preparations, many of which remain unique to her personal research.
 
-Rietta's aptitude for the [[Empyrean Concepts#The Convergence|Convergence]] facilitates certain aspects of alchemical synthesis, while her affinity with the [[Empyrean Concepts#The Navigator|Navigator]] affords her extraordinary precision in controlling the movement and interaction of elemental substances. These advantages complement her extensive technical knowledge, allowing her to undertake complex procedures with a degree of efficiency and consistency seldom achieved by conventional practitioners.
+Rietta's aptitude for the [[The Aurelants#The Convergence|Convergence]] facilitates certain aspects of alchemical synthesis, while her affinity with the [[The Aurelants#The Navigator|Navigator]] affords her extraordinary precision in controlling the movement and interaction of elemental substances. These advantages complement her extensive technical knowledge, allowing her to undertake complex procedures with a degree of efficiency and consistency seldom achieved by conventional practitioners.
 
 A distinguishing feature of Rietta's approach is her emphasis on **preparation and versatility**. Unlike arcana performed directly in the field, alchemical preparations can be manufactured and stored in advance, allowing their effects to be employed without repeatedly performing the processes required for their creation. This has proven particularly advantageous in combat, where Rietta frequently relies on an assortment of specialized compounds to respond to changing circumstances.
 #### Aith Merillé

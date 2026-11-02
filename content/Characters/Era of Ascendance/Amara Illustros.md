@@ -12,7 +12,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. 
 - Full Name: Amara Illustros
 - Age: 32 years
 - Gender: Female
-- Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
+- Race: [[Inhabitants of Luciradis#Luxori|Luxori]]
 - Date of Birth: 6th Day of the Seer, from the Year 5245 ASC _(06/04/5245)_
 - Date of Death: 19th Day of the Horizon, from the Year 5277 ASC _(19/05/5277)_
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
@@ -29,7 +29,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. 
 _\* - Her previous allegiance was to the [[Luxor Citadel]]_  
 _\*\* - Her previous occupation was as a Beacon of the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]]_
 
-## Empyrean Essence
+## Essence Profile
 
 _The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
 
@@ -75,11 +75,11 @@ Overall, this modification makes her glaive a very dangerous weapon to use, as o
 
 _This is information newly discovered about Amara Illustros by the Cerelicia expedition team._
 
-Amara is revealed to be the last known Ascendant of the elusive [[Empyrean Concepts#The Horizon|Horizon]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Luciradis#Cicatri Ciel|Cicatri Ciel]] to survey the land that's long since abandoned. The Ascendants of the expedition team dove down into the depths of the [[Lyntoa Village#Well of Dreams|Well of Dreams]] in [[Lyntoa Village]]. There, Amara reveals that she had used Arzen to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
+Amara is revealed to be the last known Ascendant of the elusive [[The Aurelants#The Horizon|Horizon]]. This fact is known after the **Second Scarring** came to pass, where an expedition team, which included [[Arzen Lynos]], had traveled back to the [[Luciradis#Cicatri Ciel|Cicatri Ciel]] to survey the land that's long since abandoned. The Ascendants of the expedition team dove down into the depths of the [[Lyntoa Village#Well of Dreams|Well of Dreams]] in [[Lyntoa Village]]. There, Amara reveals that she had used Arzen to instinctively gather all the remnants of the Concepts in order to gain control and invoke the power of all the Concepts.
 
 Additionally, Amara is also revealed as the identity of the [[The Ascendant Slayer|Ascendant Slayer]], the once infamous international criminal that roamed the world killing the Ascendants in order to have all the empyrean essence in one place. Her goal is to reset [[Luciradis]] and rid the world of the power of the Empyrean Concepts, as well as their influence, citing that she has seen the ugliness of the world she walked on and wished it to go away. Deciding it was enough, Amara awakened to her powers of the Horizon, as both Amara and the Horizon shared a common ideal: "Would the world be better off without the Concepts?".
 
-During their meeting, Arzen claims that Amara had the essences of the [[Empyrean Concepts#The Resonance|Resonance]], [[Empyrean Concepts#The Convergence|Convergence]], and [[Empyrean Concepts#The Radiant|Radiant]] before forcibly obtaining the powers of the rest of the Concepts (except the [[Empyrean Concepts#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Arzen her Concept powers in order for Arzen to win most of his most difficult battles.
+During their meeting, Arzen claims that Amara had the essences of the [[The Aurelants#The Resonance|Resonance]], [[The Aurelants#The Convergence|Convergence]], and [[The Aurelants#The Radiant|Radiant]] before forcibly obtaining the powers of the rest of the Concepts (except the [[The Aurelants#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Arzen her Concept powers in order for Arzen to win most of his most difficult battles.
 
 We can infer here that Amara, after having been traveling as a **beacon** for the Luxori Covenant for so long, has had enough of the death and despair, the conspiracies and lies, juxtaposed with the "peace" that was prevalent in the world.
 

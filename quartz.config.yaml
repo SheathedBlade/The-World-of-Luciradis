@@ -228,7 +228,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/SheathedBlade/The-World-of-Luciradis
-  - source: github:quartz-community/recent-notes
+  - source: "@quartz-community/recent-notes"
     enabled: true
     options:
       title: Recent Records

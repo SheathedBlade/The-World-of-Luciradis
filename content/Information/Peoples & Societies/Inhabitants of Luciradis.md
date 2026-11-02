@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T21:29:08.088-04:00
+modified: 2026-11-02T04:47:52.5252-05:00
 ---
 
 _Published by the Congregation of Academia, Luxor Citadel_
@@ -22,7 +22,7 @@ The akumaros have a natural affinity to cold weather, their skin having been evo
 
 ## Elf
 
-The elves are respecters of the natural order of Luciradis. Overly concerned with the maintenance of nature, the elves are inherently born with the ability to _"hear"_ nature, and are only second to the [[The Inhabitants of Luciradis#Terrakin|terrakin]] when it comes to utilizing invocations that draw power directly from the **Root of Earth**.
+The elves are respecters of the natural order of Luciradis. Overly concerned with the maintenance of nature, the elves are inherently born with the ability to _"hear"_ nature, and are only second to the [[Inhabitants of Luciradis#Terrakin|terrakin]] when it comes to utilizing invocations that draw power directly from the **Root of Earth**.
 
 The elves are an introverted race, tending to keep to themselves in most public affairs. The majority of the elven population lies in the [[Galaderyn]], a haven for elves situated in a dense forest between two large rivers. Only a few groups of elves venture outside the Republic, though it is made difficult to do so due to the intervention of the ruling sovereigns.
 
@@ -34,7 +34,7 @@ The ruling faction that the majority of elves associate with is the [[Factions o
 
 > Luxori is both a singular and plural noun.
 
-The Luxori are a race with powers descended from the Concept of the [[Empyrean Concepts#The Radiant|Radiant]]. Originally, these individuals were humans from the time before **the Scarring**, but with the Radiant's magic, the humans that followed the Radiant during the Scarring obtained a natural talent for light-based magic. This large community of humans would become the Luxori, beginning its roots on a landmass named after them: [[Luxor Citadel|Luxor]].
+The Luxori are a race with powers descended from the Concept of the [[The Aurelants#The Radiant|Radiant]]. Originally, these individuals were humans from the time before **the Scarring**, but with the Radiant's magic, the humans that followed the Radiant during the Scarring obtained a natural talent for light-based magic. This large community of humans would become the Luxori, beginning its roots on a landmass named after them: [[Luxor Citadel|Luxor]].
 
 The appearance of a Luxori bears a striking resemblance to that of a human's, but the Luxori have **symmetrical dark markings** all over their torso and limbs, with some individuals being born with some markings on the face. This is a unique trait of the Luxori, an evolutionary development borne from subsequent generations of Luxori. These dark markings on the body enhances the powers of the Radiant, **illuminating these dark markings up to a vibrant, golden color** whenever the Luxori individual would use light-based invocations. The intensity of the brightness of the color would depend on the strength of the invocation being cast.
 
@@ -62,4 +62,4 @@ The dragons are an extraterrestrial, intelligent race of winged, scaled beasts. 
 
 > The original nomenclature, as one of our researchers found out, is "Hryvernus", or "Hryverni" as plural.
 
-Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Empyrean Concepts#The Expanse|Expanse]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).
+Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Azharel clan, which is aptly named for the ancient dragon, Azharel, the Concept of the [[The Aurelants#The Expanse|Expanse]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).

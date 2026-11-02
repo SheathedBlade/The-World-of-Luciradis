@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-10-13T02:59:20.2020-04:00
+modified: 2026-11-02T04:15:52.5252-05:00
 description: The public knowledge database of Oracle's Vision, documenting the history, civilizations, peoples, arcana, and historical records of Luciradis.
 title: Luciradis Knowledge Database
 ---
@@ -39,8 +39,8 @@ Readers unfamiliar with Luciradis may wish to begin with an overview of the worl
 The following entries provide a useful introduction:
 
 - **[[Luciradis]]** - An overview of the world and its geography.
-- **[[The Inhabitants of Luciradis]]** - An introduction to its peoples and civilizations.
-- **[[Empyrean Concepts]]** - An examination of the fundamental principles underlying much of the world's recorded history.
+- **[[Inhabitants of Luciradis]]** - An introduction to its peoples and civilizations.
+- **[[The Aurelants]]** - An exploration of the twelve legendary figures whose extraordinary powers and enduring legacies have shaped the history of Luciradis.
 
 Readers seeking information on a particular subject may also consult the Database's search function or browse its subject directories. Further guidance on navigation, references, and other features is available in [[Using the Database]].
 
