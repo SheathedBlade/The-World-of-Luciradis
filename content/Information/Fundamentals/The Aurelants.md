@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-02T05:24:50.5050-05:00
+modified: 2026-11-03T02:03:36.3636-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -11,7 +11,7 @@ comments: false
 
 These essences reside within living beings and influence an individual's natural affinity for arcana associated with their corresponding Authorities. Their concentrations vary considerably, with those possessing the greatest concentration of a particular essence recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
 
-The relationship between the Aurelants, their Authorities, and the broader practice of arcana remains a principal subject of scholarly research. Over successive generations, scholars have sought to understand the distribution of these essences, the abilities they confer, and the circumstances through which their influence has endured.
+The relationship between the Aurelants, their Authorities, and the broader practice of arcana remains a principal subject of **arcanics**, the scientific discipline devoted to the systematic study of arcana and its associated phenomena. Over successive generations, scholars have sought to understand the distribution of these essences, the abilities they confer, and the circumstances through which their influence has endured.
 
 Despite considerable advances in this field, much about the Aurelants remains uncertain. While the properties of their surviving essences can be observed and measured, the full extent of their Authorities and the events that shaped their history have yet to be conclusively established.
 
@@ -62,7 +62,7 @@ Such instruments are commonly found in medical facilities throughout [[Locations
 
 The measurements obtained through these apparatuses allow physicians and scholars to distinguish between essences associated with different Authorities and evaluate their relative abundance within a subject. These findings provide an important basis for the documentation and recognition of Ascendants, as well as the maintenance of historical and contemporary records.
 
-Beyond their role in identifying exceptional individuals, essence measurements contribute to broader investigations into magical aptitude. Comparative observations allow scholars to examine variations in essence concentration and their relationship to the manifestations of arcana, providing valuable information for both theoretical and applied research.
+Beyond their role in identifying exceptional individuals, essence measurements contribute to broader research within arcanics, particularly investigations into natural aptitude. Comparative observations allow scholars to examine variations in essence concentration and their relationship to the manifestations of arcana, providing valuable information for both theoretical and applied research.
 
 The continued refinement of these instruments has substantially improved the precision and reliability of essence measurement. Nevertheless, their findings remain limited to the properties they are designed to observe. An assessment of essence concentration cannot, by itself, establish the full extent of an individual's knowledge, technical mastery, or capacity to manifest extraordinary abilities.
 
@@ -95,7 +95,7 @@ Ascendants, as individuals recognized for possessing exceptional concentrations 
 
 The significance attributed to particular Authorities also varies between cultures and historical periods. Some traditions associate them with ideals or virtues, while others emphasize the dangers posed by the powers they represent. These interpretations have contributed to the development of distinct religious practices, historical narratives, and social expectations surrounding individuals associated with their essences.
 
-In the modern era, continued advances in the study of essence and arcana have encouraged a more systematic understanding of these phenomena. Nevertheless, longstanding cultural beliefs remain influential, and the relationship between Ascendants and the societies in which they live continues to reflect both the historical legacy of the Aurelants and contemporary attitudes toward extraordinary power.
+In the modern era, advances in arcanics have encouraged a more systematic understanding of essence and arcana. Nevertheless, longstanding cultural beliefs remain influential, and the relationship between Ascendants and the societies in which they live continues to reflect both the historical legacy of the Aurelants and contemporary attitudes toward extraordinary power.
 
 ## The Twelve Aurelants
 

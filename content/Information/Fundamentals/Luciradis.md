@@ -1,9 +1,11 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-06-28T18:20:17.1717-04:00
+modified: 2026-11-04T06:01:32.3232-05:00
 ---
-
-_Published by the Congregation of Academia, Luxor Citadel_
+> [!archive] General Reference  
+> **Luciradis**
+> 
+> _Compiled and maintained by K. Myrai, Head Archivist of Oracle's Vision_
 
 Luciradis is the name of the world that we inhabit. Its name roughly translates to "shining root", which dates back to the creation of this world.
 
@@ -13,16 +15,13 @@ Luciradis roughly translates to _"shining root"_ in ancient tongues, which refer
 
 ## System of Time
 
-All beings of Luciradis currently follow a system of time concocted by the joint efforts of the respective first Ascendants of the Empyrean Concepts: [[The Aurelants#The Convergence|the Convergence]] and [[The Aurelants#The Axiom|the Axiom]]. Time, as a concept, was first realized by the maker of the sundial, a legendary artisan of the Era of Genesis. Thus, the calendar is aptly named after him: the Astos Calendar.
+The **[[Astos Calendar]]** is the principal system of timekeeping employed throughout Luciradis. Named in honor of [[Astos Yerazel]], the original Aurelant of the Convergence, the calendar was standardized following the Scarring and has remained in use throughout subsequent historical eras.
 
-Dates are written as such: N-th Day of the Concept, from the Year X (BSC/ASC), where _N_ represents the numbered day within the Concept's month, and _X_ represents the specified year. _BSC_ is the shorthand for _"Before Scarring"_, and _ASC_ is the shorthand for _"After Scarring"_.
+The calendar comprises twelve months of thirty days each, named after the [[The Aurelants|Aurelants]] in their established order. An additional period known as **Renewal** concludes the year, lasting five days in ordinary years and six in leap years. The beginning of the year is traditionally aligned with the spring equinox of the northern hemisphere.
 
-> _// K.M. edit //_  
-> Since the Cicatri emigration, the world's population have moved to a simpler version of the previous dating system:
->
-> Concept's N-th, XXXX (BSC/ASC)
->
-> This denomination greatly reduced the wordiness of the previous denomination, while fully retaining the information of the original. Dates using the original wording are likely from before the rapid development of Nova Ciel.
+Years are numbered relative to the conclusion of the Scarring, using **BSC** (_Before Scarring_) and **ASC** (_After Scarring_). These designations remain consistent across historical periods, including the Era of Ascendance and Era of Freedom.
+
+Contemporary dates ordinarily use a shortened notation, such as **Horizon's 16th, 10110 ASC (16/05/10110)**. Further information concerning the calendar's history, structure, and conventions may be found in [[Astos Calendar]].
 
 ## System of Magic
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-02T04:57:33.3333-05:00
+modified: 2026-11-03T02:06:28.2828-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -155,18 +155,18 @@ More elaborate decoys can reproduce selected arcana techniques at reduced intens
 
 ### Alchemy
 
-Despite her exceptional proficiency in arcana, Rietta has devoted much of her life to the study and practice of **alchemy**, a discipline that combines theoretical knowledge, experimentation, and the precise manipulation of materials to produce specialized compounds and other practical creations. Her inquisitive nature and willingness to pursue unconventional methods have allowed her to develop a considerable repertoire of preparations, many of which remain unique to her personal research.
+Despite her exceptional proficiency in arcana, Rietta has devoted much of her life to the study and practice of **alchemy**, a discipline closely associated with **arcanics** that combines theoretical knowledge, experimentation, and the precise manipulation of materials to produce specialized compounds and other practical creations. Her inquisitive nature and willingness to pursue unconventional methods have allowed her to develop a considerable repertoire of preparations, many of which remain unique to her personal research.
 
 Rietta's aptitude for the [[The Aurelants#The Convergence|Convergence]] facilitates certain aspects of alchemical synthesis, while her affinity with the [[The Aurelants#The Navigator|Navigator]] affords her extraordinary precision in controlling the movement and interaction of elemental substances. These advantages complement her extensive technical knowledge, allowing her to undertake complex procedures with a degree of efficiency and consistency seldom achieved by conventional practitioners.
 
 A distinguishing feature of Rietta's approach is her emphasis on **preparation and versatility**. Unlike arcana performed directly in the field, alchemical preparations can be manufactured and stored in advance, allowing their effects to be employed without repeatedly performing the processes required for their creation. This has proven particularly advantageous in combat, where Rietta frequently relies on an assortment of specialized compounds to respond to changing circumstances.
-#### Aith Merillé
+#### Aith Merillë
 
-Among Rietta's most recognizable possessions is **Aith Merillé**, a custom-built, long-range firearm designed to incorporate her alchemical preparations into its ammunition. Originally commissioned during her apprenticeship in the [[Stalwryn Kingdom]], the weapon has remained an integral part of her equipment, combining conventional marksmanship with the versatility of her alchemical expertise.
+Among Rietta's most recognizable possessions is **Aith Merillë**, a custom-built, long-range firearm designed to incorporate her alchemical preparations into its ammunition. Originally commissioned during her apprenticeship in the [[Stalwryn Kingdom]], the weapon has remained an integral part of her equipment, combining conventional marksmanship with the versatility of her alchemical expertise.
 
 The rifle features a specialized mechanism that accommodates interchangeable vessels containing prepared compounds, allowing Rietta to impart different properties to its [[Catalog of Materials#Caladonic Steel|caladonic steel]] ammunition prior to discharge. These preparations enable a variety of effects, ranging from corrosive and incendiary reactions to localized freezing and temporary incapacitation. The weapon can also be disassembled into three principal components for transportation, allowing Rietta to carry it alongside her other alchemical equipment.
 
-Rietta employs Aith Merillé in both long-range and mid-range engagements, adapting her approach to the circumstances at hand. Her proficiency in marksmanship is complemented by her mastery of arcana, particularly **Tidal Weave** and **Fluid Decoy**, which allow her to disrupt enemy movements, establish advantageous firing positions, and coordinate attacks from multiple directions. Rather than relying exclusively on the rifle's destructive capabilities, she frequently uses its specialized ammunition to restrict opponents' options or bring confrontations to an end with minimal unnecessary violence.
+Rietta employs Aith Merillë in both long-range and mid-range engagements, adapting her approach to the circumstances at hand. Her proficiency in marksmanship is complemented by her mastery of arcana, particularly **Tidal Weave** and **Fluid Decoy**, which allow her to disrupt enemy movements, establish advantageous firing positions, and coordinate attacks from multiple directions. Rather than relying exclusively on the rifle's destructive capabilities, she frequently uses its specialized ammunition to restrict opponents' options or bring confrontations to an end with minimal unnecessary violence.
 
 ![[Aith_Merille_2.webp]]_Credit: @MonsterOfSukeP_
 
@@ -174,7 +174,7 @@ Rietta employs Aith Merillé in both long-range and mid-range engagements, adapt
 
 #### Alchemical Preparations
 
-Rietta has developed numerous specialized formulations throughout her career, many of which belong to four principal families of alchemical preparations. Each family encompasses a variety of compounds with differing concentrations, properties, and applications, allowing her to adapt their effects to the circumstances at hand. While frequently employed through Aith Merillé's specialized ammunition, certain preparations can also be administered or deployed independently of the firearm.
+Rietta has developed numerous specialized formulations throughout her career, many of which belong to four principal families of alchemical preparations. Each family encompasses a variety of compounds with differing concentrations, properties, and applications, allowing her to adapt their effects to the circumstances at hand. While frequently employed through Aith Merillë's specialized ammunition, certain preparations can also be administered or deployed independently of the firearm.
 
 | Preparation    | Application                                                                                                                                                     |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
