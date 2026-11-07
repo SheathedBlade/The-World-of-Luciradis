@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T15:14:13.1313-05:00
+modified: 2026-11-07T18:27:48.4848-05:00
 ---
 > [!archive] General Reference  
 > **Geography, History & Natural Sciences**
@@ -9,13 +9,13 @@ modified: 2026-11-07T15:14:13.1313-05:00
 
 Luciradis is the world inhabited by numerous civilizations, cultures, and forms of life. Its geography, natural environments, and history have been profoundly shaped by arcana, a force woven into the foundations of the world itself.
 
-The world is broadly divided into two major geographical regions: **[[Locations/Cicatri Ciel/index|Cicatri Ciel]]**, situated predominantly within the northern hemisphere, and **[[Locations/Nova Ciel/index|Nova Ciel]]**, situated within the southern hemisphere. Though each possesses distinct environments and histories, both share a common origin and have been shaped by the events that followed the Scarring.
+The world is broadly divided into two major geographical regions: **[[Locations/Cicatri Ciel/index|Cicatri Ciel]]**, situated predominantly within the northern hemisphere, and **[[Locations/Nova Ciel/index|Nova Ciel]]**, situated within the southern hemisphere. Though each possesses distinct environments and histories, their civilizations have been connected through migration, cultural exchange, and the events that shaped Luciradis following the Scarring.
 
 ## Etymology
 
-The name **Luciradis** roughly translates to _"shining root"_ in ancient tongues. Its origins are traditionally associated with the creation of the world, although the precise linguistic and historical circumstances surrounding its adoption remain uncertain.
+The name **Luciradis** derives from ancient linguistic elements associated with light and origins, commonly interpreted as _"Root of Light"_. Its meaning is traditionally associated with the creation of the world, although the precise circumstances surrounding its adoption remain uncertain.
 
-The association between light and roots has persisted throughout the world's recorded history, reflecting longstanding interpretations of Luciradis as a world sustained by forces extending beyond its visible natural environment.
+The imagery of light and roots has persisted throughout the world's recorded history, reflecting longstanding interpretations of Luciradis as a world whose existence can be traced to a common origin.
 
 ## Geography
 
@@ -85,17 +85,19 @@ Its manifestations extend beyond deliberate magical practice. Arcana occurs natu
 
 The systematic study of these phenomena falls within the discipline of **arcanics**.
 
-### The Roots
+### Magical Practice
 
-Conventional magical practices draw upon fundamental foundations of the world known as **roots**.
+The practice of arcana encompasses a broad range of techniques through which individuals harness and manipulate arcana to produce observable effects. Such practices predate the rise of the Aurelants and have developed alongside the civilizations of Luciradis.
 
-Among the recognized roots are:
-- **Root of Earth**
-- **Root of Water**
-- **Root of Fire**
-- **Root of Wind**
+The capacity to practice arcana is widespread among the inhabitants of Luciradis, although natural aptitude varies considerably between individuals. While rudimentary applications may be acquired through basic instruction, more sophisticated techniques generally require extensive knowledge, training, and practical experience.
 
-These roots provide a foundation for understanding conventional magical phenomena. Their relationship to the Authorities of the Aurelants and the alluvia distributed following the Sundering remains a subject of further scholarly consideration.
+Practitioners may influence arcana directly through concentration and deliberate control, or employ structured techniques to achieve greater precision, consistency, and complexity. These approaches are not mutually exclusive, and accomplished practitioners frequently combine intuitive manipulation with established methods developed through generations of study.
+
+The effectiveness of magical practice is influenced by several factors, including an individual's capacity to manipulate arcana, their technical proficiency, and the availability of ambient arcana. While personal capabilities and training generally impose the most immediate limitations, environmental conditions may affect the execution and sustainability of certain techniques.
+
+The alluvia associated with the Aurelants can influence an individual's affinity for particular manifestations of arcana, but are not a prerequisite for its practice. Consequently, natural aptitude alone does not determine a practitioner's capabilities, as proficiency also depends upon acquired knowledge and the refinement of technique.
+
+Over successive generations, the systematic study of arcana has contributed to the development of increasingly sophisticated techniques and practical applications across numerous fields.
 
 ### Arcane Ecology
 
@@ -115,4 +117,4 @@ The calendar comprises twelve months of thirty days each, named after the [[The 
 
 Years are numbered relative to the conclusion of the Scarring, using **BSC** (_Before Scarring_) and **ASC** (_After Scarring_). These designations remain consistent across historical periods, including the Era of Ascendance and Era of Freedom.
 
-Contemporary dates ordinarily use a shortened notation, such as **Horizon's 16th, 10110 ASC (16/05/10110)**. Further information concerning the calendar's history, structure, and conventions may be found in [[Astos Calendar]].
+Contemporary dates ordinarily use a shortened notation, such as **Horizon's 16th, 10110 ASC (16/05/10110)**.
