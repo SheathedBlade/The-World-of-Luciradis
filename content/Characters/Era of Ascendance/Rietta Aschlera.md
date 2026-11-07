@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T15:14:14.1414-05:00
+modified: 2026-11-07T18:41:07.077-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -24,7 +24,7 @@ comments: false
 > | Age | 4,846 years |
 > | Gender | Female |
 > | Race | [[Inhabitants of Luciradis#Elf\|Elf]] |
-> | Date of Birth | Creator's 14th, 5264 ASC _(14/1/5264)_ |  
+> | Date of Birth | Creator's 14th, 5264 ASC _(14/01/5264)_ |  
 > | Birthplace | [[Lyntoa Village]] |
 > | Allegiance | None |
 > | Height | 5'7'' / 170cm |

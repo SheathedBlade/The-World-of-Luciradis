@@ -1,19 +1,19 @@
 ---
 created: 2026-10-12T18:54:47.4747-04:00
-modified: 2026-11-07T07:03:58.5858-05:00
+modified: 2026-11-07T18:51:32.3232-05:00
 description: The Luciradis Authority of Magical Sciences (LAMS) is an international institution dedicated to the advancement of arcanics, the study and documentation of arcane phenomena, and the establishment of scientific standards governing their investigation and application.
 comments:
 ---
 > [!archive] Institutional Record
-> **International Scientific Institution**
+> **Luciradis Authority of Magical Sciences**
 > 
 > Last revised: Resonance's 8th, 10110 ASC
 >
-> _Revised and annotated by K. Myrai, Head Archivist of Oracle's Vision_
+> _Compiled and revised by K. Myrai, Head Archivist of Oracle's Vision_
 
 The **Luciradis Authority of Magical Sciences (LAMS)** is an international scientific institution dedicated to the study of arcana, the advancement of arcanics, and the establishment of standards governing arcane research and its practical applications. Recognized as one of the foremost authorities in the magical sciences, LAMS maintains relationships with governments, academic institutions, and independent research organizations throughout Luciradis.
 
-Its responsibilities encompass the investigation and classification of arcane phenomena, the study of essences and their manifestations, the development of arcanic technologies, and the assessment of risks associated with their use. Through its research and regulatory activities, LAMS seeks to advance scientific understanding while promoting the safe and responsible application of arcana.
+Its responsibilities encompass the investigation and classification of arcane phenomena, the study of alluvia (the remnants of the Aurelants' Authorities dispersed during the Sundering) and their manifestations, the development of arcanic technologies, and the assessment of risks associated with their use.
 
 Although LAMS exercises considerable influence over contemporary scientific practices, it does not directly administer all research conducted throughout Luciradis. Independent institutions retain responsibility for their own operations, subject to applicable laws, institutional agreements, and recognized research standards.
 
@@ -309,6 +309,6 @@ The administrative framework of LAMS is intended to distinguish legitimate insti
 
 Scientific findings and classifications are subject to recognized methods of examination and review, rather than direct political determination. Likewise, the Division of Oversight & Ethics maintains a degree of procedural independence when investigating activities involving LAMS personnel, external institutions, or senior officials.
 
-Measures intended to preserve accountability include financial review, conflict-of-interest requirements, institutional reporting procedures, and provisions for the examination of decisions made by senior authorities. In matters where ordinary oversight arrangements may be compromised, additional review mechanisms may be invoked under the institution's governing procedures.
+Measures intended to preserve accountability include financial review, conflict-of-interest requirements, institutional reporting procedures, and provisions for the examination of decisions made by senior authorities. Where allegations concern senior institutional leadership or the independence of DOE itself, the governing framework provides for additional review procedures intended to prevent implicated officials from exercising control over the proceedings. Such reviews may involve independent scientific and administrative representatives appointed through the institution's governing arrangements.
 
 Nevertheless, the effectiveness of such protections depends upon their consistent application. The influence of participating governments, the distribution of financial resources, and the concentration of administrative authority have remained subjects of discussion concerning the institution's ability to reconcile scientific independence with international accountability.

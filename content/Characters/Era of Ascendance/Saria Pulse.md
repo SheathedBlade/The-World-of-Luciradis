@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T14:19:57.5757-05:00
+modified: 2026-11-07T18:41:41.4141-05:00
 description: Saria is the daughter of Orsilus of Azharel, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
@@ -21,7 +21,7 @@ comments: false
 > | | |
 > | ---: | :--- |
 > | Full Name | Saria Pulse |
-> | Age | 4,847 years |
+> | Age | 4,846 years |
 > | Gender | Female |
 > | Race | [[Inhabitants of Luciradis#Vyrian\|Vyrian]] |
 > | Date of Birth | Axiom's 24th, 5263 ASC _(24/11/5263)_ |  
@@ -77,7 +77,7 @@ Upon arriving in Merastel, Saria and Arzen initially took residence in various i
 
 Under ordinary circumstances, such an offense would have carried severe penalties. However, in a decision considered uncharacteristically lenient by those familiar with his reign, King [[Leoris Varens]] personally intervened, pardoning the pair and extending financial assistance from his own funds. With this support, Saria and Arzen were able to purchase property within the capital and establish an eatery known as [[Merastel#The Kindled Hearth|The Kindled Hearth]], which would eventually become a popular establishment among the city's residents.
 
-Following the establishment of the Campfire, Saria and Arzen sought to repay King Varens for his generosity by applying to serve in the Stalwryn Royal Guard. It was during this process that Saria formally adopted the surname **Pulse**, choosing to distance herself from the familial name she had long since rejected.
+Following the establishment of the Kindled Hearth, Saria and Arzen sought to repay King Varens for his generosity by applying to serve in the Stalwryn Royal Guard. It was during this process that Saria formally adopted the surname **Pulse**, choosing to distance herself from the familial name she had long since rejected.
 
 According to Saria's own account, the name was intended to commemorate the companionship she had forged with Arzen throughout their travels. It also held a more personal significance, alluding to her heightened perception of heartbeats through the power of the [[The Aurelants#The Expanse|Expanse]]. In choosing the name Pulse, Saria sought to establish an identity defined not by her ancestry, but by the life and relationships she had chosen for herself.
 

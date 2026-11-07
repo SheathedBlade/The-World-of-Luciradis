@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T18:27:48.4848-05:00
+modified: 2026-11-07T18:34:19.1919-05:00
 ---
 > [!archive] General Reference  
 > **Geography, History & Natural Sciences**
@@ -11,7 +11,7 @@ Luciradis is the world inhabited by numerous civilizations, cultures, and forms 
 
 The world is broadly divided into two major geographical regions: **[[Locations/Cicatri Ciel/index|Cicatri Ciel]]**, situated predominantly within the northern hemisphere, and **[[Locations/Nova Ciel/index|Nova Ciel]]**, situated within the southern hemisphere. Though each possesses distinct environments and histories, their civilizations have been connected through migration, cultural exchange, and the events that shaped Luciradis following the Scarring.
 
-## Etymology
+## Etymologys
 
 The name **Luciradis** derives from ancient linguistic elements associated with light and origins, commonly interpreted as _"Root of Light"_. Its meaning is traditionally associated with the creation of the world, although the precise circumstances surrounding its adoption remain uncertain.
 
@@ -95,9 +95,13 @@ Practitioners may influence arcana directly through concentration and deliberate
 
 The effectiveness of magical practice is influenced by several factors, including an individual's capacity to manipulate arcana, their technical proficiency, and the availability of ambient arcana. While personal capabilities and training generally impose the most immediate limitations, environmental conditions may affect the execution and sustainability of certain techniques.
 
+Living organisms naturally interact with arcana through biological processes, including the absorption, retention, and regulation of ambient arcana. In sentient beings, these processes occur independently of deliberate magical practice, although trained practitioners may consciously direct arcana to produce particular effects.
+
 The alluvia associated with the Aurelants can influence an individual's affinity for particular manifestations of arcana, but are not a prerequisite for its practice. Consequently, natural aptitude alone does not determine a practitioner's capabilities, as proficiency also depends upon acquired knowledge and the refinement of technique.
 
 Over successive generations, the systematic study of arcana has contributed to the development of increasingly sophisticated techniques and practical applications across numerous fields.
+
+*Further information concerning the underlying mechanisms and limitations of magical practice may be found in [[Principles of Arcana]].*
 
 ### Arcane Ecology
 
@@ -107,7 +111,7 @@ Over successive generations, living organisms may develop adaptations suited to 
 
 Such adaptations are especially apparent in regions where arcana is unusually abundant, although the presence of arcana alone does not necessarily determine an ecosystem's composition.
 
-Further information concerning these adaptations and the relationship between arcana and living organisms may be found in [[Arcane Ecology]].
+*Further information concerning these adaptations and the relationship between arcana and living organisms may be found in [[Arcane Ecology]].*
 
 ## System of Time
 
