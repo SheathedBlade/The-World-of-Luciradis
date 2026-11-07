@@ -1,11 +1,15 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T21:29:43.4343-04:00
+modified: 2026-11-07T07:01:26.2626-05:00
 comments: false
 ---
-
-_Internal Census of the Stalwryn Kingdom_  
-_Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai_
+> [!archive] Historical Record
+> **Internal Census of the Stalwryn Kingdom**
+> 
+> Original record: Convergence's 20th, 5282 ASC  
+> Last revised: Horizon's 16th, 10110 ASC
+> 
+> *Revised and annotated by K. Myrai*
 
 ## Basic Info
 
@@ -15,7 +19,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
 - Race: Feline [[Inhabitants of Luciradis#Terrakin|Terrakin]]
 - Date of Birth: 24th Day of the Axiom, from the Year 5268 ASC _(24/11/5268)_
 - Date of Death: N/A
-- Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Place of Origin: [[Merastel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: [[Cerelicia]], [[Luciradis#Nova Ciel|Nova Ciel]]
 - Height: 5'7'' / 170cm
 - Weight:

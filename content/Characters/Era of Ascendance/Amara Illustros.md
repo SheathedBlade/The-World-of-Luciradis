@@ -27,7 +27,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. 
   - [[Altair Illustros]]: Brother
 
 _\* - Her previous allegiance was to the [[Luxor Citadel]]_  
-_\*\* - Her previous occupation was as a Beacon of the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]]_
+_\*\* - Her previous occupation was as a Beacon of the [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]]_
 
 ## Essence Profile
 
@@ -53,7 +53,7 @@ _"Isn't it the case that we want future generations to have better lives than th
 
 _My only regret is that you have chosen to shoulder my legacy as your burden. But, if you would consider all that I have done, for you or otherwise, sins, then I'll gladly be a sinner."_
 
-Amara Illustros, previously Sister Amara Illustros, is an exiled traveling **beacon** of the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]], the prominent religious group of the [[Luxor Citadel]]. The nature of how she was exiled, however, is unbeknownst to us, as the Covenant refused to comment further on this topic. Thus, out of respect, only those of us in the know are aware of her existence and subsequent status of the Covenant.
+Amara Illustros, previously Sister Amara Illustros, is an exiled traveling **beacon** of the [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]], the prominent religious group of the [[Luxor Citadel]]. The nature of how she was exiled, however, is unbeknownst to us, as the Covenant refused to comment further on this topic. Thus, out of respect, only those of us in the know are aware of her existence and subsequent status of the Covenant.
 
 The **Illustros** are a distinguished family within the Luxor Citadel, holding a high position within the ruling government, **particularly with affairs concerning Luxor's military strength**. It was to her father's disappointment when Amara cut all ties with her family after being exiled from the Luxori Covenant.
 

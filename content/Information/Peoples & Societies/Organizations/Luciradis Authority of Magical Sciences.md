@@ -1,15 +1,15 @@
 ---
 created: 2026-10-12T18:54:47.4747-04:00
-modified: 2026-11-04T05:09:46.4646-05:00
+modified: 2026-11-07T07:03:58.5858-05:00
 description: The Luciradis Authority of Magical Sciences (LAMS) is an international institution dedicated to the advancement of arcanics, the study and documentation of arcane phenomena, and the establishment of scientific standards governing their investigation and application.
 comments:
 ---
 > [!archive] Institutional Record
-> **Luciradis Authority of Magical Sciences**
+> **International Scientific Institution**
 > 
-> 
+> Last revised: Resonance's 8th, 10110 ASC
 >
-> *Compiled by K. Myrai*
+> _Revised and annotated by K. Myrai, Head Archivist of Oracle's Vision_
 
 The **Luciradis Authority of Magical Sciences (LAMS)** is an international scientific institution dedicated to the study of arcana, the advancement of arcanics, and the establishment of standards governing arcane research and its practical applications. Recognized as one of the foremost authorities in the magical sciences, LAMS maintains relationships with governments, academic institutions, and independent research organizations throughout Luciradis.
 

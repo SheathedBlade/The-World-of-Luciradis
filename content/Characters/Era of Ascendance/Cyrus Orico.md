@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24T17:06:31.3131-04:00
-modified: 2025-10-25T20:49:36.3636-04:00
+modified: 2026-11-07T07:24:31.3131-05:00
 ---
 
 _Internal Census of Galaderyn_
@@ -14,7 +14,7 @@ _Internal Census of Galaderyn_
 - Date of Birth: N/A
 - Date of Death: N/A
 - Place of Origin: [[Galaderyn]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: [[Factions of Luciradis#Ferros Republic|Ferros Republic]]
+- Allegiance: [[Ferros Republic]]
 - Height:
 - Weight:
 - Occupation: Manaward Iridescent

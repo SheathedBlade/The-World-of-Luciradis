@@ -159,7 +159,7 @@ plugins:
     options:
       title: Explorer
       folderDefaultState: collapsed
-      folderClickBehavior: collapse
+      folderClickBehavior: link
       useSavedState: true
     layout:
       position: left

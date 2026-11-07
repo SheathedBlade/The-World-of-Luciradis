@@ -116,7 +116,7 @@ I sighed and looked out the large window in the back overseeing the large tree. 
 
 "Just some advice," Lucien interjected as I turned back to face him. "I know you have mixed feelings about the situation that brought you here from life. Remember those feelings well, Arzen. It'll serve as your strength as you traverse the realm of the living once more." Feelings of anger overwhelmed me, and in an instant I rushed to Lucien and shoved him back into the wall.
 
-"What more can I do though? I lost everything! I failed my duties as a knight of the [[Stalwryn Kingdom]]! Tell me!" I exclaimed, grabbing his shirt. "What more...can someone like me do?"
+"What more can I do though? I lost everything! I failed my duties as a knight of the [[Merastel]]! Tell me!" I exclaimed, grabbing his shirt. "What more...can someone like me do?"
 
 Lucien looked away from me. Though I couldn't see his eyes, he clearly had an expression of sorrow.
 

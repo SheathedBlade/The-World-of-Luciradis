@@ -16,7 +16,7 @@ comments: false
 - Date of Birth: 7th Day of the Lifeline, from the Year 5244 ASC *(07/06/5244)*
 - Date of Death: N/A
 - Place of Origin: [[Gensōkyo]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: [[Factions of Luciradis#Illusionists (Gensōsenshi)|Illusionists]]
+- Allegiance: [[Information/Peoples & Societies/Factions/index#Illusionists (Gensōsenshi)|Illusionists]]
 - Height: 5’9” / 175cm
 - Weight:
 - Occupation:

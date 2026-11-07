@@ -13,7 +13,7 @@ _Internal Census of Luxor Citadel_
 - Date of Birth: N/A
 - Date of Death: N/A
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]]
+- Allegiance: [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]]
 - Height:
 - Weight:
 - Occupation: Instrument of Wit of the Luxori Covenant

@@ -14,7 +14,7 @@ The skies of the realm is eternally bright, with white and emerald painting the 
 
 ## Etymology
 
-The Stairs of Wanderlust was coined by the popular [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]], a religious group dedicated to _Genesis_, the original Creator, and its teachings. The realm of the afterlife commonly depicted in scripture as a long set of stairs, with the Tree of Creation serving as the destination for departed souls, standing tall at the summit of the highest hill.
+The Stairs of Wanderlust was coined by the popular [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]], a religious group dedicated to _Genesis_, the original Creator, and its teachings. The realm of the afterlife commonly depicted in scripture as a long set of stairs, with the Tree of Creation serving as the destination for departed souls, standing tall at the summit of the highest hill.
 
 Each soul embarks on a journey that reflects the way they had lived in life, and so each soul must travel across the realm reliving each memorable experience engraved upon their very being. One could say the departed gains a sense of wanderlust, a desire to travel within their own experiences one more time. And at the very end of their journey, destiny ultimately decides the fate of their existence.
 

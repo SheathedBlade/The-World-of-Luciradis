@@ -1,9 +1,9 @@
 ---
 created: 2026-11-04T05:37:09.099-05:00
-modified: 2026-11-06T06:39:57.5757-05:00
+modified: 2026-11-07T07:03:39.3939-05:00
 ---
 > [!archive] Scholarly Reference
-> **Astos Calendar**
+> **Chronology & Timekeeping**
 >
 > *Compiled by K. Myrai, Head Archivist of Oracle's Vision*
 

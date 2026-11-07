@@ -1,10 +1,10 @@
 ---
 created: 2026-11-06T06:42:01.011-05:00
-modified: 2026-11-06T07:21:58.5858-05:00
+modified: 2026-11-07T15:14:16.1616-05:00
 ---
 _Scientific overview — Division of Arcane Sciences & Research, Luciradis Authority of Magical Sciences_
 
-**Arcane ecology** is the study of the relationships between living organisms, their environments, and the naturally occurring arcana present throughout Luciradis. As a specialized area of arcanics, the field investigates how ambient arcana influences biological development, ecological interactions, and the distribution of life across environments with differing arcane conditions.
+**Arcane ecology** is the study of the relationships between living organisms, their environments, and the naturally occurring arcana present throughout Luciradis. As a specialized area of arcanics, the field investigates how [[ambient arcana]] influences biological development, ecological interactions, and the distribution of life across environments with differing arcane conditions.
 
 Although the utilization of arcana is commonly associated with trained practitioners, numerous organisms possess naturally developed mechanisms through which they absorb, regulate, or employ ambient arcana. These processes vary considerably between species and may contribute to metabolism, environmental sensing, reproduction, defense, and other biological functions.
 
@@ -60,7 +60,7 @@ The Division of Arcane Containment & Environmental Safety contributes to investi
 
 ## Geographical Distribution
 
-The distribution of arcane ecosystems throughout [[Luciradis]] is influenced by regional climate, geographical isolation, and variations in the concentration and stability of [[Ambient Arcana|ambient arcana]]. Although these factors frequently interact, no single environmental characteristic is sufficient to explain the diversity of organisms found within a particular region.
+The distribution of arcane ecosystems throughout Luciradis is influenced by regional climate, geographical isolation, and variations in the concentration and stability of ambient arcana. Although these factors frequently interact, no single environmental characteristic is sufficient to explain the diversity of organisms found within a particular region.
 
 The separation of the landmasses comprising [[Luciradis#Cicatri Ciel|Cicatri Ciel]] following the Scarring holds particular significance for the study of ecological divergence. Populations that were once geographically connected may subsequently have developed independently, responding to differences in local environmental conditions and the availability of ambient arcana.
 

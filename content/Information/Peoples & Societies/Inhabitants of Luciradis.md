@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-02T04:47:52.5252-05:00
+modified: 2026-11-07T07:25:03.033-05:00
 ---
 
 _Published by the Congregation of Academia, Luxor Citadel_
@@ -26,7 +26,7 @@ The elves are respecters of the natural order of Luciradis. Overly concerned wit
 
 The elves are an introverted race, tending to keep to themselves in most public affairs. The majority of the elven population lies in the [[Galaderyn]], a haven for elves situated in a dense forest between two large rivers. Only a few groups of elves venture outside the Republic, though it is made difficult to do so due to the intervention of the ruling sovereigns.
 
-The ruling faction that the majority of elves associate with is the [[Factions of Luciradis#Ferros Republic|Ferros Republic]], a government run by a self-proclaimed “high societal class” of elves. For elves that do not fall under the aforementioned category, they are either lower-class citizens or are not a part of the republic. Thus, the existence of elves outside of their haven is uncommon at best.
+The ruling faction that the majority of elves associate with is the [[Ferros Republic]], a government run by a self-proclaimed “high societal class” of elves. For elves that do not fall under the aforementioned category, they are either lower-class citizens or are not a part of the republic. Thus, the existence of elves outside of their haven is uncommon at best.
 
 ## Human
 

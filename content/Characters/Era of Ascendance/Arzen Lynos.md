@@ -1,11 +1,15 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T20:49:00.000-04:00
+modified: 2026-11-07T07:01:16.1616-05:00
 comments: false
 ---
-
-_Internal Census of the Stalwryn Kingdom_  
-_Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai_
+> [!archive] Historical Record
+> **Internal Census of the Stalwryn Kingdom**
+> 
+> Original record: Convergence's 20th, 5282 ASC  
+> Last revised: Convergence's 16th, 10110 ASC
+> 
+> *Revised and annotated by K. Myrai*
 
 ## Basic Info
 
@@ -34,7 +38,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. 
   - [[Driardos Malairse]]: Arch-enemy
 
 _\* - Stalwryn's internal census was conducted when he was 19 years_  
-_\*\* - His previous allegiance was to the_ [[Factions of Luciradis#Monarchy of Stalwryn|Stalwryn Monarchy]]  
+_\*\* - His previous allegiance was to the_ [[Information/Peoples & Societies/Factions/index#Monarchy of Stalwryn|Stalwryn Monarchy]]  
 _\*\*\* - His previous occupation was as Royal Guardian of the Stalwryn Kingdom_
 
 ## Essence Profile
@@ -67,7 +71,7 @@ _"I should've died a very long time ago. Yet I am still here, to find and fulfil
 
 ### Physical Combat
 
-Before Arzen came to the [[Stalwryn Kingdom]], he used to sport a **double-ended glaive** cobbled together with rudimentary materials such as sharpened stone and wood. Even with such primitive materials, Arzen was unusually adept with the weapon, and has proven to us his hunting skills. By [[Leoris Varens|King Varens]]' order, the finest blacksmith forged a much stronger version of Arzen's glaive, made with lightest and sharpest steel combined with a more practical grip infused with elven magicks. This version allows Arzen to split the glaive in half, and dual-wield two longswords.
+Before Arzen came to the [[Merastel]], he used to sport a **double-ended glaive** cobbled together with rudimentary materials such as sharpened stone and wood. Even with such primitive materials, Arzen was unusually adept with the weapon, and has proven to us his hunting skills. By [[Leoris Varens|King Varens]]' order, the finest blacksmith forged a much stronger version of Arzen's glaive, made with lightest and sharpest steel combined with a more practical grip infused with elven magicks. This version allows Arzen to split the glaive in half, and dual-wield two longswords.
 
 Despite this, however, Arzen refused to use the new glaive, instead opting to learn the **way of the sword and shield**. While we had no comment from the boy himself, [[Saria Pulse|Saria]] tells us it's because Arzen wanted repay the debt he owes to the King for saving him. Coincidentally, it is for the very same reason that Saria pursues the path of a lancer vanguard. She notes, however, that there may be a time where Arzen's time as a knight would come to an end, and the debt to the King be fulfilled. When that time comes, Arzen may return to using the glaive and continue his journey outside the Kingdom.
 

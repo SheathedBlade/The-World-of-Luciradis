@@ -1,13 +1,14 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-02T04:54:28.2828-05:00
+modified: 2026-11-07T14:19:57.5757-05:00
 description: Saria is the daughter of Orsilus of Azharel, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
 > [!archive] Historical Record
 > **Internal Census of the Stalwryn Kingdom**
 > 
-> Horizon's 16th, 10110 ASC (16/05/10110)
+> Original record: Convergence's 20th, 5282 ASC  
+> Last revised: Horizon's 16th, 10110 ASC
 > 
 > *Revised and annotated by K. Myrai*
 
@@ -29,7 +30,7 @@ comments: false
 > | Height | 5'10'' / 178cm |
 > | Weight | 150 lbs / 68 kg |
 > | Occupation | Freelance Adventurer |
-> | Relationships | [[Arzen Lynos]]: Significant other<br>[[Kallie Myrai]]: Friend<br>[[Factions of Luciradis#Brood of Azharel\|Orsilus of Azharel]]: Father<br>[[Leoris Varens]]: Former employer of the Stalwryn Royal Guard<br>[[Erina Hayashi]]: Friend<br>[[Rietta Aschlera]]: Friend |
+> | Relationships | [[Arzen Lynos]]: Significant other<br>[[Kallie Myrai]]: Friend<br>[[Information/Peoples & Societies/Factions/index#Brood of Azharel\|Orsilus of Azharel]]: Father<br>[[Leoris Varens]]: Former employer of the Stalwryn Royal Guard<br>[[Erina Hayashi]]: Friend<br>[[Rietta Aschlera]]: Friend |
 >
 > **Essence Profile**
 >
@@ -53,7 +54,7 @@ comments: false
 > 
 > — Saria Pulse
 
-Saria is the daughter of [[Factions of Luciradis#Brood of Azharel|Orsilus of Azharel]], the reigning draconic sovereign of the skies above the [[Grandiose Peaks]], and a human woman whose identity remains unknown. Their union gave rise to Saria, the first dragon-human hybrid in the history of Luciradis, whose unprecedented birth marked the beginning of the people who would eventually become known as Vyrians.
+Saria is the daughter of [[Information/Peoples & Societies/Factions/index#Brood of Azharel|Orsilus of Azharel]], the reigning draconic sovereign of the skies above the [[Grandiose Peaks]], and a human woman whose identity remains unknown. Their union gave rise to Saria, the first dragon-human hybrid in the history of Luciradis, whose unprecedented birth marked the beginning of the people who would eventually become known as Vyrians.
 
 Although the identity of Saria's mother has eluded investigators, recent findings suggest an affiliation with [[Gensōkyo]]. These findings are supported by historical accounts of a dragon repeatedly descending upon the [[Amber Clifftops]], though the precise circumstances of these visits remain uncertain.
 
@@ -70,11 +71,11 @@ Although Saria successfully completed both the trial and the succession ritual, 
 
 Following her departure from the Grandiose Peaks, Saria eventually found herself near the outskirts of the [[Port of Anahymn]], where she first encountered [[Arzen Lynos]]. Pursued by individuals from Azharel seeking her return, she was rescued by Arzen, who helped conceal her presence within the predominantly human port city.
 
-The two subsequently departed for the [[Stalwryn Kingdom]], undertaking a journey that, according to Saria's own account, lasted approximately six weeks. With little money between them, they were forced to provide for themselves along the way, gathering food and securing whatever provisions they could. These shared hardships marked the beginning of a companionship that would come to define much of their lives.
+The two subsequently departed for [[Merastel]], undertaking a journey that, according to Saria's own account, lasted approximately six weeks. With little money between them, they were forced to provide for themselves along the way, gathering food and securing whatever provisions they could. These shared hardships marked the beginning of a companionship that would come to define much of their lives.
 
-Upon arriving in the [[Stalwryn Kingdom]], Saria and Arzen initially took residence in various inns while attempting to establish themselves within the capital. During this period, the two became involved in an altercation with a patrol of royal knights, who reportedly expressed considerable hostility toward Saria on account of her unfamiliar origins and draconic appearance. Arzen intervened in her defense, ultimately resorting to violence against the knights.
+Upon arriving in Merastel, Saria and Arzen initially took residence in various inns while attempting to establish themselves within the capital. During this period, the two became involved in an altercation with a patrol of royal knights, who reportedly expressed considerable hostility toward Saria on account of her unfamiliar origins and draconic appearance. Arzen intervened in her defense, ultimately resorting to violence against the knights.
 
-Under ordinary circumstances, such an offense would have carried severe penalties. However, in a decision considered uncharacteristically lenient by those familiar with his reign, King [[Leoris Varens]] personally intervened, pardoning the pair and extending financial assistance from his own funds. With this support, Saria and Arzen were able to purchase property within the capital and establish an eatery known as [[Stalwryn Kingdom#The Campfire|the Campfire]], which would eventually become a popular establishment among the city's residents.
+Under ordinary circumstances, such an offense would have carried severe penalties. However, in a decision considered uncharacteristically lenient by those familiar with his reign, King [[Leoris Varens]] personally intervened, pardoning the pair and extending financial assistance from his own funds. With this support, Saria and Arzen were able to purchase property within the capital and establish an eatery known as [[Merastel#The Kindled Hearth|The Kindled Hearth]], which would eventually become a popular establishment among the city's residents.
 
 Following the establishment of the Campfire, Saria and Arzen sought to repay King Varens for his generosity by applying to serve in the Stalwryn Royal Guard. It was during this process that Saria formally adopted the surname **Pulse**, choosing to distance herself from the familial name she had long since rejected.
 
@@ -122,7 +123,7 @@ As the Ascendant of the [[The Aurelants#The Expanse|Expanse]], Saria's draconic 
 
 ## Personality
 
-During her years in the Stalwryn Kingdom, Saria was widely regarded as a compassionate, carefree, and approachable individual. Her playful disposition was frequently accompanied by a disarming frankness, as she seldom hesitated to speak her mind, even when doing so risked causing offense. Despite naturally attracting considerable attention, she was often uncomfortable with being placed at its center.
+During her years in the Merastel, Saria was widely regarded as a compassionate, carefree, and approachable individual. Her playful disposition was frequently accompanied by a disarming frankness, as she seldom hesitated to speak her mind, even when doing so risked causing offense. Despite naturally attracting considerable attention, she was often uncomfortable with being placed at its center.
 
 Her demeanor changed considerably when circumstances demanded seriousness, particularly during her service in the Stalwryn Royal Guard. As commander of the kingdom's vanguard, Saria demonstrated a disciplined and commanding presence, holding both herself and her subordinates to exacting standards. Though generally easygoing outside her duties, she was uncompromising in matters of military preparedness and the welfare of those under her command.
 

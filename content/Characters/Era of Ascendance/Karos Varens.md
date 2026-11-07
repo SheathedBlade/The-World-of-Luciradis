@@ -16,8 +16,8 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
 - Race: Human
 - Date of Birth: 14th Day of the Expanse, from the Year 5263 ASC _(14/02/5263)_
 - Date of Death: 19th Day of the Horizon, from the Year 5277 ASC _(19/05/5277)_
-- Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: [[Factions of Luciradis#Monarchy of Stalwryn|Monarchy of Stalwryn]]
+- Place of Origin: [[Merastel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Allegiance: [[Information/Peoples & Societies/Factions/index#Monarchy of Stalwryn|Monarchy of Stalwryn]]
 - Height: 4'11'' / 150cm
 - Weight: 125 lbs / 57 kg
 - Occupation: Prince of Stalwryn
@@ -45,4 +45,4 @@ _The below information are results from testing the individual of their "Empyrea
 
 ## Background
 
-Karos Varens was the son, and only child, to King [[Leoris Varens]], and heir to the throne of the [[Stalwryn Kingdom]].
+Karos Varens was the son, and only child, to King [[Leoris Varens]], and heir to the throne of the [[Merastel]].

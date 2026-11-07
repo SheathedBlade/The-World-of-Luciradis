@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-03T02:03:36.3636-05:00
+modified: 2026-11-07T09:18:32.3232-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -34,9 +34,9 @@ Although the broad sequence of these events is well established, surviving accou
 > 
 > It would therefore be unwise to regard any single interpretation of these events as a definitive account of the Aurelants' history.
 
-## Essence
+## Alluvia
 
-Essences are remnants of the Authorities dispersed during the Sundering, now present throughout living populations. Although their precise nature remains incompletely understood, their influence upon an individual's aptitude for arcana has been extensively documented. Each essence retains an association with its corresponding Authority, allowing its influence to be distinguished from that of others.
+Alluvia are remnants of the Authorities dispersed during the Sundering, now present throughout living populations. Although their precise nature remains incompletely understood, their influence upon an individual's aptitude for arcana has been extensively documented. Each essence retains an association with its corresponding Authority, allowing its influence to be distinguished from that of others.
 
 An individual may possess multiple essences in varying concentrations. These concentrations influence their natural aptitude for arcana associated with the corresponding Authorities, with greater abundance generally allowing for more advanced or demanding manifestations. The distribution of essence differs considerably between individuals, contributing to the variation observed in their natural capabilities.
 
@@ -115,17 +115,17 @@ According to surviving accounts, the immense loss of life during the Scarring co
 
 The final surviving accounts describe the conclusion of the Scarring and the subsequent disappearance of the Creator. Through an extraordinary act remembered as the Sundering, the Authorities of the other eleven Aurelants were divided and dispersed throughout the world. The Creator alone remained whole, retaining their Authority. No reliable historical records have since established the whereabouts of the original bearer, and no Ascendant associated with the Creator has been documented.
 
-Of particular interest is a possible connection between the Creator and the [[Factions of Luciradis#Luxori Covenant|Luxori Covenant]], a prominent religious institution whose earliest surviving texts date to approximately the same period as the Creator's disappearance. The Covenant's reverence for the Creator and the teachings attributed to them have prompted speculation regarding the institution's origins. However, attempts to substantiate this relationship have yielded little beyond conflicting accounts and religious traditions, leaving the matter unresolved.
+Of particular interest is a possible connection between the Creator and the [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]], a prominent religious institution whose earliest surviving texts date to approximately the same period as the Creator's disappearance. The Covenant's reverence for the Creator and the teachings attributed to them have prompted speculation regarding the institution's origins. However, attempts to substantiate this relationship have yielded little beyond conflicting accounts and religious traditions, leaving the matter unresolved.
 
 ### The Expanse
 
-**Known Ascendants:** [[Factions of Luciradis#Brood of Azharel|Orsilus of Azharel]] (former); [[Saria Pulse]] (current)
+**Known Ascendants:** [[Information/Peoples & Societies/Factions/index#Brood of Azharel|Orsilus of Azharel]] (former); [[Saria Pulse]] (current)
 
 The Expanse's Authority encompasses **primal expression**, governing the instincts, physical capabilities, and natural affinities of living beings. Its influence is most readily observed through heightened sensory perception, extraordinary physical prowess, and an instinctive connection with surrounding life.
 
 Historical accounts of the Scarring describe the original bearer as a dragon of immense proportions, possessing brilliant white scales and wings of a vibrant amethyst hue. Among the abilities attributed to the Expanse was an extraordinary awareness of nearby living creatures, extending to the perception of even the faintest heartbeat. The bearer was also said to possess an exceptional affinity with beasts of land, sea, and sky, rallying them during the conflicts that followed the downfall of Genesis.
 
-The Expanse has maintained a longstanding association with the [[Factions of Luciradis#Brood of Azharel|Brood of Azharel]], an ancient draconic lineage whose traditions center upon the preservation of its essence. Unlike the succession of many other Ascendants, the inheritance of the Expanse within this brood is governed by an established rite, through which its essence is transferred from one bearer to a designated successor.
+The Expanse has maintained a longstanding association with the [[Information/Peoples & Societies/Factions/index#Brood of Azharel|Brood of Azharel]], an ancient draconic lineage whose traditions center upon the preservation of its essence. Unlike the succession of many other Ascendants, the inheritance of the Expanse within this brood is governed by an established rite, through which its essence is transferred from one bearer to a designated successor.
 
 Prospective successors are expected to undergo a trial before participating in the ritual, a practice intended to ensure that the title of Ascendant remains within the lineage. Although the precise mechanisms of this rite remain closely guarded by the brood, its continued observance has enabled successive generations to preserve the title within their lineage.
 
@@ -137,7 +137,7 @@ Despite its historical association with dragons, the Expanse is not inherently r
 
 The Paragon's Authority encompasses **physical mastery** and fortitude, granting extraordinary strength, endurance, resilience, and resistance to destructive forces. Its manifestations extend beyond individual physical enhancement, including defensive capabilities that allow practitioners to withstand and protect against otherwise overwhelming forces.
 
-Historical accounts of the Scarring describe the original bearer as a formidable protector whose strength and resilience were matched by an exceptional proficiency in arcana. The Paragon was said to have defended a region that would eventually become part of the [[Stalwryn Kingdom|Kingdom of Stalwryn]], safeguarding its inhabitants against the growing devastation of the conflict.
+Historical accounts of the Scarring describe the original bearer as a formidable protector whose strength and resilience were matched by an exceptional proficiency in arcana. The Paragon was said to have defended a region that would eventually become part of the [[Merastel|Kingdom of Stalwryn]], safeguarding its inhabitants against the growing devastation of the conflict.
 
 This commitment to protection, however, eventually gave way to retaliation. Following an attack by the Seer upon a nearby village, the Paragon turned against the other Aurelants in pursuit of vengeance. Although initially motivated by the defense of those under their protection, the ensuing campaign brought considerable destruction to the surrounding lands. Surviving accounts describe a figure whose determination increasingly overshadowed the very responsibilities that had first compelled them to fight.
 
@@ -191,7 +191,7 @@ Despite these capabilities, the extent to which the Lifeline's Authority can ove
 
 The Reflection's Authority encompasses **experienced reality**, governing how individuals perceive, interpret, and experience the world around them. Its manifestations are most commonly associated with illusory arcana, through which practitioners may alter sensory perceptions, influence cognition, and construct experiences that differ considerably from their physical surroundings.
 
-Historical accounts identify the original Reflection as an [[Inhabitants of Luciradis#Akumari|akumari]] originating from the southern landmass of [[Locations/Nova Ciel/index|Nova Ciel]]. According to surviving traditions, the original bearer belonged to a nomadic community whose members eventually divided over their future. Those who remained in the south became known as the [[Factions of Luciradis#Dreamweavers (Yumori-te)|Dreamweavers]], or Yumori-te, while those who accompanied the Reflection northward to Cicatri Ciel came to be recognized as [[Factions of Luciradis#Illusionists (Gensōsenshi)|the Illusionists]], or Gensōsenshi.
+Historical accounts identify the original Reflection as an [[Inhabitants of Luciradis#Akumari|akumari]] originating from the southern landmass of [[Locations/Nova Ciel/index|Nova Ciel]]. According to surviving traditions, the original bearer belonged to a nomadic community whose members eventually divided over their future. Those who remained in the south became known as the [[Information/Peoples & Societies/Factions/index#Dreamweavers (Yumori-te)|Dreamweavers]], or Yumori-te, while those who accompanied the Reflection northward to Cicatri Ciel came to be recognized as [[Information/Peoples & Societies/Factions/index#Illusionists (Gensōsenshi)|the Illusionists]], or Gensōsenshi.
 
 The Illusionists eventually established the settlement of [[Gensōkyo]] within the dense forests of western Cicatri Ciel. Its name, derived from the language of their ancestral homeland, translates approximately to "Land of Illusions." Although separated by geography, the two factions retained a shared cultural heritage, developing distinct traditions and approaches to arcana over successive generations.
 
@@ -211,7 +211,7 @@ Beyond these maritime accounts, historical texts attribute considerable influenc
 
 The destruction associated with these events is often cited as a contributing factor in the increasing isolation of Galaderyn's elven communities. Over successive generations, this separation reinforced the development of distinct cultural traditions, particularly those concerned with the study and application of elemental arcana.
 
-The Navigator's essence has maintained a particularly strong association with elven society, with documented Ascendants predominantly belonging to elven lineages. Within the [[Factions of Luciradis#Ferros Republic|Ferros Republic]], individuals recognized as Ascendants of the Navigator are accorded the status of sovereign elves, irrespective of their previous standing. This distinction reflects the considerable importance attributed to elemental proficiency and the enduring influence of the Navigator upon elven society.
+The Navigator's essence has maintained a particularly strong association with elven society, with documented Ascendants predominantly belonging to elven lineages. Within the [[Ferros Republic]], individuals recognized as Ascendants of the Navigator are accorded the status of sovereign elves, irrespective of their previous standing. This distinction reflects the considerable importance attributed to elemental proficiency and the enduring influence of the Navigator upon elven society.
 
 Although its manifestations frequently involve mastery over a particular element, the Navigator's Authority is not confined to any single elemental discipline. Successive Ascendants may develop markedly different specializations, with some demonstrating exceptional command over water or atmospheric phenomena while others excel in different applications of elemental arcana. Such variations reflect the breadth of elemental flow and the influence of individual aptitude, training, and experience.
 

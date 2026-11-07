@@ -1,13 +1,14 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-03T02:06:28.2828-05:00
+modified: 2026-11-07T15:14:14.1414-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
 > [!archive] Historical Record
 > **Internal Census of the Stalwryn Kingdom**
 > 
-> Horizon's 16th, 10110 ASC (16/05/10110)
+> Original record: Convergence's 20th, 5282 ASC  
+> Last revised: Horizon's 16th, 10110 ASC
 > 
 > *Revised and annotated by K. Myrai*
 
@@ -57,11 +58,11 @@ comments: false
 > 
 > — Rietta Aschlera
 
-Rietta Celexa Aschlera was born into a family of elven merchants originating from [[Galaderyn]], whose relative isolation made commerce with neighboring nations an uncommon but necessary occupation. At the time of her birth, her parents had settled in [[Lyntoa Village]], a small settlement within the territory of the [[Stalwryn Kingdom]], where they facilitated trade between their homeland and the surrounding regions.
+Rietta Celexa Aschlera was born into a family of elven merchants originating from [[Galaderyn]], whose relative isolation made commerce with neighboring nations an uncommon but necessary occupation. At the time of her birth, her parents had settled in [[Lyntoa Village]], a small settlement within the territory of the [[Merastel]], where they facilitated trade between their homeland and the surrounding regions.
 
 Growing up in Lyntoa, Rietta was exposed to cultures and peoples considerably different from those of her ancestral homeland. She was known throughout the village for her mischievous disposition and boundless curiosity, frequently involving herself in the antics of the local children, much to the exasperation of its elders. Despite her playful nature, she demonstrated a keen intellect from an early age, along with a growing familiarity with the commercial practices of her family.
 
-At the age of fourteen, Rietta accompanied her parents on a temporary relocation from Lyntoa Village to the capital of the [[Stalwryn Kingdom]]. During her stay, she developed a growing interest in both commerce and alchemy, the latter of which would eventually become one of her lifelong pursuits.
+At the age of fourteen, Rietta accompanied her parents on a temporary relocation from Lyntoa Village to the capital of the [[Merastel]]. During her stay, she developed a growing interest in both commerce and alchemy, the latter of which would eventually become one of her lifelong pursuits.
 
 Rietta frequently visited a local apothecary, where she became fascinated by the preparation of medicinal compounds and the practical applications of alchemy. Although the discipline could be studied and practiced regardless of an individual's essence affinities, those possessing a greater affinity for the [[The Aurelants#The Convergence|Convergence]] often demonstrated an advantage in the manipulation and refinement of materials. Eager to further her understanding, Rietta eventually sought and obtained an apprenticeship under one of the establishment's practicing alchemists.
 
@@ -78,9 +79,9 @@ Intrigued by the proposal, the blacksmith accepted the commission and began deve
 
 During this period, an examination conducted by the kingdom's physicians confirmed that Rietta possessed an exceptionally high concentration of the [[The Aurelants#The Navigator|Navigator's]] essence, leading to her recognition as an Ascendant associated with the Navigator.
 
-At the request of her parents, the results of the examination were kept confidential until the family's eventual return to [[Galaderyn]]. Their decision was largely motivated by the social hierarchy of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]], where individuals officially recognized as Ascendants of the Navigator were automatically elevated to the status of **sovereign elves**, irrespective of their previous standing.
+At the request of her parents, the results of the examination were kept confidential until the family's eventual return to [[Galaderyn]]. Their decision was largely motivated by the social hierarchy of the [[Ferros Republic]], where individuals officially recognized as Ascendants of the Navigator were automatically elevated to the status of [[Ferros Republic#Sovereign Elves|sovereign elves]], irrespective of their previous standing.
 
-For the Aschlera family, whose standing had previously been that of **industrious elves**, Rietta's recognition represented a considerable advancement in social status and economic opportunity. The privileges afforded to sovereign elves would provide the family with greater influence within elven society, particularly in the pursuit of their commercial interests.
+For the Aschlera family, whose standing had previously been that of [[Ferros Republic#Hearthward Elves|hearthward elves]], Rietta's recognition represented a considerable advancement in social status and economic opportunity. The privileges afforded to sovereign elves would provide the family with greater influence within elven society, particularly in the pursuit of their commercial interests.
 
 ## Appearance
 
@@ -110,7 +111,7 @@ Despite her seemingly carefree attitude, Rietta is considerably more cautious th
 In commercial affairs, Rietta demonstrates a markedly different side of her personality. Drawing upon her upbringing in a merchant family and her extensive experience in trade, she approaches negotiations with considerable cunning and a keen understanding of her counterparts' interests. While generally accommodating toward individual clients, she is notably more assertive when dealing with larger commercial enterprises, seeking to secure the most advantageous terms possible without unnecessarily jeopardizing future relationships. Throughout such dealings, she maintains her characteristic friendliness, often concealing the full extent of her calculations behind an amiable smile.
 
 > [!commentary] Kallie Myrai, Head Archivist  
-> Following the fall of [[Stalwryn Kingdom|Stalwryn]] during the [[Cicatri Emigration]], Rietta continued to display the cheerful and approachable demeanor for which she had long been known. To most, she appeared remarkably unchanged, greeting acquaintances with her familiar enthusiasm and maintaining an almost unwavering sense of optimism. Those who knew her more closely, myself included, gradually came to recognize how much of that cheerfulness concealed the grief of losing so many people dear to her.
+> Following the fall of [[Merastel|Stalwryn]] during the [[Cicatri Emigration]], Rietta continued to display the cheerful and approachable demeanor for which she had long been known. To most, she appeared remarkably unchanged, greeting acquaintances with her familiar enthusiasm and maintaining an almost unwavering sense of optimism. Those who knew her more closely, myself included, gradually came to recognize how much of that cheerfulness concealed the grief of losing so many people dear to her.
 > 
 > In the centuries that followed, Rietta rarely spoke of her personal struggles, even among those she considered close friends. There were occasions when I suspected she wished to confide in someone, only to dismiss the matter with a smile or steer the conversation elsewhere. I cannot claim to know everything she endured during those years, nor would I presume that her outward happiness was entirely insincere. It was simply difficult to watch someone so accustomed to comforting others become so reluctant to accept that same kindness herself.
 > 
@@ -131,7 +132,7 @@ In commercial affairs, Rietta demonstrates a markedly different side of her pers
 ### Arcana
 Rietta is an exceptionally accomplished practitioner of arcana, specializing in the manipulation of water and its various physical states. As an Ascendant of the [[The Aurelants#The Navigator|Navigator]], she possesses a remarkable affinity for the manifestation and coordination of elemental forces, allowing her to perform complex techniques with a degree of precision and efficiency seldom achieved by conventional practitioners. Her mastery extends beyond the manipulation of individual elements, encompassing the intricate interactions between them and the sustained control of multiple manifestations simultaneously.
 
-To further refine her control over particularly demanding techniques, Rietta wields a custom-made staff presented to her by the senior manawards of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]]. The instrument serves as a focus for her Arcana, assisting with the concentration and regulation required for more elaborate invocations.
+To further refine her control over particularly demanding techniques, Rietta wields a custom-made staff presented to her by the senior manawards of the [[Ferros Republic]]. The instrument serves as a focus for her Arcana, assisting with the concentration and regulation required for more elaborate invocations.
 
 #### Tidal Weave
 
@@ -162,7 +163,7 @@ Rietta's aptitude for the [[The Aurelants#The Convergence|Convergence]] facilita
 A distinguishing feature of Rietta's approach is her emphasis on **preparation and versatility**. Unlike arcana performed directly in the field, alchemical preparations can be manufactured and stored in advance, allowing their effects to be employed without repeatedly performing the processes required for their creation. This has proven particularly advantageous in combat, where Rietta frequently relies on an assortment of specialized compounds to respond to changing circumstances.
 #### Aith Merillë
 
-Among Rietta's most recognizable possessions is **Aith Merillë**, a custom-built, long-range firearm designed to incorporate her alchemical preparations into its ammunition. Originally commissioned during her apprenticeship in the [[Stalwryn Kingdom]], the weapon has remained an integral part of her equipment, combining conventional marksmanship with the versatility of her alchemical expertise.
+Among Rietta's most recognizable possessions is **Aith Merillë**, a custom-built, long-range firearm designed to incorporate her alchemical preparations into its ammunition. Originally commissioned during her apprenticeship in the [[Merastel]], the weapon has remained an integral part of her equipment, combining conventional marksmanship with the versatility of her alchemical expertise.
 
 The rifle features a specialized mechanism that accommodates interchangeable vessels containing prepared compounds, allowing Rietta to impart different properties to its [[Catalog of Materials#Caladonic Steel|caladonic steel]] ammunition prior to discharge. These preparations enable a variety of effects, ranging from corrosive and incendiary reactions to localized freezing and temporary incapacitation. The weapon can also be disassembled into three principal components for transportation, allowing Rietta to carry it alongside her other alchemical equipment.
 
