@@ -69,6 +69,7 @@
     "@quartz-community/latex": "^1.0.2",
     "@quartz-community/note-properties": "^1.1.4",
     "@quartz-community/obsidian-flavored-markdown": "^2.2.0",
+    "@quartz-community/obsidian-plugin-excalidraw": "^1.1.1",
     "@quartz-community/og-image": "^1.1.1",
     "@quartz-community/ox-hugo": "^1.0.1",
     "@quartz-community/page-title": "^1.0.2",

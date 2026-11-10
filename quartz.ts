@@ -1,13 +1,12 @@
-import { RecentNotesOptions } from "@quartz-community/recent-notes"
-import { componentRegistry } from "./quartz/components/registry"
+import * as ExternalPlugin from "./.quartz/plugins"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 
-componentRegistry.setOptionOverrides("@quartz-community/recent-notes", {
+ExternalPlugin.RecentNotes({
   filter: (f) => {
     const slug = f.slug ?? ""
     return slug.startsWith("records/") && slug !== "records/index" && slug !== "records"
   },
-} as Partial<RecentNotesOptions>)
+} as Partial<ExternalPlugin.RecentNotesOptions>)
 
 const config = await loadQuartzConfig({})
 export default config
