@@ -18,11 +18,14 @@ You need these tools installed before continuing:
 > - **Windows**: When installing Git, make sure **"Git from the command line and also from 3rd-party software"** is selected so that `git` is available in your terminal. If `node -v` or `git -v` shows "command not found", restart your terminal or check your PATH.
 > - **macOS**: The Xcode command-line tools include Git (`xcode-select --install`). For Node.js, [nvm](https://github.com/nvm-sh/nvm) or the [official installer](https://nodejs.org/) both work.
 
+> [!tip] Using Bun
+> Quartz runs on Node.js, but you can install its dependencies with [Bun](https://bun.sh/) (`bun install`). Bun does not link a package's own commands the way npm does, so `bunx quartz` fails with "could not determine executable to run". Use `bun run quartz` instead, followed by the command, wherever these docs say `npx quartz`: `bun run quartz create`, `bun run quartz build --serve`.
+
 ## Setup Steps
 
 Follow these in order:
 
-1. **[[installation|Installation]]** — Get Quartz (via GitHub template or clone), install dependencies, run the setup wizard (`npx quartz create`), install plugins, and preview your site locally
+1. **[[installation|Installation]]** — Get Quartz (via GitHub template or clone), install dependencies, run the setup wizard (`npx quartz create`, which also installs plugins), and preview your site locally
 2. **[[authoring-content|Authoring Content]]** — Write and organize your Markdown notes in the `content/` folder
 3. **[[installation#Setting Up Your GitHub Repository|Push to GitHub]]** — Create a repository and push your site with `npx quartz sync`
 4. **[[hosting|Deploy]]** — Host your site for free on GitHub Pages, Cloudflare, Netlify, or Vercel

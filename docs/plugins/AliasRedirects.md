@@ -33,6 +33,8 @@ The emitter supports the following frontmatter fields:
 - `aliases`
 - `alias`
 
+A note with a `permalink` is published at its permalink, and its file path becomes a redirect as well: `notes/foo.md` with `permalink: foo` lives at `host.me/foo`, and `host.me/notes/foo` redirects there. An alias that is another page's address (or the page's own) is skipped with a warning, so a redirect never replaces a page.
+
 ### Case-Preserving Redirects
 
 Quartz v5 normalizes all URLs to lowercase. If you are migrating from v4 (which preserved the original casing), previously indexed URLs containing uppercase letters (e.g. `/Diary/My-Note`) would return 404 errors.
@@ -65,4 +67,4 @@ This plugin accepts the following configuration options:
 - Category: Emitter
 - Function name: `ExternalPlugin.AliasRedirects()`.
 - Source: [`quartz-community/alias-redirects`](https://github.com/quartz-community/alias-redirects)
-- Install: `npx quartz plugin add github:quartz-community/alias-redirects`
+- Install: `npx quartz plugin add @quartz-community/alias-redirects` (included in the default configuration)

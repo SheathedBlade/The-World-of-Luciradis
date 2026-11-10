@@ -8,9 +8,11 @@ Quartz was originally designed as a tool to publish Obsidian vaults as websites.
 
 By default, Quartz ships with the [[ObsidianFlavoredMarkdown]] plugin, which is a transformer plugin that adds support for [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown). This includes support for features like [[wikilinks]] and [[Mermaid diagrams]].
 
-It also ships with support for [frontmatter parsing](https://help.obsidian.md/Editing+and+formatting/Properties) with the same fields that Obsidian uses through the [[Frontmatter]] transformer plugin.
+Since ObsidianFlavoredMarkdown 2.0, Markdown renders as it does in Obsidian: by default (`preset: "legacy"`) it parses with Obsidian's own parser. This replaces the Markdown parser, so other plugins' syntax extensions are not used and only YAML frontmatter is recognized. Use `preset: "strict"` (CommonMark/GFM as specified plus Obsidian's syntax) for TOML (`+++`) frontmatter or plugins that add their own Markdown syntax. [[GitHubFlavoredMarkdown]] runs before it (order 30, then 40); if you set `order` for either plugin, keep GitHubFlavoredMarkdown first.
 
-Finally, Quartz also provides [[CrawlLinks]] plugin, which allows you to customize Quartz's link resolution behaviour to match Obsidian.
+It also ships with support for [frontmatter parsing](https://help.obsidian.md/Editing+and+formatting/Properties) with the same fields that Obsidian uses, [[built-in processing|built into Quartz]] ([[Frontmatter]], configured under `configuration.frontmatter`).
+
+Finally, Quartz's built-in [[CrawlLinks|link processing]] (`configuration.links`) lets you customize link resolution to match Obsidian.
 
 ## Supported Features
 
@@ -36,6 +38,10 @@ Inside tables, pipes in wikilinks can be escaped with a backslash:
 | --------------- |
 | [[page\|alias]] |
 ```
+
+### Line breaks
+
+A single line break inside a paragraph renders as a line break (`<br>`), as in Obsidian's default reading view. Set `strictLineBreaks: true` in the ObsidianFlavoredMarkdown options to join the lines with a space instead, like Obsidian's "Strict line breaks" setting. It defaults to `true` under `preset: "strict"`.
 
 ### Highlights
 
@@ -123,7 +129,7 @@ Each custom character is preserved as a `data-task` attribute on the rendered el
 
 ### Mermaid Diagrams
 
-[[Mermaid diagrams|Mermaid]] code blocks are rendered as diagrams:
+[[Mermaid diagrams|Mermaid]] code blocks render as diagrams. Default is Mermaid.js; set `diagramRenderer: pele` for [Pele](https://pele.run):
 
 ````markdown
 ```mermaid
@@ -196,10 +202,11 @@ By default, Obsidian does not render its Markdown syntax inside HTML blocks. Qua
 
 ### Footnotes
 
-Footnotes using the `[^1]` syntax are fully supported through the [[GitHubFlavoredMarkdown]] plugin:
+Footnotes using the `[^1]` syntax and inline footnotes (`^[…]`) are supported by the [[ObsidianFlavoredMarkdown]] plugin. Both are numbered in order; an undefined footnote reference shows its bare label, as in Obsidian:
 
 ```markdown
 Here is a sentence with a footnote.[^1]
+Here is one with an inline footnote.^[This is the inline footnote content.]
 
 [^1]: This is the footnote content.
 ```
@@ -208,16 +215,17 @@ Here is a sentence with a footnote.[^1]
 
 Quartz focuses on supporting Obsidian's core features. Functionality from Obsidian community plugins is handled by Quartz community plugins:
 
-| Obsidian Plugin | Quartz Support                                                                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dataview        | Supported via [Quartz Syncer](https://community.obsidian.md/plugins/quartz-syncer) — exports Dataview queries as static content during sync |
-| Excalidraw      | Supported via the `obsidian-plugin-excalidraw` community plugin                                                                             |
-| Leaflet Maps    | Supported via the `obsidian-plugin-leaflet` community plugin                                                                                |
-| Style Settings  | Supported via the `quartz-themes` community plugin                                                                                          |
+| Obsidian Plugin   | Quartz Support                                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dataview          | Supported via [Quartz Syncer](https://community.obsidian.md/plugins/quartz-syncer) — exports Dataview queries as static content during sync |
+| Excalidraw        | Supported via the [[ObsidianPluginExcalidraw\|obsidian-plugin-excalidraw]] community plugin                                                 |
+| Leaflet Maps      | Supported via the `obsidian-plugin-leaflet` community plugin                                                                                |
+| TTRPG Tools: Maps | Supported via the [[ObsidianPluginTtrpgToolsMaps\|obsidian-plugin-ttrpg-tools-maps]] community plugin                                       |
+| Style Settings    | Supported via the [[ThemesCore\|@quartz-themes/core]] plugin                                                                                |
 
 > [!tip]
 > As a general rule: Obsidian core features are supported by Quartz directly, while Obsidian community plugin features are supported by corresponding Quartz community plugins. Not all Obsidian community plugins will have Quartz equivalents, but popular ones are likely to be supported by the community.
 
 ## Configuration
 
-This functionality is provided by the [[ObsidianFlavoredMarkdown]], [[Frontmatter]] and [[CrawlLinks]] plugins. See the plugin pages for customization options.
+This functionality is provided by the [[ObsidianFlavoredMarkdown]] plugin and Quartz's built-in [[Frontmatter|frontmatter parsing]] and [[CrawlLinks|link processing]]. See those pages for customization options.

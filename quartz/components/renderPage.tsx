@@ -10,7 +10,7 @@ import {
 import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
 import { clone } from "../util/clone"
 import { Root, Element, ElementContent } from "hast"
-import { GlobalConfiguration } from "../cfg"
+import { GlobalConfiguration, SidebarModes } from "../cfg"
 import { i18n } from "../i18n"
 import { styleText } from "util"
 import { resolveFrame } from "./frames"
@@ -27,9 +27,29 @@ interface RenderComponents {
   right: QuartzComponent[]
   footer: QuartzComponent[]
   frame?: string
+  sidebars?: SidebarModes
 }
 
 const headerRegex = new RegExp(/h[1-6]/)
+
+/**
+ * Whether a heading answers to `id`: its own id, or the id of a `span.heading-alias` inside it.
+ * GitHubFlavoredMarkdown adds that alias when the anchor Obsidian writes for a heading (`:`, `|`,
+ * `^`, `#` and `\` become spaces) slugs differently, e.g. `![[note#Colon unspaced]]` for
+ * `## Colon:unspaced`.
+ */
+function headingHasId(heading: Element, id: string): boolean {
+  if (heading.properties?.id === id) return true
+  const hasAlias = (el: Element): boolean =>
+    el.children.some(
+      (child) =>
+        child.type === "element" &&
+        ((child.properties?.id === id &&
+          ([] as unknown[]).concat(child.properties?.className ?? []).includes("heading-alias")) ||
+          hasAlias(child)),
+    )
+  return hasAlias(heading)
+}
 export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
@@ -72,7 +92,16 @@ export function pageResources(
   })
 
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  // static/contentIndex.json is emitted by the content-index plugin, which may be disabled.
+  // Resolve to an empty index instead of rejecting so consumers (search, explorer, graph, …)
+  // degrade gracefully rather than throwing uncaught errors on every page.
+  const contentIndexScript =
+    `const fetchData = fetch("${contentIndexPath}")` +
+    `.then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json() })` +
+    `.catch(e => { console.warn("[Quartz] Could not load ${contentIndexPath} (" + e.message + "); is configuration.contentIndex disabled?"); return {} });` +
+    // Absolute URL of static/ (plugin assets live in static/plugins/<to>). Resolved once on the
+    // first page, so it stays valid across SPA navigations.
+    `window.quartzStaticUrl = new URL(${JSON.stringify(joinSegments(baseDir, "static") + "/")}, location.href).href`
 
   const resources: StaticResources = {
     css: [
@@ -221,7 +250,7 @@ export function renderTranscludes(
           const depth = Number(htmlEl.tagName.substring(1))
 
           if (startIdx === undefined || startDepth === undefined) {
-            if (htmlEl.properties?.id === blockRef) {
+            if (headingHasId(htmlEl, blockRef)) {
               startIdx = i
               startDepth = depth
             }
@@ -331,6 +360,7 @@ export function renderPage(
     right,
     footer,
     frame: frameName,
+    sidebars,
   } = components
   const Body = BodyConstructor()
   const frame = resolveFrame(frameName)
@@ -361,6 +391,7 @@ export function renderPage(
                 left,
                 right,
                 footer,
+                sidebars: { left: sidebars?.left ?? "fit", right: sidebars?.right ?? "fit" },
               }),
             ]}
           </Body>

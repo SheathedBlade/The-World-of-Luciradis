@@ -68,18 +68,39 @@ async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
   startLoading()
   p = p || new DOMParser()
-  const contents = await fetchCanonical(url)
-    .then((res) => {
-      const contentType = res.headers.get("content-type")
-      if (contentType?.startsWith("text/html")) {
-        return res.text()
-      } else {
-        window.location.assign(url)
-      }
-    })
-    .catch(() => {
-      window.location.assign(url)
-    })
+  // Where the page really came from: a redirect (e.g. `folder` → `folder/`, or an alias page's
+  // canonical link) changes the base its relative links resolve against, and the address bar
+  // should show it too. fetch() drops the #hash, so keep the requested one.
+  let finalUrl = url
+  // A page fetched ahead (prefetch.inline.ts) is shown at once; one still loading is awaited.
+  const prefetched = await window.quartzPrefetch?.load(url)
+  if (prefetched && prefetched.text === undefined) {
+    // not a page (e.g. a file served without an extension): let the browser open it
+    window.location.assign(url)
+    return
+  }
+  if (prefetched) {
+    finalUrl = new URL(prefetched.url)
+    finalUrl.hash = url.hash
+  }
+  const contents = prefetched
+    ? prefetched.text
+    : await fetchCanonical(url)
+        .then((res) => {
+          if (res.url) {
+            finalUrl = new URL(res.url)
+            finalUrl.hash = url.hash
+          }
+          const contentType = res.headers.get("content-type")
+          if (contentType?.startsWith("text/html")) {
+            return res.text()
+          } else {
+            window.location.assign(url)
+          }
+        })
+        .catch(() => {
+          window.location.assign(url)
+        })
 
   if (!contents) return
 
@@ -92,7 +113,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
-  normalizeRelativeURLs(html, url)
+  normalizeRelativeURLs(html, finalUrl)
 
   let title = html.querySelector("title")?.textContent
   if (title) {
@@ -129,7 +150,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses
   if (!isBack) {
-    history.pushState({}, "", url)
+    history.pushState({}, "", finalUrl)
   }
 
   notifyNav(getFullSlug(window))
