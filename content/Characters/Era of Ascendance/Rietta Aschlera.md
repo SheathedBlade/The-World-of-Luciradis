@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T07:43:56.5656-05:00
+modified: 2026-11-11T08:21:19.1919-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -16,7 +16,7 @@ comments: false
 >
 > **Rietta Aschlera**
 >
-> ![[rietta-portrait.png|Illustration by [@lucadark_art_](https://x.com/lucadark_art)|center]]
+> ![[rietta-portrait.webp|Illustration by [@lucadark_art_](https://x.com/lucadark_art)|center]]
 >
 > | | |
 > | ---: | :--- |
