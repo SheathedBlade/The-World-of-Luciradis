@@ -26,7 +26,7 @@ Lyntoa Village obtained its namesake from one of the first settlers of the villa
 
 ### Well of Dreams
 
-The **Well of Dreams** is the ritualistic structure built by its first settlers, as part of a contract with them and Stalwryn Varens, the first King of [[Merastel|Stalwryn]]. It is used for performing the [[Converging Terminus]] ritual, where the donor must die by throwing themselves into the well. The Well of Dreams would pluck the donor's soul from [[Stairs of Wanderlust|purgatory]] and send it to the receiving end, where the recipient would absorb the soul, curing the _Bloodied Terminus_ affliction and granting the recipient the _Gift of the Realm_ from the donor.
+The **Well of Dreams** is the ritualistic structure built by its first settlers, as part of a contract with them and Stalwryn Varens, the first King of [[Merastel|Stalwryn]]. It is used for performing the [[Rite of Continuance]] ritual, where the donor must die by throwing themselves into the well. The Well of Dreams would pluck the donor's soul from [[Stairs of Wanderlust|purgatory]] and send it to the receiving end, where the recipient would absorb the soul, curing the _Bloodied Terminus_ affliction and granting the recipient the _Gift of the Realm_ from the donor.
 
 > _// K.M. edit //_  
 > Since the Horizon's 19th, 5277 ASC, when the Converging Terminus ritual was last performed, the Well of Dreams have since gone unused, in no part due to the **fall of Stalwryn** years later, rendering the structure functionally useless. This is because of the late king of Stalwryn's untimely death, where he had left no children, thus ending the Varens bloodline.

@@ -1,12 +1,12 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T07:01:26.2626-05:00
+modified: 2026-11-11T12:50:16.1616-05:00
 comments: false
 ---
 > [!archive] Historical Record
 > **Internal Census of the Stalwryn Kingdom**
 > 
-> Original record: Convergence's 20th, 5282 ASC  
+> Original record: Convergence's 20th, 5287 ASC  
 > Last revised: Horizon's 16th, 10110 ASC
 > 
 > *Revised and annotated by K. Myrai*
@@ -14,10 +14,10 @@ comments: false
 ## Basic Info
 
 - Full Name: Kallie Myrai
-- Age: 4,817 years\*
+- Age: 4,837 years\*
 - Gender: Female
 - Race: Feline [[Inhabitants of Luciradis#Terrakin|Terrakin]]
-- Date of Birth: 24th Day of the Axiom, from the Year 5268 ASC _(24/11/5268)_
+- Date of Birth: 24th Day of the Axiom, from the Year 5272 ASC _(24/11/5272)_
 - Date of Death: N/A
 - Place of Origin: [[Merastel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: [[Cerelicia]], [[Luciradis#Nova Ciel|Nova Ciel]]

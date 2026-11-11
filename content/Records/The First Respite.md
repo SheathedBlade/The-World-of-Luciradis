@@ -1,6 +1,6 @@
 ---
 created: 2023-10-13T20:27:21.2121-04:00
-modified: 2026-05-25T21:04:09.099-04:00
+modified: 2026-11-11T12:51:09.099-05:00
 description: Souls are wont to drift towards the luminescent gates that stands between them and their fate. However, on this day, the secretary chanced to glance at a new, weary soul. A soul whose presence defied the nature of life and death, looking in horror at the others in line.
 ---
 
@@ -132,7 +132,7 @@ I started walking into the light, my surroundings disappearing before me. I look
 
 ---
 
-_Date: XX/XX/5283 ASC_
+_Date: XX/XX/5288 ASC_
 
 It's hard to breathe. Something heavy was on top of me. In darkness, I blindingly started pushing against what seems like slabs of stone off of me. With all my strength and energy, I shoved the heaviest slabs off of my chest, and finally I was able to breathe in the cold, stale air.
 

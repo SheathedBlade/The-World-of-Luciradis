@@ -1,13 +1,13 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T08:21:44.4444-05:00
+modified: 2026-11-11T12:50:03.033-05:00
 description: Saria is the daughter of Orsilus of Azharel, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
 > [!archive] Historical Record
 > **Internal Census of the Stalwryn Kingdom**
 > 
-> Original record: Convergence's 20th, 5282 ASC  
+> Original record: Convergence's 20th, 5287 ASC  
 > Last revised: Horizon's 16th, 10110 ASC
 > 
 > *Revised and annotated by K. Myrai*

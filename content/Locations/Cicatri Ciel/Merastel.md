@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T14:40:47.4747-05:00
+modified: 2026-11-11T13:04:08.088-05:00
 description: Merastel was the royal capital and principal administrative center of the former Kingdom of Stalwryn, situated in the southern reaches of Cicatri Ciel. Distinguished by its imposing architecture, extensive fortifications, and longstanding traditions of craftsmanship, the city served as an important center of commerce, metallurgy, and royal authority.
 ---
 > [!archive] Geographical Reference
@@ -17,6 +17,8 @@ The capital occupied elevated terrain, with densely developed districts rising a
 Merastel was also renowned for its skilled artisans and specialized workshops, whose development benefited from the kingdom's proximity to [[Caladon Valley]] and the production of [[Catalog of Materials#Caladonic Steel|caladonic steel]]. Royal patronage supported metalworking, alchemical practice, and other technical disciplines, contributing to the city's reputation for craftsmanship and engineering.
 
 The city's prosperity was accompanied by an established social hierarchy and a strong sense of civic and national identity. Although commercial activity brought merchants and travelers from surrounding regions, prevailing attitudes toward foreign peoples and unfamiliar cultures could make Merastel an unwelcoming destination for outsiders.
+
+Merastel was popularly known as **the Emberlit City**, an epithet derived from the warm glow of its numerous forges, workshops, and hearths, which illuminated its ascending districts after sunset. Viewed from the surrounding countryside, these scattered lights formed a distinctive feature of the capital's skyline, contributing to its reputation among travelers and inhabitants alike.
 
 Merastel was ultimately devastated during the conflict involving Driardos and Luxor, bringing an end to its role as the kingdom's royal capital.
 
@@ -241,7 +243,7 @@ The fall of the capital resulted in the collapse of its central administrative i
 
 Residential neighborhoods, civic buildings, commercial establishments, and important military installations were affected by the destruction, leaving the former royal capital unable to continue its established functions.
 
-The last Internal Census of Stalwryn, conducted on Convergence's 20th, 5282 ASC remains an important historical source concerning individuals who lived within the kingdom before its fall.
+The last Internal Census of Stalwryn, conducted on Convergence's 20th, 5287 ASC remains an important historical source concerning individuals who lived within the kingdom before its fall.
 
 ### Legacy
 

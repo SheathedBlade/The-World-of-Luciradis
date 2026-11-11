@@ -7,7 +7,7 @@ comments: false
 > [!archive] Historical Record
 > **Internal Census of the Stalwryn Kingdom**
 > 
-> Original record: Convergence's 20th, 5282 ASC  
+> Original record: Convergence's 20th, 5287 ASC  
 > Last revised: Horizon's 16th, 10110 ASC
 > 
 > *Revised and annotated by K. Myrai*

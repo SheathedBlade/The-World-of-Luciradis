@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T21:01:35.3535-04:00
+modified: 2026-11-11T12:54:03.033-05:00
 comments: false
 ---
 
@@ -10,11 +10,11 @@ _Edited by the Independent Journal of Historians of Nova Ciel_
 ## Basic Info
 
 - Full Name: Leoris Charden Varens
-- Age: 74 years
+- Age: 78 years
 - Gender: Male
 - Race: Human
 - Date of Birth: 1st Day of the Reflection, from the Year 5210 ASC _(01/07/5210)_
-- Date of Death: 30th Day of the Navigator, from the Year 5284 ASC _(30/08/5284)_
+- Date of Death: 30th Day of the Navigator, from the Year 5288 ASC _(30/08/5288)_
 - Place of Origin: [[Merastel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: [[Information/Peoples & Societies/Factions/index#Monarchy of Stalwryn|Monarchy of Stalwryn]]
 - Height: 6'1''
