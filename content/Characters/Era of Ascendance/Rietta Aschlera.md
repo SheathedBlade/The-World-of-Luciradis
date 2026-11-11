@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T18:41:07.077-05:00
+modified: 2026-11-11T07:43:56.5656-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -16,7 +16,7 @@ comments: false
 >
 > **Rietta Aschlera**
 >
-> ![[rietta-portrait.png]]_Credit: @lucadark_art_
+> ![[rietta-portrait.png|Illustration by [@lucadark_art_](https://x.com/lucadark_art)|center]]
 >
 > | | |
 > | ---: | :--- |
@@ -85,7 +85,7 @@ For the Aschlera family, whose standing had previously been that of [[Ferros Rep
 
 ## Appearance
 
-![[rietta-refsheet.webp]]_Credit: @shouz140_
+![[rietta-refsheet.webp|Rietta Aschlera — Character reference sheet. Illustration by [@shouz140](https://x.com/shouz140)]]
 
 Rietta possesses the characteristic pointed ears and slender physique of the elven peoples of [[Galaderyn]], standing at approximately 170 centimeters in height. Her complexion is fair, and she retains a youthful appearance characteristic of the gradual aging of her race.
 
@@ -97,7 +97,7 @@ For more intricate alchemical work, Rietta employs a pair of distinctive **owl h
 
 Rietta is rarely seen without an assortment of alchemical instruments, prepared compounds, and other specialized equipment essential to her work. Among her possessions is a custom-made firearm designed to accommodate her alchemical preparations, which can be disassembled into three principal components for ease of transportation and quickly reassembled when necessary. She typically stores the weapon in an inconspicuous travel bag, alongside spare ammunition fashioned from [[Catalog of Materials#Caladonic Steel|caladonic steel]] and sealed vessels containing the various compounds employed in her work.
 
-![[Aith_Merille_1.webp]]_Credit: @MonsterOfSukeP_
+![[Aith_Merille_1.webp|Aith Merillë — General design, disassembled components, and specialized ammunition. Illustration by [@MonsterOfSukeP](https://x.com/MonsterOfSukeP)]]
 
 > [!commentary] Kallie Myrai, Head Archivist  
 > Although Rietta continues to favor her customary alchemist attire, she has developed a considerable interest in the contemporary fashion trends of [[Terystal]]. Her wardrobe has since expanded to include a variety of casual and formal garments, as well as more playful styles reflecting her personal tastes. She appears to take particular enjoyment in experimenting with new outfits, frequently adopting styles that have only recently entered popular fashion.
@@ -169,9 +169,9 @@ The rifle features a specialized mechanism that accommodates interchangeable ves
 
 Rietta employs Aith Merillë in both long-range and mid-range engagements, adapting her approach to the circumstances at hand. Her proficiency in marksmanship is complemented by her mastery of arcana, particularly **Tidal Weave** and **Fluid Decoy**, which allow her to disrupt enemy movements, establish advantageous firing positions, and coordinate attacks from multiple directions. Rather than relying exclusively on the rifle's destructive capabilities, she frequently uses its specialized ammunition to restrict opponents' options or bring confrontations to an end with minimal unnecessary violence.
 
-![[Aith_Merille_2.webp]]_Credit: @MonsterOfSukeP_
+![[Aith_Merille_2.webp|Structural details and alchemical loading mechanism. Illustration by [@MonsterOfSukeP](https://x.com/MonsterOfSukeP)]]
 
-![[Aith_Merille_3.webp]]_Credit: @MonsterOfSukeP_
+![[Aith_Merille_3.webp|Alchemical ammunition variants and accompanying equipment. Illustration by [@MonsterOfSukeP](https://x.com/MonsterOfSukeP)]]
 
 #### Alchemical Preparations
 

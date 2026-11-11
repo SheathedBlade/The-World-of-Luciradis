@@ -6,6 +6,12 @@
       "resolved": "https://github.com/SheathedBlade/content-meta.git",
       "commit": "f3c78c769c8b3b900597d1ac8c6338888ed015f4",
       "installedAt": "2026-11-11T01:09:54.634Z"
+    },
+    "quartz-image-captions": {
+      "source": "github:hyodoarch/quartz-image-captions",
+      "resolved": "https://github.com/hyodoarch/quartz-image-captions.git",
+      "commit": "4b80a1b4244f313494dd9a238176e0b5c56f9d6f",
+      "installedAt": "2026-11-11T12:08:58.196Z"
     }
   }
 }

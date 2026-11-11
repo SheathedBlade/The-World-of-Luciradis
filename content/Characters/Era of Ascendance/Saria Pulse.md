@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T18:41:41.4141-05:00
+modified: 2026-11-11T07:53:11.1111-05:00
 description: Saria is the daughter of Orsilus of Azharel, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
@@ -16,7 +16,7 @@ comments: false
 >
 > **Saria Pulse**
 >
-> ![[saria_terystal_portrait.png]]_Credit: @lucadark_art_
+> ![[saria_terystal_portrait.png|Illustration by [@lucadark_art_](https://x.com/lucadark_art)|center]]
 >
 > | | |
 > | ---: | :--- |
@@ -95,7 +95,7 @@ Following her induction into the Stalwryn Royal Guard, Saria quickly distinguish
 
 ## Appearance
 
-![[saria-refsheet.webp]]*Illustration by @8Ovjfg8YRwM7qXz*
+![[saria-refsheet.webp|Saria Pulse — Character reference sheet. Illustration by [@8Ovjfg8YRwM7qXz](https://x.com/8Ovjfg8YRwM7qXz)]]
 
 Despite her draconic heritage, Saria possesses a predominantly humanoid appearance, characterized by pale skin, long, flowing platinum-blonde hair with natural red highlights, and striking teal eyes. Her physique is athletic yet curvaceous, reflecting the physical conditioning acquired throughout her years of service in the Stalwryn Royal Guard.
 
@@ -119,7 +119,7 @@ Saria possesses the ability to assume a fully draconic form of formidable propor
 
 As the Ascendant of the [[The Aurelants#The Expanse|Expanse]], Saria's draconic wings exhibit a distinctive violet coloration, a characteristic consistent with ancient depictions of the Concept's power. When invoking **Shimmering Call** in this form, the violet coloration shifts to a brilliant gold. Saria then extends her wings to their full breadth, producing a striking display associated with the rallying power of the Expanse.
 
-![[shimmering_wings.webp]]_Credit: @Anderson_M0311_
+![[shimmering_wings.webp|Saria Pulse in her draconic form. Illustration by [@Anderson_M0311](https://x.com/Anderson_M0311)]]
 
 ## Personality
 

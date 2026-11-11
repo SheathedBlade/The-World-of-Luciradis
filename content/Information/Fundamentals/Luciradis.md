@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T18:34:19.1919-05:00
+modified: 2026-11-11T01:13:50.5050-05:00
 ---
 > [!archive] General Reference  
 > **Geography, History & Natural Sciences**
@@ -11,7 +11,7 @@ Luciradis is the world inhabited by numerous civilizations, cultures, and forms 
 
 The world is broadly divided into two major geographical regions: **[[Locations/Cicatri Ciel/index|Cicatri Ciel]]**, situated predominantly within the northern hemisphere, and **[[Locations/Nova Ciel/index|Nova Ciel]]**, situated within the southern hemisphere. Though each possesses distinct environments and histories, their civilizations have been connected through migration, cultural exchange, and the events that shaped Luciradis following the Scarring.
 
-## Etymologys
+## Etymology
 
 The name **Luciradis** derives from ancient linguistic elements associated with light and origins, commonly interpreted as _"Root of Light"_. Its meaning is traditionally associated with the creation of the world, although the precise circumstances surrounding its adoption remain uncertain.
 
@@ -44,6 +44,9 @@ The name _Nova Ciel_, roughly translated as _"New Sky"_, deliberately follows th
 The region had no universally recognized name among the arriving emigrants prior to their settlement.
 
 Over time, the establishment of permanent settlements contributed to the development of new communities and cultural identities, increasingly distinct from those of Cicatri Ciel.
+
+## Astronomy and Celestial Environment
+
 
 ## History
 

@@ -158,6 +158,23 @@ html {
       }
     }
 
+    .image-captions-figure {
+      margin-bottom: 1rem;
+      background: transparent;
+
+      .image-captions-caption {
+        margin-top: 0.2rem;
+        padding: 0;
+        background: transparent;
+
+        color: var(--gray);
+        font-size: 0.85rem;
+        font-style: normal;
+        line-height: 1.4;
+        text-align: center;
+      }
+    }
+
     .sidebar {
       padding-top: 3rem !important;
     }

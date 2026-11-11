@@ -81,6 +81,14 @@ plugins:
       enableVideoEmbed: true
       enableCheckbox: true
     order: 30
+  - source: github:hyodoarch/quartz-image-captions
+    enabled: true
+    options:
+      captionRegex: "^([^|]+)"
+      enableFilenamePlaceholders: true
+      enableCaptionMarkdown: true
+      enableCaptionWikilinks: true
+    order: 35
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
     order: 40
