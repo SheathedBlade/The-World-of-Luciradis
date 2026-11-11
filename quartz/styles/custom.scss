@@ -148,6 +148,14 @@ html {
       font-size: 0.825rem;
       line-height: 1.5;
       color: var(--gray);
+
+      .content-meta-item:not(:first-child) {
+        margin-inline-start: 1rem;
+      }
+
+      .content-meta-item:not(:last-child) {
+        margin-inline-end: 1rem;
+      }
     }
 
     .sidebar {

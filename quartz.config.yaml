@@ -270,7 +270,13 @@ plugins:
   - source: github:SheathedBlade/content-meta
     enabled: true
     options:
-      showComma: false
+      delimiter: " | "
+      items:
+        - type: created
+          prefix: "Created on "
+        - type: modified
+          prefix: "Updated on "
+        - type: readingTime
     layout:
       position: beforeBody
       priority: 20
