@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T19:23:32.3232-05:00
+modified: 2026-11-11T19:32:57.5757-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -47,7 +47,7 @@ comments: false
 
 ## Background
 
-> *"I should have died a very long time ago. Yet here I remain, watching the world move forward while everything I have ever known become footnotes in history.*
+> *"I should have died a very long time ago. Yet here I remain, watching the world move forward while everything I have ever known becomes a footnote in history.*
 > 
 > *I've lived longer than anyone should, witnessed wonders beyond imagination, and witnessed more suffering than I care to remember. For all the power I've been granted, I still cannot protect everything I hold dear.*
 > 
@@ -77,7 +77,7 @@ In 5277 ASC, Arzen became embroiled in the circumstances surrounding the [[Rite 
 
 The ritual was intended to treat a rare spiritual affliction known as _Soul Dissociation_, historically referred to as _the Waning_. The condition progressively weakened the connection between an individual's soul and physical body, eventually resulting in death if left untreated. Although conventional medicine and arcana could alleviate certain symptoms, neither offered a reliable means of reversing the condition during this period.
 
-The Rite of Continuance offered an extraordinary alternative. Through the sacrifice of a donor, the ritual transferred the deceased individual's soul to the afflicted recipient, reinforcing the connection between the recipient's soul and body. Its performance was exceptionally rare, with only a handful of attempts recorded throughout Stalwryn's history.
+The Rite of Continuance offered an extraordinary alternative. Through the sacrifice of a donor, the ritual transferred the the donor's soul to the afflicted recipient, reinforcing the connection between the recipient's soul and body. Its performance was exceptionally rare, with only a handful of attempts recorded throughout Stalwryn's history.
 
 The intended beneficiary was [[Karos Varens]], the only son of King [[Leoris Varens]] and heir to the Stalwryn throne. Arzen, then thirteen years of age, was forcibly selected to serve as the donor.
 
@@ -220,7 +220,7 @@ Arzen's proficiency allowed him to transition rapidly between offensive and defe
 
 His equipment reflected his preference for mobility and flexibility. During his service in the Stalwryn Royal Guard, Arzen wore a modified version of the institution's elite armor, constructed primarily from [[Catalog of Materials#Caladonic Steel|caladonic steel]]. By removing certain protective components, he sacrificed a degree of conventional coverage in exchange for greater freedom of movement.
 
-His primary armaments consisted of a caladonic steel longsword and shield, both incorporating enchantments that exhibited an unusual affinity with the [[The Aurelants#The Horizon|Horizon]]. These properties eventually allowed Arzen to manifest representations of his weapons through arcana, enabling him to summon or dismiss them without carrying their physical counterparts in a conventional manner.
+His primary armaments consisted of a caladonic steel longsword and shield, both incorporating specialized enchantments that complemented his martial capabilities. Arzen subsequently developed the ability to reproduce these weapons through **Wrought Reverie**, an unusual manifestation technique associated with his affinity for the [[The Aurelants#The Horizon|Horizon]]. This allowed him to summon their likenesses during combat without requiring the original armaments to be physically present.
 
 The combination of extensive martial training, extraordinary physical capabilities, and sophisticated defensive techniques made Arzen particularly effective in prolonged close-quarters engagements. Rather than relying upon his resilience solely to withstand attacks, he frequently employed it to sustain an otherwise difficult level of offensive pressure, advancing through hostile assaults and forcing opponents into increasingly unfavorable positions.
 
@@ -235,6 +235,7 @@ Rather than relying exclusively upon large-scale invocations, Arzen frequently e
 Although Arzen possesses the capacity to perform exceptionally demanding invocations, he generally favors techniques that complement his aggressive, close-quarters fighting style. His exceptional resilience allows him to withstand attacks that would ordinarily force other combatants to disengage, while his magical proficiency enables him to maintain pressure against opponents whose abilities exceed those of conventional soldiers.
 
 His inheritance of the [[The Aurelants#The Paragon|Paragon]] substantially enhanced these capabilities, although several of his unusual abilities cannot be explained through the Paragon's influence alone.
+
 #### Obsidian Might
 
 **Obsidian Might** is one of Arzen's most recognizable arcane techniques, allowing him to manifest and manipulate formations of an exceptionally durable black material resembling [[Catalog of Materials#Obsidian|obsidian]].
@@ -250,16 +251,33 @@ Although primarily employed offensively, Obsidian Might can also produce defensi
 The size, complexity, and number of simultaneous manifestations depend upon the magical energy and concentration devoted to sustaining them. Particularly elaborate formations or prolonged use of the technique place increasing demands upon Arzen, limiting his ability to maintain unrestricted control over the surrounding battlefield.
 
 ### Ascendant Abilities
+
+As the Ascendant of the [[The Aurelants#The Paragon|Paragon]], Arzen possesses extraordinary physical resilience and an exceptional capacity for bodily regulation, allowing him to sustain demanding martial and arcane techniques beyond the limitations of conventional practitioners.
+
+However, several of his most unusual capabilities cannot be attributed exclusively to the Paragon. His remarkable affinity for the [[The Aurelants#The Horizon|Horizon]], evident even before his formal inheritance of the Paragon's alluvia, has enabled manifestations whose properties extend considerably beyond those ordinarily associated with his recognized Authority.
+
+The capabilities documented below encompass both abilities associated with his status as an Ascendant and extraordinary manifestations subsequently identified through historical investigation.
+
 #### Soul Discernment
 
-While this source is, at best, unreliable, we must nevertheless document it. Arzen tells us that he is able to _"sense"_ the souls near him. How he describes it is that, by being near other people, he is able to sense not only their presence, but ascertain their identity. This would be, in no doubt, useful as a tool for surveillance.
+**Soul Discernment** is an unusual perceptual ability that allows Arzen to recognize and distinguish the spiritual presences of living individuals and certain deceased persons whose souls continue to linger within the physical world.
 
-We believe that this is his supposed _Gift of the Realm_ that was supposed to be passed on to the late prince [[Karos Varens]]. It would naturally explain the otherworldliness of this ability, as well as his unnatural instinct to
+According to Arzen, the ability first manifested following the failed [[Rite of Continuance]] in 5277 ASC, initially presenting as indistinct impressions and voices that he struggled to interpret. Over time, these experiences developed into a more coherent form of spiritual perception, allowing him to recognize individual souls and, under suitable circumstances, perceive their manifestations directly.
 
-> _// K.M. edit //_  
-> This power goes even beyond living beings with a soul. It also allows Arzen to see souls of the deceased that cling onto the realm of the living. This corroborates with the fact that he personally knows _Karos_ without, seemingly, ever meeting him.
->
-> This also corroborates his once-deteriorating mental state, as Arzen frequently came face-to-face with souls of the past, however vague or detailed he may remember them.
+Unlike ordinary sensory awareness, Soul Discernment does not depend exclusively upon visible or audible characteristics. Arzen can distinguish familiar spiritual presences even when their physical appearances or surrounding circumstances would otherwise make identification difficult.
+
+Its most notable documented manifestation was his prolonged companionship with the lingering soul of [[Karos Varens]], whose presence remained imperceptible to most other individuals.
+
+Although Soul Discernment has practical applications in detecting nearby spiritual presences and recognizing individuals, its precise limitations remain uncertain. The ability does not necessarily provide Arzen with knowledge of another person's thoughts, intentions, or memories.
+
+The origins of Soul Discernment have remained a subject of considerable interest among researchers of arcanics. Its manifestation preceded Arzen's inheritance of the Paragon's alluvia, suggesting that its extraordinary properties cannot be attributed exclusively to his status as an Ascendant.
+
+> [!commentary] Kallie Myrai, Head Archivist  
+> Early Stalwryn accounts regarded Arzen's descriptions of Soul Discernment with considerable skepticism, particularly his claims of continued companionship with the deceased Prince Karos Varens.
+> 
+> Subsequent investigations have established that his perception extends beyond the souls of living individuals to include spiritual remnants that continue to linger within the physical world.
+> 
+> Although the ability has proven invaluable under certain circumstances, it has also exposed Arzen to considerable psychological distress, particularly when confronted with the lingering souls of individuals who perished during events in which he was personally involved.
 
 #### Spiritbonding
 
@@ -284,7 +302,9 @@ The effectiveness of Spiritbonding depends upon the compatibility of the individ
 
 **Vitalic Fervor** is a term applied to episodes of extraordinary physical and magical overexertion observed in Arzen, during which the combined influence of his Aurelant affinities produces a state of heightened combat performance accompanied by progressively diminished self-restraint.
 
-The phenomenon is particularly associated with the interaction between the [[The Aurelants#The Paragon|Paragon]]'s influence over bodily regulation and the [[The Aurelants#The Lifeline|Lifeline]]'s Authority over vitality. By sustaining physical exertion beyond ordinarily tolerable limits, Arzen can continue fighting despite extensive injuries and exhaustion, while the restorative influence of the Lifeline partially compensates for the resulting physiological damage.
+The phenomenon is particularly associated with the interaction between the Paragon's influence over bodily regulation and the [[The Aurelants#The Lifeline|Lifeline]]'s Authority over vitality. By sustaining physical exertion beyond ordinarily tolerable limits, Arzen can continue fighting despite extensive injuries and exhaustion, while the restorative influence of the Lifeline partially compensates for the resulting physiological damage.
+
+The phenomenon appears to have developed following Arzen's acquisition of additional Lifeline alluvia during his resistance against Luxor, and no comparable manifestation has been conclusively identified in records predating Stalwryn's destruction.
 
 Unlike a conventional invocation, Vitalic Fervor does not constitute a distinct technique that Arzen consciously activates. Rather, it emerges under circumstances of extreme exertion, frequently exacerbated by intense psychological distress. His already aggressive fighting style may consequently become increasingly reckless, with his determination to overcome an opponent taking precedence over considerations of personal safety and restraint.
 
@@ -296,7 +316,7 @@ The phenomenon has been documented most frequently in connection with Arzen's pe
 
 **Wrought Reverie** is an unusual manifestation technique associated with Arzen's affinity for the [[The Aurelants#The Horizon|Horizon]], allowing him to produce tangible objects through the direct application of arcana. Although its underlying mechanisms remain poorly understood, the technique enables Arzen to manifest a variety of physical objects without requiring their constituent materials to be present in the surrounding environment.
 
-Its most frequent application involves the manifestation of weapons and defensive equipment. Arzen can readily summon his customary longsword and shield, modeled after the armaments he employed during his service in the Stalwryn Royal Guard, alongside an assortment of alternative weapons suited to different combat situations.
+Its most frequent application involves the manifestation of weapons and defensive equipment. Arzen can readily summon his customary longsword and shield, modeled after the original armaments he retained from his service in the Stalwryn Royal Guard, alongside an assortment of alternative weapons suited to different combat situations.
 
 Unlike conventional weapon storage, Wrought Reverie allows Arzen to summon and dismiss equipment as circumstances demand. This capability enables him to transition between different armaments during combat, adapting his approach without the encumbrance of carrying an extensive arsenal. His familiarity with multiple weapon disciplines further complements this versatility.
 
