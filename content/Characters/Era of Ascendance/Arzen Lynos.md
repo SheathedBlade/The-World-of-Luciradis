@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T12:49:32.3232-05:00
+modified: 2026-11-11T19:23:32.3232-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -21,7 +21,7 @@ comments: false
 > | Age | 4,847 years |
 > | Gender | Male |
 > | Race | [[Inhabitants of Luciradis#Human\|Human]] |
-> | Date of Birth | Axiom's 24th, 5263 ASC _(24/11/5263)_ |  
+> | Date of Birth | Radiant's 17th, 5263 ASC _(17/10/5263)_ |  
 > | Birthplace | [[Lyntoa Village]] |
 > | Allegiance | None |
 > | Height | 5'11'' / 180cm |
@@ -181,26 +181,75 @@ Their subsequent service would also see Arzen inherit the powers of the [[The Au
 
 ## Personality
 
+During his youth, Arzen was characterized by an outgoing, adventurous, and generally easygoing disposition. He possessed a natural curiosity toward unfamiliar places and peoples, frequently seeking opportunities to explore beyond the boundaries of his immediate surroundings. His approachable manner and willingness to engage with others allowed him to establish friendships with relative ease, while his playful sense of humor often manifested through teasing, sarcasm, and occasional mischief.
+
+Despite his generally carefree demeanor, Arzen could be impulsive and stubborn, particularly when confronted with circumstances he regarded as unjust. He demonstrated a strong inclination to intervene on behalf of others, even when doing so placed him at considerable personal risk. This tendency was frequently accompanied by an unwillingness to reconsider decisions once he had committed himself to a particular course of action.
+
+Arzen placed considerable importance on the relationships he formed, demonstrating deep loyalty toward those he regarded as friends and companions. Although typically forthcoming with his thoughts and emotions, he was considerably less inclined to discuss matters concerning his own well-being. When faced with personal difficulties, he often resorted to humor or reassurance, preferring to dismiss concerns rather than impose his troubles upon others.
+
+Following the destruction of Stalwryn, these qualities became sources of considerable personal turmoil. Arzen's inability to prevent the loss of his companions and the kingdom he had come to regard as his home profoundly affected his outlook. His grief and anger occasionally overwhelmed his better judgment, driving him toward increasingly reckless and destructive decisions that stood in stark contrast to the compassion he had demonstrated during his youth.
+
+The centuries that followed were marked by repeated periods of emotional exhaustion, disillusionment, and profound despair. Although Arzen periodically regained a sense of purpose through new relationships and experiences, subsequent losses often threatened the fragile stability he had established. At several points throughout his prolonged existence, his convictions deteriorated into desperation, leaving him willing to contemplate actions he would ordinarily have condemned.
+
+Despite these episodes, Arzen never entirely relinquished his attachment to the world or the people within it. His underlying curiosity, compassion, and desire for companionship endured, although they were frequently obscured by an increasingly guarded and withdrawn demeanor. Rather than maintaining an unwavering belief that circumstances would improve, Arzen's continued resistance to his imposed fate reflected a more fundamental refusal to accept that suffering and loss should determine the entirety of his existence.
+
+> [!commentary] Kallie Myrai, Head Archivist  
+> It is difficult to reconcile the young man described in the original Stalwryn records with the individual I have known throughout the subsequent eras. The passage of several millennia has understandably altered his disposition, and I have seldom encountered anyone so thoroughly exhausted by the burden of their own existence.
+> 
+> I would be doing him a disservice, however, if I suggested that he has endured these experiences without faltering. There have been occasions when his grief and desperation have driven him toward decisions that endangered not only himself, but others as well. Some of these actions remain difficult to reconcile with the compassion for which he was once known.
+> 
+> Nevertheless, I would hesitate to suggest that the person he once was has entirely disappeared. His humor, curiosity, and concern for others remain evident, though he expresses them far less readily than he did in his youth.
+> 
+> Perhaps the most persistent quality of Arzen's character is his unwillingness to relinquish what he holds dear. Whether this should be regarded as an admirable conviction or a profound personal failing depends greatly upon the circumstances. In his case, I have witnessed it become both.
+
 ## Expertise
 
-### Physical Combat
+### Martial Combat
 
-Before Arzen came to the [[Merastel]], he used to sport a **double-ended glaive** cobbled together with rudimentary materials such as sharpened stone and wood. Even with such primitive materials, Arzen was unusually adept with the weapon, and has proven to us his hunting skills. By [[Leoris Varens|King Varens]]' order, the finest blacksmith forged a much stronger version of Arzen's glaive, made with lightest and sharpest steel combined with a more practical grip infused with elven magicks. This version allows Arzen to split the glaive in half, and dual-wield two longswords.
+Arzen is a highly accomplished combatant whose proficiency encompasses a variety of martial disciplines, particularly the use of bladed weapons and shields. Although his later reputation was primarily associated with sword-and-shield combat, his earliest experience with weaponry developed through hunting and exploration during his childhood in [[Lyntoa Village]].
 
-Despite this, however, Arzen refused to use the new glaive, instead opting to learn the **way of the sword and shield**. While we had no comment from the boy himself, [[Saria Pulse|Saria]] tells us it's because Arzen wanted repay the debt he owes to the King for saving him. Coincidentally, it is for the very same reason that Saria pursues the path of a lancer vanguard. She notes, however, that there may be a time where Arzen's time as a knight would come to an end, and the debt to the King be fulfilled. When that time comes, Arzen may return to using the glaive and continue his journey outside the Kingdom.
+Before entering the service of the Stalwryn Royal Guard, Arzen favored a double-ended glaive fashioned from rudimentary materials, including wood and sharpened stone. Despite its relatively crude construction, he demonstrated considerable aptitude in wielding the weapon, developing an unconventional fighting style that emphasized reach, maneuverability, and rapid transitions between offensive movements.
 
-Arzen was passed down the remaining remnants of the [[The Aurelants#The Paragon|Paragon]] through King Varens, and thus was made its Ascendant. Its power had manifested such that it bestowed Arzen complete mastery over his body, allowing it to use even the most taxing of magicks. Naturally, this power also gives Arzen access to the most powerful defensive magicks. Our scholars still do not know why Arzen had developed such blessings from being the Paragon's Ascendant, though we can only guess that something from his past triggered this extreme change.
+Following his introduction to King Varens, Arzen was presented with a considerably more sophisticated version of his original glaive, commissioned from the kingdom's finest smiths. Constructed from high-quality steel and incorporating specialized enchantments of elven origin, the weapon featured a detachable central mechanism that allowed it to separate into two independently wielded blades.
 
-During his time with the knights, Arzen wears a stripped-down version of the elite knight's armor, opting for more maneuverability and flexibility in combat. The elite knight's armor, for reference, is constructed using [[Catalog of Materials#Caladonic Steel|caladonic steel]] with varying layers of metal plates. Despite this, the armor molds to the shape of the wearer. Arzen also uses a caladonic steel longsword and a caladonic steel shield laced with magicks that bear striking similarity with that of the [[The Aurelants#The Horizon|Horizon]]. He mostly uses the magic within to materialize the sword and shield out of nowhere, as if wishing it into existence. With both the Paragon's power and our rigorous knight training, Arzen proves a formidable warrior with his offensive and defensive capabilities.
+Despite receiving this equipment, Arzen subsequently devoted much of his military training to the traditional sword-and-shield disciplines practiced by the Stalwryn Royal Guard. According to Saria, his decision was motivated partly by a desire to honor the king's generosity through faithful service. Nevertheless, Arzen retained his familiarity with the glaive, regarding the weapon as a reminder of his earlier travels and the freedom he had once sought.
 
-### Magical Combat
+As a knight, Arzen developed an aggressive fighting style characterized by sustained offensive pressure and the close integration of his sword and shield. Rather than employing his shield exclusively for protection, he frequently used it to deliver forceful strikes, disrupt an opponent's balance, and create openings for subsequent attacks. His approach incorporated techniques derived from conventional shield combat alongside more unconventional combinations developed through practical experience.
 
-Arzen's magicks are on levels never before seen by those chosen by the Paragon. Boasting both offensive and defensive magicks, Arzen's arsenal trumps all those who call themselves mages in the current era. Below are Arzen's currently known spells:
+Arzen's proficiency allowed him to transition rapidly between offensive and defensive movements, frequently using his shield to intercept an attack while simultaneously advancing upon his opponent. By combining forceful shield strikes with precise swordsmanship, he could maintain pressure throughout an engagement, limiting opportunities for adversaries to recover or establish a defensive position.
 
+His equipment reflected his preference for mobility and flexibility. During his service in the Stalwryn Royal Guard, Arzen wore a modified version of the institution's elite armor, constructed primarily from [[Catalog of Materials#Caladonic Steel|caladonic steel]]. By removing certain protective components, he sacrificed a degree of conventional coverage in exchange for greater freedom of movement.
+
+His primary armaments consisted of a caladonic steel longsword and shield, both incorporating enchantments that exhibited an unusual affinity with the [[The Aurelants#The Horizon|Horizon]]. These properties eventually allowed Arzen to manifest representations of his weapons through arcana, enabling him to summon or dismiss them without carrying their physical counterparts in a conventional manner.
+
+The combination of extensive martial training, extraordinary physical capabilities, and sophisticated defensive techniques made Arzen particularly effective in prolonged close-quarters engagements. Rather than relying upon his resilience solely to withstand attacks, he frequently employed it to sustain an otherwise difficult level of offensive pressure, advancing through hostile assaults and forcing opponents into increasingly unfavorable positions.
+
+Although this approach proved highly effective, Arzen's willingness to commit himself to dangerous engagements occasionally left him vulnerable to opponents capable of exploiting his aggression. This tendency became particularly pronounced when his emotional state compromised his judgment, leading him to disregard risks that he would otherwise have recognized.
+
+### Arcana
+
+Arzen possesses exceptional proficiency in the practice of arcana, demonstrating considerable aptitude in both offensive and defensive applications. His abilities are particularly notable for their versatility and the degree to which he incorporates magical techniques into conventional martial combat.
+
+Rather than relying exclusively upon large-scale invocations, Arzen frequently employs arcana to supplement his physical attacks, reinforce his defenses, and manipulate the surrounding battlefield. His approach emphasizes maintaining offensive momentum, allowing him to employ magical constructs and protective enhancements without substantially interrupting his movements.
+
+Although Arzen possesses the capacity to perform exceptionally demanding invocations, he generally favors techniques that complement his aggressive, close-quarters fighting style. His exceptional resilience allows him to withstand attacks that would ordinarily force other combatants to disengage, while his magical proficiency enables him to maintain pressure against opponents whose abilities exceed those of conventional soldiers.
+
+His inheritance of the [[The Aurelants#The Paragon|Paragon]] substantially enhanced these capabilities, although several of his unusual abilities cannot be explained through the Paragon's influence alone.
 #### Obsidian Might
 
-Tapping into the _Root of Earth_, Arzen is able to manifest and control extremely durable **blackstone** shards, or **[[Catalog of Materials#Obsidian|obsidian]]** in alchemist terms. Obsidian is normally a very fragile and brittle material, only used in crafting accessories and certain sharp weapons. However, through the Paragon's power, Arzen is able to draw, from the Root of Earth, the extremely durable properties of **[[Catalog of Materials#Caladon|caladon]]**, and infuse it into the obsidian, creating a material that is both virtually unbreakable and dangerously sharp.
+**Obsidian Might** is one of Arzen's most recognizable arcane techniques, allowing him to manifest and manipulate formations of an exceptionally durable black material resembling [[Catalog of Materials#Obsidian|obsidian]].
 
+Although conventional obsidian is valued for its sharp edges, its brittleness generally limits its effectiveness in applications requiring sustained resistance to impact. Arzen's manifested material differs considerably, exhibiting structural properties comparable to those of [[Catalog of Materials#Caladon|caladon]] while retaining the sharpness associated with volcanic glass.
+
+Unlike techniques that manipulate existing substances, Obsidian Might produces its material directly through arcana, allowing Arzen to employ it independently of the surrounding environment. He can shape these manifestations into numerous configurations, ranging from projecting shards and protruding spikes to reinforced barriers and larger structures.
+
+The technique is frequently employed to supplement Arzen's aggressive fighting style. By manifesting formations around an opponent, he can restrict their movements, disrupt defensive positions, or force them to contend with attacks originating beyond the reach of his sword. These applications allow Arzen to maintain pressure even when an adversary attempts to disengage from close-quarters combat.
+
+Although primarily employed offensively, Obsidian Might can also produce defensive formations capable of intercepting incoming attacks or providing temporary cover for nearby allies. Arzen frequently incorporates these structures into his movements, using them to create opportunities for further advances rather than remaining behind them.
+
+The size, complexity, and number of simultaneous manifestations depend upon the magical energy and concentration devoted to sustaining them. Particularly elaborate formations or prolonged use of the technique place increasing demands upon Arzen, limiting his ability to maintain unrestricted control over the surrounding battlefield.
+
+### Ascendant Abilities
 #### Soul Discernment
 
 While this source is, at best, unreliable, we must nevertheless document it. Arzen tells us that he is able to _"sense"_ the souls near him. How he describes it is that, by being near other people, he is able to sense not only their presence, but ascertain their identity. This would be, in no doubt, useful as a tool for surveillance.
@@ -214,15 +263,62 @@ We believe that this is his supposed _Gift of the Realm_ that was supposed to be
 
 #### Spiritbonding
 
-#### Blood Sacrifice
+**Spiritbonding** is an unusual manifestation of the Horizon's Authority through which Arzen establishes a spiritual connection with another individual, allowing him to temporarily access and express aspects of their inherent capabilities. Rather than transferring these abilities outright, spiritbonding establishes a connection through which their properties can be reproduced through Arzen's own physical and magical constitution.
 
-#### Wish of Existence
+The establishment of such a connection requires the conscious and voluntary consent of both participants. Once formed, the bond may persist independently of physical proximity, allowing Arzen to draw upon the shared capabilities without requiring the other individual to actively participate in each invocation. Either participant may voluntarily sever the connection, although manifestations already sustained through Spiritbonding do not necessarily cease immediately upon its termination.
 
-#### Sea of Flames
+Arzen can maintain multiple bonds simultaneously, with the capabilities accessible through each connection varying according to the individual involved. Although maintaining several established bonds does not necessarily demand continuous magical exertion, simultaneously manifesting different capabilities places increasing demands upon his concentration and magical reserves.
 
-> _// K.M. edit //_  
-> A terrifying invocation that has been discovered sifting through ancient texts, especially ones concerning **the Horizon**. In it shows a very vague illustration of the Horizon and a scenery full of flames, along with rocks falling from the heavens. That Arzen is able to use it shows extreme mastery over magic, but is also worrying.
+One of its most notable applications involves his connection with Saria, through which Arzen can access aspects of her draconic heritage. By drawing upon these capabilities, he can undergo a draconic transformation despite possessing no such ancestry himself. The resulting manifestation is not necessarily identical to Saria's own transformation, as the borrowed power is expressed through Arzen's unique constitution.
+
+The effectiveness of Spiritbonding depends upon the compatibility of the individuals involved and the complexity of the abilities being shared. Particularly demanding manifestations may impose considerable physical and spiritual strain, even upon an individual possessing Arzen's extraordinary resilience.
+
+> [!commentary] Kallie Myrai, Head Archivist  
+> Spiritbonding provides a particularly fascinating example of the Horizon's influence extending beyond the celestial phenomena with which its Authority is most commonly associated.
+> 
+> Although the establishment of a bond requires mutual consent, the connection does not necessarily guarantee that its capabilities will be employed in accordance with the wishes of both participants. I have witnessed circumstances in which Arzen's grief and desperation led him to employ powers entrusted to him in ways their original bearers would never have condoned.
+> 
+> Such incidents demonstrate that the limitations of spiritbonding are not exclusively magical. The responsibilities inherent to sharing power with another remain no less significant simply because the connection itself is supernatural.
+
+#### Vitalic Fervor
+
+**Vitalic Fervor** is a term applied to episodes of extraordinary physical and magical overexertion observed in Arzen, during which the combined influence of his Aurelant affinities produces a state of heightened combat performance accompanied by progressively diminished self-restraint.
+
+The phenomenon is particularly associated with the interaction between the [[The Aurelants#The Paragon|Paragon]]'s influence over bodily regulation and the [[The Aurelants#The Lifeline|Lifeline]]'s Authority over vitality. By sustaining physical exertion beyond ordinarily tolerable limits, Arzen can continue fighting despite extensive injuries and exhaustion, while the restorative influence of the Lifeline partially compensates for the resulting physiological damage.
+
+Unlike a conventional invocation, Vitalic Fervor does not constitute a distinct technique that Arzen consciously activates. Rather, it emerges under circumstances of extreme exertion, frequently exacerbated by intense psychological distress. His already aggressive fighting style may consequently become increasingly reckless, with his determination to overcome an opponent taking precedence over considerations of personal safety and restraint.
+
+Although Arzen's exceptional resilience and regenerative capabilities allow him to endure such episodes, they do not eliminate their consequences. Prolonged overexertion may result in severe physical exhaustion, impaired judgment, and substantial collateral damage, particularly when his extraordinary offensive abilities are employed without adequate restraint.
+
+The phenomenon has been documented most frequently in connection with Arzen's periods of profound grief and desperation. Nevertheless, its occurrence should not be understood as an inevitable response to emotional distress, nor does it independently account for the decisions he makes during such incidents.
+
+#### Wrought Reverie
+
+**Wrought Reverie** is an unusual manifestation technique associated with Arzen's affinity for the [[The Aurelants#The Horizon|Horizon]], allowing him to produce tangible objects through the direct application of arcana. Although its underlying mechanisms remain poorly understood, the technique enables Arzen to manifest a variety of physical objects without requiring their constituent materials to be present in the surrounding environment.
+
+Its most frequent application involves the manifestation of weapons and defensive equipment. Arzen can readily summon his customary longsword and shield, modeled after the armaments he employed during his service in the Stalwryn Royal Guard, alongside an assortment of alternative weapons suited to different combat situations.
+
+Unlike conventional weapon storage, Wrought Reverie allows Arzen to summon and dismiss equipment as circumstances demand. This capability enables him to transition between different armaments during combat, adapting his approach without the encumbrance of carrying an extensive arsenal. His familiarity with multiple weapon disciplines further complements this versatility.
+
+The accuracy and complexity of these manifestations depend partly upon Arzen's familiarity with the objects being reproduced. Equipment whose construction and properties he understands can be manifested with considerable precision, while unfamiliar or mechanically elaborate objects require greater concentration and magical expenditure.
+
+Manifested objects possess tangible physical properties and can remain in existence for a limited period without continuous conscious control. However, their persistence depends upon the magical energy invested in their creation, and maintaining numerous or particularly complex manifestations places increasing demands upon Arzen's reserves.
+
+Unlike **Obsidian Might**, which allows Arzen to actively manipulate formations of a specialized material, Wrought Reverie primarily concerns the creation of discrete, functional objects. Once manifested, these objects generally retain their established forms and properties until dismissed or otherwise destroyed.
+
+Although the technique offers considerable versatility, it does not constitute an unrestricted ability to create anything Arzen desires. The manifestation of living organisms or independent souls remains beyond its demonstrated capabilities, while the scale and complexity of objects he can reproduce are constrained by his knowledge and available magical energy.
+
+#### Skies Aflame
+
+> [!commentary] Kallie Myrai, Head Archivist
+> Among the abilities Arzen developed following the destruction of Stalwryn, few demonstrate his unusual affinity for the [[The Aurelants#The Horizon|Horizon]] as distinctly as **Skies Aflame**.
 >
-> When invoked, the sky darkens as flaming meteors pierce the clouds, and crashes onto the earth. Even with the destructive nature of this spell, Arzen consciously contains the spell to a certain, specified area. This invocation leaves the caster drained and exhausted, and Arzen is no exception. This one fact means that the spell duration would be very short, though that time linearly goes up as the reserves of the caster's mana increases.
+> Upon invocation, the surrounding sky darkens as innumerable burning celestial bodies manifest overhead, descending upon the designated region in successive waves. Their impacts produce tremendous destructive force and intense heat, with the resulting devastation capable of approaching the scale of a natural disaster.
 >
-> How did the Stalwryn Kingdom, with all their extensive testing, miss this? It clearly shows Arzen having an unusual amount of essence stemming from the Horizon! But how? Is Arzen also an Ascendant of the Horizon? He doesn't even seem to be aware of this fact...
+> The projectiles vary considerably in size and trajectory, allowing Arzen to concentrate their impacts upon particular locations or unleash a sustained bombardment across an extensive area. Under the latter circumstances, entire stretches of terrain may be rendered uninhabitable, with the combined effects of repeated impacts, widespread fires, and environmental destruction persisting long after the invocation has ceased.
+>
+> Despite its extraordinary destructive potential, Arzen retains the ability to regulate the region affected by the bombardment. Maintaining such precision requires considerable concentration, particularly when the invocation is sustained across a vast area. Its magical demands are similarly immense, leaving Arzen severely exhausted following prolonged use.
+>
+> The origin of the descending bodies remains uncertain. Although their characteristics resemble those of celestial objects, available observations do not establish whether they originate beyond Luciradis or are manifested directly through the Horizon's influence.
+>
+> The technique is absent from the original Stalwryn census, having emerged only after the kingdom's destruction. Its subsequent documentation provides compelling evidence of the extraordinary capabilities Arzen developed beyond those conventionally associated with his inheritance of the Paragon.
