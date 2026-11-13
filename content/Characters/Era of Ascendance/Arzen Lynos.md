@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T19:32:57.5757-05:00
+modified: 2026-11-13T16:58:01.011-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -20,14 +20,14 @@ comments: false
 > | Full Name | Arzen Lynos |
 > | Age | 4,847 years |
 > | Gender | Male |
-> | Race | [[Inhabitants of Luciradis#Human\|Human]] |
+> | Race | [[Inhabitants of Luciradis#Cerynth\|Cerynth]] |
 > | Date of Birth | Radiant's 17th, 5263 ASC _(17/10/5263)_ |  
 > | Birthplace | [[Lyntoa Village]] |
 > | Allegiance | None |
 > | Height | 5'11'' / 180cm |
 > | Weight | 165 lbs / 74 kg |
 > | Occupation | Former Royal Guardian of Stalwryn |
-> | Relationships | [[Saria Pulse]]: Significant other<br>[[Amara Illustros]]: Surrogate sister<br>[[Rietta Aschlera]]: Childhood friend<br>[[Karos Varens]]: Friend (deceased)<br>[[Kallie Myrai]]: Friend<br>[[Leoris Varens]]: Former sovereign<br>[[Erina Hayashi]]: Friend<br>[[Varant Illustros]]: Comrade<br>[[Altair Illustros]]: Comrade<br>[[Iris Riedel]]: Friend<br>[[Driardos Malairse]]: Arch-enemy |
+> | Relationships | [[Saria Pulse]]: Significant other<br>[[Amara Illustros]]: Surrogate sister<br>[[Rietta Aschlera]]: Childhood friend<br>[[Karos Varens]]: Friend (deceased)<br>[[Kallie Myrai]]: Friend<br>[[Leoris Varens]]: Former sovereign<br>[[Erina Hayashi]]: Friend<br>[[Varant Illustros]]: Comrade<br>[[Altair Illustros]]: Comrade<br>[[Iris Riedel]]: Friend<br>[[Driardos Myrkals]]: Arch-enemy |
 >
 > **Essence Profile**
 >
@@ -158,7 +158,7 @@ Despite these difficulties, Arzen quickly developed an appreciation for Merastel
 
 Their circumstances changed following an altercation involving several members of the Stalwryn Royal Guard.
 
-While traversing one of the city's commercial districts, Arzen and Saria encountered a young feline Terrakin girl, later identified as [[Kallie Myrai]], who was being subjected to harassment by a patrol of royal knights. The circumstances preceding the confrontation remain poorly documented, although surviving accounts suggest that the soldiers' conduct was motivated, at least in part, by prevailing prejudices against nonhuman inhabitants.
+While traversing one of the city's commercial districts, Arzen and Saria encountered a young [[Inhabitants of Luciradis#Feloran|Feloran]] girl, later identified as [[Kallie Myrai]], who was being subjected to harassment by a patrol of royal knights. The circumstances preceding the confrontation remain poorly documented, although surviving accounts suggest that the soldiers' conduct was motivated, at least in part, by prevailing prejudices against nonhuman inhabitants.
 
 Arzen intervened on Kallie's behalf, drawing the attention and hostility of the knights. Saria subsequently became involved when the soldiers directed similar remarks toward her draconic appearance. What began as a verbal confrontation escalated into violence, culminating in Arzen physically assaulting several members of the patrol.
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T21:28:01.011-04:00
+modified: 2026-11-13T17:11:25.2525-05:00
 comments: false
 ---
 
@@ -9,7 +9,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
 
 ## Basic Info
 
-- Full Name: Driardos Malairse
+- Full Name: Driardos Myrkals
 - Age: ???
 - Gender: Male
 - Race: [[Inhabitants of Luciradis#Luxori|Luxori]]

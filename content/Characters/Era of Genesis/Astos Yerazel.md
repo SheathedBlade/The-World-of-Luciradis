@@ -19,7 +19,7 @@ _Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. 
 - Weight:
 - Occupation:
 - Relationships:
-  - [[Driardos Malairse]]
+  - [[Driardos Myrkals]]
   - [[Lucian Demeri]]
 
 ## Background

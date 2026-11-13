@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-13T16:35:50.5050-05:00
+modified: 2026-11-13T17:05:42.4242-05:00
 ---
 > [!archive] General Reference
 > **Peoples of Luciradis**
@@ -47,7 +47,7 @@ The crystalline tissue contributes to the body's natural regulation of ambient a
 
 ### Luxori
 
-The **Luxori** are a human-derived population whose origins can be traced to the followers of the [[The Aurelants#The Radiant|Radiant]] during the Scarring. Through the willing augmentation of their bodies using the Aurelant's power, these individuals acquired distinct physiological characteristics and a natural affinity for light-based arcana. These alterations eventually became hereditary, giving rise to the Luxori as a recognizable population.
+The **Luxori** are a human-derived population whose origins can be traced to the followers of [[The Aurelants#The Radiant|the Radiant]] during the Era of Genesis. Through the willing augmentation of their bodies using the Aurelant's power, these individuals acquired distinct physiological characteristics and a natural affinity for light-based arcana. These alterations eventually became hereditary, giving rise to the Luxori as a recognizable population.
 
 All Luxori possess distinctive dark markings upon their bodies from birth. Their shape, arrangement, and distribution vary considerably between individuals, appearing principally across the torso and limbs, though they may also extend to the neck or face. The markings are neither uniform nor necessarily symmetrical.
 
