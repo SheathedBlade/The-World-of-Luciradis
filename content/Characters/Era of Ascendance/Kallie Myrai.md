@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T12:50:16.1616-05:00
+modified: 2026-11-13T16:16:43.4343-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -16,7 +16,7 @@ comments: false
 - Full Name: Kallie Myrai
 - Age: 4,837 years\*
 - Gender: Female
-- Race: Feline [[Inhabitants of Luciradis#Terrakin|Terrakin]]
+- Race: Feline [[Inhabitants of Luciradis#Feloran|Feloran]]
 - Date of Birth: 24th Day of the Axiom, from the Year 5272 ASC _(24/11/5272)_
 - Date of Death: N/A
 - Place of Origin: [[Merastel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
