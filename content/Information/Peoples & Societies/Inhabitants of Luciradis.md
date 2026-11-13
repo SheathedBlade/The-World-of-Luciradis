@@ -1,12 +1,13 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-13T16:16:12.1212-05:00
+modified: 2026-11-13T16:31:40.4040-05:00
 ---
 > [!archive] General Reference
 > **Peoples of Luciradis**
 > 
-> Last revised: Resonance's 4th, 9987 ASC
+> Last revised: Resonance's 4th, 9987 ASC  
 > 
+> Originally published by the Congregation of Academia, Luxor Citadel  
 > *Revised and maintained by Oracle's Vision*
 
 Luciradis is home to a diverse range of inhabitants whose origins and physiological characteristics reflect the world's long history of biological development and environmental change. While many share broadly humanoid appearances, considerable variation exists in their ancestry, physical traits, and adaptations.
@@ -35,21 +36,18 @@ Over successive eras, the emergence and proliferation of human derivatives and o
 
 The **Cerynths** are a human-derived population distinguished by the presence of crystalline tissue integrated into portions of their skin. These formations are generally flush with the surrounding surface or slightly raised, varying considerably in their shape, distribution, and extent.
 
->[!terminology]
->*Cerynth* is singular; *Cerynths* is plural.
-
 The crystalline tissue exhibits a diverse range of colors and degrees of translucency, comparable to the variation found among naturally occurring minerals. While some individuals display a predominant coloration, others possess formations exhibiting multiple hues.
 
 These characteristics are primarily hereditary, although environmental conditions are believed to influence their development and expression, particularly during early life. The Cerynths are thought to have emerged through gradual adaptation to environments influenced by ambient arcana, potentially including regions with substantial mineral deposits. Their precise geographic origins remain uncertain.
 
 The crystalline tissue contributes to the body's natural regulation of ambient arcana, helping maintain a stable interaction with the surrounding environment. Changes in ambient arcana may produce subtle variations in the tissue's coloration or translucency, although the extent of these responses differs between individuals. The precise mechanisms underlying this adaptation remain subjects of ongoing study.
 
+>[!terminology]
+>*Cerynth* is singular; *Cerynths* is plural.
+
 ### Luxori
 
 The **Luxori** are a human-derived population whose origins can be traced to the followers of the [[The Aurelants#The Radiant|Radiant]] during the Scarring. Through the willing augmentation of their bodies using the Aurelant's power, these individuals acquired distinct physiological characteristics and a natural affinity for light-based arcana. These alterations eventually became hereditary, giving rise to the Luxori as a recognizable population.
-
->[!terminology]
->*Luxori* is used for both singular and plural references.
 
 All Luxori possess distinctive dark markings upon their bodies from birth. Their shape, arrangement, and distribution vary considerably between individuals, appearing principally across the torso and limbs, though they may also extend to the neck or face. The markings are neither uniform nor necessarily symmetrical.
 
@@ -57,12 +55,16 @@ When invoking light-based arcana, these markings emit a vibrant golden radiance,
 
 The Luxori have maintained a longstanding association with **Luxor**, where their earliest communities became established under the influence of the Radiant.
 
-## Akumari
+>[!terminology]
+>*Luxori* is used for both singular and plural references.
+
+## Other Humanoid Races
+
+Beyond humans and their derivatives, Luciradis is home to several populations possessing broadly humanoid characteristics but differing considerably in ancestry and physiology. While their appearances may share certain similarities, their origins and evolutionary histories are distinct, and their classification together does not necessarily imply a common lineage.
+
+### Akumari
 
 The **Akumari** are a relatively uncommon humanoid population originating from the southern lands of Nova Ciel. Their ancestral homeland lies within the frigid mountains of Gokan, where numerous Akumari communities historically maintained a nomadic way of life.
-
->[!terminology]
->*Akumari* is used for both singular and plural references.
 
 Their most recognizable physical characteristic is a pair of horns extending from the head, present in every Akumari. The size, shape, and curvature of these horns vary between individuals, although darker coloration, including shades of black, brown, and deep red, is particularly common. Akumari physiology is also adapted to colder environments, exhibiting an enhanced capacity for retaining body heat. Nevertheless, prolonged exposure to extreme temperatures remains hazardous without appropriate protection.
 
@@ -73,7 +75,11 @@ Other Akumari communities remained in their ancestral territories, including tho
 >[!commentary] Kallie Myrai, Head Archivist
 >Although the Akumari are frequently associated with Gensōkyo through the history of the Reflection, this association represents only one branch of their broader history. Communities remaining in Gokan, particularly those around Ifuri, have preserved traditions that developed independently of their northern counterparts.
 
-## Elf
+>[!terminology]
+>*Akumari* is used for both singular and plural references.
+
+
+### Elf
 
 **Elves** are a long-lived humanoid population distinguished by their elongated ears and comparatively extended lifespans. Their physiology exhibits a particular sensitivity to ambient arcana, especially within environments where its natural concentrations are substantial.
 
@@ -85,7 +91,7 @@ The historical isolation of certain elven communities, particularly following th
 
 Although elves are frequently associated with the natural world and elemental arcana, their individual aptitudes, interests, and capabilities vary considerably.
 
-## Vyrian
+### Vyrian
 
 The **Vyrians** are a humanoid population descended from unions between humans and dragons. Such unions are believed to have been made possible through the influence of arcana, although the precise mechanisms governing their biological compatibility remain incompletely understood. Their origins can be traced to the birth of [[Saria Pulse]], daughter of Orsilus of Azharel and a human woman whose identity remains unknown. Born in 5263 ASC, Saria is recognized as the first known dragon-human hybrid.
 
@@ -104,6 +110,7 @@ Over successive generations, Vyrian communities became established throughout Lu
 Animal-derived races encompass several distinct populations whose ancestry can be traced to the fauna of Luciradis. Their emergence is believed to have involved the gradual development of sapience and increasingly humanoid characteristics over successive generations, influenced by both natural evolution and ambient arcana. Certain theories also attribute aspects of their early development to the influence of Genesis, although the extent of its involvement remains uncertain.
 
 Despite their varied ancestry, these populations generally possess humanoid appearances while retaining recognizable characteristics of their animal forebears. Their evolutionary histories are not necessarily shared, and similarities in appearance do not imply common origins or cultural identities.
+
 ### Feloran
 
 The **Felorans** are a feline-derived humanoid population whose ancestry can be traced to the native fauna of Luciradis. Their emergence is believed to have involved the gradual development of sapience and increasingly humanoid characteristics over successive generations, influenced in part by the world's ambient arcana.
@@ -118,25 +125,25 @@ Felorans are found throughout Luciradis, having developed communities across a v
 
 The **Kitsura** are a fox-derived humanoid population distinguished by their vulpine ears and bushy tails. Their predominantly humanlike appearances exhibit considerable variation in coloration and markings, reflecting the diversity of their ancestral lineages.
 
->[!terminology]
->*Kitsura* is used for both singular and plural references.
-
 Historical accounts place early Kitsura communities within the western territories of Cicatri Ciel, predating the establishment of [[Gensōkyo]]. The subsequent arrival of the [[Illusionists]] brought these communities into contact with the migrants who would establish the settlement. Over successive generations, their shared regional history contributed to the development of cultural ties, although the Kitsura retained their own traditions and identity.
 
 Over successive generations, Kitsura populations dispersed into other regions of Luciradis, establishing communities with distinct traditions and cultural practices. Their common ancestry and historical identity do not imply uniformity in their customs or social organization.
 
+>[!terminology]
+>*Kitsura* is used for both singular and plural references.
+
 ### Phlyra
 
 The **Phlyra** are an avian-derived humanoid population encompassing descendants of numerous ancestral bird lineages. Despite their varied origins, these lineages are collectively recognized under a common population designation.
-
->[!terminology]
->*Phlyra* is used for both singular and plural references.
 
 Phlyra possess predominantly humanoid appearances, distinguished by the presence of feathers and other subtle characteristics reflecting their avian ancestry. Plumage varies considerably in coloration, texture, and distribution, with formations commonly appearing around the hairline, shoulders, or other portions of the body. These characteristics may resemble those of various birds, including corvids, raptors, songbirds, and waterfowl.
 
 Unlike their avian ancestors, Phlyra lack wings and are incapable of natural flight. Their predominantly humanoid physiology reflects the gradual changes undergone by their ancestral lineages, although the precise course of their development remains incompletely understood.
 
 Phlyra communities are found throughout Luciradis, encompassing a variety of regional traditions and cultural identities. Their shared classification does not imply uniform ancestry beyond their broader avian origins.
+
+>[!terminology]
+>*Phlyra* is used for both singular and plural references.
 
 ## Other Intelligent Species
 
@@ -146,9 +153,6 @@ Not all intelligent inhabitants of Luciradis possess humanoid characteristics or
 
 **Dragons**, known among themselves as the **Hryverni**, are an intelligent extraterrestrial species whose origins lie beyond Luciradis. Although their presence has long been established throughout the world's history, they are not considered native to it. The designation _dragon_ originated among the inhabitants of Luciradis and subsequently became the common term used in interactions between draconic and nondraconic populations.
 
->[!terminology]
->_Hryvernus_ refers to an individual, while _Hryverni_ is the plural form. _Dragon_ remains the commonly used designation among other inhabitants of Luciradis.
-
 Hryverni possess immense, scaled bodies, powerful wings, and other distinctive draconic characteristics. Their physical appearances vary considerably between individuals and lineages, including differences in size, coloration, and other inherited features. They are also distinguished by their extraordinary longevity, with certain individuals surviving for several millennia.
 
 Hryverni are capable of assuming humanoid forms through specialized applications of arcana, although doing so requires considerable knowledge and proficiency. The ability is not universally practiced, and individuals vary in their capacity to achieve or sustain such transformations. Their natural draconic physiology remains their primary form.
@@ -156,3 +160,6 @@ Hryverni are capable of assuming humanoid forms through specialized applications
 Draconic society is organized into numerous clans, each possessing its own traditions, territories, and historical affiliations. Among the most prominent is the [[Brood of Azharel|Azharel clan]], whose ancestral territory lies within the [[Grandiose Peaks]] of western Cicatri Ciel. The clan derives its name from Azharel, the original bearer of the Expanse's Authority and one of the twelve Aurelants.
 
 Despite their considerable differences in physiology, the Hryverni have maintained relationships with other inhabitants of Luciradis throughout successive eras. These interactions eventually contributed to the emergence of the Vyrians, a humanoid population descended from dragon-human unions.
+
+>[!terminology]
+>_Hryvernus_ refers to an individual, while _Hryverni_ is the plural form. _Dragon_ remains the commonly used designation among other inhabitants of Luciradis.

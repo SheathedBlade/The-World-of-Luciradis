@@ -574,6 +574,57 @@ html {
       }
     }
 
+    &[data-callout="terminology"] {
+      margin: 0.85rem 0 1.25rem;
+      padding: 0.5rem 0 0.5rem 1rem;
+
+      background: transparent !important;
+      border: none !important;
+      border-left: 2px solid var(--secondary) !important;
+      border-radius: 0;
+      box-shadow: none;
+
+      > .callout-title {
+        padding: 0;
+        margin-bottom: 0.35rem;
+
+        color: var(--secondary) !important;
+        font-family: var(--headerFont);
+        font-size: 0.7rem;
+        font-weight: 600;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+
+        .callout-icon,
+        .fold-callout-icon {
+          display: none;
+        }
+
+        .callout-title-inner {
+          color: inherit;
+        }
+
+        p {
+          margin: 0;
+          color: inherit;
+          font: inherit;
+        }
+      }
+
+      > .callout-content {
+        padding: 0;
+
+        p {
+          margin: 0;
+          color: var(--darkgray);
+          font-family: var(--bodyFont);
+          font-size: 0.875rem;
+          font-style: normal;
+          line-height: 1.6;
+        }
+      }
+    }
+
     &[data-callout="dialogue-right"] {
       text-align: right;
       font-style: italic;
