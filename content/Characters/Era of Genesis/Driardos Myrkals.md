@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-13T17:11:25.2525-05:00
+modified: 2026-11-13T18:41:33.3333-05:00
 comments: false
 ---
 
@@ -12,7 +12,7 @@ _Horizon's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myra
 - Full Name: Driardos Myrkals
 - Age: ???
 - Gender: Male
-- Race: [[Inhabitants of Luciradis#Luxori|Luxori]]
+- Race: [[Inhabitants of Luciradis#Luxori|Luxori]] ||Human||
 - Date of Birth: 14th Day of the Seer, from the Year 63 BSC _(14/04/63 BSC)_
 - Date of Death: Horizon's 10th, 10110 ASC _(16/05/10110)_
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]

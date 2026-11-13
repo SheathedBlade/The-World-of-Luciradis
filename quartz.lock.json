@@ -12,6 +12,12 @@
       "resolved": "https://github.com/hyodoarch/quartz-image-captions.git",
       "commit": "4b80a1b4244f313494dd9a238176e0b5c56f9d6f",
       "installedAt": "2026-11-11T12:08:58.196Z"
+    },
+    "spoiler-text": {
+      "source": "github:SheathedBlade/spoiler-text",
+      "resolved": "https://github.com/SheathedBlade/spoiler-text.git",
+      "commit": "529cf1c845964cc641dc8301455a62bfac892927",
+      "installedAt": "2026-11-13T23:40:18.507Z"
     }
   }
 }

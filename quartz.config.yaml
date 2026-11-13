@@ -289,6 +289,10 @@ plugins:
       position: beforeBody
       priority: 20
       condition: not-index
+  - source: github:SheathedBlade/spoiler-text
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:
