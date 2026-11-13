@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-13T16:31:40.4040-05:00
+modified: 2026-11-13T16:35:50.5050-05:00
 ---
 > [!archive] General Reference
 > **Peoples of Luciradis**
@@ -68,7 +68,7 @@ The **Akumari** are a relatively uncommon humanoid population originating from t
 
 Their most recognizable physical characteristic is a pair of horns extending from the head, present in every Akumari. The size, shape, and curvature of these horns vary between individuals, although darker coloration, including shades of black, brown, and deep red, is particularly common. Akumari physiology is also adapted to colder environments, exhibiting an enhanced capacity for retaining body heat. Nevertheless, prolonged exposure to extreme temperatures remains hazardous without appropriate protection.
 
-During the Era of Genesis, a portion of the Akumari population migrated northward to Cicatri Ciel. Among these migrants were the followers of the [[The Aurelants#The Reflection|Reflection]], whose descendants would become associated with the Illusionists and the founding of [[Gensōkyo]].
+During the Era of Genesis, a portion of the Akumari population migrated northward to Cicatri Ciel. Among these migrants were those who accompanied the individual later known as the [[The Aurelants#The Reflection|Reflection]]. Their descendants would become associated with the Illusionists and the founding of [[Gensōkyo]].
 
 Other Akumari communities remained in their ancestral territories, including those that eventually developed into the settlement of [[Ifuri]]. Over successive generations, the geographical separation of these populations contributed to the development of distinct cultural traditions, despite their shared ancestry.
 
@@ -81,7 +81,7 @@ Other Akumari communities remained in their ancestral territories, including tho
 
 ### Elf
 
-**Elves** are a long-lived humanoid population distinguished by their elongated ears and comparatively extended lifespans. Their physiology exhibits a particular sensitivity to ambient arcana, especially within environments where its natural concentrations are substantial.
+**Elves** are a long-lived humanoid population distinguished by their elongated ears and comparatively extended lifespans. Their physiology also exhibits distinctive adaptations associated with the perception of ambient arcana.
 
 All elves possess an innate sensitivity to [[ambient arcana]], although its degree varies considerably between individuals. Traditionally described as an ability to _"hear"_ nature, this sensitivity allows them to perceive subtle fluctuations in their surroundings that might otherwise go unnoticed. The interpretation of these perceptions, however, requires knowledge and experience, and does not independently confer proficiency in elemental arcana.
 
@@ -127,10 +127,10 @@ The **Kitsura** are a fox-derived humanoid population distinguished by their vul
 
 Historical accounts place early Kitsura communities within the western territories of Cicatri Ciel, predating the establishment of [[Gensōkyo]]. The subsequent arrival of the [[Illusionists]] brought these communities into contact with the migrants who would establish the settlement. Over successive generations, their shared regional history contributed to the development of cultural ties, although the Kitsura retained their own traditions and identity.
 
-Over successive generations, Kitsura populations dispersed into other regions of Luciradis, establishing communities with distinct traditions and cultural practices. Their common ancestry and historical identity do not imply uniformity in their customs or social organization.
+Kitsura populations eventually dispersed into other regions of Luciradis, establishing communities with distinct traditions and cultural practices. Their common ancestry and historical identity do not imply uniformity in their customs or social organization.
 
 >[!terminology]
->*Kitsura* is used for both singular and plural references.
+>*Kitsura* is used for both singular and plural references. The designation originated within the population and remains its commonly accepted name.
 
 ### Phlyra
 
@@ -163,3 +163,9 @@ Despite their considerable differences in physiology, the Hryverni have maintain
 
 >[!terminology]
 >_Hryvernus_ refers to an individual, while _Hryverni_ is the plural form. _Dragon_ remains the commonly used designation among other inhabitants of Luciradis.
+
+## Further Reading
+
+The populations described in this reference represent only a portion of the biological diversity found throughout Luciradis. The influence of environmental conditions and ambient arcana upon living organisms is examined in greater detail in [[Arcane Ecology]].
+
+For information concerning wildlife, other nonsapient organisms, and their ecological relationships, consult the _Bestiary of Luciradis_.
