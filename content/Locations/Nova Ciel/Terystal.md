@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-15T13:47:54.5454-05:00
+modified: 2026-11-15T13:59:43.4343-05:00
 description: "Terystal: a fusion of modernity and tradition. Though the old, ancient structures were eventually replaced by towering high-rises, the customs and traditions of the Akumari thrive still, as its people, both Akumari and otherwise, strive to make the land, now known as Terystal, into the foremost technological capital of Nova Ciel."
 comments: false
 ---
@@ -28,6 +28,8 @@ The name **Terystal** traces its origins to the earliest permanent Akumari settl
 ## Geography and Urban Development
 
 Terystal occupies a broad river basin in eastern [[Locations/Nova Ciel/index|Nova Ciel]], extending along both banks of the Mōretsa River. The surrounding landscape consists of relatively low-lying terrain that gradually rises into hills toward the metropolitan outskirts. Flowing through the city's central districts, the river has shaped the distribution of its settlements and subsequent urban development. Residential communities, commercial centers, and transportation networks extend across the basin, with suburban settlements occupying much of the surrounding elevated terrain.
+
+![[fireworks_terystal.webp|Fireworks illuminating Terystal's metropolitan skyline at night. Illustration by [@Lufi_ays](https://x.com/lufi_ays)]]
 
 The city's earliest permanent settlements developed along the western bank of the Mōretsa, where remnants of traditional Akumari architecture remain interspersed among newer developments. Subsequent population growth and urban expansion gradually transformed Terystal into a densely developed metropolis, with much of its modern commercial and technological activity concentrated along the eastern bank. Towering high-rises, extensive transportation networks, and contemporary residential complexes characterize the central metropolitan area, while older neighborhoods retain elements of the city's historical identity. Beyond the urban core, development transitions into lower-density residential districts, suburban communities, and surrounding countryside.
 
@@ -102,6 +104,8 @@ Historic Akumari neighborhoods retain cultural institutions and gathering places
 ### Contemporary Society
 
 The arrival of migrants during the Cicatri Emigration substantially influenced Terystal's demographic and cultural development. Over successive generations, interactions between established Akumari communities and newcomers contributed to the emergence of a diverse metropolitan society, incorporating traditions and customs originating from different regions of Luciradis.
+
+![[night_market_terystal.webp|A traditional night market in Terystal, with modern high-rises visible beyond the stalls. Illustration by [@Lufi_ays](https://x.com/lufi_ays)]]
 
 This cultural diversity is particularly evident in Terystal's commercial and residential neighborhoods. Traditional markets and family-operated establishments coexist with contemporary shopping districts, entertainment venues, and modern residential developments. Local culinary traditions have likewise developed through the exchange of ingredients, preparation techniques, and dining customs among the city's inhabitants.
 
