@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-15T13:42:54.5454-05:00
+modified: 2026-11-15T13:47:54.5454-05:00
 description: "Terystal: a fusion of modernity and tradition. Though the old, ancient structures were eventually replaced by towering high-rises, the customs and traditions of the Akumari thrive still, as its people, both Akumari and otherwise, strive to make the land, now known as Terystal, into the foremost technological capital of Nova Ciel."
 comments: false
 ---
@@ -11,7 +11,7 @@ comments: false
 >
 > _Compiled and maintained by K. Myrai, Head Archivist of Oracle's Vision_
 
-_Terystal: a fusion of modernity and tradition. Along the banks of the Mōretsa River, the ancient Akumari nomads established what would become their final settlement. Following the Cicatri Emigration, travelers from that war-torn land have mingled with the locals, laying the foundations for a city that would eventually extend across both banks. Though the old, ancient structures have since given way to towering high-rises, the customs and traditions of the Akumari thrive still, as its people, both Akumari and otherwise, strive to make the land, now known as Terystal, into the foremost technological capital of Nova Ciel._
+_Terystal: a fusion of modernity and tradition. Along the banks of the Mōretsa River, the ancient Akumari nomads established what would become their final settlement. Following the Cicatri Emigration, travelers from that war-torn land mingled with the locals, transforming the settlement into a thriving center of commerce and cultural exchange. Though the old, ancient structures have since given way to towering high-rises, the customs and traditions of the Akumari thrive still, as its people, both Akumari and otherwise, continue to pursue their ambition of establishing Terystal into the foremost technological capital of Nova Ciel._
 
 _-- Kallie Myrai_
 
@@ -27,7 +27,7 @@ The name **Terystal** traces its origins to the earliest permanent Akumari settl
 
 ## Geography and Urban Development
 
-Terystal occupies a broad river basin in eastern [[Locations/Nova Ciel/index|Nova Ciel]], extending along both banks of the Mōretsa River. The surrounding landscape consists of relatively low-lying terrain that gradually rises into hills toward the metropolitan outskirts. The river flows through the city's central districts, serving as a defining geographical feature and an important influence on its historical development. Residential communities, commercial centers, and transportation networks extend across the basin, with suburban settlements occupying much of the surrounding elevated terrain.
+Terystal occupies a broad river basin in eastern [[Locations/Nova Ciel/index|Nova Ciel]], extending along both banks of the Mōretsa River. The surrounding landscape consists of relatively low-lying terrain that gradually rises into hills toward the metropolitan outskirts. Flowing through the city's central districts, the river has shaped the distribution of its settlements and subsequent urban development. Residential communities, commercial centers, and transportation networks extend across the basin, with suburban settlements occupying much of the surrounding elevated terrain.
 
 The city's earliest permanent settlements developed along the western bank of the Mōretsa, where remnants of traditional Akumari architecture remain interspersed among newer developments. Subsequent population growth and urban expansion gradually transformed Terystal into a densely developed metropolis, with much of its modern commercial and technological activity concentrated along the eastern bank. Towering high-rises, extensive transportation networks, and contemporary residential complexes characterize the central metropolitan area, while older neighborhoods retain elements of the city's historical identity. Beyond the urban core, development transitions into lower-density residential districts, suburban communities, and surrounding countryside.
 
@@ -39,7 +39,7 @@ The Mōretsa River waterfront forms one of Terystal's most recognizable public s
 
 The origins of Terystal can be traced to the ancient Akumari nomads, whose migrations across Nova Ciel eventually brought them to the banks of the Mōretsa River. The region's accessible waterways, fertile surroundings, and favorable conditions for permanent habitation encouraged the establishment of the settlement that would become modern Terystal.
 
-The settlers belonged to the Dreamweavers (_yumori-te_), a community whose traditions and practices centered upon the study and manipulation of dreams. Sharing their origins with the Illusionists, the Dreamweavers had remained in Nova Ciel following the separation of the two groups. As the community grew, its inhabitants gradually transitioned away from their nomadic way of life, establishing permanent residences, agricultural communities, and local institutions along the river. Many of the customs developed during this period would survive into the modern era, forming an important part of Terystal's cultural heritage.
+The settlers belonged to the Dreamweavers *(yumori-te)*, a community whose traditions and practices centered upon the study and manipulation of dreams. Sharing their origins with the Illusionists, the Dreamweavers had remained in Nova Ciel following the separation of the two groups. As the community grew, its inhabitants gradually transitioned away from their nomadic way of life, establishing permanent residences, agricultural communities, and local institutions along the river. Many of the customs developed during this period would survive into the modern era, forming an important part of Terystal's cultural heritage.
 
 Governance during this early period rested with a council of Akumari elders, who exercised communal authority over matters such as resource allocation, dispute resolution, and the preservation of cultural traditions. As the settlement became more permanent, the council's responsibilities expanded to accommodate the growing community. This system of governance would form the foundation of Terystal's later civic institutions, with aspects of the original council surviving into the modern era.
 
