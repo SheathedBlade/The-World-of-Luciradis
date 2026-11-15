@@ -1,7 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T12:20:12.1212-05:00
-draft: false
+modified: 2026-11-14T22:17:33.3333-05:00
 comments: false
 ---
 > [!archive] Historical Record
