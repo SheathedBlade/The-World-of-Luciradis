@@ -1,16 +1,19 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T16:38:37.3737-05:00
+modified: 2026-11-17T16:45:43.4343-05:00
 ---
 > [!archive] Historical Record
 > **The Aurelants**
+> 
+> Original record: Lifeline's 16th, 4870 ASC  
+> Last revised: Paragon's 3rd, 10100 ASC
 > 
 > *Originally published by the Congregation of Academia, Luxor Citadel*  
 > *Revised and annotated by Oracle's Vision*
 
 **The Aurelants** are twelve legendary figures whose actions have profoundly shaped the history of Luciradis. Each is associated with a distinct Authority, granting powers far beyond those ordinarily attainable through arcana. Although the precise circumstances surrounding their rise to power remain a subject of historical inquiry, the influence of the Aurelants persists through the alluvia dispersed during **the Sundering**.
 
-This alluvia is present within living beings and influences an individual's natural affinity for arcana associated with the corresponding Authorities. Its concentration varies considerably between individuals, with those possessing the greatest concentration of a particular alluvium recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
+These alluvia are present within living beings and influence an individual's natural affinity for arcana associated with their corresponding Authorities. Its concentration varies considerably between individuals, with those possessing the greatest concentration of a particular alluvium recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
 
 The relationship between the Aurelants, their Authorities, and the broader practice of arcana remains a principal subject of **arcanics**, the scientific discipline devoted to the systematic study of arcana and its associated phenomena. Over successive generations, scholars have sought to understand the distribution of these alluvia, the abilities they confer, and the circumstances through which their influence has endured.
 
@@ -41,13 +44,13 @@ Alluvia are remnants of the Authorities dispersed during the Sundering, now pres
 
 An individual may possess alluvia associated with multiple Authorities, each in varying concentrations. These concentrations influence their natural aptitude for related applications of arcana, with greater abundance generally allowing for more advanced or demanding manifestations. The distribution of alluvia differs considerably between individuals, contributing to the variation observed in their natural capabilities.
 
-While alluvia plays a significant role in determining aptitude, it does not independently confer mastery. The practice of arcana requires knowledge, training, and experience, and individuals with comparatively modest concentrations may nevertheless develop considerable proficiency through dedicated study. Conversely, a strong natural affinity does not guarantee effective application without the necessary understanding and discipline.
+While alluvia play a significant role in determining aptitude, it does not independently confer mastery. The practice of arcana requires knowledge, training, and experience, and individuals with comparatively modest concentrations may nevertheless develop considerable proficiency through dedicated study. Conversely, a strong natural affinity does not guarantee effective application without the necessary understanding and discipline.
 
 Arcana itself is not dependent upon the existence of the Aurelants or their alluvia. Its practice predates their rise to power, and the influence of alluvia is better understood as a factor affecting an individual's capabilities rather than the origin of arcana. The precise relationship between alluvia concentration and the full range of abilities attainable through arcana remains an active subject of research.
 
 ## Ascendance
 
-**Ascendant** is the title bestowed upon individuals recognized as possessing the greatest concentrations of a particular alluvium associated with a particular Aurelant. Such individuals commonly demonstrate exceptional aptitude for arcana related to their corresponding Authority, often exhibiting capabilities far beyond those of ordinary practitioners.
+**Ascendant** is the title bestowed upon individuals recognized as possessing the greatest concentration of alluvium associated with a given Aurelant. Such individuals commonly demonstrate exceptional aptitude for arcana related to their corresponding Authority, often exhibiting capabilities far beyond those of ordinary practitioners.
 
 The title of Ascendant is not permanent, nor does it represent a distinct state of existence. Should another individual surpass the current holder in the concentration of the corresponding alluvium, they may be recognized as the succeeding Ascendant. This transfer of title is commonly referred to as **dethronement** and does not, in itself, alter the abilities of either individual.
 
@@ -57,7 +60,7 @@ The capabilities exhibited by an Ascendant should not be mistaken for the full e
 
 ## Identification and Measurement
 
-The identification of Ascendants is made possible through specialized thaumaturgical apparatuses capable of detecting and measuring the presence and alluvia concentrations within an individual.
+The identification of Ascendants is made possible through specialized thaumaturgical apparatuses capable of detecting the presence of alluvia within an individual and measuring their respective concentrations.
 
 Such instruments are commonly found in medical facilities throughout [[Locations/Cicatri Ciel/index|Cicatri Ciel]], where they serve as an established means of assessing natural affinities for arcana and identifying individuals whose alluvia concentrations may qualify them for recognition as Ascendants.
 
