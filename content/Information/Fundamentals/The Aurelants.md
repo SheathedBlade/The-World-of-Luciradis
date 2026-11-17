@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T16:08:35.3535-05:00
+modified: 2026-11-17T16:38:37.3737-05:00
 ---
 > [!archive] Historical Record
 > **The Aurelants**
@@ -8,13 +8,13 @@ modified: 2026-11-17T16:08:35.3535-05:00
 > *Originally published by the Congregation of Academia, Luxor Citadel*  
 > *Revised and annotated by Oracle's Vision*
 
-**The Aurelants** are twelve legendary figures whose actions have profoundly shaped the history of Luciradis. Each is associated with a distinct Authority, granting powers far beyond those ordinarily attainable through arcana. Although the precise circumstances surrounding their rise to power remain a subject of historical inquiry, the influence of the Aurelants persists through the essences dispersed during **the Sundering**.
+**The Aurelants** are twelve legendary figures whose actions have profoundly shaped the history of Luciradis. Each is associated with a distinct Authority, granting powers far beyond those ordinarily attainable through arcana. Although the precise circumstances surrounding their rise to power remain a subject of historical inquiry, the influence of the Aurelants persists through the alluvia dispersed during **the Sundering**.
 
-These essences reside within living beings and influence an individual's natural affinity for arcana associated with their corresponding Authorities. Their concentrations vary considerably, with those possessing the greatest concentration of a particular essence recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
+This alluvia is present within living beings and influences an individual's natural affinity for arcana associated with the corresponding Authorities. Its concentration varies considerably between individuals, with those possessing the greatest concentration of a particular alluvium recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
 
-The relationship between the Aurelants, their Authorities, and the broader practice of arcana remains a principal subject of **arcanics**, the scientific discipline devoted to the systematic study of arcana and its associated phenomena. Over successive generations, scholars have sought to understand the distribution of these essences, the abilities they confer, and the circumstances through which their influence has endured.
+The relationship between the Aurelants, their Authorities, and the broader practice of arcana remains a principal subject of **arcanics**, the scientific discipline devoted to the systematic study of arcana and its associated phenomena. Over successive generations, scholars have sought to understand the distribution of these alluvia, the abilities they confer, and the circumstances through which their influence has endured.
 
-Despite considerable advances in this field, much about the Aurelants remains uncertain. While the properties of their surviving essences can be observed and measured, the full extent of their Authorities and the events that shaped their history have yet to be conclusively established.
+Despite considerable advances in this field, much about the Aurelants remains uncertain. While the properties of their surviving alluvia can be observed and measured, the full extent of their Authorities and the events that shaped their history have yet to be conclusively established.
 
 ## Origins and the Sundering
 
@@ -24,7 +24,7 @@ Following Genesis's defeat, the twelve came into possession of extraordinary pow
 
 Their unity, however, did not endure. Disagreements among the Aurelants eventually escalated into a prolonged conflict remembered as **[[The Scarring|the Scarring]]**, during which their extraordinary powers brought devastation across the world. The conflict was ultimately brought to an end through the intervention of **[[The Aurelants#The Creator|the Creator]]**, one of the twelve Aurelants, who enacted **the Sundering**.
 
-Through the Sundering, the Authorities of the other eleven Aurelants were divided into countless essences and dispersed throughout the world. The Creator alone remained unaffected, retaining their Authority. These dispersed essences would become the foundation of the relationship between the original Aurelants and the Ascendants who emerged in subsequent generations.
+Through the Sundering, the Authorities of the other eleven Aurelants were divided, their alluvia dispersed throughout the world. The Creator alone remained unaffected, retaining their Authority. This dispersed alluvia would become the foundation of the relationship between the original Aurelants and the Ascendants who emerged in subsequent generations.
 
 Although the broad sequence of these events is well established, surviving accounts differ in their interpretations of the Aurelants' intentions, the causes of the Scarring, and the circumstances surrounding its conclusion. Consequently, the events of this period remain subjects of continued historical examination.
 
@@ -37,72 +37,72 @@ Although the broad sequence of these events is well established, surviving accou
 
 ## Alluvia
 
-Alluvia are remnants of the Authorities dispersed during the Sundering, now present throughout living populations. Although their precise nature remains incompletely understood, their influence upon an individual's aptitude for arcana has been extensively documented. Each essence retains an association with its corresponding Authority, allowing its influence to be distinguished from that of others.
+Alluvia are remnants of the Authorities dispersed during the Sundering, now present throughout living populations. Although their precise nature remains incompletely understood, their influence upon an individual's aptitude for arcana has been extensively documented. The alluvium associated with each Authority retains distinct properties, allowing its influence to be distinguished from that of others.
 
-An individual may possess multiple essences in varying concentrations. These concentrations influence their natural aptitude for arcana associated with the corresponding Authorities, with greater abundance generally allowing for more advanced or demanding manifestations. The distribution of essence differs considerably between individuals, contributing to the variation observed in their natural capabilities.
+An individual may possess alluvia associated with multiple Authorities, each in varying concentrations. These concentrations influence their natural aptitude for related applications of arcana, with greater abundance generally allowing for more advanced or demanding manifestations. The distribution of alluvia differs considerably between individuals, contributing to the variation observed in their natural capabilities.
 
-While essence plays a significant role in determining aptitude, it does not independently confer mastery. The practice of arcana requires knowledge, training, and experience, and individuals with comparatively modest concentrations may nevertheless develop considerable proficiency through dedicated study. Conversely, a strong natural affinity does not guarantee effective application without the necessary understanding and discipline.
+While alluvia plays a significant role in determining aptitude, it does not independently confer mastery. The practice of arcana requires knowledge, training, and experience, and individuals with comparatively modest concentrations may nevertheless develop considerable proficiency through dedicated study. Conversely, a strong natural affinity does not guarantee effective application without the necessary understanding and discipline.
 
-Arcana itself is not dependent upon the existence of the Aurelants or their essences. Its practice predates their rise to power, and the influence of essence is better understood as a factor affecting an individual's capabilities rather than the origin of arcana. The precise relationship between essence concentration and the full range of abilities attainable through arcana remains an active subject of research.
+Arcana itself is not dependent upon the existence of the Aurelants or their alluvia. Its practice predates their rise to power, and the influence of alluvia is better understood as a factor affecting an individual's capabilities rather than the origin of arcana. The precise relationship between alluvia concentration and the full range of abilities attainable through arcana remains an active subject of research.
 
 ## Ascendance
 
-**Ascendant** is the title bestowed upon individuals recognized as possessing the greatest concentrations of an essence associated with a particular Aurelant. Such individuals commonly demonstrate exceptional aptitude for arcana related to their corresponding Authority, often exhibiting capabilities far beyond those of ordinary practitioners.
+**Ascendant** is the title bestowed upon individuals recognized as possessing the greatest concentrations of a particular alluvium associated with a particular Aurelant. Such individuals commonly demonstrate exceptional aptitude for arcana related to their corresponding Authority, often exhibiting capabilities far beyond those of ordinary practitioners.
 
-The title of Ascendant is not permanent, nor does it represent a distinct state of existence. Should another individual surpass the current holder in the concentration of the corresponding essence, they may be recognized as the succeeding Ascendant. This transfer of title is commonly referred to as **dethronement** and does not, in itself, alter the abilities of either individual.
+The title of Ascendant is not permanent, nor does it represent a distinct state of existence. Should another individual surpass the current holder in the concentration of the corresponding alluvium, they may be recognized as the succeeding Ascendant. This transfer of title is commonly referred to as **dethronement** and does not, in itself, alter the abilities of either individual.
 
-Although essence concentration is the principal criterion for Ascendance, it does not independently determine an individual's capabilities. Knowledge, training, experience, and personal aptitude influence how an individual's affinity manifests. Consequently, successive Ascendants associated with the same Authority may demonstrate substantially different abilities, despite sharing a common source of essence.
+Although alluvia concentration is the principal criterion for Ascendance, it does not independently determine an individual's capabilities. Knowledge, training, experience, and personal aptitude influence how an individual's affinity manifests. Consequently, successive Ascendants associated with the same Authority may demonstrate substantially different abilities, despite sharing a common source of alluvia.
 
-The capabilities exhibited by an Ascendant should not be mistaken for the full extent of the original Aurelant's Authority. While their exceptional concentrations of essence may permit extraordinary applications of arcana, they remain distinct from the powers once possessed by the original bearers.
+The capabilities exhibited by an Ascendant should not be mistaken for the full extent of the original Aurelant's Authority. While their exceptional alluvia concentrations may permit extraordinary applications of arcana, they remain distinct from the powers once possessed by the original bearers.
 
 ## Identification and Measurement
 
-The identification of Ascendants is made possible through specialized thaumaturgical apparatuses capable of detecting and measuring the presence and concentration of essences within an individual.
+The identification of Ascendants is made possible through specialized thaumaturgical apparatuses capable of detecting and measuring the presence and alluvia concentrations within an individual.
 
-Such instruments are commonly found in medical facilities throughout [[Locations/Cicatri Ciel/index|Cicatri Ciel]], where they serve as an established means of assessing natural affinities for arcana and identifying individuals whose essence concentrations may qualify them for recognition as Ascendants.
+Such instruments are commonly found in medical facilities throughout [[Locations/Cicatri Ciel/index|Cicatri Ciel]], where they serve as an established means of assessing natural affinities for arcana and identifying individuals whose alluvia concentrations may qualify them for recognition as Ascendants.
 
-The measurements obtained through these apparatuses allow physicians and scholars to distinguish between essences associated with different Authorities and evaluate their relative abundance within a subject. These findings provide an important basis for the documentation and recognition of Ascendants, as well as the maintenance of historical and contemporary records.
+The measurements obtained through these apparatuses allow physicians and scholars to distinguish between alluvia associated with different Authorities and evaluate their relative abundance within a subject. These findings provide an important basis for the documentation and recognition of Ascendants, as well as the maintenance of historical and contemporary records.
 
-Beyond their role in identifying exceptional individuals, essence measurements contribute to broader research within arcanics, particularly investigations into natural aptitude. Comparative observations allow scholars to examine variations in essence concentration and their relationship to the manifestations of arcana, providing valuable information for both theoretical and applied research.
+Beyond their role in identifying exceptional individuals, alluvia measurements contribute to broader research within arcanics, particularly investigations into natural aptitude. Comparative observations allow scholars to examine variations in alluvia concentration and their relationship to the manifestations of arcana, providing valuable information for both theoretical and applied research.
 
-The continued refinement of these instruments has substantially improved the precision and reliability of essence measurement. Nevertheless, their findings remain limited to the properties they are designed to observe. An assessment of essence concentration cannot, by itself, establish the full extent of an individual's knowledge, technical mastery, or capacity to manifest extraordinary abilities.
+The continued refinement of these instruments has substantially improved the precision and reliability of alluvia measurement. Nevertheless, their findings remain limited to the properties they are designed to observe. An assessment of alluvia concentration cannot, by itself, establish the full extent of an individual's knowledge, technical mastery, or capacity to manifest extraordinary abilities.
 
 > [!commentary] Kallie Myrai, Head Archivist
-> Although advances in arcanic instrumentation have substantially improved the precision of essence measurement, the interpretation of these findings remains an equally important consideration.
+> Although advances in arcanic instrumentation have substantially improved the precision of alluvia measurement, the interpretation of these findings remains an equally important consideration.
 > 
-> Essence concentration is a reliable indicator of an individual's natural affinity for a particular Authority, but it should not be mistaken for a comprehensive assessment of their capabilities. Both historical and contemporary observations demonstrate that exceptional mastery may arise from circumstances that conventional measurements cannot adequately account for.
+> Alluvia concentration is a reliable indicator of an individual's natural affinity for a particular Authority, but it should not be mistaken for a comprehensive assessment of their capabilities. Both historical and contemporary observations demonstrate that exceptional mastery may arise from circumstances that conventional measurements cannot adequately account for.
 
 ## Manifestations of Arcana
 
-The influence of essence upon arcana is not expressed uniformly among individuals. Although each essence is associated with a particular Authority, the abilities developed through that affinity may differ considerably in their form, application, and complexity.
+The influence of alluvia upon arcana is not expressed uniformly among individuals. Although each alluvium is associated with a particular Authority, the abilities developed through that affinity may differ considerably in their form, application, and complexity.
 
-These variations arise from the interaction between an individual's natural aptitude, accumulated knowledge, and personal understanding of arcana. Two practitioners possessing an affinity for the same Authority may therefore develop entirely different techniques, even when their essence concentrations are comparable.
+These variations arise from the interaction between an individual's natural aptitude, accumulated knowledge, and personal understanding of arcana. Two practitioners possessing an affinity for the same Authority may therefore develop entirely different techniques, even when their alluvia concentrations are comparable.
 
 For instance, an individual possessing an affinity for [[The Aurelants#The Radiant|the Radiant]] may specialize in the manipulation of light, while another may develop techniques involving heat or other forms of radiative energy. Both applications arise from the same underlying affinity, yet differ according to the practitioner's knowledge and chosen methods.
 
-Such diversity is particularly evident among Ascendants, whose exceptional essence concentrations may permit applications beyond those ordinarily attainable through arcana. Nevertheless, their abilities remain subject to individual interpretation and do not necessarily reproduce the techniques or capabilities of the original Aurelants.
+Such diversity is particularly evident among Ascendants, whose exceptional alluvia concentrations may permit applications beyond those ordinarily attainable through arcana. Nevertheless, their abilities remain subject to individual interpretation and do not necessarily reproduce the techniques or capabilities of the original Aurelants.
 
-The study of these manifestations remains essential to understanding the relationship between essence and arcana. Rather than defining a fixed collection of abilities, an individual's affinity establishes a range of possibilities whose practical expression depends upon their capacity to understand and apply them.
+The study of these manifestations remains essential to understanding the relationship between alluvia and arcana. Rather than defining a fixed collection of abilities, an individual's affinity establishes a range of possibilities whose practical expression depends upon their capacity to understand and apply them.
 
 > [!commentary] Kallie Myrai, Head Archivist
 > The classification of magical manifestations has proven invaluable to the study of arcana, though it inevitably simplifies the phenomena it seeks to describe.
 > 
-> During my travels, I encountered practitioners whose abilities differed considerably from those typically associated with their respective essences. While such exceptions do not necessarily invalidate established theory, they serve as a reminder that our classifications should remain open to revision as our understanding develops.
+> During my travels, I encountered practitioners whose abilities differed considerably from those typically associated with their respective alluvia. While such exceptions do not necessarily invalidate established theory, they serve as a reminder that our classifications should remain open to revision as our understanding develops.
 ## Social Significance
 
 The influence of the Aurelants extends beyond the study of arcana, having shaped religious traditions, political institutions, and cultural identities throughout the history of Luciradis. Their role in the defeat of Genesis and the subsequent events of the Scarring has inspired widely differing interpretations, ranging from reverence for their extraordinary achievements to condemnation of the devastation associated with their legacy.
 
-Ascendants, as individuals recognized for possessing exceptional concentrations of essence, occupy a similarly complex position within society. Their standing varies considerably between cultures and individuals, with some attaining positions of considerable influence while others remain relatively removed from public affairs. Although their capabilities may inspire admiration, suspicion, or fear, the title of Ascendant carries no inherent political or social authority.
+Ascendants, as individuals recognized for possessing exceptional concentrations of a particular alluvium, occupy a similarly complex position within society. Their standing varies considerably between cultures and individuals, with some attaining positions of considerable influence while others remain relatively removed from public affairs. Although their capabilities may inspire admiration, suspicion, or fear, the title of Ascendant carries no inherent political or social authority.
 
-The significance attributed to particular Authorities also varies between cultures and historical periods. Some traditions associate them with ideals or virtues, while others emphasize the dangers posed by the powers they represent. These interpretations have contributed to the development of distinct religious practices, historical narratives, and social expectations surrounding individuals associated with their essences.
+The significance attributed to particular Authorities also varies between cultures and historical periods. Some traditions associate them with ideals or virtues, while others emphasize the dangers posed by the powers they represent. These interpretations have contributed to the development of distinct religious practices, historical narratives, and social expectations surrounding individuals associated with their alluvia.
 
-In the modern era, advances in arcanics have encouraged a more systematic understanding of essence and arcana. Nevertheless, longstanding cultural beliefs remain influential, and the relationship between Ascendants and the societies in which they live continues to reflect both the historical legacy of the Aurelants and contemporary attitudes toward extraordinary power.
+In the modern era, advances in arcanics have encouraged a more systematic understanding of alluvia and arcana. Nevertheless, longstanding cultural beliefs remain influential, and the relationship between Ascendants and the societies in which they live continues to reflect both the historical legacy of the Aurelants and contemporary attitudes toward extraordinary power.
 
 ## The Twelve Aurelants
 
-Each of the twelve Aurelants came to possess a distinct Authority following the defeat of Genesis. These Authorities encompass extraordinary powers associated with different aspects of existence, and their surviving essences continue to influence the practice of arcana throughout Luciradis.
+Each of the twelve Aurelants came to possess a distinct Authority following the defeat of Genesis. These Authorities encompass extraordinary powers associated with different aspects of existence, and their surviving alluvia continue to influence the practice of arcana throughout Luciradis.
 
-The following entries provide an overview of each Authority, its known properties, and the abilities associated with its essence. While their general characteristics have been documented through historical accounts and the study of subsequent Ascendants, the full extent of the original Authorities remains incompletely understood.
+The following entries provide an overview of each Authority, its known properties, and the abilities associated with its alluvium. While their general characteristics have been documented through historical accounts and the study of subsequent Ascendants, the full extent of the original Authorities remains incompletely understood.
 
 ### The Creator
 
@@ -126,11 +126,11 @@ The Expanse's Authority encompasses **primal expression**, governing the instinc
 
 Historical accounts of the Scarring describe the original bearer as a dragon of immense proportions, possessing brilliant white scales and wings of a vibrant amethyst hue. Among the abilities attributed to the Expanse was an extraordinary awareness of nearby living creatures, extending to the perception of even the faintest heartbeat. The bearer was also said to possess an exceptional affinity with beasts of land, sea, and sky, rallying them during the conflicts that followed the downfall of Genesis.
 
-The Expanse has maintained a longstanding association with the [[Information/Peoples & Societies/Factions/index#Brood of Azharel|Brood of Azharel]], an ancient draconic lineage whose traditions center upon the preservation of its essence. Unlike the succession of many other Ascendants, the inheritance of the Expanse within this brood is governed by an established rite, through which its essence is transferred from one bearer to a designated successor.
+The Expanse has maintained a longstanding association with the [[Information/Peoples & Societies/Factions/index#Brood of Azharel|Brood of Azharel]], an ancient draconic lineage whose traditions center upon the preservation of its alluvium. Unlike the succession of many other Ascendants, the inheritance of the Expanse within this brood is governed by an established rite, through which its alluvium is transferred from one bearer to a designated successor.
 
 Prospective successors are expected to undergo a trial before participating in the ritual, a practice intended to ensure that the title of Ascendant remains within the lineage. Although the precise mechanisms of this rite remain closely guarded by the brood, its continued observance has enabled successive generations to preserve the title within their lineage.
 
-Despite its historical association with dragons, the Expanse is not inherently restricted to those of purely draconic ancestry. The recognition of Saria Pulse, an individual of [[Inhabitants of Luciradis#Vyrian|mixed human and draconic heritage]], as its current Ascendant demonstrates that its essence may be inherited and manifested by those of mixed lineage. Its manifestations encompass heightened instincts, physical enhancement, and the strengthening of natural affinities with other living beings, although their precise expression varies between individuals.
+Despite its historical association with dragons, the Expanse is not inherently restricted to those of purely draconic ancestry. The recognition of Saria Pulse, an individual of [[Inhabitants of Luciradis#Vyrian|mixed human and draconic heritage]], as its current Ascendant demonstrates that its alluvium may be inherited and manifested by those of mixed lineage. Its manifestations encompass heightened instincts, physical enhancement, and the strengthening of natural affinities with other living beings, although their precise expression varies between individuals.
 
 ### The Paragon
 
@@ -144,7 +144,7 @@ This commitment to protection, however, eventually gave way to retaliation. Foll
 
 In subsequent generations, the Paragon became particularly associated with defensive arcana, owing in part to the prominence of its Ascendants within the military traditions of Stalwryn. While these manifestations frequently emphasize exceptional durability, protective techniques, and the capacity to withstand otherwise overwhelming forces, they represent only a portion of the Authority's broader capabilities.
 
-The precise expression of the Paragon varies between individuals. Some Ascendants have demonstrated exceptional defensive proficiency, while others have exhibited extraordinary physical performance and resilience. Such differences illustrate the versatility of physical mastery and the influence of an individual's training, experience, and personal approach upon the manifestation of their essence.
+The precise expression of the Paragon varies between individuals. Some Ascendants have demonstrated exceptional defensive proficiency, while others have exhibited extraordinary physical performance and resilience. Such differences illustrate the versatility of physical mastery and the influence of an individual's training, experience, and personal approach upon the manifestation of their alluvium.
 
 ### The Seer
 
@@ -212,7 +212,7 @@ Beyond these maritime accounts, historical texts attribute considerable influenc
 
 The destruction associated with these events is often cited as a contributing factor in the increasing isolation of Galaderyn's elven communities. Over successive generations, this separation reinforced the development of distinct cultural traditions, particularly those concerned with the study and application of elemental arcana.
 
-The Navigator's essence has maintained a particularly strong association with elven society, with documented Ascendants predominantly belonging to elven lineages. Within the [[Ferros Republic]], individuals recognized as Ascendants of the Navigator are accorded the status of sovereign elves, irrespective of their previous standing. This distinction reflects the considerable importance attributed to elemental proficiency and the enduring influence of the Navigator upon elven society.
+The Navigator's alluvium has maintained a particularly strong association with elven society, with documented Ascendants predominantly belonging to elven lineages. Within the [[Ferros Republic]], individuals recognized as Ascendants of the Navigator are accorded the status of sovereign elves, irrespective of their previous standing. This distinction reflects the considerable importance attributed to elemental proficiency and the enduring influence of the Navigator upon elven society.
 
 Although its manifestations frequently involve mastery over a particular element, the Navigator's Authority is not confined to any single elemental discipline. Successive Ascendants may develop markedly different specializations, with some demonstrating exceptional command over water or atmospheric phenomena while others excel in different applications of elemental arcana. Such variations reflect the breadth of elemental flow and the influence of individual aptitude, training, and experience.
 
@@ -224,7 +224,7 @@ The Resonance's Authority encompasses **harmonic correspondence**, governing the
 
 Although the Resonance is recognized among the twelve Aurelants, relatively little is known about its original bearer. Surviving historical accounts provide few reliable descriptions of their actions during the Scarring, and the circumstances surrounding their involvement in the conflict remain largely undocumented.
 
-The Resonance's essence is understood to permit applications extending beyond the manipulation of sound alone. Through the understanding and regulation of compatible frequencies or patterns, practitioners may influence the behavior of physical materials, transmit disturbances across a medium, or alter the intensity of existing phenomena. Although its influence upon vibrations and harmonic interactions is well understood, the extent to which these principles may be applied to more complex phenomena remains an active subject of scholarly investigation.
+The Resonance's alluvium is understood to permit applications extending beyond the manipulation of sound alone. Through the understanding and regulation of compatible frequencies or patterns, practitioners may influence the behavior of physical materials, transmit disturbances across a medium, or alter the intensity of existing phenomena. Although its influence upon vibrations and harmonic interactions is well understood, the extent to which these principles may be applied to more complex phenomena remains an active subject of scholarly investigation.
 
 ### The Radiant
 
@@ -250,7 +250,7 @@ Despite the intellectual capabilities associated with the Authority, surviving a
 
 The distinction between the original bearer's modest beginnings and their later abilities remains an important part of the Axiom's historical legacy. Their pursuit of knowledge preceded the acquisition of an Authority, suggesting that the curiosity for which they became renowned was a characteristic of the individual rather than a consequence of their extraordinary powers.
 
-The Axiom's essence continues to influence the study, preservation, and interpretation of knowledge. Although its most recognizable manifestations concern memory and comprehension, the extent to which such abilities may permit the recovery, reconstruction, or interpretation of otherwise inaccessible information remains an active subject of scholarly investigation.
+The Axiom's alluvium continues to influence the study, preservation, and interpretation of knowledge. Although its most recognizable manifestations concern memory and comprehension, the extent to which such abilities may permit the recovery, reconstruction, or interpretation of otherwise inaccessible information remains an active subject of scholarly investigation.
 
 ### The Convergence
 
@@ -263,33 +263,33 @@ Historical accounts identify the original bearer as a master artisan, widely cre
 
 Despite the success of these endeavors, the artisan eventually departed to travel alongside a company of adventurers, leaving behind an extensive collection of blueprints, observations, and technical records. These materials would later form the foundations of a tradition of craftsmanship that endured long after the original bearer's departure.
 
-During the Scarring, the Convergence became renowned for the creation of extraordinary weapons and artifacts, including firearms, blades, and other implements whose properties exceeded those attainable through conventional methods. Several of these relics survive in historical collections, although the techniques employed in their construction have largely been lost. The ability to extract, combine, and refine the properties of existing materials nevertheless remains among the most recognizable manifestations of the Convergence's essence.
+During the Scarring, the Convergence became renowned for the creation of extraordinary weapons and artifacts, including firearms, blades, and other implements whose properties exceeded those attainable through conventional methods. Several of these relics survive in historical collections, although the techniques employed in their construction have largely been lost. The ability to extract, combine, and refine the properties of existing materials nevertheless remains among the most recognizable manifestations of the Convergence's alluvium.
 
 In the generations that followed the artisan's departure, their former apprentices carried these teachings throughout Cicatri Ciel. Their descendants and successors gradually established new centers of craftsmanship, adapting the original methods to emerging technologies while preserving portions of the knowledge entrusted to them.
 
 Although the Convergence is primarily associated with material transformation, the full extent of its Authority remains incompletely understood. Its applications demonstrate that synthesis need not be limited to the combination of physical substances, and that the properties of a resulting creation may differ considerably from those of its constituent materials.
 
 ---
-The registry is maintained as a reference to the twelve recognized Aurelants, their associated Authorities, and the documented manifestations of their surviving essences. It should not be regarded as an exhaustive account of the capabilities possessed by the original bearers or their subsequent Ascendants.
+The registry is maintained as a reference to the twelve recognized Aurelants, their associated Authorities, and the documented manifestations of their surviving alluvia. It should not be regarded as an exhaustive account of the capabilities possessed by the original bearers or their subsequent Ascendants.
 
 Individual character records may be consulted for more detailed examinations of documented Ascendants and their respective abilities and accomplishments.
 
 ## Scholarly Research
 
-The study of the Aurelants, their Authorities, and the essences dispersed during the Sundering has remained a significant field of scholarly inquiry throughout the Era of Ascendance and subsequent historical periods.
+The study of the Aurelants, their Authorities, and the alluvia dispersed during the Sundering has remained a significant field of scholarly inquiry throughout the Era of Ascendance and subsequent historical periods.
 
-During the Era of Ascendance, the **Congregation of Academia** contributed substantially to the classification and documentation of these phenomena. Its investigations established important foundations for understanding essence concentration, variations in natural aptitude for arcana, and the identification of Ascendants. The historical records and theoretical frameworks developed during this period continue to inform contemporary scholarship.
+During the Era of Ascendance, the **Congregation of Academia** contributed substantially to the classification and documentation of these phenomena. Its investigations established important foundations for understanding alluvia concentration, variations in natural aptitude for arcana, and the identification of Ascendants. The historical records and theoretical frameworks developed during this period continue to inform contemporary scholarship.
 
-The continued refinement of these principles has been supported by the **[[Luciradis Authority of Magical Sciences]] (LAMS)**, whose research, regulatory standards, and documentation practices have contributed to a more systematic understanding of essence and arcana.
+The continued refinement of these principles has been supported by the **[[Luciradis Authority of Magical Sciences]] (LAMS)**, whose research, regulatory standards, and documentation practices have contributed to a more systematic understanding of alluvia and arcana.
 
-Within LAMS, investigations into the fundamental properties of essence and its relationship with arcana are complemented by the work of its **Division of Applied Thaumaturgy & Physics**, which develops instruments and practical methods for observing and measuring these phenomena. The **Central Registry** maintains records of documented findings and recognized Ascendants, contributing to the preservation and accessibility of scholarly information.
+Within LAMS, investigations into the fundamental properties of alluvia and its relationship with arcana are complemented by the work of its **Division of Applied Thaumaturgy & Physics**, which develops instruments and practical methods for observing and measuring these phenomena. The **Central Registry** maintains records of documented findings and recognized Ascendants, contributing to the preservation and accessibility of scholarly information.
 
-Despite these advances, the existence of sophisticated measurement techniques and extensive historical records should not be mistaken for a complete understanding of the Aurelants or their Authorities. Questions concerning the precise nature of their powers, the mechanisms of the Sundering, and the full range of manifestations associated with their essences remain subjects of continued investigation.
+Despite these advances, the existence of sophisticated measurement techniques and extensive historical records should not be mistaken for a complete understanding of the Aurelants or their Authorities. Questions concerning the precise nature of their powers, the mechanisms of the Sundering, and the full range of manifestations associated with their alluvia remain subjects of continued investigation.
 
 As scholarship advances, established interpretations may require reconsideration in light of newly documented phenomena and previously inaccessible historical evidence. The continued examination of these findings remains essential to understanding the enduring influence of the Aurelants upon Luciradis.
 
 >[!commentary] Kallie Myrai, Head Archivist
->The accumulated scholarship of the Congregation of Academia and the institutions that followed represents an invaluable contribution to our understanding of the Aurelants and their surviving essences.
+>The accumulated scholarship of the Congregation of Academia and the institutions that followed represents an invaluable contribution to our understanding of the Aurelants and their surviving alluvia.
 >
 >Nevertheless, even the most enduring scientific classifications remain products of the evidence upon which they were founded. Their value lies not in their presumed infallibility, but in their capacity to be examined, challenged, and refined.
 >
