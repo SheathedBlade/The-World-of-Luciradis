@@ -1,9 +1,10 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-07T09:18:32.3232-05:00
-comments: false
+modified: 2026-11-17T16:08:35.3535-05:00
 ---
 > [!archive] Historical Record
+> **The Aurelants**
+> 
 > *Originally published by the Congregation of Academia, Luxor Citadel*  
 > *Revised and annotated by Oracle's Vision*
 
