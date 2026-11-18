@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-11T12:50:03.033-05:00
+modified: 2026-11-18T14:58:24.2424-05:00
 description: Saria is the daughter of Orsilus of Azharel, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Gensōkyo, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 comments: false
 ---
@@ -32,9 +32,9 @@ comments: false
 > | Occupation | Freelance Adventurer |
 > | Relationships | [[Arzen Lynos]]: Significant other<br>[[Kallie Myrai]]: Friend<br>[[Information/Peoples & Societies/Factions/index#Brood of Azharel\|Orsilus of Azharel]]: Father<br>[[Leoris Varens]]: Former employer of the Stalwryn Royal Guard<br>[[Erina Hayashi]]: Friend<br>[[Rietta Aschlera]]: Friend |
 >
-> **Essence Profile**
+> **Alluvia Profile**
 >
-> | **Aurelant** | **Essence Concentration**                       |
+> | **Aurelant** | **Alluvia Concentration**                       |
 > | ----------: | :------------------------------------------ |
 > |     Expanse | <progress value="100" max="100"></progress> |
 > |     Paragon | <progress value="40" max="100"></progress>  |
