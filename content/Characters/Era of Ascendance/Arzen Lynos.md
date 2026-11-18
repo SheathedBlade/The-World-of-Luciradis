@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T18:18:07.077-05:00
+modified: 2026-11-17T19:11:09.099-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -208,11 +208,11 @@ Despite these episodes, Arzen never entirely relinquished his attachment to the 
 
 Arzen is a highly accomplished combatant whose proficiency encompasses a variety of martial disciplines, particularly the use of bladed weapons and shields. Although his later reputation was primarily associated with sword-and-shield combat, his earliest experience with weaponry developed through hunting and exploration during his childhood in [[Lyntoa Village]].
 
-Before entering the service of the Stalwryn Royal Guard, Arzen favored a double-ended glaive fashioned from rudimentary materials, including wood and sharpened stone. Despite its relatively crude construction, he demonstrated considerable aptitude in wielding the weapon, developing an unconventional fighting style that emphasized reach, maneuverability, and rapid transitions between offensive movements.
+Before entering the service of the Stalwryn Royal Guard, Arzen favored an unconventional twinblade fashioned from rudimentary materials, including wood and sharpened stone. The weapon consisted of two bladed implements that could be joined at their hilts to form a single double-ended armament. Despite its crude construction, Arzen demonstrated considerable aptitude in wielding the weapon, developing an aggressive fighting style that emphasized rapid offensive movements and transitions between its configurations.
 
-Following his introduction to King Varens, Arzen was presented with a considerably more sophisticated version of his original glaive, commissioned from the kingdom's finest smiths. Constructed from high-quality steel and incorporating specialized enchantments of elven origin, the weapon featured a detachable central mechanism that allowed it to separate into two independently wielded blades.
+Following his introduction to King Varens, Arzen was presented with a considerably more sophisticated version of his original weapon, commissioned from the kingdom's finest smiths. Constructed from high-quality steel and incorporating specialized enchantments of elven origin, the twinblade featured a detachable central mechanism that allowed it to separate into two independently wielded swords. Its most distinctive feature was the ability of each blade to extend into a flexible, segmented configuration, allowing Arzen to employ them as whipswords capable of striking beyond conventional sword range and attacking from unexpected angles.
 
-Despite receiving this equipment, Arzen subsequently devoted much of his military training to the traditional sword-and-shield disciplines practiced by the Stalwryn Royal Guard. According to Saria, his decision was motivated partly by a desire to honor the king's generosity through faithful service. Nevertheless, Arzen retained his familiarity with the glaive, regarding the weapon as a reminder of his earlier travels and the freedom he had once sought.
+Despite receiving this equipment, Arzen subsequently devoted much of his military training to the traditional sword-and-shield disciplines practiced by the Stalwryn Royal Guard. According to Saria, his decision was motivated partly by a desire to honor the king's generosity through faithful service. Nevertheless, Arzen retained his familiarity with the twinblade, regarding the weapon as a reminder of his earlier travels and the freedom he had once sought.
 
 As a knight, Arzen developed an aggressive fighting style characterized by sustained offensive pressure and the close integration of his sword and shield. Rather than employing his shield exclusively for protection, he frequently used it to deliver forceful strikes, disrupt an opponent's balance, and create openings for subsequent attacks. His approach incorporated techniques derived from conventional shield combat alongside more unconventional combinations developed through practical experience.
 
@@ -225,6 +225,8 @@ His primary armaments consisted of a caladonic steel longsword and shield, both 
 The combination of extensive martial training, extraordinary physical capabilities, and sophisticated defensive techniques made Arzen particularly effective in prolonged close-quarters engagements. Rather than relying upon his resilience solely to withstand attacks, he frequently employed it to sustain an otherwise difficult level of offensive pressure, advancing through hostile assaults and forcing opponents into increasingly unfavorable positions.
 
 Although this approach proved highly effective, Arzen's willingness to commit himself to dangerous engagements occasionally left him vulnerable to opponents capable of exploiting his aggression. This tendency became particularly pronounced when his emotional state compromised his judgment, leading him to disregard risks that he would otherwise have recognized.
+
+During his later residence in Terystal, Arzen introduced [[Iris Riedel]] to the use of the twinblade, adapting techniques from his earlier travels to accommodate her comparatively limited physical capabilities. With assistance from [[Rietta Aschlera]], a lighter variant of the weapon was subsequently developed for Iris, omitting the more elaborate segmented mechanisms of Arzen's original armament in favor of improved balance and ease of handling.
 
 ### Arcana
 

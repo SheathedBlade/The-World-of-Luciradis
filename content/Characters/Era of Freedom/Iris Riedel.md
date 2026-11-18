@@ -1,13 +1,13 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T18:45:07.077-05:00
+modified: 2026-11-17T19:23:26.2626-05:00
 comments: false
 ---
 > [!archive] Historical Record
 > **Internal Census of Terystal**
 > 
 > Original record: Renewal's 5th, 10109 ASC  
-> Last revised: Horizon's 16th, 10110 ASC
+> Last revised: Resonance's 25th, 10110 ASC
 > 
 > *Revised and annotated by K. Myrai*
 
@@ -18,16 +18,16 @@ comments: false
 > | | |
 > | ---: | :--- |
 > | Full Name | Iris Riedel |
-> | Age | 20 years |
+> | Age | 21 years |
 > | Gender | Female |
 > | Race | [[Inhabitants of Luciradis#Akumari\|Akumari]] |
-> | Date of Birth | Paragon's 8th, 10089 ASC _(08/30/10089)_ |  
+> | Date of Birth | Paragon's 8th, 10089 ASC _(08/03/10089)_ |  
 > | Birthplace | [[Terystal]] |
 > | Allegiance | [[Dreamweavers]] |
 > | Height | 5'6" / 167cm |
 > | Weight | ??? |
 > | Occupation | Student at [[Terystal#Gryffes Institute of War and Medicine\|Gryffes Institute]] |
-> | Relationships | [[Arzen Lynos]]: Mentor<br>[[Elliot Ridge]]: Professor<br>[[Rietta Aschlera]]: Acquaintance |
+> | Relationships | [[Arzen Lynos]]: Mentor<br>[[Elliot Ridge]]: Professor<br>[[Rietta Aschlera]]: Friend |
 >
 > **Alluvium Profile**
 >
@@ -66,6 +66,10 @@ Her admission was facilitated in part by her family's financial resources and in
 Her reserved personality further complicated her relationships with her peers. While most regarded her with relative indifference, some openly questioned her qualifications or accused her of receiving preferential treatment. Iris generally avoided confronting these perceptions, preferring to concentrate upon her studies rather than expend her limited energy attempting to gain the approval of others.
 
 Despite her difficulties, Iris maintained close friendships with three fellow students who provided an important source of companionship throughout her education. Their continued support allowed her to retain a degree of normalcy amid the demands of her treatment and the increasingly uncertain prospects of her recovery.
+
+During her studies, Iris frequently visited [[Terystal#The Silver Vial|The Silver Vial]], a privately operated pharmacy and apothecary situated near the Gryffes Institute. The establishment supplied over-the-counter medications and other preparations that helped alleviate certain symptoms associated with her illness, supplementing the specialized medical care she continued to receive.
+
+Through these visits, Iris gradually became acquainted with [[Rietta Aschlera]], the establishment's proprietor and Director of Research and Development at Wareylt Labs. Although their early interactions were largely casual, they established a familiarity that would eventually develop into a close friendship following the Overgrowth Incident.
 
 By the final year of her studies, Iris's condition had deteriorated considerably. Nevertheless, she remained determined to graduate, regarding the completion of her education as a personal achievement that would demonstrate her ability to pursue a life beyond the limitations imposed by her illness.
 
@@ -148,7 +152,7 @@ The experience also contributed to a gradual reconciliation with her parents, wh
 
 Following her recovery, Iris resumed her interrupted studies at Gryffes and ultimately completed the academic requirements necessary for graduation. The achievement marked the fulfillment of a personal ambition she had pursued despite years of uncertainty surrounding her health.
 
-Iris maintained her friendships with those who had supported her throughout her education and subsequently developed a close friendship with [[Rietta Aschlera]], Director of Research and Development at Wareylt Labs.
+Iris maintained her friendships with those who had supported her throughout her education and subsequently developed a close friendship with Rietta.
 
 Having completed her education, Iris later participated in the expedition to [[Luciradis#Cicatri Ciel|Cicatri Ciel]], undertaking a journey that would bring her into contact with peoples and regions far removed from her native Terystal.
 
@@ -166,3 +170,107 @@ Her participation represented a considerable departure from the circumstances of
 ## Personality
 
 ## Expertise
+
+### Martial Combat
+
+Iris received instruction in martial combat under Arzen during her final year at the [[Terystal#Gryffes Institute of War and Medicine|Gryffes Institute of War and Medicine]]. Although her longstanding illness initially restricted her physical capabilities, she demonstrated considerable determination in acquiring practical combat skills, undertaking physical training whenever her condition permitted.
+
+Under Arzen's guidance, Iris developed proficiency with a specialized **twinblade**, consisting of two swords capable of joining at their hilts to form a single double-ended weapon. The design was adapted from an armament historically favored by Arzen during his early travels, although Iris's variant was developed with an emphasis on simplicity, balance, and ease of handling.
+
+With assistance from Rietta, the weapon was constructed to accommodate Iris's comparatively limited physical strength while facilitating the channeling of arcana through its blades. Unlike Arzen's more elaborate weapon, which incorporated mechanisms allowing its swords to extend into flexible, segmented configurations, Iris's twinblade omitted these features in favor of a lighter and more manageable construction.
+
+Her training emphasized positioning, defensive movement, and the precise timing of counterattacks. Rather than attempting to reproduce Arzen's aggressive approach, Iris gradually developed a more measured fighting style that relied upon maintaining advantageous spacing and exploiting openings in an opponent's movements.
+
+When wielding the swords separately, Iris favors controlled parries, short offensive exchanges, and the flexibility afforded by independent movements of each blade. In their combined configuration, she exploits the twinblade's greater reach and opposing edges to intercept approaching opponents and transition between offensive and defensive maneuvers.
+
+Following the development of her Foresight abilities, Iris became increasingly proficient at anticipating changes in an opponent's movements and adjusting her techniques accordingly. Her fighting style subsequently evolved toward an integration of predictive perception, martial techniques, and conventional arcana, allowing her to exploit favorable openings with considerable precision.
+
+Although her recovery from illness permitted more demanding physical training, Iris remained conscious of the limitations of her experience. Unlike her mentor, whose extraordinary resilience and extensive combat history allow him to sustain prolonged offensive engagements, Iris generally favors measured exchanges that minimize unnecessary exertion and exposure to danger.
+
+### Arcana
+
+Iris is a capable practitioner of arcana, specializing in the integration of conventional invocations with her twinblade techniques. Her approach is characteristic of a **spellsword**, combining martial combat and spellcasting into a continuous fighting style rather than treating them as separate disciplines.
+
+Her early familiarity with arcana was influenced by her Akumari heritage and the traditions of the [[Dreamweavers]], particularly practices associated with lucid dreaming and shared dream experiences. Although these practices provided limited direct combat applications, they contributed to her understanding of unusual perceptual phenomena and the manipulation of arcana through concentration and mental discipline.
+
+Under Arzen's instruction, Iris began incorporating fundamental invocations into her martial training, gradually developing techniques that supplemented her physical capabilities without requiring extensive expenditure of magical energy.
+
+Her twinblade was specifically designed to facilitate these applications. Both swords incorporate materials capable of conducting arcana, allowing Iris to channel magical energy through their blades independently or as a combined weapon.
+
+In combat, Iris favors relatively compact invocations that can be performed alongside her physical movements. Rather than relying upon overwhelming magical force, she emphasizes precise timing, efficient expenditure of energy, and the coordination of offensive and defensive techniques.
+
+Among her most frequently employed applications is **weapon augmentation**, through which she temporarily reinforces her blades or imbues them with elemental properties. When wielding the swords separately, Iris can maintain different augmentations upon each blade, although doing so requires additional concentration. Their combined configuration allows her to coordinate magical energy throughout the connected weapon, facilitating more concentrated attacks.
+
+Iris also employs **spell-assisted strikes**, incorporating short-lived magical projections and directed invocations into her weapon movements. These techniques allow her to extend the effective reach of her attacks, disrupt an opponent's positioning, or release magical effects at moments when conventional swordsmanship would provide limited opportunities.
+
+Her defensive applications emphasize brief protective barriers, the redirection of incoming attacks, and magical assistance with positioning. Rather than sustaining extensive defensive formations, Iris generally favors smaller invocations applied at carefully selected moments.
+
+The development of her Foresight abilities considerably enhanced the effectiveness of these techniques. By anticipating an opponent's likely movements, Iris can prepare and direct her invocations toward favorable positions, frequently employing less magical energy than would otherwise be necessary to achieve a comparable result.
+
+Nevertheless, the simultaneous performance of complex invocations and predictive perception places considerable demands upon her concentration. Maintaining several magical effects while interpreting competing future possibilities can interfere with the accuracy of her movements and the stability of her spellcasting, limiting her effectiveness during particularly prolonged or chaotic engagements.
+
+### Dreamweaving
+
+As a member of the Dreamweavers, Iris possesses knowledge of traditional practices associated with lucid dreaming, the manipulation of dream experiences, and the exploration of shared dream environments.
+
+Of particular significance is her familiarity with an independently existing dream realm containing recognizable features of Terystal alongside remnants of its historical Akumari settlements. Unlike conventional lucid dreams, this environment persists independently of its visitors and permits multiple individuals to interact within a shared space.
+
+Iris's familiarity with Dreamweaver traditions affords her a degree of understanding concerning the realm's characteristics and historical significance, although its origins and full extent remain uncertain.
+
+During her acquaintance with Arzen Lynos, Iris employed this environment as an alternative setting for martial instruction when her physical condition prevented conventional training. Although techniques practiced within the realm did not automatically translate into equivalent physical proficiency, the experience proved valuable in developing her understanding of positioning, timing, and tactical decision-making.
+
+Prolonged engagement in dreamweaving nevertheless requires considerable mental concentration, and the physical limitations of her waking body are not entirely without consequence. Iris therefore remained dependent upon adequate rest and medical supervision during the earlier stages of her training.
+
+The relationship between her proficiency in dreamweaving and the extraordinary perceptual capabilities subsequently associated with her Ascendance remains a subject of continuing investigation.
+
+### Ascendant Abilities
+
+As the last known Ascendant of the [[The Aurelants#The Seer|Seer]], Iris possesses extraordinary perceptual abilities extending beyond the limitations of conventional sensory awareness.
+
+The Seer's Authority is principally associated with the perception of events, circumstances, and possibilities beyond the observer's immediate experience. Its manifestations encompass the anticipation of future developments and the observation of events occurring beyond ordinary sensory range.
+
+Unlike abilities concerned with the direct manipulation of time or causality, the Seer's Authority does not inherently permit its bearer to determine which future events will occur. Rather, it affords the capacity to perceive possible outcomes and respond to them through actions undertaken in the present.
+
+Although Iris demonstrated occasional signs of unusual perceptual awareness before her Ascendance, these early manifestations were inconsistent and poorly understood. Following the Overgrowth Incident, she gradually developed greater conscious control over her abilities, incorporating them into both her martial training and everyday activities.
+
+#### Foresight
+
+**Foresight** is one of the Seer's most recognizable abilities, allowing Iris to perceive brief impressions of possible future events.
+
+Its most immediate applications concern the anticipation of developments occurring within a relatively short period. In combat, Iris employs Foresight to recognize an opponent's likely movements, identify potential openings, and adjust her positioning before an attack has fully developed.
+
+When combined with her twinblade techniques, these impressions enable Iris to perform precisely timed evasions, interceptions, and counterattacks. Her proficiency in conventional arcana further allows her to prepare defensive invocations or direct magical attacks toward positions an opponent is likely to occupy.
+
+Unlike ordinary prediction based upon observation and experience, Foresight provides impressions of events that have not yet occurred. However, these impressions do not necessarily represent predetermined outcomes, as changes in the surrounding circumstances may alter the course of events.
+
+The clarity and reliability of the information perceived vary according to the complexity of the situation and the temporal distance of the events observed. Immediate developments generally produce clearer impressions, while attempts to perceive more distant possibilities involve increasing uncertainty.
+
+Under particularly complex circumstances, Iris may perceive several competing outcomes simultaneously. Interpreting these impressions requires considerable concentration, particularly when the possible developments differ only in subtle details.
+
+Furthermore, perceiving an impending event does not inherently grant Iris the physical capability to prevent or avoid it. Consequently, effective application of Foresight requires coordination between her perceptual awareness, martial training, and spellcasting proficiency.
+
+Although her earliest manifestations were brief and inconsistent, Iris gradually developed greater proficiency through continued practice, allowing her to incorporate Foresight more naturally into her fighting style.
+
+The ability also possesses applications beyond combat. Under appropriate conditions, Iris can perceive possible developments concerning events further into the future, although such impressions are generally less reliable and may lack sufficient context to permit confident interpretation.
+
+#### Farseeing
+
+**Farseeing** is a manifestation of the Seer's Authority that allows Iris to perceive distant locations and events beyond the reach of her ordinary senses.
+
+Unlike Foresight, which concerns possible future developments, Farseeing primarily extends Iris's awareness across physical distance, allowing her to observe circumstances occurring elsewhere in the present.
+
+The ability is particularly effective when Iris possesses prior familiarity with the location or individual she wishes to observe. Such connections provide a recognizable point of reference through which she can direct her perception, although they do not guarantee successful observation.
+
+Under favorable circumstances, Iris can obtain impressions of distant environments, recognize the presence of familiar individuals, and identify developments that would otherwise remain beyond her awareness.
+
+These capabilities afford Farseeing considerable utility in reconnaissance, investigation, and the coordination of activities across separated locations.
+
+However, Farseeing does not provide unrestricted awareness of the surrounding world. Its effectiveness depends upon Iris's concentration, the familiarity of the subject being observed, and the circumstances surrounding the attempted observation.
+
+Unfamiliar locations and subjects are considerably more difficult to perceive, while complex or rapidly changing environments may produce incomplete impressions.
+
+Furthermore, the ability does not necessarily reveal the intentions, thoughts, or motivations of individuals within the observed environment. Iris must interpret the information obtained through Farseeing much as she would information acquired through ordinary observation.
+
+Sustained observation over considerable distances places increasing demands upon her concentration, limiting the duration and clarity of particularly demanding manifestations.
+
+Although less immediately applicable to conventional martial combat than Foresight, Farseeing provides Iris with capabilities of considerable value beyond direct confrontation, particularly during exploration and investigative activities.
