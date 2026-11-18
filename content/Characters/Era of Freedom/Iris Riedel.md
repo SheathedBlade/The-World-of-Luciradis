@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T19:29:31.3131-05:00
+modified: 2026-11-18T00:04:36.3636-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -181,7 +181,7 @@ Under Arzen's guidance, Iris developed proficiency with a specialized **twinblad
 
 With assistance from Rietta, the weapon was constructed to accommodate Iris's comparatively limited physical strength while facilitating the channeling of arcana through its blades. Unlike Arzen's more elaborate weapon, which incorporated mechanisms allowing its swords to extend into flexible, segmented configurations, Iris's twinblade omitted these features in favor of a lighter and more manageable construction.
 
-Her training emphasized positioning, defensive movement, and the precise timing of counterattacks. Rather than reproducing Arzen's aggressive approach, Iris developed a measured fighting style emphasizing positioning, defensive movement, and precisely timed counterattacks. Following the emergence of her Foresight abilities, she became increasingly proficient at anticipating opponents' movements and exploiting favorable openings through coordinated martial techniques and arcana.
+Rather than reproducing Arzen's aggressive approach, Iris developed a measured fighting style emphasizing positioning, defensive movement, and precisely timed counterattacks. Following the emergence of her Foresight abilities, she became increasingly proficient at anticipating opponents' movements and exploiting favorable openings through coordinated martial techniques and arcana.
 
 When wielding the swords separately, Iris favors controlled parries, short offensive exchanges, and the flexibility afforded by independent movements of each blade. In their combined configuration, she exploits the twinblade's greater reach and opposing edges to intercept approaching opponents and transition between offensive and defensive maneuvers.
 
