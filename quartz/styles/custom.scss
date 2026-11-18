@@ -625,6 +625,65 @@ html {
       }
     }
 
+    &[data-callout="research"] {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+
+      margin: 2rem 0;
+      padding: 0.25rem 0 0.25rem 1.25rem;
+
+      background: transparent !important;
+      border: none !important;
+      border-left: 2px solid #6585a0 !important;
+      border-radius: 0;
+      box-shadow: none;
+
+      > .callout-title {
+        padding: 0;
+        margin-bottom: 0.9rem;
+
+        font-family: var(--headerFont);
+        font-size: 0.7rem;
+        font-weight: 600;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: #6585a0 !important;
+
+        .callout-icon,
+        .fold-callout-icon {
+          display: none;
+        }
+
+        .callout-title-inner {
+          color: inherit;
+
+          &::before {
+            content: "RESEARCH NOTE — ";
+          }
+        }
+      }
+
+      > .callout-content {
+        display: block;
+        padding: 0;
+
+        p {
+          margin: 0 0 1rem;
+
+          color: var(--darkgray);
+          font-family: var(--bodyFont);
+          font-size: 0.975rem;
+          font-style: normal;
+          line-height: 1.8;
+        }
+
+        p:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+
     &[data-callout="dialogue-right"] {
       text-align: right;
       font-style: italic;

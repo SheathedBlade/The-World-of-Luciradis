@@ -1,6 +1,6 @@
 ---
 created: 2024-02-09T02:03:00.000-05:00
-modified: 2026-11-18T17:47:58.5858-05:00
+modified: 2026-11-18T17:55:31.3131-05:00
 comments: false
 ---
 > [!archive] Scientific Reference
@@ -11,6 +11,12 @@ comments: false
 >_Originally published by the Congregation of Academia, Luxor Citadel_  
 >*Contemporary revisions compiled from institutional and independent research*
 
+## Botanical Materials
+
+### Prismaia Bark
+
+Prismaia trees are a rare, but naturally occurring species characterized by its prismatic and golden leaves, silver bark, and towering heights. Naturally infused with mana, prismaia bark is essential in the creation of various magical and alchemical tools.
+
 ## Geological Materials
 
 ### Caladon
@@ -20,7 +26,7 @@ comments: false
 | Material Type             | Naturally occurring metallic mineral                               |
 | Primary Occurrence        | [[Caladon Valley]], [[Locations/Cicatri Ciel/index\|Cicatri Ciel]] |
 | Discovery                 | Rory Caladon                                                       |
-| Distinguishing Properties | Exceptional density, hardness, and structural affinity             |
+| Distinguishing Properties | Exceptional density, hardness, and structural stability            |
 | Primary Applications      | Metallurgical alloying                                             |
 | Known Derivatives         | [[Catalog of Materials#Caladonic Steel\|Caladonic Steel]]          |
 #### Material Description
@@ -61,16 +67,10 @@ The subsequent development of specialized refining methods, followed by the succ
 
 These developments contributed to advances in Stalwryn metallurgy, particularly in the manufacture of protective equipment and other applications requiring exceptional material strength.
 
-
-## Wood
-
-### Prismaia Bark
-
-Prismaia trees are a rare, but naturally occurring species characterized by its prismatic and golden leaves, silver bark, and towering heights. Naturally infused with mana, prismaia bark is essential in the creation of various magical and alchemical tools.
-
-## Stone
-
-### Obsidian
+>[!research] Geological Formation
+>Although the influence of ambient arcana upon caladon's crystalline development is supported by existing geological observations, the processes governing this interaction remain incompletely understood.
+>
+>Further investigation is required to establish the conditions under which comparable mineral structures may form.
 
 ## Metals & Alloys
 
@@ -130,9 +130,15 @@ Although its manufacture originated within the former Stalwryn Kingdom, the unde
 
 The considerable demands of refinement and manufacturing contribute to the alloy's relatively high production cost. Consequently, its commercial use is generally concentrated in applications where enhanced material performance justifies the associated expense.
 
->[!commentary] 
+>[!research] Metallurgical Applications 
 >Variations in alloy composition and subsequent treatment can produce substantial differences in mechanical performance. Continued investigation into these relationships may permit greater specialization of caladonic steel for applications requiring particular combinations of hardness, toughness, and structural stability.
+>
+>-- *Rietta Aschlera, Wareylt Labs Director of R&D*
 
-## Ceramics
+### Obsidian
 
-## Textiles
+## Faunal Materials
+
+## Processed Materials
+
+## Specialized Arcanic Materials
