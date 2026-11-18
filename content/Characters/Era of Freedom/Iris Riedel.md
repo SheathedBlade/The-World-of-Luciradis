@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-18T15:36:44.4444-05:00
+modified: 2026-11-18T15:40:57.5757-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -173,7 +173,7 @@ Her participation represented a considerable departure from the circumstances of
 
 Iris is a naturally introverted, studious, and somewhat socially awkward individual who generally prefers the company of a few trusted companions over large social gatherings. Having spent much of her childhood under medical supervision, she developed a strong preference for familiar environments and solitary activities, often finding comfort in academic pursuits and the exploration of her personal interests.
 
-Her reserved demeanor has frequently been mistaken for aloofness or arrogance, particularly among those unfamiliar with her circumstances. Although Iris seldom initiates conversations with strangers, this reluctance stems more from social insecurity and an apprehension toward unfamiliar interactions than from any genuine disinterest in others. She is considerably more expressive among close friends, occasionally displaying a playful disposition and a dry sense of humor that contrasts with her otherwise quiet behavior. Among those she trusts, however, Iris is considerably more expressive, occasionally displaying a playful disposition and a dry sense of humor that contrasts with her otherwise quiet behavior. She becomes particularly animated when discussing her personal interests, sometimes speaking at considerable length about subjects that capture her enthusiasm.
+Her reserved demeanor has frequently been mistaken for aloofness or arrogance, particularly among those unfamiliar with her circumstances. Although Iris seldom initiates conversations with strangers, this reluctance stems more from social insecurity and an apprehension toward unfamiliar interactions than from any genuine disinterest in others. Among those she trusts, however, Iris is considerably more expressive, occasionally displaying a playful disposition and a dry sense of humor that contrasts with her otherwise quiet behavior. She becomes particularly animated when discussing her personal interests, sometimes speaking at considerable length about subjects that capture her enthusiasm.
 
 Despite her timid exterior, Iris possesses considerable determination and an independent streak that occasionally brings her into conflict with those seeking to protect her. Years of living under restrictions imposed by her illness fostered a strong desire to exercise control over her own circumstances. Although she understands that the concerns of others are frequently well-intentioned, she resents being treated as incapable of making decisions for herself.
 
@@ -187,7 +187,7 @@ Nevertheless, her earlier insecurities did not disappear entirely. Iris continue
 
 ### Likes
 
-- **Illustrated Fiction** — Iris is an avid reader of serialized illustrated stories, particularly those involving fantasy, adventure, and elaborate fictional settings. She follows several ongoing series and occasionally becomes unusually enthusiastic when discussing her favorites.
+- **Illustrated Fiction** — Iris is an avid reader of serialized illustrated stories, particularly those involving fantasy, adventure, and elaborate fictional settings. She follows several ongoing series and occasionally becomes unusually enthusiastic when discussing her favorites. She also can be seen camping outside the bookstore when the latest volume is released.
 - **Music** — Iris enjoys listening to music during her free time, frequently accompanying her studies and other solitary activities with carefully selected playlists. She also enjoys discovering unfamiliar artists and sharing recommendations with her close friends.
 - **Quiet Retreats** — Iris appreciates peaceful locations where she can read, listen to music, or simply enjoy her surroundings without interruption. She particularly favors places that afford some privacy while remaining within reach of the city's everyday activity.
 - **Exploring New Places** — Following her recovery, Iris developed an increasing enthusiasm for visiting unfamiliar locations and experiencing activities that her illness had previously prevented her from pursuing.

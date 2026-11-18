@@ -1,12 +1,12 @@
 ---
 created: 2026-11-04T05:37:09.099-05:00
-modified: 2026-11-07T18:43:27.2727-05:00
+modified: 2026-11-18T17:06:02.022-05:00
 description: The Astos Calendar is the principal system of timekeeping employed throughout Luciradis, providing a common framework for the measurement of years, the organization of months, and the documentation of historical events.
 ---
 > [!archive] Scholarly Reference
 > **Chronology & Timekeeping**
 >
-> Last revised: Seer's 3rd, 10104
+> Last revised: Seer's 3rd, 10104 ASC
 >
 > *Compiled by K. Myrai, Head Archivist of Oracle's Vision*
 

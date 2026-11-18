@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-18T14:59:18.1818-05:00
+modified: 2026-11-18T15:42:25.2525-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -68,7 +68,7 @@ Rietta frequently visited a local apothecary, where she became fascinated by the
 
 The apothecary maintained a close working relationship with the kingdom's blacksmiths and armorers, whose craftsmanship frequently required specialized alchemical preparations. Through this arrangement, Rietta gained access to both the apothecary and the neighboring forge, exposing her to the processes involved in the manufacture of conventional weaponry and armor.
 
-Toward the conclusion of her apprenticeship, Rietta approached the forge's head blacksmith, **{blacksmith name here}**, with an unusual commission: a firearm designed to incorporate her alchemical preparations directly into its ammunition. Rather than relying solely on conventional projectiles, she envisioned a weapon capable of imparting different properties to its ammunition through the application of specialized compounds.
+Toward the conclusion of her apprenticeship, Rietta approached the forge's head blacksmith with an unusual commission: a firearm designed to incorporate her alchemical preparations directly into its ammunition. Rather than relying solely on conventional projectiles, she envisioned a weapon capable of imparting different properties to its ammunition through the application of specialized compounds.
 
 Intrigued by the proposal, the blacksmith accepted the commission and began developing a long-range firearm equipped with a mechanism through which Rietta's alchemical solutions could be introduced into its projectiles prior to discharge. Although initially intended as a paid commission, the completed weapon was ultimately presented to Rietta as a gift upon the successful completion of her apprenticeship, in recognition of her dedication and accomplishments.
 
