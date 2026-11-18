@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T19:11:09.099-05:00
+modified: 2026-11-17T19:26:31.3131-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -29,7 +29,7 @@ comments: false
 > | Occupation | Former Royal Guardian of Stalwryn |
 > | Relationships | [[Saria Pulse]]: Significant other<br>[[Amara Illustros]]: Surrogate sister<br>[[Rietta Aschlera]]: Childhood friend<br>[[Karos Varens]]: Friend (deceased)<br>[[Kallie Myrai]]: Friend<br>[[Leoris Varens]]: Former sovereign<br>[[Erina Hayashi]]: Friend<br>[[Varant Illustros]]: Comrade<br>[[Altair Illustros]]: Comrade<br>[[Iris Riedel]]: Friend<br>[[Driardos Myrkals]]: Arch-enemy |
 >
-> **Alluvium Profile**
+> **Alluvia Profile**
 >
 > | **Aurelant** | **Alluvia Concentration**                       |
 > | ----------: | :------------------------------------------ |
