@@ -656,10 +656,21 @@ html {
         }
 
         .callout-title-inner {
-          color: inherit;
+          display: inline;
+          color: inherit !important;
 
           &::before {
             content: "RESEARCH NOTE — ";
+          }
+
+          p {
+            display: inline;
+            color: inherit !important;
+            font-family: inherit;
+            font-size: inherit;
+            font-weight: inherit;
+            letter-spacing: inherit;
+            margin: 0;
           }
         }
       }
