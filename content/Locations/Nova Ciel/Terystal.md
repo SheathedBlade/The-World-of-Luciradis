@@ -10,9 +10,9 @@ description: "Terystal: a fusion of modernity and tradition. Though the old, anc
 >
 > _Compiled and maintained by K. Myrai, Head Archivist of Oracle's Vision_
 
-_Terystal: a fusion of modernity and tradition. Along the banks of the Mōretsa River, the ancient Akumari nomads established what would become their final settlement. Following the Cicatri Emigration, travelers from that war-torn land mingled with the locals, transforming the settlement into a thriving center of commerce and cultural exchange. Though the old, ancient structures have since given way to towering high-rises, the customs and traditions of the Akumari thrive still, as its people, both Akumari and otherwise, continue to pursue their ambition of establishing Terystal into the foremost technological capital of Nova Ciel._
-
-_-- Kallie Myrai_
+> _Terystal: a fusion of modernity and tradition. Along the banks of the Mōretsa River, the ancient Akumari nomads established what would become their final settlement. Following the Cicatri Emigration, travelers from that war-torn land mingled with the locals, transforming the settlement into a thriving center of commerce and cultural exchange. Though the old, ancient structures have since given way to towering high-rises, the customs and traditions of the Akumari thrive still, as its people, both Akumari and otherwise, continue to pursue their ambition of establishing Terystal into the foremost technological capital of Nova Ciel._
+> 
+> _-- Kallie Myrai_
 
 ---
 
