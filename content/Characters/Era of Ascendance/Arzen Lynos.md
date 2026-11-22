@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T19:26:31.3131-05:00
+modified: 2026-11-18T20:02:15.1515-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -332,7 +332,7 @@ Although the technique offers considerable versatility, it does not constitute a
 
 #### Skies Aflame
 
-> [!commentary] Kallie Myrai, Head Archivist
+> [!commentary] ||Kallie Myrai, Head Archivist||
 > Among the abilities Arzen developed following the destruction of Stalwryn, few demonstrate his unusual affinity for the [[The Aurelants#The Horizon|Horizon]] as distinctly as **Skies Aflame**.
 >
 > Upon invocation, the surrounding sky darkens as innumerable burning celestial bodies manifest overhead, descending upon the designated region in successive waves. Their impacts produce tremendous destructive force and intense heat, with the resulting devastation capable of approaching the scale of a natural disaster.
