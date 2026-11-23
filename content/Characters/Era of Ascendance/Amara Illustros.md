@@ -204,9 +204,7 @@ This intervention, however, carried a condition whose consequences neither Arzen
 
 **Arzen's continued existence was bound to Amara's own, rendering him immortal for as long as she continued to exist in some form.**
 
-The condition was not merely an extraordinary enhancement of his physical resilience. It established a dependence between their existences that persisted beyond Amara's apparent death and the division of her soul.
-
-The pact endured beyond Amara's apparent death. Even after her soul divided, the remnants of her consciousness continued to sustain the condition that bound Arzen's life to hers.
+The pact endured beyond Amara's apparent death. Even after her soul divided, the surviving remnants of her consciousness sustained the condition binding Arzen's life to hers. His immortality was therefore not merely an enhancement of his physical resilience, but a dependence upon Amara's continued existence.
 
 Amara had raised him as a younger brother, concealing both his origins and the terms of his immortality. Her affection was genuine, but she had made a choice concerning his existence without his knowledge or consent.
 

@@ -123,7 +123,7 @@ Although the research carried recognized risks, neither Iris nor those responsib
 
 ### Overgrowth Incident
 
-In 10110 ASC, Iris became involved in the catastrophe subsequently designated the [[Overgrowth Incident]], an extraordinary arcanic emergency originating from experimental research conducted at [[Terystal#Wareylt Labs|Wareylt Labs]].
+In 10110 ASC, Iris became involved in the catastrophe subsequently designated the [[Shattered Dreams Incident]], an extraordinary arcanic emergency originating from experimental research conducted at [[Terystal#Wareylt Labs|Wareylt Labs]].
 
 The incident resulted in the destabilization of the boundary between physical reality and an independently existing dream realm, allowing hostile entities to manifest within affected portions of Terystal. Among the locations threatened was the [[Terystal#Gryffes Institute of War and Medicine|Gryffes Institute of War and Medicine]], where Iris participated in efforts to protect fellow students and facilitate their evacuation.
 
