@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-18T20:02:15.1515-05:00
+modified: 2026-11-22T20:08:15.1515-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -206,9 +206,11 @@ Despite these episodes, Arzen never entirely relinquished his attachment to the 
 
 ### Martial Combat
 
-Arzen is a highly accomplished combatant whose proficiency encompasses a variety of martial disciplines, particularly the use of bladed weapons and shields. Although his later reputation was primarily associated with sword-and-shield combat, his earliest experience with weaponry developed through hunting and exploration during his childhood in [[Lyntoa Village]].
+Arzen is a highly accomplished combatant whose proficiency encompasses several martial disciplines, particularly the use of bladed weapons and shields. Although his later reputation became closely associated with sword-and-shield combat, his earliest formal instruction came from [[Amara Illustros]], who taught him the fundamentals of twinblade combat during his childhood in [[Lyntoa Village]].
 
-Before entering the service of the Stalwryn Royal Guard, Arzen favored an unconventional twinblade fashioned from rudimentary materials, including wood and sharpened stone. The weapon consisted of two bladed implements that could be joined at their hilts to form a single double-ended armament. Despite its crude construction, Arzen demonstrated considerable aptitude in wielding the weapon, developing an aggressive fighting style that emphasized rapid offensive movements and transitions between its configurations.
+Inspired by Amara's ceremonial twinblade, Arzen fashioned a rudimentary version of the weapon using materials available to him, including wood and sharpened stone. The two blades could be joined at their hilts to form a double-ended armament, allowing him to practice the techniques Amara had demonstrated.
+
+As his abilities developed, Arzen gradually departed from her more measured approach, favoring rapid offensive movements and increasingly aggressive transitions between the weapon's configurations.
 
 Following his introduction to King Varens, Arzen was presented with a considerably more sophisticated version of his original weapon, commissioned from the kingdom's finest smiths. Constructed from high-quality steel and incorporating specialized enchantments of elven origin, the twinblade featured a detachable central mechanism that allowed it to separate into two independently wielded swords. Its most distinctive feature was the ability of each blade to extend into a flexible, segmented configuration, allowing Arzen to employ them as whipswords capable of striking beyond conventional sword range and attacking from unexpected angles.
 

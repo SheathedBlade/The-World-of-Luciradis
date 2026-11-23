@@ -1,6 +1,6 @@
 ---
 created: 2024-02-09T02:03:00.000-05:00
-modified: 2026-11-22T19:29:06.066-05:00
+modified: 2026-11-22T19:34:39.3939-05:00
 comments: false
 ---
 > [!archive] Scientific Reference
@@ -17,12 +17,12 @@ comments: false
 
 | Property                  | Classification                                                               |
 | ------------------------- | ---------------------------------------------------------------------------- |
-| Material Type             | Naturally occurring metallic mineral                                         |
+| Material Type             | Specialized botanical material                                               |
 | Biological Source         | Prismaia trees                                                               |
 | Primary Occurrence        | [[Galaderyn\|Taur Silvarin]], [[Locations/Cicatri Ciel/index\|Cicatri Ciel]] |
 | Distinguishing Properties | Arcane regulation and stable conduction                                      |
 | Harvesting Methods        | Natural shedding and regulated selective harvesting                          |
-| Environmental Depenedency | Sustained ambient arcana during biological development                       |
+| Environmental Dependency  | Sustained ambient arcana during biological development                       |
 | Primary Applications      | Arcanic instruments, alchemical equipment, precision components              |
 #### Material Description
 
@@ -30,7 +30,7 @@ comments: false
 
 The bark is valued for its capacity to conduct arcana while moderating fluctuations in its passage. These properties make it particularly useful in the manufacture of arcanic instruments and equipment requiring stable operating conditions.
 
-Unlike conventional timber, prismaia bark derives its principal industrial value from specialized biological structures that develop within the living tree.
+Unlike conventional timber, prismaia bark derives its industrial value from specialized biological structures that develop within the living tree.
 
 #### Biological Properties
 
@@ -76,13 +76,11 @@ Despite these advantages, prismaia bark is not a universal substitute for conven
 
 #### Ecological & Commercial Significance
 
-Prismaia trees form an important component of Taur Silvarin's ecology, participating in biological processes associated with the distribution and regulation of ambient arcana.
+Prismaia trees participate in the biological processes through which ambient arcana is distributed and regulated throughout Taur Silvarin. Their extensive populations form part of the forest's interconnected ecological system, making their preservation a concern beyond the commercial value of their bark.
 
-The commercial importance of their bark creates a close relationship between resource management and environmental stewardship. Although the material is renewable, the slow growth and environmental requirements of prismaia trees constrain the rate at which it can be sustainably obtained.
+Although prismaia bark is a renewable resource, the trees' slow growth and specialized environmental requirements limit how much material can be harvested sustainably. Damage to mature populations may disrupt local ecological relationships while diminishing the availability of bark for future generations.
 
-Extensive damage to mature populations may affect both the long-term availability of the resource and the ecological relationships through which ambient arcana is regulated within the forest.
-
-These considerations make sustainable harvesting practices and the preservation of established prismaia populations important to the continued production of the material.
+These circumstances have encouraged harvesting practices that favor naturally shed material and carefully regulated collection from living trees, balancing industrial demand against the preservation of the forest.
 
 > [!research] Biological Structure & Arcane Regulation  
 > The regulatory properties of prismaia bark appear closely associated with the organization and preservation of its specialized fibrous tissues. Although these structures remain functional following appropriate processing, the extent to which harvesting conditions and subsequent treatment influence their performance requires further investigation.

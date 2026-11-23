@@ -1,63 +1,108 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2025-10-25T20:57:26.2626-04:00
+modified: 2026-11-22T20:09:57.5757-05:00
 comments: false
 ---
+> [!archive] Historical Record
+> **Internal Census of Luxor Citadel**
+> 
+> Last revised: Convergence's 16th, 10110 ASC
+> 
+> *Revised and annotated by K. Myrai*
 
-_Internal Census of the Luxor Citadel_  
-_Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai_
+> [!infobox]
+>
+> **Amara Illustros**
+>
+> | | |
+> | ---: | :--- |
+> | Full Name | Amara Illustros |
+> | Age | 32 years |
+> | Gender | Female |
+> | Race | [[Inhabitants of Luciradis#Luxori\|Luxori]] |
+> | Date of Birth | Seer's 6th, 5245 ASC _(06/04/5245)_ |  
+> | Recorded Death | Horizon's 19th, 5277 ASC *(19/05/5277)* |
+> | Birthplace | [[Luxor Citadel]] |
+> | Allegiance | None |
+> | Height | 5'8'' / 172cm |
+> | Weight | ??? |
+> | Occupation | Mercenary, Caretaker in [[Lyntoa Village]] |
+> | Relationships | [[Arzen Lynos]]: Surrogate brother<br>[[Runo Illustros]]: Father<br>[[Varant Illustros]]: Brother<br>[[Altair Illustros]]: Brother|
+>
+> **Alluvia Profile**
+>
+> | **Aurelant** | **Alluvia Concentration**                       |
+> | ----------: | :------------------------------------------ |
+> |     Expanse | <progress value="0" max="100"></progress> |
+> |     Paragon | <progress value="0" max="100"></progress>  |
+> |        Seer | <progress value="5" max="100"></progress>  |
+> |   Horizon | <progress value="100" max="100"></progress>   |
+> |    Lifeline | <progress value="0" max="100"></progress>  |
+> |  Reflection | <progress value="25" max="100"></progress>   |
+> |   Navigator | <progress value="20" max="100"></progress>  |
+> |   Resonance | <progress value="75" max="100"></progress>  |
+> | Radiant | <progress value="85" max="100"></progress>   |
+> |      Axiom | <progress value="5" max="100"></progress>  |
+> | Convergence | <progress value="70" max="100"></progress>   |
 
-## Basic Info
+**Amara Illustros** was a former Beacon of the [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]] who, following her excommunication, traveled throughout Luciradis before settling in [[Lyntoa Village]] within the Kingdom of Stalwryn. Born into an influential Luxori family, she abandoned her former affiliations and established a quieter life as the caretaker and mentor of [[Arzen Lynos]], whom she regarded as a younger brother.
 
-- Full Name: Amara Illustros
-- Age: 32 years
-- Gender: Female
-- Race: [[Inhabitants of Luciradis#Luxori|Luxori]]
-- Date of Birth: 6th Day of the Seer, from the Year 5245 ASC _(06/04/5245)_
-- Date of Death: 19th Day of the Horizon, from the Year 5277 ASC _(19/05/5277)_
-- Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: None\*
-- Height: 5'8'' / 172cm
-- Weight:
-- Occupation: Mercenary, Caretaker in [[Lyntoa Village]]\*\*
-- Relationships:
-  - [[Arzen Lynos]]: Surrogate brother
-  - [[Runo Illustros]]: Father _(deceased)_
-  - [[Varant Illustros]]: Brother
-  - [[Altair Illustros]]: Brother
+Amara was remembered for her compassion toward those under her care and her determination to protect them from the hardships she had witnessed during her travels. Her apparent death during the failed [[Rite of Continuance]] in 5277 ASC brought an end to her known activities, although subsequent investigations would reveal that her involvement in the events surrounding Lyntoa extended far beyond contemporary understanding.
 
-_\* - Her previous allegiance was to the [[Luxor Citadel]]_  
-_\*\* - Her previous occupation was as a Beacon of the [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]]_
-
-## Essence Profile
-
-_The below information are results from testing the individual of their "Empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator)._
-
-| **Concept** | **Amount of Essence**                       |
-| ----------: | :------------------------------------------ |
-|     Expanse | <progress value="0" max="100"></progress>   |
-|     Paragon | <progress value="0" max="100"></progress>   |
-|        Seer | <progress value="5" max="100"></progress>   |
-|   Horizon | <progress value="100" max="100"></progress> |
-|    Lifeline | <progress value="0" max="100"></progress>   |
-|  Reflection | <progress value="25" max="100"></progress>  |
-|   Navigator | <progress value="20" max="100"></progress>  |
-|   Resonance | <progress value="75" max="100"></progress>  |
-| Radiant | <progress value="85" max="100"></progress>  |
-|      Axiom | <progress value="5" max="100"></progress>   |
-| Convergence | <progress value="70" max="100"></progress>  |
+Her life remains closely associated with Arzen's origins and the extraordinary circumstances that shaped his subsequent history.
 
 ## Background
 
-_"Isn't it the case that we want future generations to have better lives than those of their predecessors? Then, what I have done is simple, really. I strive for a future wherein those who come after us would put surviving as an afterthought. The path I have chosen to take would always be paved in ruin and tragedy._
+> _"Isn't it the case that we want future generations to have better lives than those of their predecessors? Then, what I have done is simple, really. I strive for a future wherein those who come after us would put surviving as an afterthought. The path I have chosen to take would always be paved in ruin and tragedy._
+> 
+> _My only regret is that you have chosen to shoulder my legacy as your burden. But if you would consider all that I have done, for you or otherwise, sins, then I'll gladly be a sinner."_
+> 
+> — Amara Illustros
 
-_My only regret is that you have chosen to shoulder my legacy as your burden. But, if you would consider all that I have done, for you or otherwise, sins, then I'll gladly be a sinner."_
+### Early Life and the Luxori Covenant
 
-Amara Illustros, previously Sister Amara Illustros, is an exiled traveling **beacon** of the [[Information/Peoples & Societies/Factions/index#Luxori Covenant|Luxori Covenant]], the prominent religious group of the [[Luxor Citadel]]. The nature of how she was exiled, however, is unbeknownst to us, as the Covenant refused to comment further on this topic. Thus, out of respect, only those of us in the know are aware of her existence and subsequent status of the Covenant.
+**Amara Illustros** was born into the Illustros family, an influential household within [[Luxor Citadel]] whose members maintained longstanding ties to the Citadel's governing institutions and military affairs.
 
-The **Illustros** are a distinguished family within the Luxor Citadel, holding a high position within the ruling government, **particularly with affairs concerning Luxor's military strength**. It was to her father's disappointment when Amara cut all ties with her family after being exiled from the Luxori Covenant.
+Her upbringing placed her within a society deeply influenced by the teachings of the Luxori Covenant. Amara eventually entered the Covenant's service, attaining the position of **Beacon**, a religious vocation that involved travel beyond the Citadel and contact with communities throughout Luciradis.
 
-Amara, since being excommunicated, left Luxor Citadel and traveled the vast lands, all the while concealing her identity and putting up the façade of a Sister from the local church. What she has done during her traveling the world is unknown, but it can be assumed she visited most, if not all, landmarks, nations, and everything in between. After years of traveling, she eventually settled into [[Lyntoa Village]], becoming a caretaker for one of the families at the village.
+The position afforded her opportunities to witness societies whose circumstances differed considerably from those of her homeland. Although the precise extent of her travels remains poorly documented, her experiences beyond Luxor would later influence her understanding of the world and the convictions for which she became known.
+
+### Excommunication and Travels
+
+Amara's association with the Luxori Covenant came to an end following her excommunication. The circumstances surrounding this decision remain uncertain, with surviving institutional records providing little explanation for her dismissal.
+
+Her estrangement from the Covenant also damaged her relationship with the Illustros family. Having relinquished her former position and severed ties with her household, Amara departed Luxor Citadel and continued traveling independently.
+
+During this period, she retained aspects of her former religious identity, at times presenting herself as a traveling sister. Whether this practice served primarily to conceal her past or reflected a continued personal attachment to her former vocation remains unclear.
+
+Eventually, Amara arrived in [[Lyntoa Village]], a coastal settlement within the Kingdom of Stalwryn, where she established a more permanent residence.
+
+### Life in Lyntoa
+
+In Lyntoa, Amara became a caretaker to the family of [[Arzen Lynos]], developing a close relationship with the young boy and his parents.
+
+Arzen regarded her as an older sister, despite their lack of acknowledged biological relation. Having traveled extensively before settling in the village, Amara frequently shared accounts of distant lands, unfamiliar peoples, and experiences beyond Stalwryn's borders. These stories nurtured Arzen's desire to explore the wider world.
+
+Although she rarely disclosed details of her earlier life, Amara became a familiar presence within the household. Her involvement in Arzen's upbringing extended beyond ordinary caretaking, with her guidance and companionship influencing his outlook throughout childhood.
+
+The circumstances of their relationship would acquire greater significance following later investigations into Arzen's origins.
+
+### The Final Rite of Continuance
+
+On Horizon's 19th, 5277 ASC, Amara intervened in the [[Rite of Continuance]] conducted at Lyntoa's [[Lyntoa Village#Well of Dreams|Well of Dreams]].
+
+The ritual had been arranged to preserve the life of Prince [[Karos Varens]], the afflicted heir to the Stalwryn throne. Arzen, then thirteen years of age, had been selected against his wishes to serve as the donor whose soul would be sacrificed.
+
+Unwilling to permit his death, Amara deliberately disrupted the ritual. Her intervention prevented its intended completion, resulting in Karos's death and her own apparent demise.
+
+Contemporary records consequently treated Amara as deceased. The extraordinary circumstances of her continued existence, and the reasons for her involvement in the ritual, would remain concealed for millennia.
+
+> [!commentary] Kallie Myrai, Head Archivist  
+> Amara Illustros's surviving records present an unusual difficulty. Much of what was known of her during the Era of Ascendance derived from accounts produced before the circumstances of her apparent death had been properly understood.
+> 
+> Later discoveries have established that her intervention at Lyntoa cannot be explained solely by her desire to protect Arzen, however genuine that concern may have been.
+> 
+> The distinction between the woman remembered by those who knew her and the individual subsequently identified through historical investigation remains essential to understanding her actions.
 
 ## Appearance
 
@@ -65,11 +110,19 @@ Amara, since being excommunicated, left Luxor Citadel and traveled the vast land
 
 ## Expertise
 
-#### Physical Combat
+### Martial Combat
 
-Amara wields a **double-ended glaive**, a unique weapon bestowed onto her as a high-ranking individual within the Luxori Covenant. She has, however, made modifications to her glaive ever since she was settled in [[Lyntoa Village]], attaching a "whip-like" modification on her blades. This gives her glaive the same sort of functionality a whipsword from the soldiers of the [[Gensōkyo]] has, wherein parts of metal from the blade is attached via a flexible cord that both expands and contracts.
+Amara is an accomplished martial combatant specializing in the use of a **twinblade**, a double-ended weapon that may be separated into two independently wielded swords. Her proficiency reflects the martial instruction she received during her service as a Beacon of the Luxori Covenant, whose duties occasionally required her to travel through dangerous territories.
 
-Overall, this modification makes her glaive a very dangerous weapon to use, as one would need to have the skill required to use a glaive and a whipsword at the same time. However, at the same time, if used correctly, it is a deadly weapon to use against her foes. Amara herself rarely ever uses the modification, only deploying it when it is absolutely necessary.
+Her weapon originated as a ceremonial armament associated with her former position. More ornate than conventional military equipment, its blades and central fittings bear decorative elements reflecting the traditions of the Covenant. Despite its ceremonial design, the twinblade is a fully functional weapon, carefully balanced for combat in both its joined and separated configurations.
+
+Amara's fighting style emphasizes control, fluid transitions, and the ability to adapt to an opponent's movements. In its joined configuration, the twinblade permits sweeping attacks and rapid changes in direction, while its separated blades allow her to engage at closer distances with greater independence of movement.
+
+Following her departure from the Covenant, Amara incorporated an articulated mechanism into the blades, allowing their segments to extend into flexible configurations resembling the whip-swords employed by certain warriors associated with [[Gensōkyo]]. She rarely employs this modification in ordinary combat, reserving it for circumstances in which conventional attacks would prove difficult to execute.
+
+During her years in [[Lyntoa Village]], Amara introduced [[Arzen Lynos]] to the fundamentals of twinblade combat. Her instruction emphasized balance, coordination, and the relationship between the weapon's different configurations. Arzen subsequently developed a fighting style of his own, incorporating the techniques he learned from Amara into the more aggressive approach that would characterize his early travels.
+
+Although Arzen later received formal military training and adopted other weapons during his service to Stalwryn, his familiarity with the twinblade remained rooted in Amara's instruction.
 
 ## Confidential Information
 
