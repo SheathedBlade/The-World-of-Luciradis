@@ -1,6 +1,7 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-22T21:10:55.5555-05:00
+modified: 2026-11-22T21:18:58.5858-05:00
+description: Driardos Myrkals was a former ruler of Luxor Citadel who held the title of Arcis Princeps, an office traditionally associated with the Citadel's highest governing authority. Historical accounts describe an accomplished practitioner of arcana whose political influence extended across successive generations, although the circumstances of his apparent longevity remained poorly understood.
 ---
 > [!archive] Historical Record  
 > **Former Rulership of Luxor Citadel · Era of Genesis**
@@ -41,6 +42,11 @@ modified: 2026-11-22T21:10:55.5555-05:00
 > | Radiant | <progress value="85" max="100"></progress>   |
 > |      Axiom | <progress value="5" max="100"></progress>  |
 > | Convergence | <progress value="10" max="100"></progress>   |
+> 
+> > [!research] Interpretation of Alluvia Measurements  
+> > The concentrations recorded above reflect measurements associated with Driardos's later manifestations and should not be interpreted as a direct measurement of the undivided Authority he possessed before the Sundering.
+> >
+> > Because Driardos persisted through successive hosts, the extent to which these measurements represent his retained influence or the innate affinities of an individual host remains uncertain.
 
 **Driardos Myrkals** was a former ruler of [[Luxor Citadel]] who held the title of **Arcis Princeps**, an office traditionally associated with the Citadel's highest governing authority. Historical accounts describe an accomplished practitioner of arcana whose political influence extended across successive generations, although the circumstances of his apparent longevity remained poorly understood.
 
@@ -148,17 +154,13 @@ The means through which Driardos endured remained concealed for much of subseque
 
 During the centuries following the Sundering, Driardos became associated with the governance of [[Luxor Citadel]], eventually exercising authority under the title of **Arcis Princeps**.
 
-The office occupied a position of exceptional influence within the Citadel's political structure, granting its holder extensive control over the institutions responsible for maintaining its government.
+Driardos's administration placed considerable emphasis upon institutional continuity, scholarship, and the preservation of political order. He favored systems through which information could be gathered, evaluated, and acted upon without relying upon the judgment of individual officials. To those who benefited from the Citadel's stability, his rule could appear efficient and even enlightened.
 
-Contemporary accounts describe successive rulers whose identities and periods of authority appeared distinct. However, certain similarities in their conduct, political convictions, and treatment of opponents later attracted the attention of investigators.
+This apparent stability came at a cost. Driardos permitted considerable freedom within the boundaries he established, but regarded challenges to those boundaries as threats to the order he intended to preserve. Officials could exercise independent judgment in ordinary matters while remaining subject to the unquestioned authority of the Arcis Princeps.
 
-These similarities were not understood during their respective reigns.
+The institutions he cultivated consequently served two purposes: advancing the Citadel's prosperity and ensuring that no competing source of power could develop beyond his influence.
 
-Driardos maintained his influence through a succession of individuals possessing exceptional affinities for the Seer's alluvium. The nature of this continuity remained unknown to most observers, allowing his rule to persist without the apparent survival of a single individual across generations.
-
-Under his influence, Luxor served as a means through which Driardos could accumulate political and military strength while pursuing ambitions that had endured since the Scarring.
-
-His authority nevertheless remained vulnerable to the actions of individuals unwilling to accept his rule.
+His successive identities also afforded him an advantage unavailable to ordinary rulers. Driardos could preserve plans across generations, anticipating the consequences of policies long after their original architects had died. Even changes in leadership offered little opportunity for a meaningful departure from the direction he had established.
 
 ### The Fall of Luxor and Arzen Lynos
 
@@ -234,21 +236,21 @@ His fighting style reflected the same analytical disposition apparent in his pol
 
 ### Arcana
 
-Driardos possessed exceptional proficiency in arcana, supported by extensive knowledge accumulated across his unusually long existence.
+Driardos possessed extensive knowledge of arcana, accumulated over a lifetime that extended far beyond the ordinary limits of human existence. His original association with the Seer's Authority granted him exceptional perceptive capabilities, including the observation of distant events and possible future developments.
 
-His original association with the Seer's Authority granted him extraordinary perceptive capabilities, including the ability to observe possible future developments and identify information beyond the reach of ordinary senses.
+Unlike practitioners who relied primarily upon foresight to anticipate immediate danger, Driardos favored its application to preparation and long-term planning. He sought to identify the decisions available to his opponents, predict their likely responses, and arrange circumstances that limited their opportunities to act against him.
 
-Even following the Sundering, manifestations of his consciousness retained an unusual connection to the Seer's alluvium.
+In combat, this approach allowed him to anticipate movements and exploit openings before they became apparent to ordinary observers. His proficiency with a longsword and arcane staff complemented these abilities, permitting him to maintain pressure while adjusting his attacks to developments he had already perceived.
 
-Driardos's abilities were not restricted to foresight alone. His recorded alluvia affinities also indicate considerable aptitude for applications associated with the Radiant, Navigator, and Reflection.
+Such advantages were not absolute. The Seer's Authority offered insight into possible futures rather than unquestionable knowledge of what must occur. Driardos nevertheless possessed a tendency to treat his predictions as certainties, an attitude that could leave him vulnerable when individuals acted contrary to his expectations.
 
-However, the extraordinary circumstances of his continued existence complicate attempts to distinguish abilities possessed by Driardos himself from those available through his successive hosts.
+His recorded alluvia profile also indicates affinities associated with the Radiant, Navigator, and Reflection. The practical manifestations of these affinities remain less thoroughly documented than his use of the Seer's Authority.
 
-The full extent of his capabilities, particularly those associated with the preservation and imposition of consciousness, remained unknown until investigations following the Overgrowth Incident.
+The circumstances of Driardos's continued existence complicate attempts to distinguish his original capabilities from those available through successive hosts. In particular, the preservation and imposition of his consciousness appear to have involved phenomena beyond those ordinarily associated with Ascendance.
 
 ## Subsequent Investigations
 
-_The following findings concern Driardos Myrkals's identity, his continued existence following the Sundering, and the circumstances surrounding his final defeat. Much of this information became available through investigations conducted after the Overgrowth Incident in Terystal._
+_The following findings concern Driardos Myrkals's identity, his continued existence following the Sundering, and the circumstances surrounding his final defeat. Much of this information became available through investigations conducted after the Shattered Dreams Incident in Terystal._
 
 ### Identity of the Original Seer
 

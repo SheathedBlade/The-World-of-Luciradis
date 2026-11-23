@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-18T15:40:57.5757-05:00
+modified: 2026-11-22T21:15:06.066-05:00
 comments: false
 ---
 > [!archive] Historical Record
@@ -69,7 +69,7 @@ Despite her difficulties, Iris maintained close friendships with three fellow st
 
 During her studies, Iris frequently visited [[Terystal#The Silver Vial|The Silver Vial]], a privately operated pharmacy and apothecary situated near the Gryffes Institute. The establishment supplied over-the-counter medications and other preparations that helped alleviate certain symptoms associated with her illness, supplementing the specialized medical care she continued to receive.
 
-Through these visits, Iris gradually became acquainted with [[Rietta Aschlera]], the establishment's proprietor and Director of Research and Development at Wareylt Labs. Although their early interactions were largely casual, they established a familiarity that would eventually develop into a close friendship following the Overgrowth Incident.
+Through these visits, Iris gradually became acquainted with [[Rietta Aschlera]], the establishment's proprietor and Director of Research and Development at Wareylt Labs. Although their early interactions were largely casual, they established a familiarity that would eventually develop into a close friendship following the Shattered Dreams Incident.
 
 By the final year of her studies, Iris's condition had deteriorated considerably. Nevertheless, she remained determined to graduate, regarding the completion of her education as a personal achievement that would demonstrate her ability to pursue a life beyond the limitations imposed by her illness.
 
@@ -121,7 +121,7 @@ The decision was made against the wishes of her parents, who regarded the propos
 
 Although the research carried recognized risks, neither Iris nor those responsible for the experiment anticipated the extraordinary consequences that would follow.
 
-### Overgrowth Incident
+### Shattered Dreams Incident
 
 In 10110 ASC, Iris became involved in the catastrophe subsequently designated the [[Shattered Dreams Incident]], an extraordinary arcanic emergency originating from experimental research conducted at [[Terystal#Wareylt Labs|Wareylt Labs]].
 
@@ -142,7 +142,7 @@ Despite her efforts to protect others, Iris became the subject of considerable p
 
 ### Recovery and Later Life
 
-Following the Overgrowth Incident, Iris remained under medical supervision while investigations continued into the circumstances of the experiment and the physiological changes observed during her recovery.
+Following the Shattered Dreams Incident, Iris remained under medical supervision while investigations continued into the circumstances of the experiment and the physiological changes observed during her recovery.
 
 Subsequent research eventually provided an unprecedented opportunity to treat the underlying condition that had threatened her life since childhood. Through continued medical intervention, Iris ultimately recovered from the disease, bringing an end to the terminal prognosis that had governed much of her upbringing.
 
@@ -256,7 +256,7 @@ The Seer's Authority is principally associated with the perception of events, ci
 
 Unlike abilities concerned with the direct manipulation of time or causality, the Seer's Authority does not inherently permit its bearer to determine which future events will occur. Rather, it affords the capacity to perceive possible outcomes and respond to them through actions undertaken in the present.
 
-Although Iris demonstrated occasional signs of unusual perceptual awareness before her Ascendance, these early manifestations were inconsistent and poorly understood. Following the Overgrowth Incident, she gradually developed greater conscious control over her abilities, incorporating them into both her martial training and everyday activities.
+Although Iris demonstrated occasional signs of unusual perceptual awareness before her Ascendance, these early manifestations were inconsistent and poorly understood. Following the Shattered Dreams Incident, she gradually developed greater conscious control over her abilities, incorporating them into both her martial training and everyday activities.
 
 #### Foresight
 
