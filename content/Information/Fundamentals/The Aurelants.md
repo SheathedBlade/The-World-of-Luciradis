@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-17T16:45:43.4343-05:00
+modified: 2026-11-22T19:30:18.1818-05:00
 ---
 > [!archive] Historical Record
 > **The Aurelants**
@@ -13,7 +13,7 @@ modified: 2026-11-17T16:45:43.4343-05:00
 
 **The Aurelants** are twelve legendary figures whose actions have profoundly shaped the history of Luciradis. Each is associated with a distinct Authority, granting powers far beyond those ordinarily attainable through arcana. Although the precise circumstances surrounding their rise to power remain a subject of historical inquiry, the influence of the Aurelants persists through the alluvia dispersed during **the Sundering**.
 
-These alluvia are present within living beings and influence an individual's natural affinity for arcana associated with their corresponding Authorities. Its concentration varies considerably between individuals, with those possessing the greatest concentration of a particular alluvium recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
+These alluvia are present within living beings and influence an individual's natural affinity for arcana associated with their corresponding Authorities. The concentration of each alluvium varies considerably between individuals, with those possessing the greatest concentration of a particular alluvium recognized as Ascendants. Such individuals frequently demonstrate capabilities that distinguish them from even the most accomplished practitioners.
 
 The relationship between the Aurelants, their Authorities, and the broader practice of arcana remains a principal subject of **arcanics**, the scientific discipline devoted to the systematic study of arcana and its associated phenomena. Over successive generations, scholars have sought to understand the distribution of these alluvia, the abilities they confer, and the circumstances through which their influence has endured.
 
