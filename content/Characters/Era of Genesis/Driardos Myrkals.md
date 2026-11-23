@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-22T21:18:58.5858-05:00
+modified: 2026-11-22T21:21:15.1515-05:00
 description: Driardos Myrkals was a former ruler of Luxor Citadel who held the title of Arcis Princeps, an office traditionally associated with the Citadel's highest governing authority. Historical accounts describe an accomplished practitioner of arcana whose political influence extended across successive generations, although the circumstances of his apparent longevity remained poorly understood.
 ---
 > [!archive] Historical Record  
@@ -43,10 +43,6 @@ description: Driardos Myrkals was a former ruler of Luxor Citadel who held the t
 > |      Axiom | <progress value="5" max="100"></progress>  |
 > | Convergence | <progress value="10" max="100"></progress>   |
 > 
-> > [!research] Interpretation of Alluvia Measurements  
-> > The concentrations recorded above reflect measurements associated with Driardos's later manifestations and should not be interpreted as a direct measurement of the undivided Authority he possessed before the Sundering.
-> >
-> > Because Driardos persisted through successive hosts, the extent to which these measurements represent his retained influence or the innate affinities of an individual host remains uncertain.
 
 **Driardos Myrkals** was a former ruler of [[Luxor Citadel]] who held the title of **Arcis Princeps**, an office traditionally associated with the Citadel's highest governing authority. Historical accounts describe an accomplished practitioner of arcana whose political influence extended across successive generations, although the circumstances of his apparent longevity remained poorly understood.
 
@@ -247,6 +243,11 @@ Such advantages were not absolute. The Seer's Authority offered insight into pos
 His recorded alluvia profile also indicates affinities associated with the Radiant, Navigator, and Reflection. The practical manifestations of these affinities remain less thoroughly documented than his use of the Seer's Authority.
 
 The circumstances of Driardos's continued existence complicate attempts to distinguish his original capabilities from those available through successive hosts. In particular, the preservation and imposition of his consciousness appear to have involved phenomena beyond those ordinarily associated with Ascendance.
+
+> [!research] Interpretation of Alluvia Measurements  
+> The concentrations recorded above reflect measurements associated with Driardos's later manifestations and should not be interpreted as a direct measurement of the undivided Authority he possessed before the Sundering.
+> 
+> Because Driardos persisted through successive hosts, the extent to which these measurements represent his retained influence or the innate affinities of an individual host remains uncertain.
 
 ## Subsequent Investigations
 
