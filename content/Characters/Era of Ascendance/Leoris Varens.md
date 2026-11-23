@@ -1,7 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
 modified: 2026-11-11T12:54:03.033-05:00
-comments: false
 ---
 
 _Internal Census of the Stalwryn Kingdom_  

@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-22T21:21:15.1515-05:00
+modified: 2026-11-22T21:30:20.2020-05:00
 description: Driardos Myrkals was a former ruler of Luxor Citadel who held the title of Arcis Princeps, an office traditionally associated with the Citadel's highest governing authority. Historical accounts describe an accomplished practitioner of arcana whose political influence extended across successive generations, although the circumstances of his apparent longevity remained poorly understood.
 ---
 > [!archive] Historical Record  
@@ -158,7 +158,7 @@ The institutions he cultivated consequently served two purposes: advancing the C
 
 His successive identities also afforded him an advantage unavailable to ordinary rulers. Driardos could preserve plans across generations, anticipating the consequences of policies long after their original architects had died. Even changes in leadership offered little opportunity for a meaningful departure from the direction he had established.
 
-### The Fall of Luxor and Arzen Lynos
+### The Coup at the Citadel
 
 Driardos eventually encountered renewed opposition in **[[Arzen Lynos]]**, whose involvement in the conflicts surrounding Luxor Citadel repeatedly frustrated his ambitions.
 
@@ -172,9 +172,11 @@ At first, Arzen's opposition appears to have held a measure of interest for him.
 
 Driardos sought not merely to defeat Arzen, but to demonstrate that his resistance was ultimately futile.
 
-The conflict continued beyond the fall of Luxor Citadel, sustained by Driardos's ability to persist through successive bearers of the Seer's alluvium.
+Driardos's rule eventually came to an end through a coup that removed him from power and placed Luxor Citadel under new leadership. Although the political institutions of the Citadel survived the transition, the overthrow brought an end to the authority he had exercised through successive identities.
 
-His determination to subjugate Arzen increasingly reflected the unresolved hostility he had once directed toward Nero, although the two conflicts arose under vastly different circumstances.
+The loss of his position did not, however, bring an end to Driardos himself. His consciousness continued to persist through the Seer's alluvium, allowing his conflict with Arzen to endure long after his removal from Luxor's government.
+
+Deprived of the political authority he had cultivated over generations, Driardos became increasingly preoccupied with the individual who had repeatedly frustrated his ambitions. His resentment toward Arzen reflected an older hostility toward Nero Carnegoa, although Arzen's opposition arose from circumstances entirely his own.
 
 Driardos's final attempt to reassert his existence would take place millennia later, in Terystal.
 
@@ -245,7 +247,7 @@ His recorded alluvia profile also indicates affinities associated with the Radia
 The circumstances of Driardos's continued existence complicate attempts to distinguish his original capabilities from those available through successive hosts. In particular, the preservation and imposition of his consciousness appear to have involved phenomena beyond those ordinarily associated with Ascendance.
 
 > [!research] Interpretation of Alluvia Measurements  
-> The concentrations recorded above reflect measurements associated with Driardos's later manifestations and should not be interpreted as a direct measurement of the undivided Authority he possessed before the Sundering.
+> The concentrations presented in Driardos's alluvia profile reflect measurements associated with his later manifestations and should not be interpreted as a direct measurement of the undivided Authority he possessed before the Sundering.
 > 
 > Because Driardos persisted through successive hosts, the extent to which these measurements represent his retained influence or the innate affinities of an individual host remains uncertain.
 
