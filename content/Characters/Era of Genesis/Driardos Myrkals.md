@@ -1,6 +1,6 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-22T21:30:20.2020-05:00
+modified: 2026-11-22T21:31:56.5656-05:00
 description: Driardos Myrkals was a former ruler of Luxor Citadel who held the title of Arcis Princeps, an office traditionally associated with the Citadel's highest governing authority. Historical accounts describe an accomplished practitioner of arcana whose political influence extended across successive generations, although the circumstances of his apparent longevity remained poorly understood.
 ---
 > [!archive] Historical Record  
@@ -48,7 +48,7 @@ description: Driardos Myrkals was a former ruler of Luxor Citadel who held the t
 
 Recognized for his intellectual ability, commanding presence, and proficiency in both martial and arcanic disciplines, Driardos governed through a combination of political authority and personal influence. His administration was characterized by an insistence upon obedience and a willingness to employ coercive measures against those who opposed him.
 
-Driardos's apparent death following the decline of Luxor did not bring an end to accounts of his activities. He subsequently became associated with a succession of extraordinary incidents involving [[Arzen Lynos]], culminating in the [[Shattered Dreams Incident]] in [[Terystal]] during 10110 ASC.
+Driardos's removal from power following the coup at Luxor Citadel did not bring an end to accounts of his activities. He subsequently became associated with a succession of extraordinary incidents involving [[Arzen Lynos]], culminating in the [[Shattered Dreams Incident]] in [[Terystal]] during 10110 ASC.
 
 Investigations following that catastrophe established that Driardos's history extended far beyond the founding of Luxor Citadel, revealing a connection to the original [[The Aurelants#The Seer|Aurelant of the Seer]] and the events surrounding the [[The Scarring|Scarring]].
 
@@ -320,7 +320,7 @@ Iris survived the incident and eventually regained control over her own abilitie
 
 ### Historical Legacy
 
-Driardos Myrkals's history spans the earliest recorded conflicts involving the Aurelants, the development and eventual fall of Luxor Citadel, and the events surrounding Terystal in the Era of Freedom.
+Driardos Myrkals's history spans the earliest recorded conflicts involving the Aurelants, his centuries of rule over Luxor Citadel and eventual overthrow, and the events surrounding Terystal in the Era of Freedom.
 
 His influence endured not because he had achieved the absolute control he desired, but because he repeatedly found ways to continue pursuing it.
 
