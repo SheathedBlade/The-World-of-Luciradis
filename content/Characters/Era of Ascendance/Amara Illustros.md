@@ -1,11 +1,11 @@
 ---
 created: 2023-09-22T11:51:47.4747-04:00
-modified: 2026-11-22T20:28:26.2626-05:00
+modified: 2026-11-22T20:35:17.1717-05:00
 ---
 > [!archive] Historical Record
 > **Internal Census of Luxor Citadel**
 > 
-> Last revised: Convergence's 16th, 10110 ASC
+> Last revised: Renewal's 2nd, 10110 ASC
 > 
 > *Revised and annotated by K. Myrai*
 
@@ -16,7 +16,7 @@ modified: 2026-11-22T20:28:26.2626-05:00
 > | | |
 > | ---: | :--- |
 > | Full Name | Amara Illustros |
-> | Age | 32 years |
+> | Age at Recorded Death | 32 years |
 > | Gender | Female |
 > | Race | [[Inhabitants of Luciradis#Luxori\|Luxori]] |
 > | Date of Birth | Seer's 6th, 5245 ASC _(06/04/5245)_ |  
@@ -24,7 +24,6 @@ modified: 2026-11-22T20:28:26.2626-05:00
 > | Birthplace | [[Luxor Citadel]] |
 > | Allegiance | None (formerly Luxori Covenant) |
 > | Height | 5'8'' / 172cm |
-> | Weight | ??? |
 > | Occupation | Former Beacon of the Luxori Covenant, Mercenary, Caretaker in [[Lyntoa Village]] |
 > | Relationships | [[Arzen Lynos]]: Surrogate brother and pupil<br>[[Runo Illustros]]: Father<br>[[Varant Illustros]]: Brother<br>[[Altair Illustros]]: Brother |
 >
@@ -167,7 +166,7 @@ Later investigations established that Amara Illustros was the individual once kn
 
 Historical reports issued by the Congregation of Justice had documented a pattern of attacks against Ascendants, accompanied by accounts suggesting that the perpetrator possessed abilities associated with their victims. Despite extensive investigations, the authorities failed to establish the assailant's identity.
 
-Amara's subsequent revelations confirmed that these attacks formed part of a deliberate effort to gather alluvia associated with the Aurelants' Authorities. By defeating existing Ascendants and acquiring their power, she sought to overcome the limitations ordinarily imposed upon an individual practitioner.
+Amara's subsequent revelations confirmed that the attacks formed part of a deliberate effort to gather alluvia associated with the Aurelants' Authorities. Through the deaths of other Ascendants and methods whose precise workings remain incompletely understood, she accumulated powers ordinarily distributed among separate individuals.
 
 According to testimony concerning her activities, Amara had acquired exceptional concentrations of alluvia associated with the [[The Aurelants#The Resonance|Resonance]], [[The Aurelants#The Radiant|Radiant]], and [[The Aurelants#The Convergence|Convergence]]. These acquisitions contributed to her ability to pursue manifestations beyond those typically associated with her natural affinity.
 
@@ -207,11 +206,11 @@ This intervention, however, carried a condition whose consequences neither Arzen
 
 The condition was not merely an extraordinary enhancement of his physical resilience. It established a dependence between their existences that persisted beyond Amara's apparent death and the division of her soul.
 
-The survival of her spiritual remnants therefore held implications for Arzen's own continued life, even after the circumstances that had originally sustained the pact were forgotten.
+The pact endured beyond Amara's apparent death. Even after her soul divided, the remnants of her consciousness continued to sustain the condition that bound Arzen's life to hers.
 
-Amara subsequently assumed the role of an older sister, guiding Arzen through childhood while concealing the truth of his origins. Her affection for him was genuine, but the decision to bind his existence to hers was made without his knowledge or consent.
+Amara had raised him as a younger brother, concealing both his origins and the terms of his immortality. Her affection was genuine, but she had made a choice concerning his existence without his knowledge or consent.
 
-The revelation profoundly altered the understanding of Arzen's unusual longevity, placing his condition within a relationship whose origins lay long before his recognition as an Ascendant.
+The discovery cast Arzen's extraordinary longevity in a different light. What had long appeared to be an inexplicable condition was now understood to have originated in Amara's intervention before his birth.
 
 > [!commentary] Kallie Myrai, Head Archivist  
 > I have often found that the most difficult historical judgments concern actions undertaken for reasons we might otherwise admire.
@@ -222,17 +221,9 @@ The revelation profoundly altered the understanding of Arzen's unusual longevity
 
 ### The Expedition and the Second Scarring
 
-The expedition to Cicatri Ciel ultimately brought the surviving members of the party into confrontation with Amara and the original Aurelant of the Horizon.
+The expedition to Cicatri Ciel eventually uncovered Amara's surviving spiritual remnant within the Well of Dreams. What began as an investigation into the abandoned ritual site brought the expedition team into confrontation with Amara and the original Aurelant of the Horizon.
 
-The expedition's investigation of Lyntoa and the Well of Dreams revealed the continued existence of Amara's spiritual remnant, together with the role it had played in preserving her ambitions long after her recorded death.
-
-Amara's objective was to remake Luciradis and bring an end to the influence of the Aurelants and their Authorities upon the lives of its inhabitants.
-
-Her convictions had developed from the suffering she witnessed during her travels and her belief that the world remained trapped within patterns of conflict and injustice perpetuated by powers beyond the control of ordinary people.
-
-The confrontation that followed became associated with the event later known as the **Second Scarring**, a conflict involving the expedition team, Amara, and the Horizon's original bearer.
-
-During these events, the extent of Amara's accumulated alluvia and her earlier manipulation of Arzen became apparent. Her plans had relied in part upon Arzen's extraordinary capabilities and the acquisition of powers that would otherwise have remained divided among separate Ascendants.
+Their conflict, subsequently remembered as the **Second Scarring**, revealed the extent of Amara's ambitions. Having accumulated alluvia from several Authorities and manipulated Arzen's extraordinary capabilities, she sought to remake Luciradis and end the Aurelants' influence over future generations.
 
 Despite these preparations, Amara's attempt to reset the world was ultimately stopped by the expedition team.
 
